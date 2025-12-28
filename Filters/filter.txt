@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-28T03:32:30.658Z
+! Last modified: 2025-12-28T04:45:02.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8588,6 +8588,7 @@ vkcdnservice.appspot.com^
 ||agreeablebeggarlyvarieties.com^
 ||agreeableoccasion.com^
 ||agreedairdalton.com^
+||agriaonethe.com^
 ||agriculturebasssettling.com^
 ||agriculturedoubloonsdesk.com^
 ||agricultureprowesscardinal.com^
@@ -9258,6 +9259,7 @@ vkcdnservice.appspot.com^
 ||anguished-total.pro^
 ||angularpoppyrobbing.com^
 ||anhimaetoller.help^
+||anhlgguhdajid.website^
 ||anillabedders.shop^
 ||animareject.qpon^
 ||animasoorie.com^
@@ -10442,6 +10444,7 @@ vkcdnservice.appspot.com^
 ||azotecorbula.click^
 ||azqaaslam.com^
 ||azqqloblawqbj.top^
+||azqqlobqwobzr.top^
 ||azqqlobqwomqr.top^
 ||azqqlobqwoyja.top^
 ||azskk.com^
@@ -12268,6 +12271,7 @@ vkcdnservice.appspot.com^
 ||brominsarouser.cyou^
 ||bromoilnapalms.com^
 ||bronca.site^
+||bronchiallonym.com^
 ||bronze-leather.com^
 ||bronzesong.pro^
 ||broodbelongminiature.com^
@@ -17403,6 +17407,7 @@ vkcdnservice.appspot.com^
 ||duringcereal.com^
 ||duringherenurew.com^
 ||durocwagtail.cfd^
+||durryurachus.shop^
 ||dushlovably.shop^
 ||dust-0001.delorazahnow.workers.dev^
 ||dustbehelp.cyou^
@@ -27574,6 +27579,7 @@ vkcdnservice.appspot.com^
 ||knowingallot.com^
 ||knowingsignificance.com^
 ||knowledgeable-attention.pro^
+||knowledgeable-strain.pro^
 ||knowledgeable-tree.com^
 ||known-join.pro^
 ||known-television.com^
@@ -37980,6 +37986,7 @@ vkcdnservice.appspot.com^
 ||quaizoa.xyz^
 ||quakedevastatedprinter.com^
 ||quakilyporite.cfd^
+||qualeexpendwhoo.cyou^
 ||qualiclicks.com^
 ||qualificationgarland.com^
 ||qualificationsomehow.com^
@@ -38531,6 +38538,7 @@ vkcdnservice.appspot.com^
 ||rcdn-web.com^
 ||rcevwjumlnknn.website^
 ||rcf3occ8.de^
+||rcgltzpeupmpi.space^
 ||rcgzswaqloxag.store^
 ||rchnjyrju.net^
 ||rcinksfpvdfgb.store^
@@ -38695,6 +38703,7 @@ vkcdnservice.appspot.com^
 ||reclod.com^
 ||recmeeshebsougn.net^
 ||recoctunquod.cfd^
+||recodemumbo.com^
 ||recoilregionsjonas.com^
 ||recomendedsite.com^
 ||recommendationbredshrimp.com^
@@ -46029,6 +46038,7 @@ vkcdnservice.appspot.com^
 ||unuiemfbdkrjl.space^
 ||unused-oil.pro^
 ||unusedframe.com^
+||unusedgarbage.pro^
 ||unusual-trouble.com^
 ||unusuallypilgrim.com^
 ||unusualtestoverthrow.com^
@@ -47423,6 +47433,7 @@ vkcdnservice.appspot.com^
 ||vrizead.com^
 ||vrldejvphpidi.online^
 ||vrnfgjkurfxcl.site^
+||vrnzbidmiesbl.site^
 ||vrochtcajuput.rest^
 ||vroomsoutwickanglian.cfd^
 ||vrpfhdne.net^
@@ -50484,6 +50495,7 @@ vkcdnservice.appspot.com^
 ||ywcpuyoqiwpsq.website^
 ||yweakelandord.com^
 ||ywfsjaoghplft.site^
+||ywjbnmweu.com^
 ||ywjvjschozjzq.online^
 ||ywlkcbmjagqkm.site^
 ||ywlkeeedaayuf.space^
@@ -50742,6 +50754,7 @@ vkcdnservice.appspot.com^
 ||zeruwzwdzfpeo.site^
 ||zerzvqrzzqmre.top^
 ||zerzvqrzzqzzq.top^
+||zesainuxaimoots.net^
 ||zesrsywjvphmj.store^
 ||zetadeo.com^
 ||zethoaceems.net^
@@ -51229,6 +51242,7 @@ vkcdnservice.appspot.com^
 ||zxinihfgkdpfb.space^
 ||zxiqfnkwctdpb.online^
 ||zxjpauyihekzf.space^
+||zxjxbwkzfixsk.website^
 ||zxnmbtdwlyafw.website^
 ||zxnymrendoxms.space^
 ||zxrntgssqzdre.space^
@@ -51250,6 +51264,7 @@ vkcdnservice.appspot.com^
 ||zygoticlatched.cfd^
 ||zygtaxiognrri.website^
 ||zyhzzhxnlnfdk.site^
+||zyhzzxcwgqwtx.online^
 ||zyiis.net^
 ||zykkjyaokkjyb.top^
 ||zykkjyaokokbq.top^
