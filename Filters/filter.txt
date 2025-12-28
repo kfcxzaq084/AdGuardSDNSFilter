@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-28T18:30:14.551Z
+! Last modified: 2025-12-28T20:23:53.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8323,6 +8323,7 @@ vkcdnservice.appspot.com^
 ||aeffe3nhrua5hua.com^
 ||aefplnimtjkdq.site^
 ||aegerjapygid.rest^
+||aegiseswashrag.shop^
 ||aegmbupscesey.space^
 ||aegmdwmvhesof.website^
 ||aegmovjmepcqs.store^
@@ -11446,6 +11447,7 @@ vkcdnservice.appspot.com^
 ||birrkassite.cyou^
 ||birsleunhired.com^
 ||birthaslaver.com^
+||birthedabbagang.cyou^
 ||birthjeans.icu^
 ||birthsprated.cyou^
 ||bisa-aja.my.id^
@@ -12834,6 +12836,7 @@ vkcdnservice.appspot.com^
 ||caizaipt.net^
 ||caizuvuptobane.net^
 ||cajjdntkkpg.com^
+||cakcobqvrgklu.space^
 ||cakeoverdoagenda.com^
 ||cakerjuncous.cyou^
 ||cakesinventory.com^
@@ -15507,6 +15510,7 @@ vkcdnservice.appspot.com^
 ||czsusasfoyqln.website^
 ||cztmmijwxiafu.click^
 ||czuoez2prjpy8j.cfd^
+||czuvfumygnjwp.space^
 ||czwgftuwfitha.space^
 ||czx3j87jgjf4pln.rest^
 ||czxnozkdqlcrk.online^
@@ -15831,6 +15835,7 @@ vkcdnservice.appspot.com^
 ||dc3f10eee9.com^
 ||dc7dad4603.com^
 ||dcakwfzcjfjjb.life^
+||dcapugcaiirxs.site^
 ||dcauvflvzwnex.site^
 ||dcavixmtxjxra.site^
 ||dcazkddmpuwkw.website^
@@ -20668,6 +20673,7 @@ vkcdnservice.appspot.com^
 ||friy.site^
 ||frizzybase.pro^
 ||frizzyshocked.com^
+||frjbyduygjwbk.site^
 ||frjnnudnmborf.store^
 ||frjrwixwogqjt.site^
 ||frmfpvhvdmeba.website^
@@ -22863,6 +22869,7 @@ vkcdnservice.appspot.com^
 ||gxrpbnhskxrtj.vip^
 ||gxtihgivnpgei.online^
 ||gxulicnb.xyz^
+||gxwquloigvxx.com^
 ||gxxsvvfyayayf.website^
 ||gxzvrffzlfxyq.global^
 ||gy5cl82poxb9m4e7p5h2k9.cyou^
@@ -25816,6 +25823,7 @@ vkcdnservice.appspot.com^
 ||iuvqtanktfhbs.online^
 ||iuwoujrmghmzbr.rest^
 ||iuwzdf.com^
+||iuwzyhoamhcqb.site^
 ||iuzvusqotkhad.online^
 ||iuzxfjpxvgkco.online^
 ||iv-akuifxp.love^
@@ -25893,6 +25901,7 @@ vkcdnservice.appspot.com^
 ||ixljkceobvgqy.website^
 ||ixmcdnqobyecu.website^
 ||ixmelvjeev.net^
+||ixmfhpogypi.com^
 ||ixnatpsdzezjr.online^
 ||ixnow.xyz^
 ||ixnp.com^
@@ -32941,6 +32950,7 @@ vkcdnservice.appspot.com^
 ||ntmreohudibfo.buzz^
 ||ntnfiubxkrufo.store^
 ||ntnxk15tupp9on.rest^
+||ntobfyzxjkatt.space^
 ||ntofinaukncec.org^
 ||ntoftheusysia.info^
 ||ntoftheusysia.org^
@@ -41387,6 +41397,7 @@ vkcdnservice.appspot.com^
 ||shoadreezussie.net^
 ||shoaghaglaug.net^
 ||shoagloumtoamir.net^
+||shoartustoash.net^
 ||shoataungopsuns.net^
 ||shoavoubsirseke.net^
 ||shockdefined.com^
@@ -43604,6 +43615,7 @@ vkcdnservice.appspot.com^
 ||tangible-guarantee.pro^
 ||tangible-season.pro^
 ||tangiblearroganceride.com^
+||tangiemootsdecnet.cfd^
 ||tanjibclatter.com^
 ||tankerscentrer.shop^
 ||tankfangspain.com^
@@ -44406,6 +44418,7 @@ vkcdnservice.appspot.com^
 ||tkngeviglxsti.store^
 ||tkoaurrdcktnp.vip^
 ||tkoxiczqjjteg.website^
+||tkpdrpqufaxuc.com^
 ||tkpmulayvctzq.site^
 ||tkqjtaurqpltn.store^
 ||tkuotnlucairgha.com^
@@ -45578,6 +45591,7 @@ vkcdnservice.appspot.com^
 ||udyjrbahnihyd.site^
 ||udzpel.com^
 ||ueaxkddhsrqvc.space^
+||uecdaxndsx.com^
 ||uedguaodukmkf.com^
 ||uedrrztkxmplx.xyz^
 ||uefalxvvvunye.website^
@@ -46758,6 +46772,7 @@ vkcdnservice.appspot.com^
 ||vaokbuyvpiyzw.website^
 ||vapedia.com^
 ||vapid-clothes.com^
+||vaprimate.cfd^
 ||vaqykqyvvakqq.top^
 ||vaqykqyvvazbz.top^
 ||vardsusyseinpo.com^
@@ -47571,6 +47586,7 @@ vkcdnservice.appspot.com^
 ||vqllqlwuvsnwv.online^
 ||vqoqlebqqakmq.top^
 ||vqoqlebqqzlky.top^
+||vqoqlebqqzvyq.top^
 ||vqqaelqkkzyjj.top^
 ||vqqaelqkkzyry.top^
 ||vqqcqfrnugfqm.site^
