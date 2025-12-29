@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-29T03:50:19.988Z
+! Last modified: 2025-12-29T04:50:19.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13618,6 +13618,7 @@ vkcdnservice.appspot.com^
 ||chekeeckoolte.com^
 ||chekmakfrosk.click^
 ||chekrilsoumpoab.net^
+||chelateravisonfolded.cfd^
 ||cheloudsert.net^
 ||chelsewoamsain.net^
 ||chemicalssmuglyuntying.com^
@@ -29062,6 +29063,7 @@ vkcdnservice.appspot.com^
 ||llegguiitcmqo.space^
 ||lleritsymutular.cyou^
 ||llfpaondsunun.site^
+||llfyjvskyxnsv.site^
 ||llgkzsbqwtdwz.online^
 ||llhziffyhldim.online^
 ||lljawytg.com^
@@ -31276,6 +31278,7 @@ vkcdnservice.appspot.com^
 ||mortimersmiles.com^
 ||mortypush.com^
 ||moscmzvpxnjjq.website^
+||moskscystein.cfd^
 ||mosquenests.cfd^
 ||mosqueworking.com^
 ||mosrtaek.net^
@@ -40319,6 +40322,7 @@ vkcdnservice.appspot.com^
 ||russianwoodencrown.com^
 ||rusty-platform.com^
 ||rustyact.pro^
+||rutategpd.com^
 ||rutbepkzazcvr.site^
 ||ruthairbags.cyou^
 ||ruthclovepuberty.com^
@@ -42712,6 +42716,7 @@ vkcdnservice.appspot.com^
 ||stable-consist.com^
 ||stabledkindler.com^
 ||stableflowconnection.co.in^
+||stablesknive.shop^
 ||stableunderline.com^
 ||stabsrunner.com^
 ||stabstudentvocational.com^
@@ -44541,6 +44546,7 @@ vkcdnservice.appspot.com^
 ||tminildqrorlkwo.com^
 ||tmjpnommjvfto.space^
 ||tmjrmpkkgatjh.website^
+||tmjuwtbhvodzk.online^
 ||tmjwaxuxtpszs.space^
 ||tmmjwelxryxod.site^
 ||tmmunzeyobwst.online^
@@ -47805,6 +47811,7 @@ vkcdnservice.appspot.com^
 ||vvlqbmzlmmoqm.top^
 ||vvmkzawomezqq.top^
 ||vvn8nfgtt8kc6g.rest^
+||vvnbeszocfcfs.site^
 ||vvolnzdglprvf.store^
 ||vvozhgxuksfkt.space^
 ||vvrjezyxwxhqd.store^
@@ -48807,6 +48814,7 @@ vkcdnservice.appspot.com^
 ||wjmepiytpjiki.website^
 ||wjmghujaluysu.online^
 ||wjmrvxezaj.com^
+||wjopvkcozzxif.online^
 ||wjqpyvulryxtg.site^
 ||wjqtqnstdthrb.website^
 ||wjrjaeaaavckh.site^
@@ -50790,6 +50798,7 @@ vkcdnservice.appspot.com^
 ||yxajqojsxkdaa.site^
 ||yxbjliiqxlnxw.website^
 ||yxcxheuw.net^
+||yxekbocgivluj.com^
 ||yxeuunyvnhme.com^
 ||yxihzhnofxrcm.space^
 ||yxktbeyanyenj.website^
