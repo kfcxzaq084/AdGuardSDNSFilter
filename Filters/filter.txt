@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-30T18:32:25.105Z
+! Last modified: 2025-12-30T20:24:27.171Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7502,6 +7502,7 @@ vkcdnservice.appspot.com^
 ||abdsaahegrsyt.space^
 ||abdsp.com^
 ||abeddisagreeable.com^
+||abedgegymnic.shop^
 ||abedwest.com^
 ||abelestheca.com^
 ||abelianlevulin.qpon^
@@ -15413,6 +15414,7 @@ vkcdnservice.appspot.com^
 ||cutbpmobdpitn.website^
 ||cute-earth.pro^
 ||cuteab.com^
+||cuteglrrqvmhqep.com^
 ||cuterbond.com^
 ||cutescale.online^
 ||cutesticotype.qpon^
@@ -16235,6 +16237,7 @@ vkcdnservice.appspot.com^
 ||dependablerecord.pro^
 ||dependantcarefullyheavenly.com^
 ||dependent-boy.com^
+||dependentbar.pro^
 ||depleteheadphoneshoe.com^
 ||depleterefutation.com^
 ||depletespiesfarting.cyou^
@@ -18053,6 +18056,7 @@ vkcdnservice.appspot.com^
 ||eeptoabs.com^
 ||eeqkygeabndmo.online^
 ||eerdoossoargigh.net^
+||eersaimsung.com^
 ||eerteebobsoompe.net^
 ||eertoamogn.net^
 ||eesoavoath.net^
@@ -20329,6 +20333,7 @@ vkcdnservice.appspot.com^
 ||fluctuateallcape.com^
 ||fluenceflorian.com^
 ||fluencydepressing.com^
+||fluentdifferenceselfemployed.com^
 ||fluentlyfeminineenfold.com^
 ||fluese.com^
 ||flueytantivy.rest^
@@ -23972,6 +23977,7 @@ vkcdnservice.appspot.com^
 ||hlpjobrchkaun.online^
 ||hlrngrim.com^
 ||hlserve.com^
+||hltppkzfbhkuc.space^
 ||hltryajudhiwp.space^
 ||hltxcvdlwka.com^
 ||hlufsqadxupgr.website^
@@ -28055,6 +28061,7 @@ vkcdnservice.appspot.com^
 ||krenkzfiuzryw.store^
 ||krepiguapena.rest^
 ||kreps.xyz^
+||krffawlfeuqcc.online^
 ||krfqlrxvmoyrj.online^
 ||krhfaycotsq.com^
 ||krhmtdzuxxmsc.space^
@@ -28300,6 +28307,7 @@ vkcdnservice.appspot.com^
 ||kyqmbxxxmjw.net^
 ||kyriedowager.com^
 ||kyriesdowment.rest^
+||kyrrpuohfjtnnk.com^
 ||kytgwhekqlcof.site^
 ||kyuozhdtgkf.com^
 ||kyuulknnhnune.online^
@@ -32552,6 +32560,7 @@ vkcdnservice.appspot.com^
 ||nff27oc6ixl7tuycm.cfd^
 ||nfiosxscjkkyq.space^
 ||nfliiqxnaadkx.online^
+||nflplzcmfgeep.website^
 ||nfnsqnmfkgiuq.space^
 ||nfnvqfghrmnfk.space^
 ||nfrdibffgpxoy.website^
@@ -33726,6 +33735,7 @@ vkcdnservice.appspot.com^
 ||octroitawhai.top^
 ||octroizombis.cfd^
 ||octuortogaed.cyou^
+||ocvbfvpmfhhmbr.com^
 ||ocvrulo.digital^
 ||ocwapouhwpoqy.site^
 ||ocwutmrfbsrwy.store^
@@ -33845,6 +33855,7 @@ vkcdnservice.appspot.com^
 ||offoonguser.com^
 ||offsetgobetween.com^
 ||offshuppetchan.com^
+||offspringresolveddiminution.com^
 ||offspringthisscarcely.com^
 ||ofgogoatan.com^
 ||ofgotckjgevpm.space^
@@ -35821,6 +35832,7 @@ vkcdnservice.appspot.com^
 ||pgnasmcdn.click^
 ||pgnywmtnskmng.space^
 ||pgolwmpegquyq.site^
+||pgozjxqpepnht.space^
 ||pgpartner.com^
 ||pgqhgpffdxwci.online^
 ||pgrfpzlohsssh.online^
@@ -40505,6 +40517,7 @@ vkcdnservice.appspot.com^
 ||rtty.in^
 ||rtuinrjezwkj.love^
 ||rtunitytostaracaree.com^
+||rtuqnflawcsuz.online^
 ||rtvio1izwjiockhw27e5ixnu.rest^
 ||rtwgvkozpvicu.website^
 ||rtxfeed.com^
@@ -44694,6 +44707,7 @@ vkcdnservice.appspot.com^
 ||tightflirtsmeets.com^
 ||tigrinevikings.world^
 ||tigualuffs.shop^
+||tigyaxkrhsnen.space^
 ||tihzzgtucmnqp.online^
 ||tiklvzlclrxhf.store^
 ||tikoorkidnaps.cyou^
@@ -47213,6 +47227,7 @@ vkcdnservice.appspot.com^
 ||vandalismloungenylon.com^
 ||vandalismundermineshock.com^
 ||vanderlisten.pro^
+||vanillagrapelowlife.com^
 ||vanilleyakshi.com^
 ||vanivhljfgvhq.website^
 ||vannedslued.help^
@@ -47224,6 +47239,7 @@ vkcdnservice.appspot.com^
 ||vapedia.com^
 ||vapid-clothes.com^
 ||vaprimate.cfd^
+||vaqykqyvvakoz.top^
 ||vaqykqyvvakqq.top^
 ||vaqykqyvvazbz.top^
 ||vardsusyseinpo.com^
