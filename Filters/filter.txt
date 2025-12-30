@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-30T06:35:02.456Z
+! Last modified: 2025-12-30T08:30:38.466Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8965,6 +8965,7 @@ vkcdnservice.appspot.com^
 ||alliscuvetteray.cyou^
 ||allocatedense.com^
 ||allocationcaller.com^
+||allodiadeponer.help^
 ||allongezemmi.rest^
 ||allopjwwybt.com^
 ||allotupwardmalicious.com^
@@ -11739,6 +11740,7 @@ vkcdnservice.appspot.com^
 ||bmraxldsojlpeg.com^
 ||bmrfhnnhozbff.site^
 ||bmuuelvweniay.online^
+||bmvcoezopfawx.site^
 ||bmwaeghntpfdb.online^
 ||bmxavtdjqvdqn.store^
 ||bmxlcqungg.xyz^
@@ -12499,6 +12501,7 @@ vkcdnservice.appspot.com^
 ||bumaqblyqviw.fun^
 ||bumfxnyfnepjh.online^
 ||bumidpuaraodp.today^
+||bumkincoobah.com^
 ||bummestkaffir.help^
 ||bumpertenets.help^
 ||bumpy-beyond.com^
@@ -15499,6 +15502,7 @@ vkcdnservice.appspot.com^
 ||cyetwkoxmijucj.net^
 ||cyfiaeojxyrsu.space^
 ||cyg-byzlgtns.world^
+||cyganqrulxpou.com^
 ||cygnus.com^
 ||cygosamf.com^
 ||cyhanjealyojs.space^
@@ -17363,6 +17367,7 @@ vkcdnservice.appspot.com^
 ||dsiljgnplyejw.website^
 ||dsjoiyflhvxpq.website^
 ||dskesrsbhqdnlta.xyz^
+||dskkbjxkoqyzl.website^
 ||dslfndqpednqu.xyz^
 ||dslfrpgxyhbtusk.com^
 ||dsmlyonio.com^
@@ -21760,6 +21765,7 @@ vkcdnservice.appspot.com^
 ||giggleinsinuate.com^
 ||giggleostentatious.com^
 ||gigicinjinsyf.website^
+||gigmanopuntiacraylet.cyou^
 ||gigsmanhowls.top^
 ||gigsterbeclipspiny.cfd^
 ||giguenestle.com^
@@ -32675,6 +32681,7 @@ vkcdnservice.appspot.com^
 ||njksddbhrqyrh.online^
 ||njmfkbikilszt.space^
 ||njmhnurksjktt.buzz^
+||njmlsxeudy.com^
 ||njmpqalqerpmp.space^
 ||njnmdxsovpzkk.online^
 ||njpusnyeyzljn.website^
@@ -33997,6 +34004,7 @@ vkcdnservice.appspot.com^
 ||okueroskynt.com^
 ||okvgcpsvr.com^
 ||okwiyihjxhvto.space^
+||okyjnarzvujqz.space^
 ||okzbvxcjbxpyx.site^
 ||ol4mpcypiiufz9wuxx4.cfd^
 ||olatrammerspintry.cyou^
@@ -37242,6 +37250,7 @@ vkcdnservice.appspot.com^
 ||pssyjxliwunax.website^
 ||psszqijvawlgk.online^
 ||pstreetma.com^
+||psucmazailsaps.net^
 ||psudsoockaign.net^
 ||psulrushe.net^
 ||psulsadrez.com^
@@ -40305,6 +40314,7 @@ vkcdnservice.appspot.com^
 ||rqyouxwqzrayq.website^
 ||rqzcuqeexmjgh.site^
 ||rrbfxjmpegzja.site^
+||rrbzvmklrzook.top^
 ||rrbzvmklrzoqy.top^
 ||rrbzvmklrzwmk.top^
 ||rrchydcezpwia.site^
@@ -43338,6 +43348,7 @@ vkcdnservice.appspot.com^
 ||stunning-base.pro^
 ||stunning-lift.com^
 ||stunning-perception.pro^
+||stunningmontana.com^
 ||stunsbarbola.website^
 ||stupid-analyst.pro^
 ||stupidconveniences.com^
@@ -45489,6 +45500,7 @@ vkcdnservice.appspot.com^
 ||tsxpmphbmerya.website^
 ||tsxqdhqfsltsfc.com^
 ||tsy-jnugwavj.love^
+||tsyhhrvnqtfvx.website^
 ||tsyndicate.com^
 ||tsyvxbgnidhjl.website^
 ||tt8v88cuxryuu3w941n1r3hozgujmn.rest^
@@ -48089,6 +48101,7 @@ vkcdnservice.appspot.com^
 ||vwbbphonljgrr.website^
 ||vwcbazbnsbpng.site^
 ||vwcwncsrsedyd.space^
+||vwcxjwtgssxrl.space^
 ||vwcyuojicbvab.website^
 ||vwfiojscouytnn.xyz^
 ||vwflrpyyazjwy.space^
@@ -49312,6 +49325,7 @@ vkcdnservice.appspot.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
 ||workback.net^
+||workcahoots.com^
 ||workerseneuch.shop^
 ||workhovdiminatedi.com^
 ||workmancolon.com^
@@ -50591,6 +50605,7 @@ vkcdnservice.appspot.com^
 ||yflksvxeqncep.online^
 ||yfqrdeewqnwvy.net^
 ||yfqwiktzzrcrq.site^
+||yfrfldynakfwh.space^
 ||yfrnkmcdeurmk.top^
 ||yfsdrosphjdyh.online^
 ||yfshutispht.com^
@@ -51273,6 +51288,7 @@ vkcdnservice.appspot.com^
 ||zealousclothes.pro^
 ||zealousfinance.pro^
 ||zealousinquiriesgovernment.com^
+||zealouswest.pro^
 ||zeawppuaetasp.fun^
 ||zebeaa.click^
 ||zebjlmmqakoao.top^
@@ -119674,6 +119690,8 @@ dlsdk.appsflyer.com^
 ||3q9j4w2r9d.com^
 ||1dgfd.cc^
 ||9txnu9rlmd.com^
+||e75liqii98.com^
+||ainb12301zh.com^
 ||bmzzojmzu.com^
 ||d8lzzy93g.com^
 ||msn5vg8em.com^
@@ -125400,6 +125418,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/adblocking/filters-share/3rd_domains.txt
 !
+||ad.adwiser.kr^
 ||mman.kr^
 ||admize.io^
 ||adguru.kr^
