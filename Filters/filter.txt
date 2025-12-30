@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-30T01:45:34.153Z
+! Last modified: 2025-12-30T03:28:10.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6402,6 +6402,7 @@ vkcdnservice.appspot.com^
 ||1ts17.top^
 ||1ts19.top^
 ||1ul6b1692e993bxyc3bzhx7.cyou^
+||1v4wigcyhgjh4xug.rest^
 ||1vpuev9xcwniqw.cfd^
 ||1web.me^
 ||1xzf53lo.xyz^
@@ -9429,6 +9430,7 @@ vkcdnservice.appspot.com^
 ||apercusbayok.rest^
 ||apertsorrowy.help^
 ||aperysked.com^
+||apetalycongest.rest^
 ||apetalycrazily.cfd^
 ||apexbhoosa.world^
 ||apexneedful.com^
@@ -10834,6 +10836,7 @@ vkcdnservice.appspot.com^
 ||bbsiqdmkaj.com^
 ||bbtvpnqyvdzmq.website^
 ||bbtweswymiciw.site^
+||bbvnumxgvpjpt.site^
 ||bbyoaowyljswd.site^
 ||bbztmceiyhybz.space^
 ||bc48fa9adc.com^
@@ -12336,6 +12339,7 @@ vkcdnservice.appspot.com^
 ||brutishlylifevoicing.com^
 ||brutuzzzymudq.world^
 ||bruytdsxajjey.site^
+||brxcioxve.com^
 ||brxwysvktxzja.site^
 ||brygella.com^
 ||bryny.xyz^
@@ -13625,6 +13629,7 @@ vkcdnservice.appspot.com^
 ||chemicalssmuglyuntying.com^
 ||chengaib.net^
 ||cheniersamvat.cyou^
+||chepsoasteerda.net^
 ||cheqzone.com^
 ||cherdignain.net^
 ||cherieswailful.help^
@@ -15218,6 +15223,7 @@ vkcdnservice.appspot.com^
 ||cthin.site^
 ||ctlmvibd.net^
 ||ctm-media.com^
+||ctmjoiwibuskz.online^
 ||ctnsnet.com^
 ||ctnzjwecyluvg.online^
 ||ctogzfzrakjio.space^
@@ -18100,6 +18106,7 @@ vkcdnservice.appspot.com^
 ||egighbqdtgyen.rocks^
 ||egisesillite.com^
 ||egiwzbublefuq.online^
+||egjqqvtfmjwos.space^
 ||egjtmguxueesf.xyz^
 ||egleevegreemouw.net^
 ||egmjqaoequdsv.site^
@@ -18482,6 +18489,7 @@ vkcdnservice.appspot.com^
 ||enbxweghgupsj.space^
 ||enbzcgwahnemk.site^
 ||encaumawhangam.cfd^
+||enchairywca.cyou^
 ||enchantbackfire.com^
 ||enchanted-fault.pro^
 ||enchanted-stretch.pro^
@@ -18749,6 +18757,7 @@ vkcdnservice.appspot.com^
 ||epyrrdvmibeh.com^
 ||epyykiftqkufp.space^
 ||eqads.com^
+||eqbbdarprjtiu.space^
 ||eqbkokxmxmyyg.space^
 ||eqbvnrotlkmmce.com^
 ||eqbwpekhukafn.website^
@@ -19779,6 +19788,7 @@ vkcdnservice.appspot.com^
 ||fepbjqnzphdxz.online^
 ||fepqwzejwtlmx.online^
 ||feqgpykeuppfi.space^
+||feqzeilmkntzj.online^
 ||ferfelruskin.qpon^
 ||feriaamaas.com^
 ||ferialabbassi.shop^
@@ -21664,6 +21674,7 @@ vkcdnservice.appspot.com^
 ||ggpbuvhzihxxh.website^
 ||ggreatshow.com^
 ||ggreatstuff.com^
+||ggrziczvzup.com^
 ||ggsfq.com^
 ||gguahaeezfeoi.space^
 ||ggutxhpths.net^
@@ -23885,6 +23896,7 @@ vkcdnservice.appspot.com^
 ||hkzkxmhtxgpzx.online^
 ||hlbhzwrntodiv.website^
 ||hlboxgycwptixb.com^
+||hlbvlf5no9lz8rzvy.cfd^
 ||hlcbpaijmkgvd.online^
 ||hlcgyuuvlwgjs.website^
 ||hldijpffemu.net^
@@ -43310,6 +43322,7 @@ vkcdnservice.appspot.com^
 ||styingriposte.com^
 ||stylish-airport.com^
 ||stylish-knife.com^
+||stylishbranch.pro^
 ||stylusanswer.help^
 ||suabwdmgbartr.online^
 ||suamhsrqfuqle.website^
@@ -46524,6 +46537,7 @@ vkcdnservice.appspot.com^
 ||uod2quk646.com^
 ||uodywypnuvzwl.online^
 ||uoenkcbxwumqh.xyz^
+||uofsfhpe.com^
 ||uohsqzovikvyr.online^
 ||uohygjhhmwcco.site^
 ||uojlmgocfywmq.site^
@@ -49702,6 +49716,7 @@ vkcdnservice.appspot.com^
 ||xagnffcaa.com^
 ||xajgsjguxriuc.space^
 ||xakhgpksmptdm.website^
+||xanucxoaxh.xyz^
 ||xaofdyhfyowfw.space^
 ||xaoxkajgbfkenh.com^
 ||xapads.com^
@@ -56276,6 +56291,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||pingpong.us^
 ||protected-api.branch.io^
 ||pixel.visitiq.io^
 ||b-sing.com^
@@ -119615,6 +119631,8 @@ dlsdk.appsflyer.com^
 ||ammonia20.com^
 ||vujglx.icu^
 ||2lj9n8sz0w.com^
+||kxsu.cn^
+||horribletrainer.com^
 ||bmzzojmzu.com^
 ||d8lzzy93g.com^
 ||msn5vg8em.com^
