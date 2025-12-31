@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-31T06:35:22.622Z
+! Last modified: 2025-12-31T08:30:33.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20410,6 +20410,7 @@ vkcdnservice.appspot.com^
 ||flyzlahpuuhtb.site^
 ||fm9u44fkpnioljl3hkcocgzekrhi2.cfd^
 ||fmabgxlwyihmo.site^
+||fmaiyleoxlfbm.online^
 ||fmapdxqhqvcia.space^
 ||fmbristly.cyou^
 ||fmealwtuctul.com^
@@ -21064,6 +21065,7 @@ vkcdnservice.appspot.com^
 ||fuokxmhzdvolq.website^
 ||fuozidrjmtitj.space^
 ||fuphoutsets.net^
+||fupqitrviyhbf.space^
 ||fupxiouyqtrrj.space^
 ||fuqemedzceklr.online^
 ||furanasthmas.help^
@@ -21375,6 +21377,7 @@ vkcdnservice.appspot.com^
 ||gantotireofhisl.com^
 ||gapcontroversialprodigal.com^
 ||gapedmakoslooming.cfd^
+||gapplacoid.click^
 ||gaptooju.net^
 ||gaqfzadvpkxiu.website^
 ||gaqjhqjowwygp.site^
@@ -21481,6 +21484,7 @@ vkcdnservice.appspot.com^
 ||gbede.com^
 ||gbedxtcoyviwt.space^
 ||gbengene.com^
+||gbeqddfuhuom.com^
 ||gbevrhrgpslkz.online^
 ||gbfys.global^
 ||gbgbknnocpwzb.online^
@@ -23326,6 +23330,7 @@ vkcdnservice.appspot.com^
 ||harmerpand.cfd^
 ||harmful-hire.pro^
 ||harmful-park.com^
+||harmful-pitch.pro^
 ||harmfulevery.com^
 ||harmfullisten.pro^
 ||harmlessshake.com^
@@ -23744,6 +23749,7 @@ vkcdnservice.appspot.com^
 ||hfzkfwdqw.com^
 ||hg-bn.com^
 ||hgagwcznmclhv.store^
+||hgbdjawazluzd.site^
 ||hgbn.rocks^
 ||hgbqowuzgonia.website^
 ||hgbqsxuptruuf.website^
@@ -25458,6 +25464,7 @@ vkcdnservice.appspot.com^
 ||indyadvertising.com^
 ||inefficientinherent.com^
 ||ineptlyfraxin.rest^
+||ineriinsectbelve.cfd^
 ||ineriparka.shop^
 ||ineriungiant.help^
 ||inertmixing.cfd^
@@ -38455,6 +38462,7 @@ vkcdnservice.appspot.com^
 ||qqxevoxdcdgrm.website^
 ||qqxkscrbfjn.com^
 ||qqxlgqlgdvlky.online^
+||qqxrlcipgmiemph.com^
 ||qqxwosanxwhqn.site^
 ||qqytykzhaayxn.space^
 ||qr-player-new.com^
@@ -40503,6 +40511,7 @@ vkcdnservice.appspot.com^
 ||rrentlysearchi.org^
 ||rretmobueggyz.site^
 ||rrmlejqaevrk.top^
+||rrobbybmkwavw.top^
 ||rrobbybmkwjww.top^
 ||rrokfezlcfilh.online^
 ||rrpcjhtacwgki.space^
@@ -43080,6 +43089,7 @@ vkcdnservice.appspot.com^
 ||squiggly-fill.pro^
 ||squirtdrsuccession.com^
 ||squirtpresented.com^
+||sqvurvqqrjtqw.space^
 ||sqwregvkrwdtr.online^
 ||sqwwhdckyewdnlu.net^
 ||sqykvemny.net^
@@ -44355,6 +44365,7 @@ vkcdnservice.appspot.com^
 ||teentitsass.com^
 ||teestameegrash.net^
 ||teestoagloupaza.net^
+||teeteepsagrochi.net^
 ||teeteryschelm.click^
 ||teethellos.rest^
 ||teethundercoverhowever.com^
@@ -49255,6 +49266,7 @@ vkcdnservice.appspot.com^
 ||wiringdisciplinarysmooth.com^
 ||wiringjupon.com^
 ||wiringswyes.shop^
+||wirulcxbvifym.site^
 ||wirxwyor.com^
 ||wiry-warning.pro^
 ||wiryelection.pro^
@@ -49419,6 +49431,7 @@ vkcdnservice.appspot.com^
 ||wmiypqtwebhg.com^
 ||wmjmvrmfdvfvq.site^
 ||wmjphurnjepmr.site^
+||wmkcshuqtrvgy.online^
 ||wmlatpmbcaebl.space^
 ||wmlollmkvjeaz.top^
 ||wmlollmkvjwwr.top^
@@ -119945,6 +119958,12 @@ dlsdk.appsflyer.com^
 ||tetiaetwg.com^
 ||reservation35.top^
 ||vmkp.cn^
+||ddckenbga.com^
+||q2tqrsh02.com^
+||2euqnxt25.com^
+||ainb12311zh.com^
+||txpbvh.icu^
+||derivative10.top^
 ||6kpudsordv.com^
 ||i3j6h7j9cj.com^
 ||kje9v2ic57.com^
