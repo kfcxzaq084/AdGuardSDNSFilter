@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-31T01:46:12.824Z
+! Last modified: 2025-12-31T03:27:46.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6670,6 +6670,7 @@ vkcdnservice.appspot.com^
 ||37ypgvcopejf149frr8bh6tbk9y2.cfd^
 ||3807bf7acf.com^
 ||382be190f4.com^
+||386kbpfj3i7xg1j3.rest^
 ||388533c5eb.com^
 ||3890e014d2.com^
 ||38ds89f8.de^
@@ -8778,6 +8779,7 @@ vkcdnservice.appspot.com^
 ||ajdhawgchjuix.online^
 ||ajetzqkqdvfgd.website^
 ||ajewzcsnmnjex.site^
+||ajflxyhepfkokg.xyz^
 ||ajfnee.com^
 ||ajggnilcptlgz.site^
 ||ajgnivaxka.com^
@@ -13227,6 +13229,7 @@ vkcdnservice.appspot.com^
 ||ccluukrajdnyj.space^
 ||ccmiocw.com^
 ||ccn08sth.de^
+||ccnmfdyktqofb.com^
 ||ccpdaindrmyyx.online^
 ||ccppiuwqqlkmu.online^
 ||ccpvyfutedboz.site^
@@ -21167,6 +21170,7 @@ vkcdnservice.appspot.com^
 ||fxgrscstakhxi.space^
 ||fxhdgisdunlxk.website^
 ||fxjllndtgqsaf.site^
+||fxl7ujnvejrlo5gc.cfd^
 ||fxmnba.com^
 ||fxmoulyw.xyz^
 ||fxorpwlszobqu.space^
@@ -21987,6 +21991,7 @@ vkcdnservice.appspot.com^
 ||glbjhmruwbosw.club^
 ||glbtrk.com^
 ||glcdzojthfbaw.site^
+||glcsyuasspn.com^
 ||glddhbxmzctdb.online^
 ||glddockize.cyou^
 ||gldkzr-lpqw.buzz^
@@ -28647,6 +28652,7 @@ vkcdnservice.appspot.com^
 ||lbzyjmbvmkovm.top^
 ||lc4z2l2fnepuqqnn.rest^
 ||lcajlfzzjbbos.website^
+||lcaxfhprvnwaq.online^
 ||lcbyixmmomlzh.space^
 ||lcc3f7uzwlzlvemggoj9ofmlz4.cyou^
 ||lccboyojtdwq.xyz^
@@ -29040,6 +29046,7 @@ vkcdnservice.appspot.com^
 ||ligableflooey.help^
 ||ligatus.com^
 ||ligcspstbrvgf.online^
+||ligeensurop.com^
 ||liggewaeful.com^
 ||lighoudsaltie.net^
 ||light-weight.pro^
@@ -31391,6 +31398,7 @@ vkcdnservice.appspot.com^
 ||molesthyrst.cyou^
 ||moleya.click^
 ||molikrebaumt.xyz^
+||molinetaccosts.click^
 ||moltoelon.qpon^
 ||molttenglobins.casa^
 ||molypsigry.pro^
@@ -32355,6 +32363,7 @@ vkcdnservice.appspot.com^
 ||nckojcploecia.online^
 ||nckyebkwqugez.website^
 ||ncmeojlrybcza.online^
+||ncnqvqyekbvno.site^
 ||ncoyercwrriqc.website^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
@@ -34758,6 +34767,7 @@ vkcdnservice.appspot.com^
 ||ouaohliu.xyz^
 ||ouarscaauwbkj.online^
 ||oubqwkmhrcpat.fun^
+||ouchesascyrum.click^
 ||ouchruse.com^
 ||ouckoalrucmam.net^
 ||oucmanaishou.net^
@@ -38132,6 +38142,7 @@ vkcdnservice.appspot.com^
 ||qgpmmlqbqzddw.online^
 ||qgrkbfewsasid.site^
 ||qgsaohnxbkpez.site^
+||qgthiomylmdvo.online^
 ||qgtlndbjewjxa.website^
 ||qguusmmvndeor.website^
 ||qgvbpbsqdxnni.store^
@@ -38586,6 +38597,7 @@ vkcdnservice.appspot.com^
 ||quietstonewalk.com^
 ||quihrnucr.xyz^
 ||quilarems.qpon^
+||quilescliona.com^
 ||quilezbutles.help^
 ||quilezzymes.qpon^
 ||quillshut.com^
@@ -39886,6 +39898,7 @@ vkcdnservice.appspot.com^
 ||riaoz.xyz^
 ||riazrk-oba.online^
 ||ribbedjarool.cyou^
+||ribesmoschusnudger.cfd^
 ||ribgreenhousecompose.com^
 ||riblikestratal.help^
 ||ribvlczvzwiej.space^
@@ -43900,6 +43913,7 @@ vkcdnservice.appspot.com^
 ||sxmszysaoozpq.website^
 ||sxnknknfjjupi.online^
 ||sxobqwbiiknjp.website^
+||sxprtoqjwbvuq.website^
 ||sxqxvcymtiwxo.space^
 ||sxyafktbljyuq.store^
 ||sybilevolver.shop^
@@ -46092,6 +46106,7 @@ vkcdnservice.appspot.com^
 ||udkeqktfblppo.site^
 ||udmserve.net^
 ||udnmdhfup.com^
+||udtrrbjkwjswk.space^
 ||udtsoymbpinrw.site^
 ||udujklmqbkhou.site^
 ||udvlz.org^
@@ -48926,6 +48941,7 @@ vkcdnservice.appspot.com^
 ||whammedknavess.top^
 ||whapsbausond.help^
 ||wharfedreduced.cfd^
+||wharvesrefall.com^
 ||whasewasabi.qpon^
 ||whatisuptodaynow.com^
 ||whatsupp25.biz^
@@ -119885,6 +119901,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||cj81gcvm2.com^
+||vtook3j0l.com^
+||fy1vifdn5.com^
+||ainb12310zh.com^
+||jygdb.com^
+||xbam7box6.com^
+||tetiaetwg.com^
+||reservation35.top^
+||vmkp.cn^
 ||6kpudsordv.com^
 ||i3j6h7j9cj.com^
 ||kje9v2ic57.com^
