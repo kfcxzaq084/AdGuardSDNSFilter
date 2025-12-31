@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-31T03:27:46.149Z
+! Last modified: 2025-12-31T04:38:39.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8075,6 +8075,7 @@ vkcdnservice.appspot.com^
 ||adpresenter.de^
 ||adquake.com^
 ||adquery.io^
+||adrazxsnsagzj.space^
 ||adreadytractions.com^
 ||adrealclick.com^
 ||adrecreate.com^
@@ -9439,6 +9440,7 @@ vkcdnservice.appspot.com^
 ||apcdoxiqxiote.space^
 ||apcfgmcjbyida.space^
 ||apcgsqwbegnovy.com^
+||apchfkkjrijhwbb.com^
 ||apczazvwydwnz.club^
 ||apczvmejriytz.online^
 ||apdcekrulrpjd.online^
@@ -10260,6 +10262,7 @@ vkcdnservice.appspot.com^
 ||awaremention.pro^
 ||awarenessprovisions.com^
 ||awavjblaaewba.top^
+||awavjblrwmezw.top^
 ||away-stay.com^
 ||awbbcre.com^
 ||awbbjmp.com^
@@ -11982,6 +11985,7 @@ vkcdnservice.appspot.com^
 ||bootvolleyball.com^
 ||bop-bop-bam.com^
 ||bopmsxjwjuwjj.click^
+||bopnlaqlcazhi.online^
 ||bopnlzbliclxw.space^
 ||boqlwbntl.net^
 ||boracesoffice.help^
@@ -19947,6 +19951,7 @@ vkcdnservice.appspot.com^
 ||fgkypavphswggv.net^
 ||fglee.com^
 ||fgllllfedeltb.website^
+||fgmcqxaymymtk.online^
 ||fgnvnqsoqehlp.space^
 ||fgplkjnbsqzkx.website^
 ||fgq6et26l8tyq5.cfd^
@@ -44783,6 +44788,7 @@ vkcdnservice.appspot.com^
 ||tiktokcdn1.xyz^
 ||tilapfnnjimqb.online^
 ||tilearoma.com^
+||tilesunbulky.com^
 ||tillstayhereab.org^
 ||tilruzobsr.com^
 ||tiltersresidua.shop^
@@ -46770,6 +46776,7 @@ vkcdnservice.appspot.com^
 ||uod2quk646.com^
 ||uodywypnuvzwl.online^
 ||uoenkcbxwumqh.xyz^
+||uofddaueodbeq.space^
 ||uofsfhpe.com^
 ||uohsqzovikvyr.online^
 ||uohygjhhmwcco.site^
@@ -48560,6 +48567,7 @@ vkcdnservice.appspot.com^
 ||wastefuldraft.pro^
 ||wastefulrope.com^
 ||wasteresents.shop^
+||wastineediblesunsere.cyou^
 ||wastoowuth.net^
 ||watanabehono.info^
 ||watch-now.club^
@@ -102339,6 +102347,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.inquirernetwork.net^
 ||analytics-webhook.doximity.com^
 ||crs.pa.br.de^
 ||app-analysislog.sto.cn^
