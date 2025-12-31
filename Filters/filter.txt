@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-31T18:30:54.607Z
+! Last modified: 2025-12-31T20:23:48.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -19410,6 +19410,7 @@ vkcdnservice.appspot.com^
 ||exweuxkvvckho.website^
 ||exxtended-access.com^
 ||exyck4lrbjlc32yu.cfd^
+||exznjdlo.com^
 ||ey43.com^
 ||eyaganyfyivhw.online^
 ||eyahclaudio.help^
@@ -26093,6 +26094,7 @@ vkcdnservice.appspot.com^
 ||iubxgprgzqzfv.space^
 ||iucjylgndrri.com^
 ||iucujrzslaqpo.com^
+||iudsteind.help^
 ||iudvqjzmimtlp.website^
 ||iufbmwczokffc.click^
 ||iufmhnbxvkzcy.store^
@@ -26833,6 +26835,7 @@ vkcdnservice.appspot.com^
 ||joapheepemeeth.net^
 ||joathath.com^
 ||joatouwhoujauca.net^
+||joawhoumugaut.com^
 ||jobbetkatik.rest^
 ||jobestzipolike.org^
 ||jobfukectivetr.com^
@@ -30426,6 +30429,7 @@ vkcdnservice.appspot.com^
 ||marimedia.com^
 ||marinadelifestyle.com^
 ||marinadeworriesdurable.com^
+||marinallapsus.click^
 ||marineingredientinevitably.com^
 ||marinerattest.com^
 ||maritaltrousersidle.com^
@@ -37175,6 +37179,7 @@ vkcdnservice.appspot.com^
 ||primalsegged.com^
 ||primarilyresources.com^
 ||primarilyzapstinky.com^
+||primary-lesson.pro^
 ||primaryads.com^
 ||primarycontest.com^
 ||primaryquantity.com^
@@ -37931,6 +37936,7 @@ vkcdnservice.appspot.com^
 ||pwlyfsjngswju.website^
 ||pwmctl.com^
 ||pwnyvbfsuetef.site^
+||pwoiobiaaol.com^
 ||pwrbqcxpbcr.com^
 ||pwrgrowthapi.com^
 ||pwtaaoncavyvy.rocks^
@@ -41801,6 +41807,7 @@ vkcdnservice.appspot.com^
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
 ||sfijinqjkggxl.store^
+||sfipncxha.com^
 ||sfixretarum.com^
 ||sfjqeiskeiv.xyz^
 ||sfjwwywgeyoak.website^
@@ -47116,6 +47123,7 @@ vkcdnservice.appspot.com^
 ||urtzxcchcdzhw.space^
 ||uruevehood.shop^
 ||uruisgkhedas.shop^
+||urulwxikmmaer.space^
 ||urusessoot.qpon^
 ||urwvphdnwhdzl.site^
 ||urzdgpwphacny.site^
@@ -47487,6 +47495,7 @@ vkcdnservice.appspot.com^
 ||variostoyons.cyou^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
+||varkelmbqlmyj.top^
 ||varnasputoutsinfamy.cfd^
 ||varnishoverprotective.com^
 ||varshacundy.com^
@@ -48082,6 +48091,7 @@ vkcdnservice.appspot.com^
 ||vkehcvahibhix.space^
 ||vkfzlcidxisdw.store^
 ||vkgtrack.com^
+||vkhjpjucdqfgg.site^
 ||vkjhdorbxcabh.site^
 ||vkjiwgmipziva.space^
 ||vklljvmqyvjj.top^
@@ -48124,6 +48134,7 @@ vkcdnservice.appspot.com^
 ||vltpzlttwbmpa.website^
 ||vlvsmfjibrzie.space^
 ||vlwjbqqovvugf.site^
+||vlwqyhgnslfad.space^
 ||vlxctnusilgeh.site^
 ||vlyossclchubl.space^
 ||vlzbstbjzcamf.website^
@@ -49249,6 +49260,7 @@ vkcdnservice.appspot.com^
 ||whopping-click.com^
 ||whoppingruin.pro^
 ||whoringnusfiah.help^
+||whorishholaclayed.cfd^
 ||whortcebian.shop^
 ||whosealluvia.click^
 ||whoshovotsaim.net^
@@ -49611,6 +49623,7 @@ vkcdnservice.appspot.com^
 ||wntkjkymoulmx.online^
 ||wnujsatapndbq.today^
 ||wnvxsbctvedod.online^
+||wnwsdmlorowfu.com^
 ||wnxcmjqpcviit.website^
 ||wnzlvbrgskcfj.space^
 ||wo0f-w0of.com^
@@ -49810,6 +49823,7 @@ vkcdnservice.appspot.com^
 ||wqfbpdnqrdycx.space^
 ||wqgpzmpwuchvi.one^
 ||wqheilinlcsnl.online^
+||wqhlaexymgkyu.site^
 ||wqicmioasixaa.online^
 ||wqjregsni.net^
 ||wqkjeoqjzmmyo.online^
@@ -50222,6 +50236,7 @@ vkcdnservice.appspot.com^
 ||xdmanage.com^
 ||xdmycvwgynylh.store^
 ||xdopmddpydxpl.site^
+||xdopqmkcwwyqv.site^
 ||xdpnnqurquvuc.online^
 ||xdrelbgbndfnl.site^
 ||xdwstcvtdyyfg.website^
@@ -108632,6 +108647,8 @@ dlsdk.appsflyer.com^
 ||managedpush.com^
 ||manamoment.com^
 ||mantrafox.com^
+||manydiamonds.com^
+||manyfishes.com^
 ||mapbasin.com^
 ||mapcommand.com^
 ||marblediscussion.com^
