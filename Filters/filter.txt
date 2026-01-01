@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-01T18:31:08.590Z
+! Last modified: 2026-01-01T20:24:49.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12826,6 +12826,7 @@ vkcdnservice.appspot.com^
 ||bytogeticr.com^
 ||byuatuitvfbk.xyz^
 ||bywalkbehoney.shop^
+||bywalkswarthdunlin.cfd^
 ||bzddpjcutxcvk.today^
 ||bzfrmvyspduxo.store^
 ||bziycxyzbtqmf.site^
@@ -15686,6 +15687,7 @@ vkcdnservice.appspot.com^
 ||czhavjzsxkcwa.space^
 ||czhmgezchubno.space^
 ||czhplaacakpki.website^
+||czjmkmdd.com^
 ||czlkjrugmjgty.space^
 ||cznratophrtou.website^
 ||czqtpkjueiffw.space^
@@ -18019,6 +18021,7 @@ vkcdnservice.appspot.com^
 ||ebz.io^
 ||ec26bf2191.com^
 ||ec49775bc5.com^
+||ecailsawhe.com^
 ||ecaqbwghfrwkm.site^
 ||eccvwnwjayrqyeo.net^
 ||eccvwnwjayrqyeo.xyz^
@@ -38520,6 +38523,7 @@ vkcdnservice.appspot.com^
 ||qgxbluhsgad.com^
 ||qgyotwiyrywev.website^
 ||qgzutjiaoqagq.online^
+||qhbetzsrzzslg.site^
 ||qhcguefnlfvsq.space^
 ||qhchh.com^
 ||qhcsdqeebhabl.online^
@@ -42096,6 +42100,7 @@ vkcdnservice.appspot.com^
 ||sgaijlnojrrok.site^
 ||sgazxwpurrfsy.space^
 ||sgben.com^
+||sgcjwdshiacfv.space^
 ||sgdanjzdfjtwr.site^
 ||sgevtchvdhddf.website^
 ||sgfinery.com^
@@ -44247,6 +44252,7 @@ vkcdnservice.appspot.com^
 ||svxxredmhli.net^
 ||svyixcelxerdo.space^
 ||svyksa.info^
+||svzshmeczqudx.site^
 ||swainphilos.shop^
 ||swajtuxfeju.com^
 ||swalessidi.com^
@@ -44701,6 +44707,7 @@ vkcdnservice.appspot.com^
 ||tderxbmschvmv.online^
 ||tdhalwxwdonxz.online^
 ||tdhyldohkirx.com^
+||tdmogwlkwcgiu.site^
 ||tdnqgundzquge.website^
 ||tdoqiajej.xyz^
 ||tdoqkjqmvhlc.com^
@@ -45156,6 +45163,7 @@ vkcdnservice.appspot.com^
 ||throwmewling.help^
 ||thrtle.com^
 ||thrustinextricable.com^
+||thtaivujjcl.com^
 ||thtpyzahzpppu.website^
 ||thtrsihwdznav.site^
 ||thtucuficxrfb.online^
@@ -48634,6 +48642,7 @@ vkcdnservice.appspot.com^
 ||vqzoqqnjolnbl.site^
 ||vrcdpoaciecoj.online^
 ||vrcjgvxwjmepr.website^
+||vrcsicgiv.com^
 ||vrcvbtdmxhcgb.site^
 ||vrfdcwhyaodng.store^
 ||vrfuznaicvxaj.life^
@@ -48863,6 +48872,7 @@ vkcdnservice.appspot.com^
 ||vytkxcvmdzgbj.online^
 ||vytpdqiqwezti.website^
 ||vyuaolnqfgoas.store^
+||vyvjoeeryyol.top^
 ||vyvjoevkyyal.top^
 ||vywvncjascsrw.world^
 ||vyxifgsrgihgr.online^
@@ -49727,6 +49737,7 @@ vkcdnservice.appspot.com^
 ||wirxwyor.com^
 ||wiry-warning.pro^
 ||wiryelection.pro^
+||wirywi.qpon^
 ||wise-bend.pro^
 ||wise-bridge.pro^
 ||wise-front.com^
@@ -50232,6 +50243,7 @@ vkcdnservice.appspot.com^
 ||wry1tppxttprlunl7xbqz68.cfd^
 ||wryabmekmukxp.site^
 ||wryzkeaxx.com^
+||wsaxkaucwqewi.website^
 ||wsbxfiqahxjhf.top^
 ||wsdazglmaboql.store^
 ||wsdkgcakpwysz.space^
