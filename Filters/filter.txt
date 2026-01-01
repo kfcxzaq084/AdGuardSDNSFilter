@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-01T06:35:17.812Z
+! Last modified: 2026-01-01T08:30:26.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10573,6 +10573,7 @@ vkcdnservice.appspot.com^
 ||ba69a24a2a.com^
 ||ba7dea6a05.com^
 ||baalismdolisie.click^
+||baaxadlryev.com^
 ||bab3105053.com^
 ||babascoleucine.rest^
 ||babblerrettory.rest^
@@ -12883,6 +12884,7 @@ vkcdnservice.appspot.com^
 ||cabhwq.com^
 ||cabininestimable.com^
 ||cabnnr.com^
+||caboucaketches.cfd^
 ||cabvrkooukotb.website^
 ||cacamsemih.cfd^
 ||cacaosinfield.com^
@@ -16037,6 +16039,7 @@ vkcdnservice.appspot.com^
 ||ddfstlvddxdr.com^
 ||ddgfdhuroikde.com^
 ||ddhjnrssqnmxc.store^
+||ddhodsbzbntxh.site^
 ||ddissezttnheq.space^
 ||ddkwzfhfqfuxb.site^
 ||ddllppbdwkvol.site^
@@ -16716,6 +16719,7 @@ vkcdnservice.appspot.com^
 ||disapprovalavouchfriendly.com^
 ||disarmgruntnatural.com^
 ||disarmsfretsaw.cyou^
+||disasterpreserved.com^
 ||disastrous-company.com^
 ||disastrous-protection.com^
 ||disastrous-special.pro^
@@ -19651,6 +19655,7 @@ vkcdnservice.appspot.com^
 ||faivohoaboogron.com^
 ||fajkyofaxhdvo.website^
 ||fajukc.com^
+||fake-maximum.pro^
 ||fake-square.com^
 ||fakemeal.pro^
 ||falcatagerman.shop^
@@ -23265,6 +23270,7 @@ vkcdnservice.appspot.com^
 ||gzqfpkponqief.space^
 ||gzsmzfafszuih.website^
 ||gztnnjfknixqv.website^
+||gztwtccvfpngw.website^
 ||gzxndiiqkcpgt.space^
 ||gzyxqdhtkomzx.space^
 ||gzyznuiaeqzlv.website^
@@ -26178,6 +26184,7 @@ vkcdnservice.appspot.com^
 ||itxbyjztilkas.site^
 ||itxnljueeffwsrs.com^
 ||itxsyshotv.com^
+||ityaeaavryphn.website^
 ||itychildrenast.org^
 ||ityonatallco.info^
 ||itzuozgvtsglt.space^
@@ -30096,6 +30103,7 @@ vkcdnservice.appspot.com^
 ||lusinlepading.com^
 ||lusoryvillus.cfd^
 ||lustp.com^
+||lustreperspiration.com^
 ||lustrous-nurse.com^
 ||lustslate.com^
 ||lutenew.qpon^
@@ -30620,6 +30628,7 @@ vkcdnservice.appspot.com^
 ||mathads.com^
 ||mathematicsefficiencyburnt.com^
 ||mathematicswhineconvene.com^
+||mathsanalyse.com^
 ||matildawu.online^
 ||matinshell.help^
 ||mationwind.com^
@@ -33148,6 +33157,7 @@ vkcdnservice.appspot.com^
 ||nnerventualkentin.org^
 ||nneurlaben.xyz^
 ||nnfaatpwydlje.space^
+||nnfdjlowdsdpqq.com^
 ||nnhghmknpmph.xyz^
 ||nnkkwfcnwkzud.space^
 ||nnknzxxqlzmxf.space^
@@ -34167,6 +34177,7 @@ vkcdnservice.appspot.com^
 ||ofqdwvymud.xyz^
 ||ofqlvcujykanc.site^
 ||ofrhbrpgseffg.site^
+||oftayjtbp.com^
 ||oftencostbegan.com^
 ||oftheownouncillo.com^
 ||oftshukiqa.com^
@@ -39820,6 +39831,7 @@ vkcdnservice.appspot.com^
 ||rentorshal.com^
 ||renugtqvhsnjb.space^
 ||renvkfggajjx.com^
+||reobakvmyqoj.top^
 ||reobalkeyqej.top^
 ||reobalyboaoj.top^
 ||reoccureucalyn.qpon^
@@ -40276,6 +40288,7 @@ vkcdnservice.appspot.com^
 ||ripewhining.com^
 ||ripplyearlier.digital^
 ||riprapsskittle.help^
+||ripsawsvailing.cfd^
 ||riptognouque.net^
 ||riraconianstar.com^
 ||rirki.com^
@@ -43968,6 +43981,7 @@ vkcdnservice.appspot.com^
 ||sultrymomentarily.com^
 ||sumbreta.com^
 ||sumeformorede.org^
+||summasranere.cfd^
 ||summeanwhile.com^
 ||summerday.christmas^
 ||summerleftover.com^
@@ -45203,6 +45217,7 @@ vkcdnservice.appspot.com^
 ||titoismparsing.rest^
 ||titteryfilched.click^
 ||tiubvrcdzqhdj.online^
+||tiuyamhwqljgm.site^
 ||tivatingotherem.org^
 ||tivqggcgnqlom.space^
 ||tiwogtowdj.com^
@@ -50933,6 +50948,7 @@ vkcdnservice.appspot.com^
 ||xxxwebtraffic.com^
 ||xxxzbkhpjxzry.store^
 ||xxzccpsbdybmx.website^
+||xybieybxjibvj.site^
 ||xycyblnwl.net^
 ||xycycwtdnmhex.website^
 ||xydlemuxvbip.com^
@@ -51996,6 +52012,7 @@ vkcdnservice.appspot.com^
 ||zghdautxlwvis.store^
 ||zgijtonvzgadk.online^
 ||zgkowgslzqhir.online^
+||zgnuydyvcuqdt.online^
 ||zgnymibptufjb.site^
 ||zgrakgyhvqyzv.online^
 ||zgrnhlppjonj.com^
@@ -120317,6 +120334,8 @@ dlsdk.appsflyer.com^
 ||yvdb.cn^
 ||sr8jcp5fp.com^
 ||u0h2psmoz.com^
+||7jqi6um1g.com^
+||cgcg01011ht.com^
 ||cj81gcvm2.com^
 ||vtook3j0l.com^
 ||fy1vifdn5.com^
