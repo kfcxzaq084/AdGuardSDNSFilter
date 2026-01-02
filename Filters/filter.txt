@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-02T12:42:38.579Z
+! Last modified: 2026-01-02T14:21:23.870Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8712,6 +8712,7 @@ vkcdnservice.appspot.com^
 ||aikxmqvcqzejc.space^
 ||ailcloister.com^
 ||aileenodist.cfd^
+||ailetteloessic.cyou^
 ||ailpyvmztfusn.one^
 ||ailraustak.net^
 ||ailteetsufoothu.net^
@@ -11369,6 +11370,7 @@ vkcdnservice.appspot.com^
 ||bgrdsfeldfcdq.xyz^
 ||bgrdvbkhjunrp.com^
 ||bgrguptkxtous.online^
+||bgsnchoxrtv.com^
 ||bgvnctdwrlsrx.website^
 ||bgwafghjtwywv.online^
 ||bgxhsjycwbeiyws.xyz^
@@ -11588,6 +11590,7 @@ vkcdnservice.appspot.com^
 ||bizographics.com^
 ||bizonads-ssp.com^
 ||bizonesreclude.cyou^
+||bizoniacomingsbiurate.cfd^
 ||bizosama.com^
 ||bj2550.com^
 ||bj366wrmk68yrr.cfd^
@@ -15090,6 +15093,7 @@ vkcdnservice.appspot.com^
 ||cpwbapcsltmjh.vip^
 ||cpwhmpykifj.com^
 ||cpwsmctnwvqeq.store^
+||cpwzalunlyyph.site^
 ||cpx24.com^
 ||cpxinteractive.com^
 ||cpxkcejzsfcyf.space^
@@ -16723,6 +16727,7 @@ vkcdnservice.appspot.com^
 ||dimmockvanglo.com^
 ||dimnessslatecosmetic.com^
 ||dimpled-dig.pro^
+||dimplehoddin.shop^
 ||dimplesnoyful.help^
 ||dimpsychology.pro^
 ||dimspace.pro^
@@ -18661,6 +18666,7 @@ vkcdnservice.appspot.com^
 ||ementxviewsin.com^
 ||emeraldsoddite.life^
 ||emergeddoleful.com^
+||emergencyadditions.com^
 ||emergencyidiomjokingly.com^
 ||emergencystopped.com^
 ||emetinrangle.help^
@@ -18938,6 +18944,7 @@ vkcdnservice.appspot.com^
 ||eokbuxljvlfwm.space^
 ||eolioadwse.xyz^
 ||eolithpopedom.cfd^
+||eomeconchisels.shop^
 ||eondunpea.com^
 ||eonismjinny.shop^
 ||eonwuljgmyjep.site^
@@ -22273,6 +22280,7 @@ vkcdnservice.appspot.com^
 ||glenypsyha.com^
 ||glersakr.com^
 ||glersooy.net^
+||glesootsedaurgu.net^
 ||glgzxpgbpmnze.website^
 ||glickangumtaib.net^
 ||glidsaucmets.net^
@@ -25032,6 +25040,7 @@ vkcdnservice.appspot.com^
 ||hznmppcnyvdnr.online^
 ||hznrzzxpytvhd.space^
 ||hzr0dm28m17c.com^
+||hzrrlnmmfytzs.website^
 ||hzskcsmxnzmcz.website^
 ||hztpibvstcrrz.site^
 ||hzyrtyxsarscw.online^
@@ -26869,6 +26878,7 @@ vkcdnservice.appspot.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhqieljrzibnr.store^
 ||jhroaxkfpczxw.website^
+||jhsbmugmlukjf.online^
 ||jhtaueorxxjyg.online^
 ||jhuzffeiiargq.space^
 ||jhwdpdnwej.net^
@@ -27598,6 +27608,7 @@ vkcdnservice.appspot.com^
 ||jzrvtgzcssxig.online^
 ||jztcnlvleqyxs.website^
 ||jzuabmdorcxzb.space^
+||jzuybtybvjcgm.website^
 ||jzvfrz7miebgx46h7ii6r.cfd^
 ||jzwghlxfjnwks.website^
 ||jzxouwszeyhrq.online^
@@ -30279,6 +30290,7 @@ vkcdnservice.appspot.com^
 ||luxatenowness.com^
 ||luxbetaffiliates.com.au^
 ||luxcdn.com^
+||luxegoatee.qpon^
 ||luxins.net^
 ||luxq8.com^
 ||luxup.ru^
@@ -44633,6 +44645,7 @@ vkcdnservice.appspot.com^
 ||tabloidincapable.com^
 ||taborhexeris.cyou^
 ||tacanaleaked.cyou^
+||tacanalucky.shop^
 ||tachitalent.help^
 ||tackdisillusion.com^
 ||tacklingunsightlyventricle.com^
@@ -47232,6 +47245,7 @@ vkcdnservice.appspot.com^
 ||unkemptlecture.com^
 ||unkemptsteal.pro^
 ||unkeptrackety.qpon^
+||unknowgranose.cyou^
 ||unknowndeliquencydeliquencypenthouse.com^
 ||unknownpermission.com^
 ||unlaidsixing.help^
@@ -47569,6 +47583,7 @@ vkcdnservice.appspot.com^
 ||urealath.com^
 ||ureasesparlish.cyou^
 ||urencenes.com^
+||uresismucor.cfd^
 ||urewsawanincrea.com^
 ||urfgqmeiiiooj.website^
 ||urfheists.shop^
@@ -49523,6 +49538,7 @@ vkcdnservice.appspot.com^
 ||wendxktstjx.net^
 ||wenog.com^
 ||wenykhldanuek.store^
+||weoewklnpto.com^
 ||weownthetraffic.com^
 ||wepmanpiute.cyou^
 ||weptnastyturmoil.com^
@@ -49874,6 +49890,7 @@ vkcdnservice.appspot.com^
 ||wingohvuktotg.site^
 ||wingskrengfeuter.cyou^
 ||wingssecrecyfailed.com^
+||wingsshaggy.com^
 ||winiestsalinan.shop^
 ||winisheam.cfd^
 ||winlessjaipuristormy.cfd^
@@ -49961,6 +49978,7 @@ vkcdnservice.appspot.com^
 ||wivesvacancycraft.com^
 ||wizardunstablecommissioner.com^
 ||wjbphrbiisvag.space^
+||wjcgrume.cyou^
 ||wjdgtcuulylbi.website^
 ||wjebboljovkwr.top^
 ||wjebboljovwrm.top^
@@ -51170,6 +51188,7 @@ vkcdnservice.appspot.com^
 ||xtydrmtywznhs.website^
 ||xuajhybskerxo.space^
 ||xubbublumamr.com^
+||xubdamrbymyqft.com^
 ||xucylxthpajss.site^
 ||xudpnwjiprcmy.site^
 ||xuenpasqvdt.net^
