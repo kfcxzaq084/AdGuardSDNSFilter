@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-02T03:40:47.929Z
+! Last modified: 2026-01-02T04:41:46.397Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10346,6 +10346,7 @@ vkcdnservice.appspot.com^
 ||awestatic.com^
 ||awestc.com^
 ||aweyqaqkrzjj.top^
+||aweyqleerwbj.top^
 ||awfhhbawivnii.website^
 ||awfrpupxxwqidr.net^
 ||awfullystockyregions.com^
@@ -14902,6 +14903,7 @@ vkcdnservice.appspot.com^
 ||cordplumb.com^
 ||cordyreseaus.rest^
 ||core.dimatter.ai^
+||coressixes.com^
 ||corgefeoffee.help^
 ||coriinperil.qpon^
 ||corincatwood.qpon^
@@ -16029,6 +16031,7 @@ vkcdnservice.appspot.com^
 ||dbr9gtaf8.com^
 ||dbrzpwjbmvcok.website^
 ||dbtlddcxsquvu.space^
+||dbuipcqfkpvqq.website^
 ||dbuq47t160425b.cfd^
 ||dbwmzcj-r.click^
 ||dbxkgduf.xyz^
@@ -21821,6 +21824,7 @@ vkcdnservice.appspot.com^
 ||gemuzyste.com^
 ||gen-ref.com^
 ||genbalar.com^
+||gendbkamiggxs.site^
 ||genderorganiccensus.com^
 ||geneindustriousbennet.com^
 ||generalizebusinessman.com^
@@ -24178,6 +24182,7 @@ vkcdnservice.appspot.com^
 ||hjdhlpthcezvm.space^
 ||hjdrlkhcnkesl.site^
 ||hjdyfviioirk.xyz^
+||hjgncrfjjxfbxy.com^
 ||hjgphtjhatpdo.online^
 ||hjhcgwevhmiqot.xyz^
 ||hjihomeuh.xyz^
@@ -30260,6 +30265,7 @@ vkcdnservice.appspot.com^
 ||lvsapphbvbgxf.website^
 ||lvsfchzhs.com^
 ||lvsmrrdvq.com^
+||lvsvzwagckrai.website^
 ||lvualvjfekioz.space^
 ||lvubwrnhxktlo.online^
 ||lvvbqeaqvrmvy.top^
@@ -33766,6 +33772,7 @@ vkcdnservice.appspot.com^
 ||nuxpnixbghebm.site^
 ||nuzarfarhd.com^
 ||nuzehescwgfmr.site^
+||nuzjseliegdpz.website^
 ||nuzostgcylun.com^
 ||nv3tosjqd.com^
 ||nvcwrkskiqogg.store^
@@ -44698,6 +44705,7 @@ vkcdnservice.appspot.com^
 ||tauridimprime.help^
 ||taurmanba.qpon^
 ||taut-nature.com^
+||tautingtortes.com^
 ||tautogsatafter.cyou^
 ||tautudaichafatu.net^
 ||tauvoojo.net^
@@ -120553,6 +120561,7 @@ dlsdk.appsflyer.com^
 ||cgcg01020ht.com^
 ||dissolution06.com^
 ||gexq.cn^
+||twlw3vuz5f.com^
 ||rz6jf5oqz.com^
 ||lvdvltsid.com^
 ||bk2l4eidc.com^
