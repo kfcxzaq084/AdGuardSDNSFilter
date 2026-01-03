@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-03T10:21:45.648Z
+! Last modified: 2026-01-03T12:41:07.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7088,6 +7088,7 @@ vkcdnservice.appspot.com^
 ||7thvyebqhu7956.cfd^
 ||7uf9rqubcm6ho65wo6onu7x8m.rest^
 ||7wc9vt13qizxvhtze6o4t4u.cyou^
+||7wuoy9ijxj53p3rl7xf6mkz.cfd^
 ||80055404.vtt^
 ||808ba9fe3d.com^
 ||80a16e63df.com^
@@ -12482,6 +12483,7 @@ vkcdnservice.appspot.com^
 ||cappaecoignes.life^
 ||cappersintrap.cyou^
 ||capriblewits.qpon^
+||caprizecaprizeflagfur.com^
 ||caproicpyritic.cyou^
 ||captainsuccessornoisy.com^
 ||captionconjecture.com^
@@ -13967,6 +13969,7 @@ vkcdnservice.appspot.com^
 ||conksfrundelrodster.cyou^
 ||connectad.io^
 ||connectedflownow.com^
+||connectgeat.qpon^
 ||connectingadjusthospitality.com^
 ||connectingcurioustraced.com^
 ||connectingresort.com^
@@ -21033,6 +21036,7 @@ vkcdnservice.appspot.com^
 ||gomboangareb.shop^
 ||gomboteer.qpon^
 ||gomnlt.com^
+||gomsaujounsag.com^
 ||gomyonis.com^
 ||gondmemhoolpdd.xyz^
 ||gongmanquothloki.cfd^
@@ -24915,6 +24919,7 @@ vkcdnservice.appspot.com^
 ||jhmjhgef.net^
 ||jhncmokruwmhd.website^
 ||jhnwr.com^
+||jhonuport.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhqieljrzibnr.store^
 ||jhroaxkfpczxw.website^
@@ -26729,6 +26734,7 @@ vkcdnservice.appspot.com^
 ||lathesfeoffee.qpon^
 ||lathstaverns.cfd^
 ||latinwayy.com^
+||latookawirierkasm.cyou^
 ||latrinehelves.com^
 ||latticedispleased.com^
 ||latticeincriminate.com^
@@ -29464,6 +29470,7 @@ vkcdnservice.appspot.com^
 ||mouthesvoicing.cyou^
 ||mouthiwhewha.net^
 ||mouthsnibs.cfd^
+||movablybkt.cfd^
 ||movad.de^
 ||movad.net^
 ||movcpm.com^
@@ -41270,6 +41277,7 @@ vkcdnservice.appspot.com^
 ||thawnappy.com^
 ||thbfepqqqebde.online^
 ||thbksnboyjnoh.website^
+||thcyixtb.com^
 ||the-ozone-project.com^
 ||the8l9vhfej1hz89be3ncuj6uhlil6q.cfd^
 ||thead.cat^
@@ -42906,6 +42914,7 @@ vkcdnservice.appspot.com^
 ||ulgmucrlctvsl.store^
 ||ulhpxqtmsmnbo.site^
 ||uliafpsf.tattoo^
+||ulidianpretaorigami.cyou^
 ||ulisxyz.store^
 ||uljbjmfmgenbh.online^
 ||ulkfvwizkfbml.site^
@@ -45026,6 +45035,7 @@ vkcdnservice.appspot.com^
 ||wcx4whygpeln92mfyp9zvf6e.cfd^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
+||wdgcycndyqj.com^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
 ||wdjtyigmvcgtx.space^
@@ -45478,6 +45488,7 @@ vkcdnservice.appspot.com^
 ||windingnegotiation.com^
 ||windowscurlytrials.com^
 ||windowsvow.com^
+||windowylarvule.com^
 ||windscompassdenial.com^
 ||windscreenthomas.com^
 ||windsplay.com^
@@ -45941,6 +45952,7 @@ vkcdnservice.appspot.com^
 ||wrideduvetyn.cyou^
 ||wrigglefinviewed.com^
 ||wringbible.com^
+||wriolgwurfa.com^
 ||wristample.com^
 ||wristicalit.com^
 ||wristouthiss.qpon^
@@ -46221,6 +46233,7 @@ vkcdnservice.appspot.com^
 ||xazafvbmicmi.com^
 ||xazextepdkarx.store^
 ||xazmshwtsxkne.online^
+||xbarbppqv.com^
 ||xbc91f9n8gk524w9u4vzlq.cfd^
 ||xbeaspolzddtc.space^
 ||xbiicstjgsqpr.website^
@@ -47461,6 +47474,7 @@ vkcdnservice.appspot.com^
 ||yyidbueudlkcw.love^
 ||yyijihjtdjsdp.online^
 ||yyjvimo.com^
+||yyljnljqd.xyz^
 ||yypkjxtumgofe.site^
 ||yypqvjzprpsfm.online^
 ||yypw6r89bj9beue9q.rest^
