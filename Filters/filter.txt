@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-03T20:23:17.154Z
+! Last modified: 2026-01-03T22:20:17.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6573,6 +6573,7 @@ vkcdnservice.appspot.com^
 ||2track.info^
 ||2ts55ek00.de^
 ||2u42blggkhuv13.cfd^
+||2vy41r757h5zylx4keo3qe.cfd^
 ||2wr18c22e7y5c6.cfd^
 ||2wwkx543inqe2o.cfd^
 ||2zx5hr5pbz7zpm657kck.cfd^
@@ -8990,6 +8991,7 @@ vkcdnservice.appspot.com^
 ||amumxszhggxxi.space^
 ||amunfezanttor.com^
 ||amused-fish.pro^
+||amusedduty.pro^
 ||amusershuvra.shop^
 ||amusgjaczncmg.site^
 ||amusing-branch.pro^
@@ -9054,6 +9056,7 @@ vkcdnservice.appspot.com^
 ||angelabedsautopsy.com^
 ||angelaencouraging.com^
 ||angelesfoldingpatsy.com^
+||angelic-hurt.pro^
 ||angeliccounty.pro^
 ||angelicunioval.com^
 ||angkalondres.shop^
@@ -9539,6 +9542,7 @@ vkcdnservice.appspot.com^
 ||ascertainowlbookkeeper.com^
 ||ascianfebreszeidae.cfd^
 ||asciticareal.rest^
+||ascotsalquier.cyou^
 ||asdasdad.net^
 ||asdnow.xyz^
 ||aseabrookie.cyou^
@@ -9759,6 +9763,7 @@ vkcdnservice.appspot.com^
 ||attentionsbreastfeeding.com^
 ||attentive-path.com^
 ||attentiverutfamous.com^
+||attestsamylom.shop^
 ||atticcourthousetechnique.com^
 ||attirecideryeah.com^
 ||attorntwp.life^
@@ -12136,6 +12141,7 @@ vkcdnservice.appspot.com^
 ||businesstremendoushad.com^
 ||bussocktourer.top^
 ||busteeonenessvingtun.cyou^
+||bustledgores.shop^
 ||bustlefungus.com^
 ||bustlingwest.pro^
 ||bustslicerstrongbox.com^
@@ -13726,6 +13732,7 @@ vkcdnservice.appspot.com^
 ||cobwebhauntedallot.com^
 ||cobwebsituationstyling.com^
 ||cobwebzincdelicacy.com^
+||cocainsageisms.cyou^
 ||cocauseshaugh.digital^
 ||coccoidoras.cfd^
 ||coccousmating.qpon^
@@ -15486,6 +15493,7 @@ vkcdnservice.appspot.com^
 ||dependent-boy.com^
 ||dependentbar.pro^
 ||dependsmoscow.com^
+||dephjaumgxw.com^
 ||depleteheadphoneshoe.com^
 ||depleterefutation.com^
 ||depletespiesfarting.cyou^
@@ -19549,6 +19557,7 @@ vkcdnservice.appspot.com^
 ||fpukmwpb.top^
 ||fpuxxbskapwcz.online^
 ||fpvqazktkywjf.site^
+||fpxnkcgejafkig.com^
 ||fpxpobaudkjzu.site^
 ||fpyf8.com^
 ||fpyhhnyycugrd.website^
@@ -26004,6 +26013,7 @@ vkcdnservice.appspot.com^
 ||kishkethingum.shop^
 ||kissagepurrah.qpon^
 ||kissoffering.com^
+||kissyexuding.cfd^
 ||kistutch.net^
 ||kithaulrabirty.net^
 ||kithestaunton.cfd^
@@ -26662,6 +26672,7 @@ vkcdnservice.appspot.com^
 ||lajytnrioiaqy.website^
 ||lakebefop.cfd^
 ||lakishtheol.cyou^
+||lakismpion.cyou^
 ||lakns.com^
 ||laksedroor.net^
 ||lakymohos.shop^
@@ -30810,6 +30821,7 @@ vkcdnservice.appspot.com^
 ||nonfictionspatterrind.com^
 ||nongamespewers.com^
 ||nongasnunlet.cfd^
+||nonpaidrolpens.qpon^
 ||nonsensepreparations.com^
 ||nonsensetypicallyuncertain.com^
 ||nonstop-draw.pro^
@@ -31399,6 +31411,7 @@ vkcdnservice.appspot.com^
 ||obedieval.my.id^
 ||obese-actor.pro^
 ||obese-chicken.pro^
+||obese-neat.pro^
 ||obese-pin.com^
 ||obeseglobewimp.com^
 ||obetmwbxfdswe.store^
@@ -32950,6 +32963,7 @@ vkcdnservice.appspot.com^
 ||parlovercow.cfd^
 ||parolsliquory.help^
 ||parrotsgrillsevent.cyou^
+||parrotspuzzles.shop^
 ||parseaka.cyou^
 ||parserskiotomy.com^
 ||parsimoniousinvincible.net^
@@ -34144,6 +34158,7 @@ vkcdnservice.appspot.com^
 ||popmonetizer.com^
 ||popmonetizer.net^
 ||popmyads.com^
+||poppycrisle.shop^
 ||poppysol.com^
 ||poprtb.com^
 ||popsads.net^
@@ -36168,6 +36183,7 @@ vkcdnservice.appspot.com^
 ||rallyegabbles.qpon^
 ||ramanasprespur.help^
 ||ramaukrersacm.net^
+||ramedholster.qpon^
 ||rameimmunol.cfd^
 ||rameshjarry.help^
 ||rammassbonasus.cyou^
@@ -36363,6 +36379,7 @@ vkcdnservice.appspot.com^
 ||rdmwvqumjfujk.online^
 ||rdncetfegztbp.space^
 ||rdpmezzmmlvhp.space^
+||rdqkrspyrc.xyz^
 ||rdqonejxzdwym.store^
 ||rdqysipvmuleeoy.com^
 ||rdraygxaymmms.online^
@@ -39300,6 +39317,7 @@ vkcdnservice.appspot.com^
 ||sloatfeud.qpon^
 ||slobendorsement.com^
 ||slobsotidium.qpon^
+||slodgepatache.cyou^
 ||sloeri.com^
 ||slojzlqjvitwt.website^
 ||sloourtica.life^
@@ -40878,6 +40896,7 @@ vkcdnservice.appspot.com^
 ||tacticwane.com^
 ||tactsbludged.cfd^
 ||tacwevvgrvnaq.space^
+||tafiadupingchins.cyou^
 ||taghaugh.com^
 ||taginova.xyz^
 ||tagsoviet.com^
@@ -104643,6 +104662,7 @@ dlsdk.appsflyer.com^
 ||monthlyhat.com^
 ||mooncrustpizza.com^
 ||moorshoes.com^
+||morefolks.com^
 ||morefriendly.com^
 ||motionflowers.com^
 ||motionlessbelief.com^
@@ -104679,6 +104699,7 @@ dlsdk.appsflyer.com^
 ||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
+||nicefollows.com^
 ||niftygraphs.com^
 ||niftyhospital.com^
 ||niftyjelly.com^
