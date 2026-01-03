@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-03T18:29:45.236Z
+! Last modified: 2026-01-03T20:23:17.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10967,6 +10967,7 @@ vkcdnservice.appspot.com^
 ||bhrltiziiipad.website^
 ||bhsfjllpzzmwq.site^
 ||bhshm.com^
+||bhssfhionvsjrky.com^
 ||bhu9xjvxku1jrxul79wij8i9.cfd^
 ||bhwgdvpavsfzw.site^
 ||bhxgwciqjeqld.website^
@@ -24881,6 +24882,7 @@ vkcdnservice.appspot.com^
 ||jf-bloply.one^
 ||jf71qh5v14.com^
 ||jfacflmbkvxez.online^
+||jfellnuo.com^
 ||jfezwogpa.com^
 ||jffdicjopshin.space^
 ||jfhmuymhjaiui.online^
@@ -28146,6 +28148,7 @@ vkcdnservice.appspot.com^
 ||mabeerougnaimt.net^
 ||mabhyethodxorcs.net^
 ||mabhyethodxorcs.xyz^
+||maboftaurgok.net^
 ||mabutipurines.world^
 ||macan-native.com^
 ||macaomoll.cfd^
@@ -30032,6 +30035,7 @@ vkcdnservice.appspot.com^
 ||n9s74npl.de^
 ||naacixmdxcfba.store^
 ||nabauxou.net^
+||nabberfullerplanker.cyou^
 ||nabbr.com^
 ||nabuasbobiype.site^
 ||nabungaigabi.net^
@@ -38742,6 +38746,7 @@ vkcdnservice.appspot.com^
 ||shamoylumbus.cyou^
 ||shamyouthattach.com^
 ||shanaurg.net^
+||shanlinseed.com^
 ||shanorin.com^
 ||shanotchoulte.net^
 ||shapecamping.com^
@@ -40919,6 +40924,7 @@ vkcdnservice.appspot.com^
 ||tallparking.com^
 ||tallwinter.pro^
 ||talonedveldman.rest^
+||taloseempest.com^
 ||talusisatin.qpon^
 ||tamamatdwtzet.online^
 ||tamaraobree.help^
@@ -41982,6 +41988,7 @@ vkcdnservice.appspot.com^
 ||tpyqzksnjcruu.space^
 ||tpywhfidimoxw.site^
 ||tqdxwboexwawx.site^
+||tqfrxxxg.com^
 ||tqgayhnwphgxn.site^
 ||tqgdovbcivlfu.space^
 ||tqisbudqqjnif.online^
@@ -44390,6 +44397,7 @@ vkcdnservice.appspot.com^
 ||vkhjpjucdqfgg.site^
 ||vkjhdorbxcabh.site^
 ||vkjiwgmipziva.space^
+||vklljvwyyvzj.top^
 ||vknq6yt6wyxo2xtv7wr7fgukq9t.cyou^
 ||vkofmxopxieit.space^
 ||vkopdujowxvao.space^
@@ -45785,6 +45793,7 @@ vkcdnservice.appspot.com^
 ||woacoaglastaim.net^
 ||woafoame.net^
 ||woagevaibi.net^
+||wobblyfudged.com^
 ||wobblypin.pro^
 ||wobtcrcclujdx.online^
 ||wocmaungiw.net^
@@ -47403,6 +47412,7 @@ vkcdnservice.appspot.com^
 ||ysjffeahkpzeb.online^
 ||yslatcslenq.com^
 ||yslsymovnkkjl.site^
+||ysnljalqgq.com^
 ||ysnlkyfjswepg.online^
 ||yssdtazevgzqe.online^
 ||ystationalhed.com^
