@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-04T12:41:27.661Z
+! Last modified: 2026-01-04T14:19:28.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13862,6 +13862,7 @@ vkcdnservice.appspot.com^
 ||coltlimb.com^
 ||columbahealing.cyou^
 ||columborecluse.help^
+||columnspastrybonnet.com^
 ||comalonger.com^
 ||comarind.com^
 ||comasswobbed.cyou^
@@ -15177,6 +15178,7 @@ vkcdnservice.appspot.com^
 ||dazedengage.com^
 ||dazhantai.com^
 ||dazmmlkurukfj.space^
+||dazzlejigged.cfd^
 ||dazzlingdelay.com^
 ||db0a4b4eb7.com^
 ||dba1bc1fdf.com^
@@ -17728,6 +17730,7 @@ vkcdnservice.appspot.com^
 ||enot.fyi^
 ||enoughrawin.cyou^
 ||enoughturtlecontrol.com^
+||enpiaconfuse.qpon^
 ||enpwguftxyrgv.online^
 ||enqueretaculli.cfd^
 ||enquiryjennie.cyou^
@@ -18604,6 +18607,7 @@ vkcdnservice.appspot.com^
 ||farflung-switch.com^
 ||fargwyn.com^
 ||farhandvitular.qpon^
+||farlegease.cfd^
 ||farleskimmo.cfd^
 ||farmeelshop.help^
 ||faroffteaching.pro^
@@ -18970,6 +18974,7 @@ vkcdnservice.appspot.com^
 ||fiddlerfoxily.qpon^
 ||fiddlerheml.click^
 ||fiddleyhigdon.com^
+||fidelerelive.cfd^
 ||fidelitygenerationsmistletoe.com^
 ||fidelslaggy.help^
 ||fidgethid.com^
@@ -19483,6 +19488,7 @@ vkcdnservice.appspot.com^
 ||forcefulpacehauled.com^
 ||forcertollon.help^
 ||fordedcostaea.com^
+||fordjuly.com^
 ||fordletze.com^
 ||fordouwait.net^
 ||forearmthrobjanuary.com^
@@ -20447,6 +20453,7 @@ vkcdnservice.appspot.com^
 ||geesoaptomu.net^
 ||geethemaushaupa.net^
 ||geeweseeglep.net^
+||geewoogeeg.com^
 ||gefiqflpfiikr.site^
 ||gefqbzyzufohv.online^
 ||geghlyrecomemu.com^
@@ -20944,6 +20951,7 @@ vkcdnservice.appspot.com^
 ||glowingnews.com^
 ||glowparegal.cfd^
 ||gloytrkb.com^
+||glozingweakweeze.cyou^
 ||glqomjkpepqam.site^
 ||glqsxlvrhuxba.love^
 ||glsikeayvohta.site^
@@ -23597,6 +23605,7 @@ vkcdnservice.appspot.com^
 ||igleebulewho.net^
 ||igloohq.com^
 ||ignateignatetame.com^
+||igniterafzelia.qpon^
 ||ignoblerectifymargaret.com^
 ||ignorant-excitement.pro^
 ||ignorant-party.pro^
@@ -23901,6 +23910,7 @@ vkcdnservice.appspot.com^
 ||imtvbovcxwhvl.global^
 ||imuyiqtmscgiy.space^
 ||imuyzqvydxswd.online^
+||imvkovzhmbkg.com^
 ||imyanmarads.com^
 ||imydreamsauknd.com^
 ||imyfpshmxxnis.website^
@@ -26072,6 +26082,7 @@ vkcdnservice.appspot.com^
 ||kiqdktywyiapy.online^
 ||kiqqxuwxgboqm.icu^
 ||kirkborazon.com^
+||kirsenhumoral.cfd^
 ||kirteexe.tv^
 ||kirtookroaz.net^
 ||kirujh.com^
@@ -27047,6 +27058,7 @@ vkcdnservice.appspot.com^
 ||legitimatepoint.pro^
 ||leglessreekers.help^
 ||leglikedescantwonder.com^
+||leglikeiberism.qpon^
 ||leglopoomsu.com^
 ||legsuicidal.com^
 ||legworkmandan.help^
@@ -29046,6 +29058,7 @@ vkcdnservice.appspot.com^
 ||milljeanne.com^
 ||millsurfaces.com^
 ||milnhghbwgyco.site^
+||milordschowing.shop^
 ||milpasexogyra.cfd^
 ||milseebsuboals.com^
 ||milterismaili.cfd^
@@ -30640,6 +30653,7 @@ vkcdnservice.appspot.com^
 ||nikkiexxxads.com^
 ||nikqxlrmmxang.online^
 ||nillingsmell.cfd^
+||nillstawney.cfd^
 ||nilroobsoachoa.net^
 ||nimbicanduc.help^
 ||nimble-way.pro^
@@ -36122,6 +36136,7 @@ vkcdnservice.appspot.com^
 ||qxsgambwwkoib.site^
 ||qxvgqpyhc41fzlvpxh9xluileyg.rest^
 ||qxvreljnjaqwr.online^
+||qxxbwjrcq.com^
 ||qxynqtlwjfmqo.space^
 ||qxyyxsrpzfddj.space^
 ||qxzfdeagblwys.space^
@@ -36215,6 +36230,7 @@ vkcdnservice.appspot.com^
 ||radbpxidnynun.online^
 ||radiancethedevice.com^
 ||radiantmedia.net^
+||radiantspacecraftbell.com^
 ||radianttank.com^
 ||radiatortackyhag.com^
 ||radishrarity.com^
@@ -36455,6 +36471,7 @@ vkcdnservice.appspot.com^
 ||rdexylsftabnr.store^
 ||rdezqwydewmuu.store^
 ||rdfeesvsxhsyn.online^
+||rdgtnmnpmpli.com^
 ||rdhsefvixvaws.space^
 ||rdhzeagmyxdim.site^
 ||rdilgjxfabtiu.life^
@@ -38796,6 +38813,7 @@ vkcdnservice.appspot.com^
 ||sfacjbrjfczyy.online^
 ||sfahuhmlwdjop.store^
 ||sfblgasgohxzz.online^
+||sfebbqajytww.com^
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
 ||sfipncxha.com^
@@ -38861,6 +38879,7 @@ vkcdnservice.appspot.com^
 ||shamoylumbus.cyou^
 ||shamyouthattach.com^
 ||shanaurg.net^
+||shandryperoxy.qpon^
 ||shanlinseed.com^
 ||shanorin.com^
 ||shanotchoulte.net^
@@ -41085,6 +41104,7 @@ vkcdnservice.appspot.com^
 ||tapjoyads.com^
 ||taposaupbend.com^
 ||tapvigai.property^
+||tararumors.cfd^
 ||targeta41.net^
 ||targetmatch.co^
 ||tarhszehtlxis.website^
@@ -42478,6 +42498,7 @@ vkcdnservice.appspot.com^
 ||tshlbkef.net^
 ||tsinkfxlfmihx.site^
 ||tsiwedgiefrenzic.cyou^
+||tsiwoulukdlike.org^
 ||tsiwqtng8huauw30n.com^
 ||tskissuer.cfd^
 ||tslamrzckfctp.icu^
