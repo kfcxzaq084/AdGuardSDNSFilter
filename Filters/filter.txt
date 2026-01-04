@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-04T18:30:18.241Z
+! Last modified: 2026-01-04T20:24:08.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10262,6 +10262,7 @@ vkcdnservice.appspot.com^
 ||backfiremountslippery.com^
 ||backgroundrunway.com^
 ||backieclanksunisoil.help^
+||backiezudda.com^
 ||backjawpodatus.com^
 ||backspinreentryupright.com^
 ||backwashcrowdstylized.com^
@@ -12402,6 +12403,7 @@ vkcdnservice.appspot.com^
 ||cahnitefulvene.cfd^
 ||cahootdisodic.com^
 ||cahzlmvowjlcu.space^
+||caichaidob.net^
 ||caigoowheephoa.xyz^
 ||caiheegliptojih.net^
 ||caipeesteeglo.net^
@@ -18654,6 +18656,7 @@ vkcdnservice.appspot.com^
 ||fatallybering.help^
 ||fatallydecresc.cfd^
 ||fatalshould.com^
+||fatanger.pro^
 ||fatchilli.media^
 ||fatconstant.com^
 ||fatessilvia.com^
@@ -18874,6 +18877,7 @@ vkcdnservice.appspot.com^
 ||fetisecorsak.click^
 ||feuageepitoke.com^
 ||feuagescowing.cfd^
+||feuchtinfarce.qpon^
 ||feuingcrche.com^
 ||feungepyqmboe.site^
 ||feverfreeman.com^
@@ -20507,6 +20511,7 @@ vkcdnservice.appspot.com^
 ||generosityensurebathing.com^
 ||generousworry.com^
 ||genesismedia.com^
+||genesisplenish.shop^
 ||geneticallydetection.com^
 ||geneticnormalthou.com^
 ||genfpm.com^
@@ -34761,6 +34766,7 @@ vkcdnservice.appspot.com^
 ||propellerads.com^
 ||propellerads.tech^
 ||propellerclick.com^
+||proper-message.pro^
 ||propertyofnews.com^
 ||propertyswordmuttering.com^
 ||propgoservice.com^
@@ -37764,6 +37770,7 @@ vkcdnservice.appspot.com^
 ||rscyoaposqeay.space^
 ||rseducationinin.com^
 ||rsgdtlpixkack.site^
+||rshktvhqypddjs.com^
 ||rshmauyblkmymau.net^
 ||rsihudniulpvr.online^
 ||rsityexcellojapanelm.org^
@@ -44564,6 +44571,7 @@ vkcdnservice.appspot.com^
 ||vjuenyeckagkz.site^
 ||vjvgfxzt8bb4x1f611gcfx5.cfd^
 ||vjvvzogfohfqn.space^
+||vjwndisrrglox.com^
 ||vjxknipyxdzos.online^
 ||vjybecozboonv.online^
 ||vjycodznmemui.website^
