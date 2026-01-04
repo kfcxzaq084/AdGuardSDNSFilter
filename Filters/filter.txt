@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-04T01:56:31.744Z
+! Last modified: 2026-01-04T03:53:40.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6370,6 +6370,7 @@ vkcdnservice.appspot.com^
 ||1nqrqa.de^
 ||1nr8eb9bkxt24ub4mwtcullg2wu.cfd^
 ||1ns1rosb.de^
+||1o116ib9qkeefu7h2ych4p8.cfd^
 ||1odi7j43c.de^
 ||1osb.com^
 ||1p8ln1dtr.de^
@@ -8642,6 +8643,7 @@ vkcdnservice.appspot.com^
 ||ajillionmax.com^
 ||ajimezcox.help^
 ||ajjjhuaq.com^
+||ajjkmooarymm.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
 ||ajmivgvmaclye.online^
@@ -12231,6 +12233,7 @@ vkcdnservice.appspot.com^
 ||bxerfbkaoasof.space^
 ||bxewixjwwllvo.site^
 ||bxglynwnlnrwa.website^
+||bxgonbdq.xyz^
 ||bxhnfmijbikzg.space^
 ||bxiblgutsaead.site^
 ||bxiqmpioldqqk.online^
@@ -14113,6 +14116,7 @@ vkcdnservice.appspot.com^
 ||coolstreamsearch.com^
 ||coonilyreaver.qpon^
 ||coonouptiphu.xyz^
+||coopeecluniacgauntry.cyou^
 ||cooperatemarker.com^
 ||cooperationdungfrugal.com^
 ||cooperative-convert.com^
@@ -15507,6 +15511,7 @@ vkcdnservice.appspot.com^
 ||deposerfarting.cfd^
 ||depreciatorybollocksupkitchen.com^
 ||deprivationperkcorrectly.com^
+||depthcharlieteentsy.cfd^
 ||depurechibouk.cyou^
 ||deputizeeverydayexorcist.com^
 ||deputizepacifistwipe.com^
@@ -17684,6 +17689,7 @@ vkcdnservice.appspot.com^
 ||ennhtjzkuhjjw.online^
 ||enniamin.cyou^
 ||ennlitmm.com^
+||enodateenglue.cyou^
 ||enolicmalayan.qpon^
 ||enormousgrievedsquall.com^
 ||enormousitem.pro^
@@ -22336,6 +22342,7 @@ vkcdnservice.appspot.com^
 ||hf5rbejvpwds.com^
 ||hfbhbzlflpuiz.site^
 ||hfcibylpjevbf.website^
+||hfclviaeduibt.com^
 ||hfcqcubumdrpp.website^
 ||hfdjmoedkjf.asia^
 ||hfdrgnarmwzsy.space^
@@ -27891,6 +27898,7 @@ vkcdnservice.appspot.com^
 ||luabrsxnfdloc.space^
 ||luagyywwmuq.xyz^
 ||luationiamcu.org^
+||lubmfhidt.com^
 ||lubowitz.biz^
 ||lubywhabi.com^
 ||lucajlsq.xyz^
@@ -38144,6 +38152,7 @@ vkcdnservice.appspot.com^
 ||sarcasticnotarycontrived.com^
 ||sardineabstract.com^
 ||sardineoctoberconnecting.com^
+||sargegamma.cyou^
 ||sarindaemerick.click^
 ||sarrowgrivois.com^
 ||sarsencogs.help^
