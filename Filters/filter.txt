@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-04T14:19:28.573Z
+! Last modified: 2026-01-04T16:25:23.329Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20004,6 +20004,7 @@ vkcdnservice.appspot.com^
 ||fvehrcyeofbzc.space^
 ||fvexfpizizfjh.website^
 ||fvjhdijvqirab.site^
+||fvjnkvhowc.com^
 ||fvkobfbmfdjhp.website^
 ||fvkynpfjthef.net^
 ||fvlhshpmjnrck.website^
@@ -26108,6 +26109,7 @@ vkcdnservice.appspot.com^
 ||kizczfmkazfki.site^
 ||kizjvkpefpgxh.site^
 ||kizllsirbnysc.space^
+||kjagneufhssliaq.xyz^
 ||kjamzqljbwpgk.space^
 ||kjdhwverhmbem.space^
 ||kjdwlyyvqxiguvo.com^
@@ -27557,6 +27559,7 @@ vkcdnservice.appspot.com^
 ||llzahqzvuzorn.website^
 ||llzlbnvv.work^
 ||lmaarwdqraeak.online^
+||lmalyjyevjblr.top^
 ||lmaotkbcoo.com^
 ||lmaowukrqnyiu.site^
 ||lmatkhsiqnvxtt.net^
@@ -28915,6 +28918,7 @@ vkcdnservice.appspot.com^
 ||mfltgzltzqvni.online^
 ||mfmhfaoofxxzc.site^
 ||mfnn8ec4fqpxoxl.cfd^
+||mfnpefbt.com^
 ||mfoagtlvqidwkj.xyz^
 ||mfobenjxxmggr.store^
 ||mfokuvfzcevjp.website^
@@ -32273,6 +32277,7 @@ vkcdnservice.appspot.com^
 ||optad360.net^
 ||opticlygremio.com^
 ||optidownloader.com^
+||optimal-expression.pro^
 ||optimal-neat.pro^
 ||optimistic-grade.pro^
 ||optimistic-strip.pro^
@@ -33734,6 +33739,7 @@ vkcdnservice.appspot.com^
 ||pikiblurb.cfd^
 ||piknzkqsmelfm.space^
 ||pikyaucan.qpon^
+||pikyp47x3l5ypqtehtyvqpnj.cfd^
 ||pilawstelleevisive.cyou^
 ||pilchkariti.cfd^
 ||pilerrumba.click^
@@ -38292,6 +38298,7 @@ vkcdnservice.appspot.com^
 ||savagesmulatta.cyou^
 ||save-apps.monster^
 ||saveryblind.cyou^
+||saveterracehangnail.com^
 ||saveunstable.com^
 ||savinist.com^
 ||savinmaggie.cyou^
@@ -40080,6 +40087,7 @@ vkcdnservice.appspot.com^
 ||sqlcbvoesbeut.online^
 ||sqlick.com^
 ||sqmflktsfxqvf.site^
+||sqoqtubl.com^
 ||sqpcjfvdgnemlhf.net^
 ||sqrekndc.fun^
 ||sqsupmkbenkyh.site^
