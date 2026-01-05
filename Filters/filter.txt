@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-05T03:58:25.221Z
+! Last modified: 2026-01-05T05:01:20.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -23131,6 +23131,7 @@ vkcdnservice.appspot.com^
 ||htintpa.tech^
 ||htkcm.com^
 ||htkialflazmtc.site^
+||htkvyhghkgegm.com^
 ||htkyarsmdltca.site^
 ||htl.bid^
 ||htlbbzjjgmgye.space^
@@ -27332,6 +27333,7 @@ vkcdnservice.appspot.com^
 ||lieflyinsurer.cyou^
 ||lieforepawsado.com^
 ||liegelygosport.com^
+||liejowler.com^
 ||liepotikons.com^
 ||lieugiros.shop^
 ||lievestcrasser.com^
@@ -28796,6 +28798,7 @@ vkcdnservice.appspot.com^
 ||medlikeamate.org^
 ||medlineactimend.com^
 ||mednipa.life^
+||medocleesecrunchy.cyou^
 ||medqezanrpnhq.website^
 ||medyanetads.com^
 ||meecareephiroa.net^
@@ -41581,6 +41584,7 @@ vkcdnservice.appspot.com^
 ||theirbellstudio.co^
 ||theirpeninsula.com^
 ||theirsneedful.com^
+||theirswayao.cfd^
 ||themeillogical.com^
 ||themselvessuit.com^
 ||thenageselfs.cyou^
@@ -45339,6 +45343,7 @@ vkcdnservice.appspot.com^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
 ||wdgcycndyqj.com^
+||wdgoxfehfejl.com^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
 ||wdjtyigmvcgtx.space^
