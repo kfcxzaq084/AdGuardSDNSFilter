@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-05T18:34:21.145Z
+! Last modified: 2026-01-05T20:26:40.010Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9952,6 +9952,7 @@ vkcdnservice.appspot.com^
 ||avouerosiest.help^
 ||avpizbldgpfpg.space^
 ||avpqvqfeinahp.space^
+||avpsumox.com^
 ||avroad3431.fun^
 ||avsink3431.fun^
 ||avsqavxk.com^
@@ -11845,6 +11846,7 @@ vkcdnservice.appspot.com^
 ||bridlearctic.com^
 ||briefcasebuoyduster.com^
 ||briefinedibleparson.com^
+||brieflynimbleignition.com^
 ||briefrush.pro^
 ||brieftrouble.com^
 ||brigadedelegatesandbox.com^
@@ -24807,6 +24809,7 @@ vkcdnservice.appspot.com^
 ||jacanastruller.cyou^
 ||jacanavesica.cfd^
 ||jacbxfspyctmr.website^
+||jacinthbravishcirrhus.cyou^
 ||jacinthpulpilymispaid.cyou^
 ||jackalclenchedbedside.com^
 ||jackaltimer.com^
@@ -26398,6 +26401,7 @@ vkcdnservice.appspot.com^
 ||kodaodrterxfj.site^
 ||kodbafryxemdz.website^
 ||koeebuetwevng.space^
+||koffbegaudismaili.cyou^
 ||kofxbthodmiia.space^
 ||kohadfzjolyfy.website^
 ||kohiseewhatm.com^
@@ -33391,6 +33395,7 @@ vkcdnservice.appspot.com^
 ||pdjbkuevogfks.online^
 ||pdkiqznelwvdj.site^
 ||pdkxnkjozibbf.website^
+||pdlfjpqbiooic.com^
 ||pdllogging.qpon^
 ||pdn-1.com^
 ||pdn-2.com^
@@ -45069,6 +45074,7 @@ vkcdnservice.appspot.com^
 ||vvavemweejphd.website^
 ||vvbxyvqcwsl.net^
 ||vvcgowtescmqa.website^
+||vvewkblqoewey.top^
 ||vvhtpupuhcixg.site^
 ||vvkholowfoeku.website^
 ||vvlqbmzjzmowm.top^
@@ -99425,6 +99431,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracing.yelp.com^
 ||conversions-config.reddit.com^
 ||dns-clientinfo.vtg.paramount.tech^
 ||use.hetzner.com^
@@ -102559,6 +102566,13 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||mob2.welltastic-app.com^
+||amplitude.thepure.app^
+||amplilab.thepure.app^
+||logger.radiatetheworld.com^
+||client-events.gurushots.com^
+||stats-api.skylum.com^
+||aet.spotify.com^
 ||tc.weszxdrf.com^
 ||log.hotweathers.live^
 ||log.eufylife.com^
