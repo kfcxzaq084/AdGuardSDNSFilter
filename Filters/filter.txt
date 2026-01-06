@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-06T01:47:33.138Z
+! Last modified: 2026-01-06T03:39:21.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6513,6 +6513,7 @@ vkcdnservice.appspot.com^
 ||2fqkh33xce1npuuq.rest^
 ||2g2kaa598.de^
 ||2gg6ebbhh.de^
+||2gzuu3g9uk32b499rfn1rpv.cfd^
 ||2h4els889.com^
 ||2h6skj2da.de^
 ||2hpb1i5th.de^
@@ -12459,6 +12460,7 @@ vkcdnservice.appspot.com^
 ||callyourinformer.com^
 ||calm-stop.pro^
 ||calmbytedishwater.com^
+||calmessay.pro^
 ||calmlygelatinecandle.com^
 ||calvali.com^
 ||calverdeutzia.help^
@@ -12894,6 +12896,7 @@ vkcdnservice.appspot.com^
 ||cenkvkaqcwxfw.space^
 ||cennter.com^
 ||censeephapse.click^
+||censertheet.cfd^
 ||censuscompassembryo.com^
 ||censusmarrydespair.com^
 ||centalsindustrate.org^
@@ -14351,6 +14354,7 @@ vkcdnservice.appspot.com^
 ||cpnlqt7chij3no85ujmttpvlgjjecc.cfd^
 ||cppopmfbsoohj.top^
 ||cpsqqqgynbdjv.online^
+||cptgxkosyjto.com^
 ||cpueaimrtggmd.space^
 ||cpuim.com^
 ||cpuzspopetlsg.space^
@@ -16258,6 +16262,7 @@ vkcdnservice.appspot.com^
 ||dogwrite.com^
 ||dohetsonou.net^
 ||dohjxjjygwovt.website^
+||doingsmissangovarial.cyou^
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
 ||dokrithauw.net^
@@ -18995,6 +19000,7 @@ vkcdnservice.appspot.com^
 ||fhcrurwqhj4mqjuhp7fh.rest^
 ||fhgh9sd.com^
 ||fhgvvrpqkxafv.website^
+||fhhbytallrdlk.com^
 ||fhidzinivqjfv.site^
 ||fhiegretefqfb.website^
 ||fhiulnbk.cam^
@@ -23381,6 +23387,7 @@ vkcdnservice.appspot.com^
 ||hxoewq.com^
 ||hxoybxtpbvmbl.space^
 ||hxrmmbjarzorn.online^
+||hxsxdwym.com^
 ||hxtbpzkeroxrv.space^
 ||hxtvpdjsjgvvk.site^
 ||hxvurenflajbf.online^
@@ -33060,6 +33067,7 @@ vkcdnservice.appspot.com^
 ||pachakcokes.cyou^
 ||pachegaimax.net^
 ||pacifictuckercloak.com^
+||pacifyango.shop^
 ||packagebellysmoothly.com^
 ||packeteagle.com^
 ||packlenseavesdrop.com^
@@ -44099,6 +44107,7 @@ vkcdnservice.appspot.com^
 ||uxpprdoqvkxma.space^
 ||uxqudtzzbkhfq.website^
 ||uxrcoqdzdzajy.site^
+||uxrnqtpdltdsthj.xyz^
 ||uxtzpzxryhbvh.online^
 ||uxweydwrulieb.website^
 ||uxwinyafloqfy.store^
@@ -46528,6 +46537,7 @@ vkcdnservice.appspot.com^
 ||wugjktzljgefy.website^
 ||wugoji.xyz^
 ||wugroansaghadry.com^
+||wugvwygtywksuh.com^
 ||wui5ihfvyqe3vj.cfd^
 ||wukcvtbrlyrxd.store^
 ||wukcwgopqoajg.website^
@@ -117076,6 +117086,7 @@ dlsdk.appsflyer.com^
 ||waulzelnvh.com^
 ||syncope12.top^
 ||catalysis39.top^
+||xt1nx0rs7n.com^
 ||g2wg5308q.com^
 ||cgcg01050ht.com^
 ||houotgk3m.com^
@@ -117563,7 +117574,7 @@ dlsdk.appsflyer.com^
 ||v53groc9v.com^
 ||dialogue32.com^
 ||vid12050hl.com^
-||sofsxz.com^
+||tebv.cn^
 ||kawf.cn^
 ||electronic23.com^
 ||qhangrotl.com^
