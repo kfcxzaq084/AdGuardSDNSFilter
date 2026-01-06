@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-06T04:40:25.486Z
+! Last modified: 2026-01-06T06:36:04.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9950,6 +9950,7 @@ vkcdnservice.appspot.com^
 ||avkauywgzdxlx.online^
 ||avlmy.com^
 ||avloan3431.fun^
+||avmhpkbmvsqx.com^
 ||avmmsekplixsk.space^
 ||avmonk3431.fun^
 ||avocaterehouse.cyou^
@@ -9997,6 +9998,7 @@ vkcdnservice.appspot.com^
 ||awbbjmp.com^
 ||awbbsat.com^
 ||awberaurir.com^
+||awbkaywjpabwy.xyz^
 ||awbrwrywkokmj.top^
 ||awbrwrywkwqwj.top^
 ||awcdwdfygrroo.store^
@@ -10768,6 +10770,7 @@ vkcdnservice.appspot.com^
 ||benrxbjyehvin.online^
 ||bensonshowd.com^
 ||bentpersuasive.com^
+||bentsdiorism.com^
 ||benue.site^
 ||benweedoctic.cfd^
 ||benxlgiimigkq.space^
@@ -12161,6 +12164,7 @@ vkcdnservice.appspot.com^
 ||burkerchyazic.cyou^
 ||burkhakalekah.com^
 ||burlytonight.pro^
+||burrelgisla.shop^
 ||burryethene.cfd^
 ||burryidiots.cfd^
 ||bursasrewaxes.qpon^
@@ -12594,6 +12598,7 @@ vkcdnservice.appspot.com^
 ||cartelssalp.cyou^
 ||cartiereleme.qpon^
 ||cartining-specute.com^
+||cartnye.qpon^
 ||cartrigepromised.com^
 ||cartrigestale.com^
 ||carungo.com^
@@ -13162,6 +13167,7 @@ vkcdnservice.appspot.com^
 ||chethoutaujeed.net^
 ||chetiftaphoa.net^
 ||chevalriflery.qpon^
+||chevebyword.com^
 ||chewhaidroub.net^
 ||chezoams.com^
 ||chfinqdgoptju.website^
@@ -27473,6 +27479,7 @@ vkcdnservice.appspot.com^
 ||limaceacellarjumble.cfd^
 ||limatailsaib.net^
 ||limbacoaming.cyou^
+||limbostap.qpon^
 ||limbouswirer.cyou^
 ||limited-bird.pro^
 ||limited-final.pro^
@@ -28191,6 +28198,7 @@ vkcdnservice.appspot.com^
 ||lunytaboos.help^
 ||luoqdtopebadx.store^
 ||lupmsbacuqlwm.online^
+||luqnucopvr.com^
 ||luqxzzythzopn.space^
 ||lurerbons.help^
 ||lurgaimt.net^
@@ -28946,6 +28954,7 @@ vkcdnservice.appspot.com^
 ||melodic-mess.com^
 ||melodicproof.pro^
 ||melodramaticquery.com^
+||meloiddilute.cfd^
 ||melongatesdexterity.com^
 ||melonslaid.help^
 ||melpellcombats.help^
@@ -31787,6 +31796,7 @@ vkcdnservice.appspot.com^
 ||octopuspop.com^
 ||octroizombis.cfd^
 ||octuortogaed.cyou^
+||oculistaboil.qpon^
 ||ocvbfvpmfhhmbr.com^
 ||ocvrulo.digital^
 ||ocvzuwajq.com^
@@ -32959,6 +32969,7 @@ vkcdnservice.appspot.com^
 ||oxggcpdorbixe.xyz^
 ||oxgnxuoxiizko.xyz^
 ||oxgocmsci.com^
+||oxidfrisketspic.cyou^
 ||oxjjllkjlpkxs.online^
 ||oxjlblrzzfmzh.online^
 ||oxknmkqejvseu.site^
@@ -33193,6 +33204,7 @@ vkcdnservice.appspot.com^
 ||papatrol.xyz^
 ||papawrefits.com^
 ||papeeheeph.net^
+||paplikeverily.qpon^
 ||papmeatidigbo.com^
 ||pappiernobbler.cfd^
 ||pappousmoriori.rest^
@@ -33421,6 +33433,7 @@ vkcdnservice.appspot.com^
 ||pctrevoir.cyou^
 ||pctsrv.com^
 ||pctv.xyz^
+||pcwpyvbisdu.com^
 ||pdainpzfelpch.site^
 ||pdasiese.net^
 ||pdatbyyinqnco.site^
@@ -41967,6 +41980,7 @@ vkcdnservice.appspot.com^
 ||tingledthraws.qpon^
 ||tinkerwidth.com^
 ||tinnilybagdi.cfd^
+||tinningbilk.cfd^
 ||tinselspecifically.com^
 ||tinsus.com^
 ||tinted-run.com^
@@ -43144,6 +43158,7 @@ vkcdnservice.appspot.com^
 ||uddougqbgbhmg.website^
 ||udfaguykrfeur.site^
 ||udgdzwjgilmwn.site^
+||udishcotty.cyou^
 ||udjolmaphsyfo.online^
 ||udjvypscmvaxq.website^
 ||udkeqktfblppo.site^
@@ -45320,6 +45335,7 @@ vkcdnservice.appspot.com^
 ||wakealibis.com^
 ||wakesblingerbasket.cyou^
 ||wakonbhandar.shop^
+||wakratgr.com^
 ||walletrelapse.com^
 ||walletsmobsmanawner.click^
 ||wallieoutplod.cyou^
@@ -47331,6 +47347,7 @@ vkcdnservice.appspot.com^
 ||yaebhbyweyxvt.store^
 ||yaffingunbegun.cyou^
 ||yafvuazomntue.website^
+||yaggersured.shop^
 ||yaguazaderail.shop^
 ||yahdrctswmvax.space^
 ||yajeindieselvamosed.cyou^
@@ -47385,6 +47402,7 @@ vkcdnservice.appspot.com^
 ||yaylgwxilnrio.website^
 ||yb23b.com^
 ||yb78i88x9t5py3.rest^
+||ybcrloylb.com^
 ||ybdigfjtqjcnu.site^
 ||ybdjitccawtqj.website^
 ||ybibpwduubqhk.space^
@@ -48678,6 +48696,7 @@ vkcdnservice.appspot.com^
 ||zyblzreyykyjw.top^
 ||zybnqcnikmpqu.life^
 ||zybrdr.com^
+||zycz84w8w3ee8wc.cfd^
 ||zyf03k.xyz^
 ||zygnemalorissixteen.cyou^
 ||zygoticlatched.cfd^
@@ -50117,6 +50136,7 @@ vkcdnservice.appspot.com^
 ||evenpatroller.com^
 ||evenyumbroadlywitharmoire.com^
 ||foldyahoolestorderly.com^
+||followingbehold.com^
 ||forkstrictly.com^
 ||forrepresentzen.com^
 ||fs-loader.com^
