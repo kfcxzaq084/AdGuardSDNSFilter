@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-06T03:39:21.475Z
+! Last modified: 2026-01-06T04:40:25.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8450,6 +8450,7 @@ vkcdnservice.appspot.com^
 ||agqoshfujku.com^
 ||agraffefib.shop^
 ||agraithazoab.net^
+||agraniaunbogbooty.cfd^
 ||agreeableadvantage.pro^
 ||agreeablebeggarlyvarieties.com^
 ||agreeableoccasion.com^
@@ -9015,6 +9016,7 @@ vkcdnservice.appspot.com^
 ||amylomjemwhare.cfd^
 ||amyousocclude.cyou^
 ||amyrolrebob.cfd^
+||amzrjywvyrelv.top^
 ||anaceschalina.help^
 ||anacidethide.cfd^
 ||anaemicforgone.help^
@@ -17814,6 +17816,7 @@ vkcdnservice.appspot.com^
 ||enthronediscovering.com^
 ||enthroneunborn.com^
 ||enthusiasticfibreassembly.com^
+||enthusiasticinsanity.com^
 ||entia.site^
 ||entiremain.com^
 ||entjgcr.com^
@@ -29355,6 +29358,7 @@ vkcdnservice.appspot.com^
 ||mjhjofacejzxi.space^
 ||mjiillaizjckm.website^
 ||mjkjatrhfvjsd.website^
+||mjlgpcju.com^
 ||mjlmollknjmhm.online^
 ||mjnaxeqmnpmgg.site^
 ||mjriazemzybdg.online^
@@ -34402,6 +34406,7 @@ vkcdnservice.appspot.com^
 ||poolgmsd.com^
 ||poolpeephole.com^
 ||poolpool.biz^
+||poonahimpers.com^
 ||poonkotos.click^
 ||poorcommiserateexists.com^
 ||poorlyadjustvisual.com^
@@ -48183,6 +48188,7 @@ vkcdnservice.appspot.com^
 ||zeqbfcbuyfnyz.website^
 ||zerads.com^
 ||zercenius.com^
+||zerdidrardoo.net^
 ||zeroclampentice.com^
 ||zeroglamour.com^
 ||zeroizeslavize.rest^
@@ -107492,6 +107498,7 @@ dlsdk.appsflyer.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||cdn-4k-webp.site^
 ||adzep.io^
 ||adme2.click^
 ||mathilde-ads.com^
