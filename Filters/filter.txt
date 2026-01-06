@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-06T18:33:12.453Z
+! Last modified: 2026-01-06T20:25:24.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9910,6 +9910,7 @@ vkcdnservice.appspot.com^
 ||autoportgen.space^
 ||autopsytan.com^
 ||auvaugushik.net^
+||auwhouwikri.com^
 ||auxml.com^
 ||auypgtmvwerhh.store^
 ||auyuistnjvgmi.site^
@@ -10564,6 +10565,7 @@ vkcdnservice.appspot.com^
 ||bchqezzrmsqng.online^
 ||bclogin-check.com^
 ||bcloudhost.com^
+||bclqzrrkefcwq.website^
 ||bcluksfhyquqp.space^
 ||bcmimhkecgwfj.space^
 ||bcngzqzripfgb.online^
@@ -15692,6 +15694,7 @@ vkcdnservice.appspot.com^
 ||devotedwhile.com^
 ||devoteegibberishsinister.com^
 ||devotesobeyed.help^
+||devourtitanosandeep.cfd^
 ||devuba.xyz^
 ||dewanbirchen.qpon^
 ||dewaxesintrod.help^
@@ -23203,6 +23206,7 @@ vkcdnservice.appspot.com^
 ||hruch.site^
 ||hrvmmjeueftjj.site^
 ||hrvvqcnilgti34uhxcgcigcn33.cfd^
+||hrwfrjwrekmqd.site^
 ||hrwhwcyqjritt.xyz^
 ||hrwozjgbmxiad.website^
 ||hrxeublgkniat.website^
@@ -25278,6 +25282,7 @@ vkcdnservice.appspot.com^
 ||jjfseftxrstt.net^
 ||jjfseftxrstt.xyz^
 ||jjgscmamptmer.site^
+||jjhkppnhro.com^
 ||jjixhsyfdkv.net^
 ||jjixhsyfdkv.xyz^
 ||jjjgqtzlslhzi.online^
@@ -25616,6 +25621,7 @@ vkcdnservice.appspot.com^
 ||jsnosxbimwqrj.site^
 ||jsnryngvalfji.site^
 ||jspgnugrjlvar.xyz^
+||jspimmksj.com^
 ||jsqlysrsrfauh.website^
 ||jsretra.com^
 ||jssearch.net^
@@ -27318,6 +27324,7 @@ vkcdnservice.appspot.com^
 ||lerfhcjni.xyz^
 ||lernodydenknow.info^
 ||leroaboy.net^
+||lerotles.cyou^
 ||lesetanoa.cyou^
 ||leshellhag.cyou^
 ||lessesdejeune.cyou^
@@ -27339,6 +27346,7 @@ vkcdnservice.appspot.com^
 ||letstry69.xyz^
 ||lettermechanism.com^
 ||letterwolves.com^
+||lettigaattires.com^
 ||lettileroute.com^
 ||lettingsneak.com^
 ||lettyuplaid.cyou^
@@ -28132,6 +28140,7 @@ vkcdnservice.appspot.com^
 ||lsbbtclkiwrdx.online^
 ||lsbzzkonxksrw.site^
 ||lscudygcxiqnn.online^
+||lsdcqjesvxgbw.space^
 ||lsdkprkiwnnzy.site^
 ||lsdvpuxuibeih.site^
 ||lsefpqchaizsv.site^
@@ -31986,6 +31995,7 @@ vkcdnservice.appspot.com^
 ||offspringthisscarcely.com^
 ||ofgogoatan.com^
 ||ofgotckjgevpm.space^
+||ofgxwyvlechxd.site^
 ||ofhappinyer.com^
 ||ofhghlgccwhwh.site^
 ||ofhisladyloveheh.com^
@@ -37088,6 +37098,7 @@ vkcdnservice.appspot.com^
 ||relaxesgyrocar.help^
 ||relaxtime24.biz^
 ||relayerragees.cyou^
+||relearnopahs.com^
 ||releasedfinish.com^
 ||relentdendric.cyou^
 ||relestar.com^
@@ -42262,6 +42273,7 @@ vkcdnservice.appspot.com^
 ||tnomtrfvxvlza.space^
 ||tnpads.xyz^
 ||tnqxquygoczcy.website^
+||tnrlowinajjgu.site^
 ||tnsgzlbrotxir.store^
 ||tntkhoka.click^
 ||tntnjpusemycs.website^
@@ -105929,6 +105941,7 @@ dlsdk.appsflyer.com^
 ||oldfashionedoffer.com^
 ||oldportcoffee.com^
 ||omgthink.com^
+||onecrow.net^
 ||onedropocean.com^
 ||onlinestarten.net^
 ||onlywoofs.com^
@@ -105953,6 +105966,7 @@ dlsdk.appsflyer.com^
 ||owlreporter.com^
 ||owlsr.us^
 ||owlstwo.com^
+||owltin.com^
 ||oxygenfuse.com^
 ||pailcrime.com^
 ||pailpatch.com^
