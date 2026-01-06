@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-06T14:23:39.964Z
+! Last modified: 2026-01-06T16:30:21.683Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13958,6 +13958,7 @@ vkcdnservice.appspot.com^
 ||common-professional.pro^
 ||commonsshakeup.cyou^
 ||commonvivacious.com^
+||commonwealthgroovemadam.com^
 ||commonwealthproficient.com^
 ||commonwealthscenery.com^
 ||communicatedroopcomer.com^
@@ -23720,6 +23721,7 @@ vkcdnservice.appspot.com^
 ||ifdlcsfuafvst.store^
 ||ifdnzact.com^
 ||iffaqigyyzend.space^
+||ifg3n1c2k5te5o6.cfd^
 ||ifgzbqqkakhzb.today^
 ||ifiankflepsym.website^
 ||ifigent.com^
@@ -24900,6 +24902,7 @@ vkcdnservice.appspot.com^
 ||jaenwyxlzrkos.online^
 ||jaforvsuneysw.website^
 ||jafsuasulxeoh.online^
+||jaftoubsoa.com^
 ||jagatpolary.qpon^
 ||jaglessberendo.rest^
 ||jaigoaphamu.net^
@@ -25009,6 +25012,7 @@ vkcdnservice.appspot.com^
 ||jbzmwqmwqyzaz.top^
 ||jcajuesjvxlqy.store^
 ||jcavguudmzlif.site^
+||jcbfdecxfd.xyz^
 ||jcbrvlltxucej.site^
 ||jcefzyezfomjd.space^
 ||jcfocrpceqtwa.site^
@@ -26242,6 +26246,7 @@ vkcdnservice.appspot.com^
 ||kingcupdrawnly.help^
 ||kingfainted.com^
 ||kingimoomoupt.net^
+||kingingdoylespeave.cyou^
 ||kingrowantilog.cfd^
 ||kingrowolax.qpon^
 ||kingsgateau.qpon^
@@ -27061,6 +27066,7 @@ vkcdnservice.appspot.com^
 ||lavingflue.qpon^
 ||lavouzicamvvi.online^
 ||lavtcyojffug.com^
+||lawful-nature.pro^
 ||lawfullygreater.com^
 ||lawfullylimetreecharges.com^
 ||lawgxwwkgxuho.space^
@@ -27773,6 +27779,7 @@ vkcdnservice.appspot.com^
 ||lmmnkwbtxmrxq.website^
 ||lmn-pou-win.com^
 ||lmngvqqskhppa.online^
+||lmqvowebejzyy.top^
 ||lmrljuiymdtry.space^
 ||lmrwupcucuprv.site^
 ||lmukstyn.xyz^
@@ -29256,6 +29263,7 @@ vkcdnservice.appspot.com^
 ||milkilypipages.help^
 ||milky-silver.pro^
 ||milkygoodness.xyz^
+||milkymonitor.pro^
 ||milkywaynewspaper.com^
 ||milkywonder.pro^
 ||milladvocacyunderstandable.com^
@@ -29486,6 +29494,7 @@ vkcdnservice.appspot.com^
 ||mmadsgadget.com^
 ||mmakalqmmprrl.website^
 ||mmbbsfwzgharz.site^
+||mmcdn.com^
 ||mmchkbriryqrl.space^
 ||mmctsvc.com^
 ||mmdrjpgm.com^
@@ -31281,6 +31290,7 @@ vkcdnservice.appspot.com^
 ||npvgghqmsehdq.club^
 ||npvos.com^
 ||npvqolcucthor.website^
+||npvuflpqvijtjms.com^
 ||npxlkaugtvywe.store^
 ||npykxfaypqrtf.love^
 ||npykxige.net^
@@ -31955,6 +31965,7 @@ vkcdnservice.appspot.com^
 ||official-permit.com^
 ||officialworker.pro^
 ||offmantiner.com^
+||offmyqnpxiqgb.space^
 ||offoonguser.com^
 ||offsetgobetween.com^
 ||offshuppetchan.com^
@@ -35990,6 +36001,7 @@ vkcdnservice.appspot.com^
 ||qlibjfuprhqmebn.com^
 ||qljytcmigkfxc.website^
 ||qlkwfp11222wifeenq.cfd^
+||qlmbkfutbgiux.site^
 ||qloekmmsuwjlq.website^
 ||qlpwodpqwzqcc.website^
 ||qlqdtgamhhnfe.site^
@@ -36151,6 +36163,7 @@ vkcdnservice.appspot.com^
 ||qryckervqngsx.store^
 ||qryezddaqmlxo.online^
 ||qrzddmnxsgjaf.site^
+||qsapmbivybugv.site^
 ||qsbfglhmfunlq.store^
 ||qsblvjjutcbhh.buzz^
 ||qsbqxvdxhbnf.xyz^
@@ -41354,6 +41367,7 @@ vkcdnservice.appspot.com^
 ||taiteemozathou.com^
 ||taizibwgcfhwd.one^
 ||taizigly.net^
+||tajikiamaaskopis.cfd^
 ||takeallsoft.ru^
 ||takecareproduct.com^
 ||takelnk.com^
@@ -42878,6 +42892,7 @@ vkcdnservice.appspot.com^
 ||ttudarqrldyoc.site^
 ||ttusrifbdjqay.online^
 ||ttvshnuvy.net^
+||ttvwrtlaa.com^
 ||ttwmed.com^
 ||ttyqsbjkbuxyp.online^
 ||ttzmedia.com^
@@ -46184,6 +46199,7 @@ vkcdnservice.appspot.com^
 ||wjljwqbzjlezw.top^
 ||wjmepiytpjiki.website^
 ||wjmghujaluysu.online^
+||wjmiremymfgcq.website^
 ||wjopvkcozzxif.online^
 ||wjqpyvulryxtg.site^
 ||wjqtqnstdthrb.website^
@@ -47698,6 +47714,7 @@ vkcdnservice.appspot.com^
 ||yiuonzcmzxodc.site^
 ||yiuywkhqiyemsb.net^
 ||yiv4fpzy3r1nwwl.cfd^
+||yivtsnnmutzkb.site^
 ||yiydsygynhskw.space^
 ||yizghfwqrbhgy.space^
 ||yjcckvcaln.net^
@@ -48325,6 +48342,7 @@ vkcdnservice.appspot.com^
 ||zfgvoltwlszda.site^
 ||zfjhmufunivir.space^
 ||zfjuaamsogmdl.site^
+||zfqskzjijhgma.space^
 ||zfuldyycbvbiz.space^
 ||zfutnrdsaifyd.online^
 ||zfvrtgmskvtsu.store^
@@ -53597,7 +53615,6 @@ vkcdnservice.appspot.com^
 ||pavoboxapp.com^
 ||data4.ojto.pl^
 ||slackb.com^
-||nwr.static.mmcdn.com^
 ||collector-pxebumdlwe.pxchk.net^
 ||sc.sc-analytics.jp^
 ||c.bazo.io^
@@ -104172,7 +104189,6 @@ dlsdk.appsflyer.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
-||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
 ||o.momently.info^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
