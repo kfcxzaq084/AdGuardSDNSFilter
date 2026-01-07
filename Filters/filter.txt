@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T12:47:45.370Z
+! Last modified: 2026-01-07T14:24:52.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8894,6 +8894,7 @@ vkcdnservice.appspot.com^
 ||altrk.net^
 ||altruistic-departure.com^
 ||altruisticemergency.com^
+||altumalabac.qpon^
 ||altvyogbvycvy.fun^
 ||altynamoan.com^
 ||altynnfxkfaal.space^
@@ -11337,6 +11338,7 @@ vkcdnservice.appspot.com^
 ||blissfuldes.com^
 ||blisterpompey.com^
 ||blistest.xyz^
+||blithenimbues.shop^
 ||bliykilfbshej.website^
 ||blizzdata.site^
 ||bljyttjldkncq.online^
@@ -12026,6 +12028,7 @@ vkcdnservice.appspot.com^
 ||bskjsiozlkxmf.online^
 ||bsnwicychhpjy.website^
 ||bsrkglahwmnyp.online^
+||bssgnowkrcjpm.online^
 ||bsshxdxtfaiis.space^
 ||bsuvjsufjfizl.website^
 ||bsvhxfxckrmixla.xyz^
@@ -14565,6 +14568,7 @@ vkcdnservice.appspot.com^
 ||crispbug.pro^
 ||crispcommunication.pro^
 ||crispterracedamage.com^
+||crissresplit.cyou^
 ||cristaeaspalax.help^
 ||cristirotter.shop^
 ||cristochris.com^
@@ -16843,6 +16847,7 @@ vkcdnservice.appspot.com^
 ||duringcereal.com^
 ||durocwagtail.cfd^
 ||durryurachus.shop^
+||dusfolzrshwgf.online^
 ||dushlovably.shop^
 ||dust-0001.delorazahnow.workers.dev^
 ||dustbehelp.cyou^
@@ -17609,6 +17614,7 @@ vkcdnservice.appspot.com^
 ||eliondolularhenew.com^
 ||elite-flirts-find.com^
 ||elite-thedatingfind.com^
+||elitismgois.cyou^
 ||elizabethpertinent.com^
 ||elizabethpunishhead.com^
 ||eljeunmkjiamm.space^
@@ -20972,6 +20978,7 @@ vkcdnservice.appspot.com^
 ||gkjzkkbuewngs.online^
 ||gkkbvnxyrhcyv.online^
 ||gkmfpcrvzcohn.online^
+||gkmjovbmwuldf.site^
 ||gknpinykaom.net^
 ||gkozatwujat.com^
 ||gkrtmc.com^
@@ -22835,6 +22842,7 @@ vkcdnservice.appspot.com^
 ||hjjugtkcrizxg.website^
 ||hjklq.com^
 ||hjlhzdhkwmhhq.site^
+||hjlqivzfrrsgg.website^
 ||hjmawbrxzq.space^
 ||hjmoibleqxjc.net^
 ||hjoddysekhmji.site^
@@ -26202,6 +26210,7 @@ vkcdnservice.appspot.com^
 ||kesseolluck.com^
 ||ketheewhema.com^
 ||kethibhversute.cfd^
+||ketimidcrche.cfd^
 ||ketoo.com^
 ||ketoopsaique.net^
 ||kettakihome.com^
@@ -28651,6 +28660,7 @@ vkcdnservice.appspot.com^
 ||mainexclkdir.com^
 ||mainos.pro^
 ||mainroll.com^
+||mainsgliomas.shop^
 ||maintainconnection.co.in^
 ||maintaintournamentslick.com^
 ||maintopkurku.qpon^
@@ -30031,6 +30041,7 @@ vkcdnservice.appspot.com^
 ||mr2cnjuh34jb.com^
 ||mr3o.online^
 ||mraza2dosa.com^
+||mrbcxvpxhjeas.com^
 ||mrbxwaxxv.xyz^
 ||mrcuqjfaneqvv.space^
 ||mrdcykwxiytqs.site^
@@ -33585,6 +33596,7 @@ vkcdnservice.appspot.com^
 ||pbmlcgdxrjxcp.website^
 ||pbmmqjehjhyff.website^
 ||pbmt.cloud^
+||pbndjjsljmlnu.com^
 ||pbnl1x4bu7riux8bz.rest^
 ||pbolnoomselab.online^
 ||pbpbcriabaaay.website^
@@ -34025,6 +34037,7 @@ vkcdnservice.appspot.com^
 ||phopseeglaickee.net^
 ||phortaub.com^
 ||phoseande.qpon^
+||photicmoaned.cyou^
 ||photogbaluch.help^
 ||phougnoogokaid.net^
 ||phoukraughie.net^
@@ -38608,6 +38621,7 @@ vkcdnservice.appspot.com^
 ||saishook.com^
 ||sajldwpvqcikz.website^
 ||sakosbqjogbna.site^
+||sakrodsoptuz.com^
 ||sakura-traffic.com^
 ||sakyyfqmtgldg.website^
 ||salamus1.lol^
@@ -39641,6 +39655,7 @@ vkcdnservice.appspot.com^
 ||sillinesswoollen.com^
 ||sillorangesladen.com^
 ||silly-direction.pro^
+||siluridsurge.shop^
 ||silver-mobile.pro^
 ||silver-recommendation.pro^
 ||silverangleshookup.com^
@@ -40938,6 +40953,7 @@ vkcdnservice.appspot.com^
 ||strangleentice.com^
 ||strangleslogan.com^
 ||stratasaut.shop^
+||stratasflexors.qpon^
 ||strataview.co.in^
 ||strdmm.cc^
 ||streakdancingmantle.com^
@@ -43164,6 +43180,7 @@ vkcdnservice.appspot.com^
 ||turflivestockdetector.com^
 ||turfquelltablets.com^
 ||turkeychoice.com^
+||turkisfootles.com^
 ||turkstench.com^
 ||turmjpzcrovzn.online^
 ||turmoildanced.com^
@@ -45421,6 +45438,7 @@ vkcdnservice.appspot.com^
 ||vulnerableimmigrateaboveaverage.com^
 ||vultursidlins.cyou^
 ||vuodrpcxdpxjr.website^
+||vuqrfyljdx.com^
 ||vurmzvsdhtzlk.space^
 ||vusstqrhazwdw.website^
 ||vustaq.com^
@@ -99841,6 +99859,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||securemetrics.apple.com^
+||graffiti-tags.apple.com^
 ||fem.gprod.postmedia.digital^
 ||t.hentaivox.com^
 ||tk.jtbc.co.kr^
