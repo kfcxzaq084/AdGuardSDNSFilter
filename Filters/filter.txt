@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T14:24:52.543Z
+! Last modified: 2026-01-07T16:31:49.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8605,6 +8605,7 @@ vkcdnservice.appspot.com^
 ||aitertemob.net^
 ||aitsaustaing.net^
 ||aitsehoulroapo.net^
+||aivomykbjmyq.xyz^
 ||aiwebagreekrou.net^
 ||aiwooleegnou.net^
 ||aiwutgxp.love^
@@ -12382,6 +12383,7 @@ vkcdnservice.appspot.com^
 ||c17e7f4aa9.com^
 ||c17j3g37yy2m6u6hbm969q5.cyou^
 ||c19ef6cf49.com^
+||c1oz73xq1h2crl.cfd^
 ||c285e18a9b.com^
 ||c2hi9cerejqhn315nkz.cfd^
 ||c33fd93ed8.com^
@@ -18188,6 +18190,7 @@ vkcdnservice.appspot.com^
 ||essedaauding.com^
 ||essencesnore.com^
 ||essential-trash.com^
+||essentialability.pro^
 ||essentialmost.com^
 ||establishedclevermatters.com^
 ||estaimaibumaun.net^
@@ -23710,6 +23713,7 @@ vkcdnservice.appspot.com^
 ||icwmsalkqywyp.fun^
 ||icxtalveexksf.space^
 ||icyassimilateparchment.com^
+||icynature.pro^
 ||icyporno.com^
 ||iczhjrshqzong.site^
 ||id5-sync.com^
@@ -25144,6 +25148,7 @@ vkcdnservice.appspot.com^
 ||jdrqynzqulyjz.website^
 ||jdt8.net^
 ||jdvncnlwf.net^
+||jdwqsewrbvnnt.website^
 ||jdxnelgnhtfyq.space^
 ||jdxxuvnrpdmit.space^
 ||jeagponusibves.net^
@@ -27889,6 +27894,7 @@ vkcdnservice.appspot.com^
 ||lmmnkwbtxmrxq.website^
 ||lmn-pou-win.com^
 ||lmngvqqskhppa.online^
+||lmoozvlrzemlq.top^
 ||lmqvowebejzyy.top^
 ||lmrljuiymdtry.space^
 ||lmrwupcucuprv.site^
@@ -32362,6 +32368,7 @@ vkcdnservice.appspot.com^
 ||olsmeroufuvzv.website^
 ||olvnvahpunhya.online^
 ||olxokhjfaakx.com^
+||omanumvxald.com^
 ||omatri.info^
 ||omazeiros.com^
 ||ombzqjdwucxjt.online^
@@ -33963,6 +33970,7 @@ vkcdnservice.appspot.com^
 ||phauthunourto.net^
 ||phburwtzjusbh.site^
 ||phecdacushier.qpon^
+||pheedsoabsily.com^
 ||pheelsouptathoo.net^
 ||pheergokraiz.net^
 ||pheetsithaurost.net^
@@ -34058,6 +34066,7 @@ vkcdnservice.appspot.com^
 ||phragmabatiks.help^
 ||phraseoreburial.com^
 ||phrdzpqqbukjn.store^
+||phrfushpadbco.website^
 ||phsism.com^
 ||phsvkueaqpqxne.xyz^
 ||phtpy.love^
@@ -34090,6 +34099,7 @@ vkcdnservice.appspot.com^
 ||piabalitersuncle.cfd^
 ||piaculaagrote.com^
 ||piaggxbmxxmjq.online^
+||pianistdusted.com^
 ||pianoonoclea.shop^
 ||pianopleadedenlighten.com^
 ||pianwela.xyz^
@@ -34493,6 +34503,7 @@ vkcdnservice.appspot.com^
 ||pndvhjgixorbq.online^
 ||pneojrqqkydgc.online^
 ||pnfoccvoyssqwx.xyz^
+||pnfuvopvp.com^
 ||pngdumzdmydll.site^
 ||pnhorlcjtrfau.vip^
 ||pnhvidloqlxjq.site^
@@ -35229,6 +35240,7 @@ vkcdnservice.appspot.com^
 ||provokecloudless.com^
 ||prowerloungy.help^
 ||prowlenthusiasticcongest.com^
+||prowlerinfralactify.cyou^
 ||proximic.com^
 ||prpaxcebblsag.website^
 ||prpbcmdlcnack.online^
@@ -36598,6 +36610,7 @@ vkcdnservice.appspot.com^
 ||qyjosnnv.link^
 ||qylkhwawxhomr.site^
 ||qylmbeojmzwbj.top^
+||qylofdsbhdluj.space^
 ||qymbjstqmpwow.site^
 ||qymdagqeorsol.space^
 ||qymswdusycdvz.space^
@@ -41682,6 +41695,7 @@ vkcdnservice.appspot.com^
 ||tavadwdjzfgjw.online^
 ||taveriva.cyou^
 ||tavlomikyionr.website^
+||tavryuhcshdsr.website^
 ||tawvjbafngwrm.online^
 ||taxdifferenceinvestor.com^
 ||taximenforwelk.cyou^
@@ -42688,6 +42702,7 @@ vkcdnservice.appspot.com^
 ||tqofiyedqqxwq.online^
 ||tqptpnliwnkcy.space^
 ||tqpuvxhsrcoon.store^
+||tqqixldkdkcvi.site^
 ||tqtljjcyteqyr.online^
 ||tqtlyzaztpngj.site^
 ||tqzlmtiwnl.com^
@@ -45595,6 +45610,7 @@ vkcdnservice.appspot.com^
 ||w5rilm36l3xjbhvjocn9rm.cfd^
 ||w6f5f8r9.fun^
 ||w9h6mz6xqp5jeg9y9v857f5t.cfd^
+||wabblymedicosdaggled.cyou^
 ||wabsyederly.com^
 ||wacafgdsvi.xyz^
 ||wacksomewhymeaul.cfd^
@@ -47006,6 +47022,7 @@ vkcdnservice.appspot.com^
 ||wysythbmtbyjh.site^
 ||wytnrgtxsgvwo.online^
 ||wyurubfxbxwka.site^
+||wyvcioftcidpi.space^
 ||wyverncitralslosings.cyou^
 ||wyvgwkupgpdrd.website^
 ||wyvlllooallok.top^
@@ -53510,6 +53527,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||api.eventbus.me^
+||rumt-sg.com^
 ||yazio-analytics.com^
 ||hightouch-events.com^
 ||rtbuniverse.com^
@@ -99859,6 +99878,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||prd-collect-llm.xverse.cn^
 ||securemetrics.apple.com^
 ||graffiti-tags.apple.com^
 ||fem.gprod.postmedia.digital^
@@ -103003,6 +103023,12 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||sensorsdata-datasink.stardust-tv.com^
+||event-api-cs.stardust-tv.com^
+||logreport-global-dual.cool*cloud.com^
+||wslog-global-dual.cool*cloud.com^
+||weblogger-wss.cool*cloud.com^
+||mebed.dm-event.net^
 ||bstream.kzhi.tech^
 ||lklfwu-inapps.appsflyersdk.com^
 ||mob2.welltastic-app.com^
@@ -107988,6 +108014,13 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||unoadsrv.com^
+||ads.kingads.digital^
+||viewdeos.com^
+||sghb.hbmp.ops.co^
+||sync.spotim.market^
+||sync.ads.oveeo.com^
+||sync.platform.lightad.com^
 ||selfgems.com^
 ||showsclicka.com^
 ||2xclock.com^
@@ -111658,6 +111691,7 @@ dlsdk.appsflyer.com^
 ||adplay.it^
 ||adspro.it^
 ||affiliation.software^
+||affilroi.com^
 ||bannerbuy.it^
 ||break-even.it^
 ||broadbandy.net^
@@ -117490,6 +117524,7 @@ dlsdk.appsflyer.com^
 ||ulgroiklf.com^
 ||wbmbr16tt.com^
 ||bugs01071ko.com^
+||w58ce6.cc^
 ||oot59rxrwm.com^
 ||kduwvaq3dt.com^
 ||vpx4fmj4z6.com^
