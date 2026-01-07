@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T03:39:42.673Z
+! Last modified: 2026-01-07T04:41:08.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8965,6 +8965,7 @@ vkcdnservice.appspot.com^
 ||amkurolmww.com^
 ||amlpevtuyxrar.site^
 ||amlumineona.com^
+||amlyyqjwavjer.top^
 ||amlzndgkbicak.store^
 ||ammeossmalts.help^
 ||ammhmvurnghxn.space^
@@ -15246,6 +15247,7 @@ vkcdnservice.appspot.com^
 ||davachpesach.cfd^
 ||davdjpku.xyz^
 ||davidoffhand.com^
+||davyqumpa.com^
 ||dawac.com^
 ||dawetywjzsinl.online^
 ||dawkincreagh.qpon^
@@ -16004,6 +16006,7 @@ vkcdnservice.appspot.com^
 ||disdainevaluation.com^
 ||disdainplayedbluster.com^
 ||disduboleinbolide.cyou^
+||disfigured-play.pro^
 ||disfiguredcomment.com^
 ||disguised-confidence.pro^
 ||disguised-dad.com^
@@ -23166,6 +23169,7 @@ vkcdnservice.appspot.com^
 ||hpkuxkhsulgtf.space^
 ||hplclkfhxbzqc.site^
 ||hplcpfxbquaek.space^
+||hplorfdbzidtd.site^
 ||hpmstr.com^
 ||hpngfzljfnvke.site^
 ||hpnkctxx.buzz^
@@ -27872,6 +27876,7 @@ vkcdnservice.appspot.com^
 ||lnxqutfhz525vf.cyou^
 ||lnyswskqgbtll.site^
 ||lnzsinagpafgv.website^
+||loachuvachu.net^
 ||loader.netzwelt.de^
 ||loadingscripts.com^
 ||loaditfile.com^
@@ -30228,6 +30233,7 @@ vkcdnservice.appspot.com^
 ||mvijuifysyjrz.rocks^
 ||mvjigogkqlgxo.icu^
 ||mvkntnglfdqoy.site^
+||mvovblzjltyec.online^
 ||mvqwxwnmwhbzb.website^
 ||mvrnxfxtvsuix.website^
 ||mvrptblhcuehu.website^
@@ -38104,6 +38110,7 @@ vkcdnservice.appspot.com^
 ||rrqwarwrewbyy.top^
 ||rrqwarwrewlbj.top^
 ||rrqwarwrewrlj.top^
+||rrtgvaoviu.com^
 ||rrtrivkvstpci.site^
 ||rruxvlycnmeko.xyz^
 ||rrxoysq.art^
@@ -38241,6 +38248,7 @@ vkcdnservice.appspot.com^
 ||rugcookingintersection.com^
 ||rugiomyh2vmr.com^
 ||rugpowerfully.com^
+||rugsicotypebuttal.cyou^
 ||rugtranslating.com^
 ||rugyhrjawkmln.site^
 ||ruhtgbkacgrqj.space^
@@ -40627,6 +40635,7 @@ vkcdnservice.appspot.com^
 ||starmobmedia.com^
 ||starnhomy.cfd^
 ||starredespouse.click^
+||starry-block.pro^
 ||starry-galaxy.com^
 ||starrylook.com^
 ||starryprotection.com^
@@ -46249,6 +46258,7 @@ vkcdnservice.appspot.com^
 ||wirulcxbvifym.site^
 ||wirxwyor.com^
 ||wiry-warning.pro^
+||wirytrip.com^
 ||wirywi.qpon^
 ||wise-bridge.pro^
 ||wise-front.com^
@@ -99730,6 +99740,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tk.jtbc.co.kr^
 ||eventcom.api.np.km.playstation.net^
 ||pixel-conversion.apps.seabroadnet.com^
 ||analytics.apps.seabroadnet.com^
@@ -111700,9 +111711,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Jan 2026 10:34 UTC+7
-! Version: 2601071034
-! Blocked: 890 rules
+! Last modified: 07 Jan 2026 10:52 UTC+7
+! Version: 2601071052
+! Blocked: 892 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -111757,6 +111768,7 @@ dlsdk.appsflyer.com^
 ||analytics.zapps.vn^
 ||anthill.vn^
 ||anymind360-com.cdn.ampproject.org^
+||api.moneyoyo.org^
 ||api.nas.nct.vn^
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -111811,6 +111823,7 @@ dlsdk.appsflyer.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
 ||facebookinbox-omni-onapp.haravan.com^
+||feed.moneyoyo.org^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
@@ -112188,7 +112201,6 @@ dlsdk.appsflyer.com^
 ||analytics.zim.vn^
 ||api-logdev.sohatv.vn^
 ||api.boclinkads.com^
-||api.moneyoyo.org^
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||apiv2.tiin.vn^
@@ -112227,6 +112239,7 @@ dlsdk.appsflyer.com^
 ||cpx.vnecdn.com^
 ||crocopop.com^
 ||csmads.gameclick.vn^
+||delivery.congthuong.vn^
 ||delivery.doisongphapluat.com.vn^
 ||delivery.lsvn.vn^
 ||delivery.upremium.asia^
