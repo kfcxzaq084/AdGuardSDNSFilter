@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-07T18:34:32.448Z
+! Last modified: 2026-01-07T20:26:37.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14825,6 +14825,7 @@ vkcdnservice.appspot.com^
 ||curberjeepney.qpon^
 ||curdaking.cfd^
 ||curiarawolfkin.com^
+||curiosasell.cfd^
 ||curiositycognition.com^
 ||curiositycow.com^
 ||curioushingefast.com^
@@ -26107,6 +26108,7 @@ vkcdnservice.appspot.com^
 ||kcfciliuhueqb.space^
 ||kcfdom.com^
 ||kcffytavvv.com^
+||kcgjjpqihtwly.online^
 ||kcgqumopgkwtv.online^
 ||kchhccjmzipel.site^
 ||kcjmivforjixu.online^
@@ -28872,6 +28874,7 @@ vkcdnservice.appspot.com^
 ||massyornoite.qpon^
 ||masteringjscode.com^
 ||mastinstungmoreal.com^
+||matamant.com^
 ||matcaogeujmco.website^
 ||matchedfrized.cfd^
 ||matchjunkie.com^
@@ -30966,6 +30969,7 @@ vkcdnservice.appspot.com^
 ||nhkngcedmtjhd.website^
 ||nhkstivqaqwvz.store^
 ||nhlrspxvdmuea.site^
+||nhonnlvjebaid.site^
 ||nhqjiwltuwbqc.website^
 ||nhqkijpqeguuh.store^
 ||nhrdmdidxvae.com^
@@ -32219,6 +32223,7 @@ vkcdnservice.appspot.com^
 ||ogxmhp8mtgli2rb.cfd^
 ||ogxntutl.fun^
 ||ogxtoqiogfeuuf.com^
+||ogypquywenfmq.site^
 ||ogzashgkmhted.space^
 ||ogzdumaqlo.com^
 ||oh53v842gxk76i8zkpqjcy5izf.cfd^
@@ -34158,6 +34163,7 @@ vkcdnservice.appspot.com^
 ||pierisrapgae.com^
 ||pieshoptolsey.shop^
 ||piestprevot.com^
+||pietismreddles.com^
 ||pievsejhampai.online^
 ||piewifegee.qpon^
 ||pigeoncontentmentcotton.com^
@@ -34827,6 +34833,7 @@ vkcdnservice.appspot.com^
 ||powerfulsensitive.pro^
 ||powerplentyseaman.com^
 ||powferads.com^
+||powguodffrimpy.com^
 ||poxcffegnvybhn.xyz^
 ||pozbkfbosjncr.space^
 ||pozkbycypzgty.site^
@@ -35749,6 +35756,7 @@ vkcdnservice.appspot.com^
 ||pvgbwckgrfmic.site^
 ||pvgcedbveetxz.website^
 ||pviiyfvnuggiz.site^
+||pvlllrrqnmjyz.online^
 ||pvmhugflwgkri.space^
 ||pvnsfrhlfpwbo.space^
 ||pvnwfoxrfezes.space^
@@ -40072,6 +40080,7 @@ vkcdnservice.appspot.com^
 ||smvmpfcncwitt.online^
 ||smvuueqonsbuz.site^
 ||smvuvscjqofbm.website^
+||smxemgnrcmhj.com^
 ||smxpdgbfvoexq.site^
 ||smykirfgsmfpl.space^
 ||snackimmovabletrinity.com^
@@ -44216,6 +44225,7 @@ vkcdnservice.appspot.com^
 ||upwardsdecreasecommitment.com^
 ||upwarptaal.shop^
 ||upwentfiddler.help^
+||upwhirlcatclawtaupo.cfd^
 ||upwwqfvpvbara.site^
 ||upyayfmrdocin.space^
 ||upyokedhaks.cfd^
@@ -46243,6 +46253,7 @@ vkcdnservice.appspot.com^
 ||whjyxhcrpnsrx.space^
 ||whkbqnkscmnwo.global^
 ||whldthsafmpam.online^
+||whoachouvoordie.com^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
 ||whoataischcowhand.cfd^
@@ -110849,7 +110860,6 @@ dlsdk.appsflyer.com^
 ||jojoad.com^
 ||kingads.net^
 ||klick4u.de^
-||klicktausch.com^
 ||liferd.de^
 ||linkedads.de^
 ||localpoint.ch^
@@ -110867,7 +110877,6 @@ dlsdk.appsflyer.com^
 ||mupads.de^
 ||murcs.org^
 ||nativendo.de^
-||neqty.net^
 ||netpoint-media.de^
 ||netwayer.de^
 ||network-marketing24.com^
