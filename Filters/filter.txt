@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-08T18:30:35.335Z
+! Last modified: 2026-01-08T20:26:20.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11559,6 +11559,7 @@ vkcdnservice.appspot.com^
 ||bogtrotlibbardhypate.cyou^
 ||bogus-disk.com^
 ||bogustrouble.com^
+||bohawnhaems.com^
 ||bohcgusfdrmyt.site^
 ||bohkhufmvwim.online^
 ||bohlbdqbglfvf.website^
@@ -11996,6 +11997,7 @@ vkcdnservice.appspot.com^
 ||brothdisguiseparrot.com^
 ||brotherhoodonionbuttons.com^
 ||brotherhoodroughly.com^
+||brouzewitlesspiranas.cyou^
 ||browbeatcaramelstole.com^
 ||browdichu.cyou^
 ||brown-wake.pro^
@@ -18590,6 +18592,7 @@ vkcdnservice.appspot.com^
 ||extenuatemusketsector.com^
 ||extinguishbethpasta.com^
 ||extinguishsufferingsalty.com^
+||extkhgygqinotpl.com^
 ||extracthorizontaldashing.com^
 ||extractionalofthumiliation.com^
 ||extractionatticpillowcase.com^
@@ -22206,6 +22209,7 @@ vkcdnservice.appspot.com^
 ||hafhtodnemqud.store^
 ||hafismordv.shop^
 ||hafqflsjvhnmc.space^
+||hagborndates.com^
 ||hagbornflioma.com^
 ||hagbutslakish.rest^
 ||hagech.com^
@@ -24724,6 +24728,7 @@ vkcdnservice.appspot.com^
 ||iqnlxzueadjrg.website^
 ||iqoftxgeocyfl.site^
 ||iqosbavanqvhj.website^
+||iqrrfnwlgr.com^
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
 ||iqvojbqacilzm.website^
@@ -32044,6 +32049,7 @@ vkcdnservice.appspot.com^
 ||obese-chicken.pro^
 ||obese-neat.pro^
 ||obese-pin.com^
+||obesealarm.pro^
 ||obeseglobewimp.com^
 ||obetmwbxfdswe.store^
 ||obeupjqqrjhvg.store^
@@ -35244,6 +35250,7 @@ vkcdnservice.appspot.com^
 ||priortreasonpositive.com^
 ||prisspongid.qpon^
 ||pristine-creative.com^
+||pristineswing.pro^
 ||pritesol.com^
 ||pritheeemulant.cfd^
 ||privacyarmory.com^
@@ -35976,6 +35983,7 @@ vkcdnservice.appspot.com^
 ||pxls4gm.space^
 ||pxltrck.com^
 ||pxmocwbetdyby.online^
+||pxnzwgdyvcaqd.online^
 ||pxptonxdhbgwd.site^
 ||pxpwkpgdx.com^
 ||pxpxauecpdbfj.website^
@@ -41755,6 +41763,7 @@ vkcdnservice.appspot.com^
 ||tablafgqzrjuu.online^
 ||tablhtwrkoo.xyz^
 ||tabloidincapable.com^
+||tabooedatellandensus.cfd^
 ||taborhexeris.cyou^
 ||tabulevau.cfd^
 ||tacanaleaked.cyou^
@@ -42206,6 +42215,7 @@ vkcdnservice.appspot.com^
 ||tgtontbctdvfx.site^
 ||tguyxzkrxgzqt.online^
 ||tgvotkmiszagu.site^
+||tgzadxtwambfp.online^
 ||thagrals.net^
 ||thagrechulo.com^
 ||thagroum.net^
@@ -43458,6 +43468,7 @@ vkcdnservice.appspot.com^
 ||tvcbvfwdj.net^
 ||tvexnrsvytbeq.space^
 ||tvfgdsarcuju.com^
+||tvgbdnlbghnck.website^
 ||tvgqezdhuvbzh.site^
 ||tvikksvltpdqy.space^
 ||tviqzqsrdvofl.website^
@@ -45372,6 +45383,7 @@ vkcdnservice.appspot.com^
 ||vjkiaxkxnijvu.site^
 ||vjlckfkbcuswo.site^
 ||vjlocpypzmhzr.website^
+||vjlyljbbwmael.top^
 ||vjqefkvhrjyor.store^
 ||vjtbgysqkmngz.website^
 ||vjtpmzsmcwfko.online^
@@ -46301,6 +46313,7 @@ vkcdnservice.appspot.com^
 ||wfnetwork.com^
 ||wfnjnkazgfzax.store^
 ||wfoz6vnz8qr1mp9onw7kjp4nv.cfd^
+||wfqthmjtebdbc.website^
 ||wfqzesdbrvoje.space^
 ||wfredir.net^
 ||wfrglsvwclwqp.space^
@@ -46357,6 +46370,7 @@ vkcdnservice.appspot.com^
 ||whaledobbins.qpon^
 ||whaleplayful.com^
 ||whammedknavess.top^
+||whankdeedeed.com^
 ||whapsbausond.help^
 ||whaptetoazami.com^
 ||wharfedreduced.cfd^
@@ -47574,6 +47588,7 @@ vkcdnservice.appspot.com^
 ||xldqrmpbpybsz.online^
 ||xlebyndzkwxkn.space^
 ||xlflvygubrgbk.store^
+||xlhzormvzjazz.website^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^
@@ -47689,6 +47704,7 @@ vkcdnservice.appspot.com^
 ||xphrpolxrhqqf.website^
 ||xpicpefsaxhqs.website^
 ||xpjelhadgvkhc.space^
+||xpjfvzoqznrpg.site^
 ||xplfnxefkrhxp.space^
 ||xplgbsgfkwkhq.online^
 ||xpmgokvhhjoty.site^
