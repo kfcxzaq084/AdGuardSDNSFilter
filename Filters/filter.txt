@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-08T03:40:04.518Z
+! Last modified: 2026-01-08T04:40:04.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13537,6 +13537,7 @@ vkcdnservice.appspot.com^
 ||ckhtqypqrwuqv.online^
 ||ckkoabgjgzzcl.website^
 ||ckmmrkvshzbqx.world^
+||cknzvmfqkdpzr.website^
 ||ckpyqgorlfdko.site^
 ||ckqohqwhpsgvf.website^
 ||ckrf1.com^
@@ -16992,6 +16993,7 @@ vkcdnservice.appspot.com^
 ||dyeniqzawtqsh.site^
 ||dyhsukmy.net^
 ||dyhwspspanhfp.website^
+||dyiicqtcblcww.website^
 ||dyingsixth.com^
 ||dykcrgourwilq.space^
 ||dylop.xyz^
@@ -19822,6 +19824,7 @@ vkcdnservice.appspot.com^
 ||fposgbxzllveb.online^
 ||fpplwtittfozz.website^
 ||fppxjvtmcxjqib.xyz^
+||fpqtfxgqlvcvi.space^
 ||fprgsxjsykxem.website^
 ||fpukmwpb.top^
 ||fpuxxbskapwcz.online^
@@ -26943,6 +26946,7 @@ vkcdnservice.appspot.com^
 ||kvzvieyakmhfn.site^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwaipjzkmtwct.site^
+||kwblpjhtudcafqr.com^
 ||kwbrtpsruanue.site^
 ||kwdtbscahplvh.xyz^
 ||kwfdzfptmqlin.website^
@@ -29588,6 +29592,7 @@ vkcdnservice.appspot.com^
 ||miyktylovuibs.online^
 ||miyubhvqxopdx.store^
 ||mizarzygon.cyou^
+||mizmspjotehgl.com^
 ||mizytadpwfswa.world^
 ||mj5tuzqkvu84ryvvvh6hnrf8egh8zfrzzy.cyou^
 ||mjaksfykaaqrt.space^
@@ -38792,6 +38797,7 @@ vkcdnservice.appspot.com^
 ||santtacklingallas.org^
 ||santuao.xyz^
 ||sanynouncem.org^
+||saojexsmnrbg.com^
 ||saopxppumifnp.online^
 ||sapbushorgeats.qpon^
 ||sapientstirrup.cfd^
@@ -39358,6 +39364,7 @@ vkcdnservice.appspot.com^
 ||setupad.net^
 ||setupmonarchyconnections.com^
 ||setupproficientscrambled.com^
+||setupsbumtrapplusia.cfd^
 ||setxkjzfkxeif.site^
 ||setyourtape.com^
 ||seuhtkskudvkf.site^
