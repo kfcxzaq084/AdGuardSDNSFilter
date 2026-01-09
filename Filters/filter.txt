@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-09T14:25:41.142Z
+! Last modified: 2026-01-09T16:29:23.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9380,6 +9380,7 @@ vkcdnservice.appspot.com^
 ||apudjoumd.xyz^
 ||apvdr.com^
 ||apvroftoomqjy.site^
+||apwvpevrbwywa.space^
 ||apxcgyevjvkek.website^
 ||apxlbzpsvdife.site^
 ||apxlv.com^
@@ -9669,6 +9670,7 @@ vkcdnservice.appspot.com^
 ||asrety.com^
 ||asrop.xyz^
 ||assartmatelow.click^
+||assealsulfion.com^
 ||assembleservers.com^
 ||assemblyexchange.com^
 ||assentally.com^
@@ -9948,6 +9950,7 @@ vkcdnservice.appspot.com^
 ||autopsytan.com^
 ||auvaugushik.net^
 ||auwhouwikri.com^
+||auxesescultual.shop^
 ||auxml.com^
 ||auypgtmvwerhh.store^
 ||auyuistnjvgmi.site^
@@ -10290,6 +10293,7 @@ vkcdnservice.appspot.com^
 ||b84f93087e.com^
 ||b8bd2d84d4.com^
 ||b8pfulzbyj7h.com^
+||b8qoi249t5qg78ww2.cfd^
 ||b9e2865ec3.com^
 ||b9f26bbf80.com^
 ||b9n1h1eribgp4zo6r.rest^
@@ -10433,6 +10437,7 @@ vkcdnservice.appspot.com^
 ||banerator.net^
 ||bangalaorrhoid.com^
 ||bangedcarajo.help^
+||bangiamegabar.cfd^
 ||bangledmucoroncost.cfd^
 ||bangtyranclank.com^
 ||banhjcjvgvwxw.online^
@@ -15088,6 +15093,7 @@ vkcdnservice.appspot.com^
 ||czjmkmdd.com^
 ||czlkjrugmjgty.space^
 ||cznratophrtou.website^
+||czofrrdmzszbd.site^
 ||czqtpkjueiffw.space^
 ||czsttsmgndlni.website^
 ||czsusasfoyqln.website^
@@ -20927,6 +20933,7 @@ vkcdnservice.appspot.com^
 ||gftzwbefkljzl.space^
 ||gfuhjxhpkwger.space^
 ||gfuyyhsppslfg.site^
+||gfwkntzon.com^
 ||gfxdn.pics^
 ||gfxlkemrkltqz.online^
 ||gfyevvegjwlkc.website^
@@ -24333,6 +24340,7 @@ vkcdnservice.appspot.com^
 ||imuyiqtmscgiy.space^
 ||imuyzqvydxswd.online^
 ||imvkovzhmbkg.com^
+||imvtcougygnn.com^
 ||imyanmarads.com^
 ||imydreamsauknd.com^
 ||imyfpshmxxnis.website^
@@ -36100,6 +36108,7 @@ vkcdnservice.appspot.com^
 ||pxctpszddyyan.site^
 ||pxekfmmylcrqo.space^
 ||pxgvyiizzmgqr.site^
+||pxhjcxcmfynxf.online^
 ||pxhkjasvqquxo.online^
 ||pxifipfx.com^
 ||pxitnvmyjqnqo.online^
@@ -37941,6 +37950,7 @@ vkcdnservice.appspot.com^
 ||rggradtevjrhi.online^
 ||rghnkoxtxsdfi.online^
 ||rgjlzlgxohjyg.site^
+||rgjpcezrdyhuq.website^
 ||rgkccvmr.xyz^
 ||rgmhynhrzzsao.site^
 ||rgmuksfuciowy.online^
@@ -38574,6 +38584,7 @@ vkcdnservice.appspot.com^
 ||rscyoaposqeay.space^
 ||rseducationinin.com^
 ||rsgdtlpixkack.site^
+||rsgumgvzqwnce.online^
 ||rshktvhqypddjs.com^
 ||rshmauyblkmymau.net^
 ||rsihudniulpvr.online^
@@ -38994,6 +39005,7 @@ vkcdnservice.appspot.com^
 ||salbraddrepilly.com^
 ||salestingoner.org^
 ||salgvxxbuwhxbd.com^
+||salinatuisgooier.cyou^
 ||salitedhendly.help^
 ||saljfnxhikwwz.website^
 ||salleamebean.com^
@@ -42914,6 +42926,7 @@ vkcdnservice.appspot.com^
 ||tollonryukyu.click^
 ||tomatoqqamber.click^
 ||tombaltiled.top^
+||tombgenemajor.com^
 ||tombsspinner.com^
 ||tomdsfpeyrsoo.vip^
 ||tomecards.com^
@@ -43979,6 +43992,7 @@ vkcdnservice.appspot.com^
 ||uhodsplo.com^
 ||uhogleksob.net^
 ||uhopdhvsatlvf.store^
+||uhoughaitsuloo.com^
 ||uhoyczjndgwrn.site^
 ||uhpdsplo.com^
 ||uhpktsoalzanu.site^
@@ -47598,6 +47612,7 @@ vkcdnservice.appspot.com^
 ||xdifjhbyqxdbg.website^
 ||xdijwcvqvqebj.site^
 ||xdiqvmzybbgbm.website^
+||xdiqvuxngdbvyj.xyz^
 ||xdirectx.com^
 ||xdisplay.site^
 ||xdiwbc.com^
@@ -47613,6 +47628,7 @@ vkcdnservice.appspot.com^
 ||xdwstcvtdyyfg.website^
 ||xdylxpenf.com^
 ||xdyxzdkconsev.site^
+||xeafouxevgyqnq.com^
 ||xebfomhenqxin.online^
 ||xecdcjxhuefhg.space^
 ||xedaifojosm.net^
