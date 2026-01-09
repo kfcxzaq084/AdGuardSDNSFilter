@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-09T18:33:55.406Z
+! Last modified: 2026-01-09T20:25:55.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9847,6 +9847,7 @@ vkcdnservice.appspot.com^
 ||atwola.com^
 ||atwrimdatb.com^
 ||atyoureatth.org^
+||atyvapfwastoa.space^
 ||au2m8.com^
 ||auajhmhuyzfel.online^
 ||auberdourgoolo.net^
@@ -13667,6 +13668,7 @@ vkcdnservice.appspot.com^
 ||clevernt.com^
 ||cleverwebserver.com^
 ||clevismarco.qpon^
+||clfmokolsckv.com^
 ||clfvrxluadwhar.xyz^
 ||clhxzrqdatxqm.store^
 ||clhywbegooqmd.website^
@@ -14859,6 +14861,7 @@ vkcdnservice.appspot.com^
 ||cuisineenvoyadvertise.com^
 ||cuizgelbtbdft.site^
 ||cujbucrxeaffr.space^
+||cujkqrmdhoqap.website^
 ||cujtkevmu.com^
 ||cukankingwithe.org^
 ||cuksopsaiksooph.net^
@@ -18953,6 +18956,7 @@ vkcdnservice.appspot.com^
 ||fatchilli.media^
 ||fatconstant.com^
 ||fatessilvia.com^
+||fatherly-desk.pro^
 ||fathiwhopy.com^
 ||fathomderelict.com^
 ||fatigueboisterousrequisite.com^
@@ -22491,6 +22495,7 @@ vkcdnservice.appspot.com^
 ||haunting-spare.com^
 ||hauntingproperty.pro^
 ||hauntingreferencewire.com^
+||hauntingstupid.pro^
 ||hauntymimmest.com^
 ||haupiawhitret.cyou^
 ||hausahedge.cyou^
@@ -26654,6 +26659,7 @@ vkcdnservice.appspot.com^
 ||kjgmieedgzswz.website^
 ||kjgnidnhlxugm.icu^
 ||kjhlxuvkdqteb.website^
+||kjhyxdphquxwd.website^
 ||kjkdhqhjjla.xyz^
 ||kjlkbbitozhpg.website^
 ||kjnwfimmqsfap.website^
@@ -30548,6 +30554,7 @@ vkcdnservice.appspot.com^
 ||mushroomskilledshapeless.com^
 ||mushy-dream.pro^
 ||mushy-spray.pro^
+||mushyyoung.com^
 ||musicalsupposed.com^
 ||musicarbitrary.com^
 ||musicianfinnish.com^
@@ -31967,6 +31974,7 @@ vkcdnservice.appspot.com^
 ||nvejmzqxuuujx.love^
 ||nveyltzs.com^
 ||nvfpshunedmgf.online^
+||nvfrocked.qpon^
 ||nvftthegodwtl.space^
 ||nvfyxzjwojbkd.website^
 ||nvhneywdcwyzm.site^
@@ -39741,6 +39749,7 @@ vkcdnservice.appspot.com^
 ||sfebbqajytww.com^
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
+||sfgbobrkfliph.website^
 ||sfipncxha.com^
 ||sfixretarum.com^
 ||sfjqeiskeiv.xyz^
@@ -41691,6 +41700,7 @@ vkcdnservice.appspot.com^
 ||superstriker.net^
 ||supersuggestion.pro^
 ||supervisemessagedelude.com^
+||supervisionzoologicalconstrue.com^
 ||supervisortoplessstyle.com^
 ||superxxxfree.com^
 ||suphelper.com^
@@ -43314,6 +43324,7 @@ vkcdnservice.appspot.com^
 ||trck.wargaming.net^
 ||trckswrm.com^
 ||trcktr.com^
+||trcnuvtpt.com^
 ||treadhospitality.com^
 ||treasonfinding.com^
 ||treasonmason.com^
@@ -44588,6 +44599,7 @@ vkcdnservice.appspot.com^
 ||uojwlvqydwcaf.website^
 ||uokctomaimarn.site^
 ||uokwdslnjwxwz.online^
+||uolqifcwfgbpl.site^
 ||uolzpczobcxmn.online^
 ||uommyhvsmzozp.website^
 ||uoolxh3g7ntj85o.cfd^
@@ -44697,6 +44709,7 @@ vkcdnservice.appspot.com^
 ||upznliourhwyz.fun^
 ||uqbqarpuytxzd.site^
 ||uqecqpnnzt.online^
+||uqijlljfxmfbi.website^
 ||uqjaqoywisrmq.website^
 ||uqjtqvzdujsjh.online^
 ||uqmgqhhhutssb.online^
@@ -49637,6 +49650,7 @@ vkcdnservice.appspot.com^
 ||zybrdr.com^
 ||zycz84w8w3ee8wc.cfd^
 ||zyf03k.xyz^
+||zygalbestuurgagee.cfd^
 ||zygnemalorissixteen.cyou^
 ||zygoticlatched.cfd^
 ||zygtaxiognrri.website^
