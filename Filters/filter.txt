@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-10T01:44:39.723Z
+! Last modified: 2026-01-10T03:24:34.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8515,6 +8515,7 @@ vkcdnservice.appspot.com^
 ||ahmedidrought.qpon^
 ||ahmedtatami.cyou^
 ||ahmzsmpayivek.online^
+||ahnularqsdysf.com^
 ||ahoichdlkqyko.online^
 ||ahomsoalsoah.net^
 ||ahoopiphoopsoa.net^
@@ -8605,6 +8606,7 @@ vkcdnservice.appspot.com^
 ||airierpoiesis.cyou^
 ||airlessquotationtroubled.com^
 ||airplaneprosperretreat.com^
+||airpostvarangi.shop^
 ||airshedcoart.com^
 ||airtightcounty.com^
 ||airtimegrumly.cyou^
@@ -14424,6 +14426,7 @@ vkcdnservice.appspot.com^
 ||cottoncabbage.com^
 ||cotvqxrbqmqip.website^
 ||cotxriwmudsth.website^
+||cotysphenols.cyou^
 ||couacsemoted.cyou^
 ||coucalhidated.com^
 ||coucheegimbal.help^
@@ -17042,6 +17045,7 @@ vkcdnservice.appspot.com^
 ||dwecsyflygbei.site^
 ||dwetwdstom1020.com^
 ||dwexxprhuhlwq.space^
+||dwfdxnwjakfjm.space^
 ||dwfgdzmjmjrxl.space^
 ||dwgrnimof.xyz^
 ||dwgzwrtecgver.space^
@@ -18557,6 +18561,7 @@ vkcdnservice.appspot.com^
 ||examenlanier.shop^
 ||examplehibernatescientific.com^
 ||examwavery.cyou^
+||excafwcwlpevm.site^
 ||excavatedefeatedshudder.com^
 ||excavatenearbywand.com^
 ||exceedinglyorangesclothe.com^
@@ -19257,6 +19262,7 @@ vkcdnservice.appspot.com^
 ||fgsopjlppjips.website^
 ||fgtpvheoxosfk.site^
 ||fgwjfnrttgbsc.site^
+||fgygn5ov8cjew45p.cfd^
 ||fgylidenviuqq.site^
 ||fgzczmbjzeqfi.space^
 ||fgzjcspcnzrhf.store^
@@ -20783,6 +20789,7 @@ vkcdnservice.appspot.com^
 ||gdecordingholo.info^
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
+||gdifysjuhuouaxq.com^
 ||gdkduruiukwyn.website^
 ||gdkduwopaseic.online^
 ||gdkpyvhopdxzq.website^
@@ -24087,6 +24094,7 @@ vkcdnservice.appspot.com^
 ||iglakgdhhmagf.online^
 ||igleebulewho.net^
 ||igloohq.com^
+||iglugouphoaze.net^
 ||ignateignatetame.com^
 ||igniterafzelia.qpon^
 ||ignoblerectifymargaret.com^
@@ -25348,6 +25356,7 @@ vkcdnservice.appspot.com^
 ||jbdkzpqjhrpxn.online^
 ||jbiokwloncerp.club^
 ||jbjrjhupkfnfn.site^
+||jbkdjuxuymejr.site^
 ||jbkwfrjaqpprv.website^
 ||jblaptokniuuu.website^
 ||jbldfugqruigf.website^
@@ -25666,6 +25675,7 @@ vkcdnservice.appspot.com^
 ||jkha742.xyz^
 ||jkiaiboyfwgpiv.net^
 ||jkivksjqquguc.store^
+||jklfhxxmxjcqi.space^
 ||jklgbyxnogmpo.site^
 ||jklhsbwtbfkmh.site^
 ||jklpy.com^
@@ -26580,6 +26590,7 @@ vkcdnservice.appspot.com^
 ||khegawha.com^
 ||khfnijzujyxrj.online^
 ||khidlcdjhlsfu.space^
+||khlhqwlnesbbm.space^
 ||khocclzjcykbk.site^
 ||khovdiminated.org^
 ||khqjazypcaqmk.space^
@@ -27073,6 +27084,7 @@ vkcdnservice.appspot.com^
 ||kswaskvtvqae.net^
 ||ksygnkfxxdhse.website^
 ||kszrmrhuwgrsy.website^
+||ktcacinitroofth.xyz^
 ||ktccfhdakpq.com^
 ||ktceuakfbblrx.store^
 ||kteawsjm.com^
@@ -36011,6 +36023,7 @@ vkcdnservice.appspot.com^
 ||pumovimfxrfsy.net^
 ||pumpbead.com^
 ||pumpmenrestage.rest^
+||puncecrave.shop^
 ||punchpantherwhip.com^
 ||punchytitties.rest^
 ||punctalhexdra.cfd^
@@ -36821,6 +36834,7 @@ vkcdnservice.appspot.com^
 ||qtnljylmjmwpz.website^
 ||qtocttskrpfzi.space^
 ||qtpwhuodcsbtt.space^
+||qtqkpddcbddmy.space^
 ||qttktsllqbnpx.online^
 ||qtutulebptizh.website^
 ||qtvjpisthvezx.website^
@@ -42290,6 +42304,7 @@ vkcdnservice.appspot.com^
 ||tdwpdgmgjgbqk.site^
 ||tdzegpeatygun.tech^
 ||te6mumo35cc2t6rc11cvh.cfd^
+||teabowldiplont.shop^
 ||teacherrecollect.com^
 ||teacherspivvy.cfd^
 ||teads.tv^
@@ -44048,6 +44063,7 @@ vkcdnservice.appspot.com^
 ||ueyrlreolqnsh.com^
 ||uezbiytinfnyn.site^
 ||uezeoqumpbhxr.site^
+||uezjmqoo.com^
 ||uf1t9www2p817v.cfd^
 ||ufaexpert.com^
 ||ufbpqmryrrctn.site^
@@ -47210,6 +47226,7 @@ vkcdnservice.appspot.com^
 ||wolffiadestiny.help^
 ||wolfianimpact.cfd^
 ||wollycanoing.com^
+||wolofsacquesfurdle.cfd^
 ||wolsretet.net^
 ||wolve.pro^
 ||womangathering.com^
@@ -118179,6 +118196,7 @@ dlsdk.appsflyer.com^
 ||comedy34.com^
 ||keyboard88.top^
 ||s1918.cc^
+||7nb71ub2xi.com^
 ||kzi6mbwbk.com^
 ||v8j1rkai1.com^
 ||2pqma2nuv.com^
