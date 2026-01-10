@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-10T03:24:34.906Z
+! Last modified: 2026-01-10T04:34:20.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -18962,6 +18962,7 @@ vkcdnservice.appspot.com^
 ||fastidiousilliteratehag.com^
 ||fastidiouso.com^
 ||fastincognitomode.com^
+||fastishequinia.com^
 ||fastlgtrk.com^
 ||fastlnd.com^
 ||fastlyvetanda.qpon^
@@ -26609,6 +26610,7 @@ vkcdnservice.appspot.com^
 ||kibltcionrekv.site^
 ||kibsaraigni.net^
 ||kickhoistsuccess.com^
+||kickougeetsu.net^
 ||kiddingpseud.com^
 ||kidimportant.com^
 ||kidnapbarkey.cyou^
@@ -38630,6 +38632,7 @@ vkcdnservice.appspot.com^
 ||rpfcbxzcycpgz.website^
 ||rpfpmvkkdaahw.online^
 ||rpgirls.com^
+||rpgtqegogjww.com^
 ||rphlfhshukhnb.online^
 ||rpjvqmqutauby.space^
 ||rpjxrvhkcntkw.site^
@@ -43511,6 +43514,7 @@ vkcdnservice.appspot.com^
 ||tropeincento.click^
 ||tropeinnookerybryozoa.cfd^
 ||tropeschakazi.cyou^
+||trophisintwinelathery.cfd^
 ||tropicalbegrudge.com^
 ||tropicpollet.cfd^
 ||trotscheme.com^
@@ -46467,6 +46471,7 @@ vkcdnservice.appspot.com^
 ||wdgoxfehfejl.com^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
+||wdjpyrldiqgwe.online^
 ||wdjtyigmvcgtx.space^
 ||wdkmoxkhtnkss.space^
 ||wdlltvftsokwy.space^
@@ -48422,6 +48427,7 @@ vkcdnservice.appspot.com^
 ||ybvcxmqpgtdyd.store^
 ||ybwkfinwgjdw.xyz^
 ||ybxcriupsagoz.online^
+||ybycgilqhqyib.website^
 ||ybyjbuzjanfdd.space^
 ||ybzcetjwtlbxyq.com^
 ||ycafuymxouvbq.store^
@@ -48437,6 +48443,7 @@ vkcdnservice.appspot.com^
 ||ychildrenasthey.com^
 ||ycjhwnqmlchll.space^
 ||yckkscwnnhsnj.space^
+||yckzwrlrapwbk.site^
 ||ycmksqoykzgyf.website^
 ||ycntdtbqabtnm.online^
 ||ycoecgqypbqtv.space^
