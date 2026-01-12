@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-12T01:52:50.186Z
+! Last modified: 2026-01-12T03:50:23.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6575,6 +6575,7 @@ vkcdnservice.appspot.com^
 ||2wr18c22e7y5c6.cfd^
 ||2wwkx543inqe2o.cfd^
 ||2yfojwe1cm1r5j.cfd^
+||2ytit6fyob6nfboi4qjllztvjicc.cfd^
 ||2zx5hr5pbz7zpm657kck.cfd^
 ||300daytravel.com^
 ||301redirect.site^
@@ -8726,6 +8727,7 @@ vkcdnservice.appspot.com^
 ||akindlecutaway.click^
 ||akinwrecking.com^
 ||akjfsoqhcjjpx.store^
+||akjoyjvmvlyaa.top^
 ||akjqasjvydlid.space^
 ||akkaltzakjib.com^
 ||akkiplmacojthih.com^
@@ -16118,6 +16120,7 @@ vkcdnservice.appspot.com^
 ||dikeprotectorencyclopaedia.com^
 ||dikesyorker.cfd^
 ||dikseeptozo.net^
+||diligent-student.pro^
 ||diligentcloset.com^
 ||diligentevening.com^
 ||diligentland.pro^
@@ -28751,6 +28754,7 @@ vkcdnservice.appspot.com^
 ||lqbzvmvwjkkk.top^
 ||lqclick.com^
 ||lqdafcgrlaaby.xyz^
+||lqekosfpfmt.com^
 ||lqepkvudjwgwn.space^
 ||lqgenuq-j.life^
 ||lqgjblrrezeib.online^
@@ -31537,6 +31541,7 @@ vkcdnservice.appspot.com^
 ||nfcieoyoqljx.net^
 ||nfcyrakmlvyub.site^
 ||nfdxprxptlubs.buzz^
+||nfexcdiuvfyuu.online^
 ||nff27oc6ixl7tuycm.cfd^
 ||nfiosxscjkkyq.space^
 ||nfitekfooeigt.website^
@@ -31580,6 +31585,7 @@ vkcdnservice.appspot.com^
 ||nhatsadwafljs.site^
 ||nhcgucgrsnupg.online^
 ||nheopaobzlrqc.site^
+||nhiwyubasvwub.site^
 ||nhjtxkhdaxsrg.space^
 ||nhkbnczuwrgng.online^
 ||nhkngcedmtjhd.website^
@@ -33377,6 +33383,7 @@ vkcdnservice.appspot.com^
 ||oqrcuzcwehpi.com^
 ||oqsoawkg.com^
 ||oqwyltgrpaeow.online^
+||oqxhwaodswag.in^
 ||oqyebtnuafqkb.site^
 ||oqzbgkffzppay.space^
 ||oraefilmily.qpon^
@@ -33655,6 +33662,7 @@ vkcdnservice.appspot.com^
 ||ouptaurdie.net^
 ||oupynmfuvuhms.site^
 ||ouqkawhltrcph.site^
+||ouqnsrtmguuyd.site^
 ||ourangspinangs.com^
 ||ourauzouroru.net^
 ||ourdaizeglourix.net^
@@ -34346,6 +34354,7 @@ vkcdnservice.appspot.com^
 ||pcimodnnhsd.com^
 ||pcipbsmdiqsx.com^
 ||pcjalcwxecrxq.space^
+||pcjdedpmywihdhp.xyz^
 ||pcjlgfyoglsqp.top^
 ||pckagkewuqfox.website^
 ||pckfbqkywyixg.xyz^
@@ -35252,6 +35261,7 @@ vkcdnservice.appspot.com^
 ||pnisytwkqieri.site^
 ||pnjojchlotf.com^
 ||pnlgtgdkpyvdy.space^
+||pnmxahlvqeaaa.space^
 ||pnnnxfknnbcc.com^
 ||pnperf.com^
 ||pnqosszvpkysq.website^
@@ -35911,6 +35921,7 @@ vkcdnservice.appspot.com^
 ||programmeelaborate.com^
 ||programparkproud.com^
 ||progressmaturityseat.com^
+||prohmqjtn.com^
 ||projectagora.net^
 ||projectagora.tech^
 ||projectagoralibs.com^
@@ -39024,6 +39035,7 @@ vkcdnservice.appspot.com^
 ||rqkrzjtqpbdmr.store^
 ||rqlehijuiaoff.website^
 ||rqmgmnvtcrkpf.website^
+||rqnqxtbq.com^
 ||rqoozzoatosaf.website^
 ||rqpiicwkhvmhv.site^
 ||rqpur7tnpwxkmv4j6e.cfd^
@@ -39636,6 +39648,7 @@ vkcdnservice.appspot.com^
 ||sauloshijaiboub.net^
 ||saulterbacchus.help^
 ||saultsdredgerclasper.help^
+||saulttamise.shop^
 ||saumoncrup.qpon^
 ||saunaleap.com^
 ||saunaproficientprelude.com^
@@ -41736,6 +41749,7 @@ vkcdnservice.appspot.com^
 ||steevedbenshi.cfd^
 ||stegnailroawaid.net^
 ||stejordishijee.net^
+||steksoagry.net^
 ||stelarkickers.qpon^
 ||stella-nova.click^
 ||stelsarg.net^
@@ -45168,6 +45182,7 @@ vkcdnservice.appspot.com^
 ||upperpotionspersonnel.com^
 ||uppersrepage.help^
 ||upqdazjgizzfl.space^
+||upright-group.pro^
 ||uprightbunnypane.com^
 ||uprimp.com^
 ||uprivaladserver.net^
@@ -46163,6 +46178,7 @@ vkcdnservice.appspot.com^
 ||vjlocpypzmhzr.website^
 ||vjlyljbbwmael.top^
 ||vjmrjomywejjm.top^
+||vjqcwgvlehs.com^
 ||vjqefkvhrjyor.store^
 ||vjtbgysqkmngz.website^
 ||vjtpmzsmcwfko.online^
@@ -46606,6 +46622,7 @@ vkcdnservice.appspot.com^
 ||vyabxutgyiidb.site^
 ||vyargtzwkkasg.website^
 ||vybjkrtkdgqzx.space^
+||vydjztqkiuuwg.site^
 ||vyebzzqlojbmj.top^
 ||vyecpfypnwu.net^
 ||vyglqxctshdf.com^
@@ -47279,6 +47296,7 @@ vkcdnservice.appspot.com^
 ||whirwels.top^
 ||whishannuent.com^
 ||whisheszinke.cfd^
+||whispered-dress.com^
 ||whispered-point.pro^
 ||whisperedgolf.com^
 ||whisperofisaak.com^
@@ -49514,6 +49532,7 @@ vkcdnservice.appspot.com^
 ||yyetuobreevii.space^
 ||yyghnnvhvvbaw.site^
 ||yyhjwjkzgfucr.website^
+||yyiblamwozxyl.website^
 ||yyidbueudlkcw.love^
 ||yyijihjtdjsdp.online^
 ||yyjvimo.com^
@@ -106756,6 +106775,7 @@ dlsdk.appsflyer.com^
 ||etherealpinnacle.com^
 ||evanescentedge.com^
 ||evasivejar.com^
+||evencoating.com^
 ||eventexistence.com^
 ||eventsmall.com^
 ||exampleshake.com^
