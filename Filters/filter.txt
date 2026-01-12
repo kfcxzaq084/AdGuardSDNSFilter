@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-12T14:27:10.745Z
+! Last modified: 2026-01-12T16:28:41.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7110,6 +7110,7 @@ vkcdnservice.appspot.com^
 ||7uf9rqubcm6ho65wo6onu7x8m.rest^
 ||7wc9vt13qizxvhtze6o4t4u.cyou^
 ||7wuoy9ijxj53p3rl7xf6mkz.cfd^
+||7yuic9uyoi1l2uzlxtlnb24.cfd^
 ||80055404.vtt^
 ||808ba9fe3d.com^
 ||80a16e63df.com^
@@ -9842,6 +9843,7 @@ vkcdnservice.appspot.com^
 ||atraff.com^
 ||atrbduyy.net^
 ||atrem.site^
+||atrophychumpreentry.com^
 ||atropicdarius.cfd^
 ||atroposduddies.click^
 ||atservineor.com^
@@ -19257,6 +19259,7 @@ vkcdnservice.appspot.com^
 ||feaseshognose.qpon^
 ||feasibledecisiveasserted.com^
 ||feastgiddybleeding.com^
+||featuregangster.com^
 ||featurelockout.com^
 ||febads.shop^
 ||februarybogus.com^
@@ -19607,6 +19610,7 @@ vkcdnservice.appspot.com^
 ||fitfulmiauler.cyou^
 ||fitsagitateacid.com^
 ||fitting-enthusiasm.pro^
+||fitting-music.pro^
 ||fitting-whole.pro^
 ||fittitbundook.cfd^
 ||fittitfucose.com^
@@ -20663,6 +20667,7 @@ vkcdnservice.appspot.com^
 ||fyobdrnyarrmu.site^
 ||fyohoehwhsfax.online^
 ||fyojkxpgpsqll.space^
+||fyovqgkrvoiyo.website^
 ||fypxwlxhvwgok.website^
 ||fyqtpfmzmvmgz.website^
 ||fyqvlsvraskhk.online^
@@ -25988,6 +25993,7 @@ vkcdnservice.appspot.com^
 ||jmebwpbpvofcx.online^
 ||jmeoyypc.net^
 ||jmfvvgbmaeklk.online^
+||jmhgstmycd.com^
 ||jmhrmhgjkdgvd.store^
 ||jmicdumecufvo.site^
 ||jmjdifcw.com^
@@ -27505,6 +27511,7 @@ vkcdnservice.appspot.com^
 ||kwfvcxbiqglkm.online^
 ||kwgccbiqhrxqg.online^
 ||kwgirhueuhcua.site^
+||kwhpllmraltfm.website^
 ||kwieeycycccpv.website^
 ||kwituobm.xyz^
 ||kwmbgyoruvsaa.store^
@@ -31047,6 +31054,7 @@ vkcdnservice.appspot.com^
 ||mxglfjjyjkir.xyz^
 ||mxhmhgiiqsxjq.online^
 ||mxhplnujqwmoj.website^
+||mxhybnnilsini.site^
 ||mxizhhtvliooa.website^
 ||mxjitbllqcxli.store^
 ||mxjwznfcryxli.life^
@@ -31755,6 +31763,7 @@ vkcdnservice.appspot.com^
 ||ninetyninesec.com^
 ||ninilfwodxdyj.website^
 ||ninontoising.com^
+||ninthlyauteremiched.cyou^
 ||niobetimote.shop^
 ||niolpwvcjjfvj.website^
 ||nipcrater.com^
@@ -32735,6 +32744,7 @@ vkcdnservice.appspot.com^
 ||ocqmbcwysestl.website^
 ||ocrcvnglihpduye.xyz^
 ||ocrlmgqgqlfqt.store^
+||ocsdkiwkrndeo.site^
 ||ocseniors.help^
 ||octettealanylscaridea.cfd^
 ||octo25.me^
@@ -36150,6 +36160,7 @@ vkcdnservice.appspot.com^
 ||psdjyhuerechn.site^
 ||psdlcuqojbuxn.space^
 ||psdn.xyz^
+||pseckugloudeel.net^
 ||psedwm.com^
 ||pseebsooltookie.net^
 ||pseedumins.net^
@@ -40635,6 +40646,7 @@ vkcdnservice.appspot.com^
 ||sigmoidmneme.shop^
 ||signaladsdirect.top^
 ||signamentswithd.com^
+||signaturewoundedgraduation.com^
 ||signcalamity.com^
 ||signedquick.com^
 ||significanceoutmatch.com^
@@ -40952,6 +40964,7 @@ vkcdnservice.appspot.com^
 ||slowbeetle.cfd^
 ||slowbrother.pro^
 ||slowdn.net^
+||slowdrama.pro^
 ||slowerdelinquentaccuse.com^
 ||slowfulfoujdar.help^
 ||slowlyfocuseddose.com^
@@ -42363,6 +42376,7 @@ vkcdnservice.appspot.com^
 ||suzukisistrum.shop^
 ||svanazido.qpon^
 ||svbakoarswdvw.site^
+||svelte-move.pro^
 ||sveltebabiism.qpon^
 ||svgmirkagtgcz.space^
 ||svgvlmegeeysc.space^
@@ -42444,6 +42458,7 @@ vkcdnservice.appspot.com^
 ||switch1266.fun^
 ||swiveiba.qpon^
 ||swixrosccrgyf.online^
+||swjcyvgpspslncd.xyz^
 ||swjefkfuavnwt.site^
 ||swjglvhacucvi.space^
 ||swjobsvvucure.website^
@@ -44736,6 +44751,7 @@ vkcdnservice.appspot.com^
 ||uizhndydahcum.online^
 ||uizjfyakmsawn.site^
 ||uizrqsrizjwfe.store^
+||ujcascgwte.com^
 ||ujdsaljmviudi.space^
 ||ujdtnsgiagbxx.click^
 ||ujdvvfrqujgfl.space^
@@ -101855,7 +101871,7 @@ prd.api.bleacherreport.com^
 ||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
-||cza.crazygames.com^
+||cza*.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||api.amplitudeexperiment.com^
