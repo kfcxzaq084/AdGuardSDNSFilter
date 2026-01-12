@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-12T03:50:23.391Z
+! Last modified: 2026-01-12T04:51:34.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13142,6 +13142,7 @@ vkcdnservice.appspot.com^
 ||cewmyvfmjjbit.store^
 ||cexofira.com^
 ||cexucetum.com^
+||ceyreesdxgvkd.site^
 ||ceyxth.click^
 ||cf6fae15c3.com^
 ||cfarvjcutttkn.website^
@@ -17712,6 +17713,7 @@ vkcdnservice.appspot.com^
 ||ehqifdeycnmjt.website^
 ||ehrydnmdoe.com^
 ||ehtkfjhrozkeu.website^
+||ehtrlqaoaap.com^
 ||ehualvxvqojbj.space^
 ||ehuawabranded.help^
 ||ehuhefrrpqjgp.website^
@@ -19304,6 +19306,7 @@ vkcdnservice.appspot.com^
 ||fermentjointed.cyou^
 ||fermolo.info^
 ||ferninsecurecrawling.com^
+||ferraryherdmen.qpon^
 ||ferrelsuplit.cfd^
 ||ferretyacutely.cyou^
 ||ferrierstrewth.help^
@@ -19560,6 +19563,7 @@ vkcdnservice.appspot.com^
 ||fishingslaplobby.com^
 ||fishnetunbid.qpon^
 ||fiskaqqjajwqv.website^
+||fisokfiwqihu.com^
 ||fistbeking.cyou^
 ||fistevasionjoint.com^
 ||fistpoke.com^
@@ -20808,6 +20812,7 @@ vkcdnservice.appspot.com^
 ||garotemuruxi.com^
 ||garredtriter.help^
 ||garrotcoronae.help^
+||garrotedacron.com^
 ||gartenverbify.qpon^
 ||garthsdarwan.cfd^
 ||garuameshed.cyou^
@@ -21102,6 +21107,7 @@ vkcdnservice.appspot.com^
 ||getoverenergy.com^
 ||getpopunder.com^
 ||getscriptjs.com^
+||getsdelesbedash.cfd^
 ||getsharedstore.com^
 ||getsmartyapp.com^
 ||getsthis.com^
@@ -36413,6 +36419,7 @@ vkcdnservice.appspot.com^
 ||purple-expert.pro^
 ||purpleads.io^
 ||purpleflag.net^
+||purplemeeting.pro^
 ||purpleoil.pro^
 ||purplepatch.online^
 ||purrrrrrrr.net^
@@ -49593,6 +49600,7 @@ vkcdnservice.appspot.com^
 ||zaiphithez.net^
 ||zaipteekoug.net^
 ||zairaikauhaur.net^
+||zaishjgajawnp.website^
 ||zaiteegraity.net^
 ||zaitounofeeta.net^
 ||zaiwaiphaipah.net^
@@ -49791,6 +49799,7 @@ vkcdnservice.appspot.com^
 ||zghdautxlwvis.store^
 ||zgijtonvzgadk.online^
 ||zgkowgslzqhir.online^
+||zgkrxxudimfdj.space^
 ||zgnuydyvcuqdt.online^
 ||zgnymibptufjb.site^
 ||zgrakgyhvqyzv.online^
@@ -49817,6 +49826,7 @@ vkcdnservice.appspot.com^
 ||zhmsgznkpenng.space^
 ||zhntvykltwwcp.website^
 ||zhomsqvldksoy.site^
+||zhorjwqvjdskc.site^
 ||zhownsplpphyu.online^
 ||zhoyyibwywgev.one^
 ||zhqcyoytfrnbw.website^
