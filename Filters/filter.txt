@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-14T18:35:02.648Z
+! Last modified: 2026-01-14T20:22:55.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11969,6 +11969,7 @@ vkcdnservice.appspot.com^
 ||bpltqydasflff.online^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
+||bpmpcqyvhellh.com^
 ||bpoiscqmwxej.buzz^
 ||bpojutddbiktb.website^
 ||bpoypqlymovdt.site^
@@ -22170,6 +22171,7 @@ vkcdnservice.appspot.com^
 ||greepseedrobouk.net^
 ||greerogloo.net^
 ||greeshoatsaun.net^
+||greetanantacatboat.cyou^
 ||greetedenumeratehundreds.com^
 ||greetedoverdid.cyou^
 ||greeter.me^
@@ -24516,6 +24518,7 @@ vkcdnservice.appspot.com^
 ||igenfhyirixubn.xyz^
 ||igfrrlqudshhc.space^
 ||iggbarcjwnegz.website^
+||iggirhjyojkqw.online^
 ||igiivlcseigak.space^
 ||igilzjquddizp.space^
 ||igjiiamobjzju.website^
@@ -24628,6 +24631,7 @@ vkcdnservice.appspot.com^
 ||ikcaru.com^
 ||ikcfbfcsusubx.site^
 ||ikeizcfipfius.site^
+||ikgwxirhtkiwo.online^
 ||ikimdcomuxawh.online^
 ||ikindxuerylw.xyz^
 ||ikjwrhsktdtye.space^
@@ -25519,6 +25523,7 @@ vkcdnservice.appspot.com^
 ||iujmtfksuiui.com^
 ||iukkxczhqekat.space^
 ||iukrelfkscaiy.space^
+||iuljnlpyixvpb.site^
 ||iulkpesaffexi.site^
 ||iunismkwstgdf.site^
 ||iunmrmdyetjbe.website^
@@ -39373,6 +39378,7 @@ vkcdnservice.appspot.com^
 ||rottencycle.com^
 ||rottenworker.com^
 ||rottlebarytic.qpon^
+||roubutathoan.com^
 ||roucoutaivers.com^
 ||roudoduor.com^
 ||roufeeptos.net^
@@ -43881,6 +43887,7 @@ vkcdnservice.appspot.com^
 ||tlrkcj17.de^
 ||tlshcpnfphkkk.website^
 ||tlswzfbujtgzi.buzz^
+||tltpwxipizp.com^
 ||tluihoeadocjs.store^
 ||tlwsnhpnrfxjw.site^
 ||tlxcxlrnjriht.space^
@@ -45552,6 +45559,7 @@ vkcdnservice.appspot.com^
 ||unrvfdnjigyms.space^
 ||unsaltyneedles.cfd^
 ||unsawedappear.qpon^
+||unseenprovisionsparts.com^
 ||unseenreport.com^
 ||unselfisheducation.com^
 ||unselfishwave.pro^
@@ -46304,6 +46312,7 @@ vkcdnservice.appspot.com^
 ||vdvyoankkxd.com^
 ||vdwoyvfa.com^
 ||vdyjhikwomhkk.space^
+||vealbkvekrkjq.top^
 ||vealskenlore.cyou^
 ||vealyupstamp.cfd^
 ||veapikpr.com^
@@ -48391,6 +48400,7 @@ vkcdnservice.appspot.com^
 ||worthysupervisesmug.com^
 ||wortindely.com^
 ||wortlemealmen.cyou^
+||worwmjeyrjyokq.com^
 ||woscxgnjprqzj.space^
 ||woucizameewha.net^
 ||woudaufe.net^
@@ -50656,6 +50666,7 @@ vkcdnservice.appspot.com^
 ||zoowunagraglu.net^
 ||zooyviwyuaocd.website^
 ||zopnzxxxofkbr.space^
+||zopowwzvfnvba.space^
 ||zopumirerfahv.website^
 ||zoqvjyoojmyow.top^
 ||zorango.com^
