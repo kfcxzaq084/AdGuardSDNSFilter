@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-14T03:48:39.805Z
+! Last modified: 2026-01-14T04:47:55.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22143,6 +22143,7 @@ vkcdnservice.appspot.com^
 ||grelotsorghos.help^
 ||gremepooltaix.net^
 ||grene.site^
+||grengeftoo.net^
 ||grepeiros.com^
 ||grerdaibools.net^
 ||grerdoaltouckoa.net^
@@ -37640,6 +37641,7 @@ vkcdnservice.appspot.com^
 ||quouwqavbowjf.com^
 ||quppbriocuzkx.website^
 ||quqjslurogcoj.site^
+||qurguoxxl.com^
 ||qurushrhachi.cyou^
 ||quszrmzafudas.online^
 ||qutpswdkdkhbx.online^
@@ -46819,6 +46821,7 @@ vkcdnservice.appspot.com^
 ||vpljxmwvkf.com^
 ||vplxmpagryjvl.space^
 ||vplzlxrmkwkop.website^
+||vpnfeqlkmuknp.site^
 ||vpnonly.site^
 ||vppohexv.net^
 ||vpqppkcoszupa.site^
@@ -48097,6 +48100,7 @@ vkcdnservice.appspot.com^
 ||wmxagjqnfhevz.website^
 ||wmxzrccwgpenl.website^
 ||wmzlbovlwbkqj.top^
+||wndfgxbgndxby.website^
 ||wndfziyuixzzr.site^
 ||wneecilp.net^
 ||wngegvxrgpsvm.site^
@@ -49735,6 +49739,7 @@ vkcdnservice.appspot.com^
 ||yoehgupyqivfh.space^
 ||yogadineribbon.com^
 ||yogapersuasive.com^
+||yogbucxeeigvs.space^
 ||yogeepumpkin.rest^
 ||yogjylemldvjb.online^
 ||yohle.com^
@@ -52236,7 +52241,6 @@ vkcdnservice.appspot.com^
 ||sn2rrlv57qpss5w-qk8llu.xyz^
 ||sneakyangrilypromptlyupon.com^
 ||softlyacrossany.com^
-||solemnlybuck.com^
 ||squeakyscofffar.com^
 ||staregrownup.com^
 ||suproderistrai.com^
@@ -53764,18 +53768,6 @@ vkcdnservice.appspot.com^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
-||d12llxoeoqg343.cloudfront.net^
-||d13i9p5451i433.cloudfront.net^
-||d1ly453dyhh7xf.cloudfront.net^
-||d222yr38kqru7v.cloudfront.net^
-||d23obxyzbkncgu.cloudfront.net^
-||d2flxwxbgh2er.cloudfront.net^
-||d2zdzxjekh1km6.cloudfront.net^
-||d2zs9z3hmfhcr6.cloudfront.net^
-||d37j8pfxu2iogi.cloudfront.net^
-||d3edfxwiftnsxy.cloudfront.net^
-||dkhtmc7ko8puc.cloudfront.net^
-||dzqsslysklwgo.cloudfront.net^
 ||anti-adblock.herokuapp.com^
 !
 ! Source name: EasyList adult ad servers
@@ -101579,6 +101571,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trafficmanager.anyclip.com^
 ||r.anime-go.cc^
 ||logs.collector.*.cloud.solarwinds.com^
 ||doppler.hulu.com^
@@ -119201,6 +119194,9 @@ dlsdk.appsflyer.com^
 ||sourdine34.com^
 ||jsyunjihui.com^
 ||vaudeville44.top^
+||18mo21a2ji.com^
+||amftsawknf.com^
+||bugs01141ko.com^
 ||xvhttu3c9.com^
 ||4fd0jlybx.com^
 ||2juyabihe.com^
