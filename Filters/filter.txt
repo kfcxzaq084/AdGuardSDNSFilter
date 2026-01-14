@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-14T10:26:22.350Z
+! Last modified: 2026-01-14T12:48:44.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7514,6 +7514,7 @@ vkcdnservice.appspot.com^
 ||abmhosjehovic.help^
 ||abmunnaa.com^
 ||abnegationsemicirclereproduce.com^
+||abnerfascialinanely.cyou^
 ||abnormalitylovingmammal.com^
 ||abnzjfhnzauto.world^
 ||aboardstepbugs.com^
@@ -17170,6 +17171,7 @@ vkcdnservice.appspot.com^
 ||duetads.com^
 ||dufixen.com^
 ||dugksbcmvvxdf.site^
+||duglaissoa.net^
 ||dugrhmdlsdcop.website^
 ||dugsbrairo.help^
 ||duhkxehelalch.store^
@@ -17857,8 +17859,10 @@ vkcdnservice.appspot.com^
 ||ehtrlqaoaap.com^
 ||ehualvxvqojbj.space^
 ||ehuawabranded.help^
+||ehuebzqftijhm.site^
 ||ehuhefrrpqjgp.website^
 ||ehungroundt.org^
+||ehutpbdsygn.xyz^
 ||ehutzaug.life^
 ||ehvclgfwoy.com^
 ||ehvqwcmlfcno.net^
@@ -20598,6 +20602,7 @@ vkcdnservice.appspot.com^
 ||fullmworkhovdi.org^
 ||fulltraffic.net^
 ||fullyslape.shop^
+||fulorrbzok.com^
 ||fulrrlddcjqlk.fun^
 ||fuluprhymes.cfd^
 ||fulvenebocca.com^
@@ -20697,6 +20702,7 @@ vkcdnservice.appspot.com^
 ||fvjnkvhowc.com^
 ||fvkobfbmfdjhp.website^
 ||fvkynpfjthef.net^
+||fvlh795f1j2hxgmbbz3.cfd^
 ||fvlhshpmjnrck.website^
 ||fvmiafwauhy.fun^
 ||fvpcmlmpoyldc.space^
@@ -24706,6 +24712,7 @@ vkcdnservice.appspot.com^
 ||imjgkrmhfvznf.online^
 ||imjprkvybgfdw.space^
 ||imkirh.com^
+||imkjihsbqroov.online^
 ||immaculate-beginning.pro^
 ||immaculatepassion.pro^
 ||immaterial-mother.com^
@@ -26683,6 +26690,7 @@ vkcdnservice.appspot.com^
 ||jzqbyykqebelw.top^
 ||jzqscvqlgasxh.buzz^
 ||jzrmxnvcniwmj.online^
+||jzruvlfvoawfg.website^
 ||jzrvtgzcssxig.online^
 ||jztcnlvleqyxs.website^
 ||jzuabmdorcxzb.space^
@@ -28254,6 +28262,7 @@ vkcdnservice.appspot.com^
 ||letunseenprivacy.com^
 ||letupselev.cfd^
 ||leucismbemata.help^
+||leufhyfvgvxjj.com^
 ||levantsnankeen.cfd^
 ||levatoroboists.world^
 ||levelborrowingo.com^
@@ -30662,6 +30671,7 @@ vkcdnservice.appspot.com^
 ||molderyobtrect.cfd^
 ||molebjeivsqwq.online^
 ||moleconcern.com^
+||molecularrather.com^
 ||molesthyrst.cyou^
 ||moleya.click^
 ||molikrebaumt.xyz^
@@ -37037,6 +37047,7 @@ vkcdnservice.appspot.com^
 ||qarvpoomwzvcb.site^
 ||qasdszuhgnhtl.space^
 ||qawzwkvvkymrb.top^
+||qaypgfuwpemvn.space^
 ||qazjpdzhatxaw.vip^
 ||qazrvoyeevywv.top^
 ||qbbfzbynyrvfv.site^
@@ -101617,6 +101628,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||st.freedom24.com^
+||rum.api.intuit.com^
 ||trafficmanager.anyclip.com^
 ||r.anime-go.cc^
 ||logs.collector.*.cloud.solarwinds.com^
@@ -103732,6 +103745,7 @@ prd.api.bleacherreport.com^
 ||log.ecgh.dk^
 ||log.enuri.com^
 ||log.g-enews.com^
+||log.go.com^
 ||log.iyunmai.com^
 ||log.krs-ix.ru^
 ||log.mappy.net^
@@ -104766,9 +104780,7 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
-!
-! NOTE: Regular rules
-!
+||gbxreport-*.wf.com^
 ||mab-mob2.websearchapp.com^
 ||news-events.apple.com^
 ||news-app-events.apple.com^
@@ -106174,7 +106186,6 @@ dlsdk.appsflyer.com^
 ||log-*.previewnetworks.com^
 ||log-pq.shopfully.cloud^
 ||log.aimtell.com^
-||log.go.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
