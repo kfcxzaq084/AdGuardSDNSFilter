@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-14T14:26:32.992Z
+! Last modified: 2026-01-14T16:31:58.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12313,6 +12313,7 @@ vkcdnservice.appspot.com^
 ||bugs2022.com^
 ||bugscrawled.com^
 ||bugshasrub.cyou^
+||bugwykhuyh.com^
 ||buhdswkgesx.com^
 ||buhjituyqshb.xyz^
 ||buhnfwjscajmy.website^
@@ -16091,6 +16092,7 @@ vkcdnservice.appspot.com^
 ||dfgepfqjwraxw.website^
 ||dfhbfgoamcfmw.website^
 ||dfhglecdsmvxi.site^
+||dfjpjzogrzywb.com^
 ||dfogeblecagjys.xyz^
 ||dfommwypqqrdw.online^
 ||dfplofralyjlc.online^
@@ -17545,6 +17547,7 @@ vkcdnservice.appspot.com^
 ||eblastengine.com^
 ||ebonizerebake.com^
 ||ebovfigjrw.xyz^
+||eboxgiwwapmri.online^
 ||ebpgojlzwpkqy.site^
 ||ebriosetoruses.cfd^
 ||ebsardfdabxhr.space^
@@ -23867,6 +23870,7 @@ vkcdnservice.appspot.com^
 ||hqjq64wzue87bxcgqn3lmuc9.cyou^
 ||hqjqjycvwpyhg.website^
 ||hqkelsrnldxnx.icu^
+||hql237ec5nhptgyfkxj.cfd^
 ||hqmwsnmnyxkyo.space^
 ||hqnmuuwcsudqd.store^
 ||hqnqyjcoaqzty.online^
@@ -25826,6 +25830,7 @@ vkcdnservice.appspot.com^
 ||jcefzyezfomjd.space^
 ||jcesuzihoux.com^
 ||jcfocrpceqtwa.site^
+||jcgcsvorikekz.space^
 ||jcgklkxkrltcy.store^
 ||jchqtflnbrpkd.site^
 ||jciokqknvlfyc.website^
@@ -27737,6 +27742,7 @@ vkcdnservice.appspot.com^
 ||kxqdayzmwcoox.website^
 ||kxtrjvu319ygxornzu15tq3fhy4.cfd^
 ||kxuingylmnoxo.space^
+||kxxutnpzolnne.website^
 ||kxxyhjamtwozu.space^
 ||ky41vgyy6hgwy5.rest^
 ||ky9feo7nyh9ow19f7wr.cfd^
@@ -28046,6 +28052,7 @@ vkcdnservice.appspot.com^
 ||lbzyjmbvmkovm.top^
 ||lcajlfzzjbbos.website^
 ||lcaxfhprvnwaq.online^
+||lcbkmpjowojdw.space^
 ||lcbyixmmomlzh.space^
 ||lcc3f7uzwlzlvemggoj9ofmlz4.cyou^
 ||lccboyojtdwq.xyz^
@@ -30094,6 +30101,7 @@ vkcdnservice.appspot.com^
 ||messy-brain.com^
 ||messyadvance.com^
 ||messyprofessor.pro^
+||mestacmeto.com^
 ||mestenokamares.cfd^
 ||mestlencaurus.help^
 ||mestreqa.com^
@@ -34226,6 +34234,7 @@ vkcdnservice.appspot.com^
 ||oxbbzxqfnv.com^
 ||oxbksfsoichqq.online^
 ||oxbowfailureinvite.com^
+||oxbswvfcvguv.com^
 ||oxcapiagohb.com^
 ||oxcj7jqw52iwy9bgw14uve6.cfd^
 ||oxekrjyxycquq.website^
@@ -34723,6 +34732,7 @@ vkcdnservice.appspot.com^
 ||pcnoyoffhrcvi.online^
 ||pcnuhzoxhjhvd.website^
 ||pcqze.tech^
+||pcsauvntjwrxm.website^
 ||pcsmlvjqxvseu.online^
 ||pctgeronto.help^
 ||pctlwm.com^
@@ -36131,6 +36141,7 @@ vkcdnservice.appspot.com^
 ||pretty-fly4.com^
 ||pretty-site.com^
 ||pretty-sluts-nearby.com^
+||prettyfruit.pro^
 ||prettysolution.pro^
 ||prevailharewandering.com^
 ||prevalentalludedtore.com^
@@ -38077,6 +38088,7 @@ vkcdnservice.appspot.com^
 ||razziakinkly.help^
 ||rbajvlwsgdkzp.online^
 ||rbaxuqhmkgcvz.space^
+||rbdhrkaaxqelb.space^
 ||rbejwzfebcxaz.world^
 ||rbjnuporihrye.store^
 ||rbkedsxtvsdsd.space^
@@ -40003,6 +40015,7 @@ vkcdnservice.appspot.com^
 ||sapbushorgeats.qpon^
 ||sapientstirrup.cfd^
 ||sapiumknoll.qpon^
+||saplessbooky.cfd^
 ||sapmgtkvtoulm.space^
 ||sappierkoali.cfd^
 ||sapqwgnlntaly.space^
@@ -43959,6 +43972,7 @@ vkcdnservice.appspot.com^
 ||toioptqrfyztj.website^
 ||tokenads.com^
 ||tokensguggled.com^
+||tokmnkutgdwgcke.xyz^
 ||toksoabokritsee.net^
 ||toksoudsoab.net^
 ||tokyomansion.online^
@@ -45522,6 +45536,7 @@ vkcdnservice.appspot.com^
 ||unskilfulunpredictable.com^
 ||unslylysmug.cfd^
 ||unsnapsjollyer.cfd^
+||unsnibborascoemirs.cfd^
 ||unsnowfungoes.cyou^
 ||unsoberroweled.cfd^
 ||unsootxeroxes.cfd^
@@ -47640,6 +47655,7 @@ vkcdnservice.appspot.com^
 ||wewearegogogo.com^
 ||wewikdaksmlyw.online^
 ||wewlororkoarr.top^
+||wexabqmwpozrl.online^
 ||wextap.com^
 ||wexwujojvhamp.space^
 ||wezfkkvkhjmha.space^
@@ -48345,6 +48361,7 @@ vkcdnservice.appspot.com^
 ||woudaufe.net^
 ||woukrkskillsom.org^
 ||woulddegree.com^
+||wouldstgunkdupable.cfd^
 ||woulukdliketob.com^
 ||woulukdliketob.org^
 ||woumaugroapsi.net^
@@ -49468,6 +49485,7 @@ vkcdnservice.appspot.com^
 ||ybs2ffs7v.com^
 ||ybsqqegmkdonc.life^
 ||ybtyvbzvxpvex.store^
+||ybuceydoweuoq.com^
 ||ybvcxmqpgtdyd.store^
 ||ybwkfinwgjdw.xyz^
 ||ybxcriupsagoz.online^
@@ -55295,6 +55313,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||winsurbox.com^
 ||telemetry.tataritv.com^
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||cpu-api.infor.pl^
@@ -104805,6 +104824,11 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||events.gonative.io^
+||matomo.podslink.net^
 ||gbxreport-*.wf.com^
 ||mab-mob2.websearchapp.com^
 ||news-events.apple.com^
