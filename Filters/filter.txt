@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-16T03:40:24.955Z
+! Last modified: 2026-01-16T04:40:55.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10665,6 +10665,7 @@ vkcdnservice.appspot.com^
 ||basinthug.com^
 ||basketballshameless.com^
 ||basogadenied.com^
+||basonpicnicmuscled.cyou^
 ||basqzfjsvtefx.site^
 ||bastardnonethelessuseless.com^
 ||bastardzingaro.com^
@@ -12783,6 +12784,7 @@ vkcdnservice.appspot.com^
 ||camads.net^
 ||camaurokalium.qpon^
 ||cameoutofthecatey.com^
+||camillaconredodea.qpon^
 ||camiocw.com^
 ||camisreed.com^
 ||camiwhothoot.net^
@@ -28346,6 +28348,7 @@ vkcdnservice.appspot.com^
 ||left-world.com^
 ||leftcandle.com^
 ||leftmany.pro^
+||legal-tennis.pro^
 ||legalfocus.pro^
 ||legallydune.com^
 ||legginjowly.help^
@@ -35265,6 +35268,7 @@ vkcdnservice.appspot.com^
 ||pgmjejgfvmxqp.website^
 ||pgnasmcdn.click^
 ||pgnywmtnskmng.space^
+||pgoavqqqrfi.com^
 ||pgolwmpegquyq.site^
 ||pgozjxqpepnht.space^
 ||pgpartner.com^
@@ -41688,6 +41692,7 @@ vkcdnservice.appspot.com^
 ||smxemgnrcmhj.com^
 ||smxpdgbfvoexq.site^
 ||smykirfgsmfpl.space^
+||smzxudnyezpfn.space^
 ||snackimmovabletrinity.com^
 ||snackteepatron.com^
 ||snaggleswished.click^
@@ -49807,6 +49812,7 @@ vkcdnservice.appspot.com^
 ||yasmakshereby.qpon^
 ||yasyyxtxtlbxpnq.net^
 ||yaszcbffjnfak.today^
+||yatukdakwfhhp.online^
 ||yatytentioniau.org^
 ||yaukggyktvseg.space^
 ||yaupaibcfqfvh.online^
@@ -50388,6 +50394,7 @@ vkcdnservice.appspot.com^
 ||yucpihodztolh.space^
 ||yucvgdirvufyw.space^
 ||yudrrrrerqovu.site^
+||yufptprspnabh.site^
 ||yugkagyfbrdkl.online^
 ||yugtmwazhqpoh.space^
 ||yugzxuplswhpp.website^
@@ -102056,6 +102063,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mixpanel.tigocloud.net^
 ||analytics.launcherleaks.net^
 ||ingest.webcol.sdp.peacocktv.com^
 ||t.collectiveaudience.co^
@@ -105214,6 +105222,9 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||clarity.ms^|
+||engagelab.cc^
+||global-sis.engagelab.com^
 ||app.siteperformancetest.net^
 ||events-stream-svc.cordial.io^
 ||events.gonative.io^
@@ -110080,7 +110091,6 @@ dlsdk.appsflyer.com^
 ||roibest-report-sdk.qiliangjia.com^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
-||webpushstat.api.engagelab.cc^
 ! Turkish
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
