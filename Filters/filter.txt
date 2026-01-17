@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-17T01:43:02.653Z
+! Last modified: 2026-01-17T03:23:10.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10479,6 +10479,7 @@ vkcdnservice.appspot.com^
 ||bacurypredy.com^
 ||bad-charge.pro^
 ||bad-return.pro^
+||bad-suggestion.pro^
 ||badgegirdle.com^
 ||badjocks.com^
 ||badlandlispyippee.com^
@@ -11140,6 +11141,7 @@ vkcdnservice.appspot.com^
 ||bewitchedrate.com^
 ||bewormbedrail.help^
 ||bewormyamens.cyou^
+||bewrapbarriosza.cyou^
 ||bewraysmoropus.cyou^
 ||bewreakaglossaberchta.cyou^
 ||beyanmaan.com^
@@ -15066,6 +15068,7 @@ vkcdnservice.appspot.com^
 ||csfsotltxhsdn.online^
 ||csfuiuwdubtyr.online^
 ||cshakopmyu.xyz^
+||csjdhxlelvqpa.site^
 ||csjggncfpbhnq.space^
 ||csjokezuqdbdy.online^
 ||cskcnipgkq.club^
@@ -15217,6 +15220,7 @@ vkcdnservice.appspot.com^
 ||cuprumscrance.cfd^
 ||cupulaeplumbed.cfd^
 ||cuqoegxqwuhpg.com^
+||cuqtrlibylbiv.website^
 ||curatliable.cfd^
 ||curberjeepney.qpon^
 ||curdaking.cfd^
@@ -20178,6 +20182,7 @@ vkcdnservice.appspot.com^
 ||fmvwaxcyknqzj.online^
 ||fmxg7e51h1pj4yyitnqio8.cfd^
 ||fmxirusaafnut.online^
+||fmxypzzxwlzqg.website^
 ||fmykxtcxrnnqh.website^
 ||fmzgdiqzamnrn.website^
 ||fnaikpzrpcrpm.online^
@@ -23860,6 +23865,7 @@ vkcdnservice.appspot.com^
 ||homzpacwnosnk.online^
 ||honanssolon.cyou^
 ||hondaskashga.shop^
+||honeeaafcmjyp.online^
 ||honersbocage.top^
 ||honest-network.pro^
 ||honestfll.cyou^
@@ -24661,6 +24667,7 @@ vkcdnservice.appspot.com^
 ||iehqbqkfbtgxi.xyz^
 ||iehundhjvidxf.site^
 ||ieiyqbcjpksbk.website^
+||ieladhfhoiclv.online^
 ||ienoqzzymldpz.online^
 ||ieogwnrsgnfsz.online^
 ||ieqdrtjjukp.net^
@@ -26186,6 +26193,7 @@ vkcdnservice.appspot.com^
 ||jf-bloply.one^
 ||jf71qh5v14.com^
 ||jfacflmbkvxez.online^
+||jfcwtkjxg.xyz^
 ||jfellnuo.com^
 ||jfezwogpa.com^
 ||jffdicjopshin.space^
@@ -26721,6 +26729,7 @@ vkcdnservice.appspot.com^
 ||jtq11p728xo57jqf9e.cfd^
 ||jtren.site^
 ||jtsqetqkdcwbq.online^
+||jtsvpccly.com^
 ||jtuyocdzxtzla.store^
 ||jtwvwfilhixroid.net^
 ||jtxpxubcgwers.site^
@@ -26835,6 +26844,7 @@ vkcdnservice.appspot.com^
 ||justpremium.com^
 ||justservingfiles.net^
 ||justsufficiently.com^
+||jutchoufos.com^
 ||jutepolitei.cfd^
 ||juttiedpulka.cfd^
 ||juttonight.com^
@@ -27874,6 +27884,7 @@ vkcdnservice.appspot.com^
 ||ktrgtteucxzzu.website^
 ||ktsnqchncbimr.space^
 ||ktvsluqtriskv.online^
+||ktwojdxabmh.com^
 ||ktxdyoptkircd.website^
 ||ktztnutxckwiy.space^
 ||ku2d3a7pa8mdi.com^
@@ -29379,6 +29390,7 @@ vkcdnservice.appspot.com^
 ||lrieddklibrbq.space^
 ||lriuoqqrj.net^
 ||lrjgllzgqdnbi.website^
+||lrkqwwfqupv.com^
 ||lrlodahrafsxi.store^
 ||lrlqiohtorwwl.website^
 ||lrorwzpayomsy.space^
@@ -37433,6 +37445,7 @@ vkcdnservice.appspot.com^
 ||pzbtbwepicwjn.site^
 ||pzbxnlourkdrv.site^
 ||pzckypp.beer^
+||pzcr76heplutyrhokmjgw2ukcu6jhqq.cfd^
 ||pzemzwvodejwz.website^
 ||pzevcsnxpnvwb.site^
 ||pzfprike.com^
@@ -44902,6 +44915,7 @@ vkcdnservice.appspot.com^
 ||tritqzhgvccit.website^
 ||triumphantthingsreading.com^
 ||triumphhello.com^
+||triunelehuas.cyou^
 ||trivetincur.com^
 ||trivial-final.com^
 ||trivial-reward.pro^
@@ -46653,6 +46667,7 @@ vkcdnservice.appspot.com^
 ||valleyscounterfeit.com^
 ||valreegruss.net^
 ||valuable-distance.com^
+||valuable-race.pro^
 ||valuablelayoutgodless.com^
 ||valuablemarch.com^
 ||valuablenumber.com^
@@ -50964,6 +50979,7 @@ vkcdnservice.appspot.com^
 ||zfgvoltwlszda.site^
 ||zfjhmufunivir.space^
 ||zfjuaamsogmdl.site^
+||zfpoezyukl.com^
 ||zfqskzjijhgma.space^
 ||zfuldyycbvbiz.space^
 ||zfutnrdsaifyd.online^
@@ -119961,6 +119977,7 @@ dlsdk.appsflyer.com^
 ||snowman77.com^
 ||dowrrav.com^
 ||saxophone90.top^
+||6cmxoje5k.com^
 ||trombone48.com^
 ||1qocqk1fho.com^
 ||s0p6s02x28.com^
