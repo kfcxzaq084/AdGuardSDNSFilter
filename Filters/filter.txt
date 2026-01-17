@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-17T06:32:03.126Z
+! Last modified: 2026-01-17T08:27:13.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9914,6 +9914,7 @@ vkcdnservice.appspot.com^
 ||atswfbonkmkrw.website^
 ||attabalkanaka.cyou^
 ||attacheatableoverlabor.com^
+||attached-clock.pro^
 ||attachedglorysticks.com^
 ||attachedkneel.com^
 ||attackastonishment.com^
@@ -13065,6 +13066,7 @@ vkcdnservice.appspot.com^
 ||cbkyaepzyibsx.click^
 ||cbldtrxnatewy.site^
 ||cblmcgeipgxxc.online^
+||cblqmoests.com^
 ||cbpttdpymofjx.online^
 ||cbqhmxsejgjma.website^
 ||cbqkgyeeqnzjq.site^
@@ -19175,6 +19177,7 @@ vkcdnservice.appspot.com^
 ||eyqsrrwmvhavp.website^
 ||eyrbobble.cfd^
 ||eysltgmwdejxnj.net^
+||eytotptf.com^
 ||eytthwyiszpyd.site^
 ||eyukzrfovohmi.space^
 ||eyuqaovwllkth.space^
@@ -25100,6 +25103,7 @@ vkcdnservice.appspot.com^
 ||inchesrecognize.com^
 ||inchestannule.qpon^
 ||incidenttrumpremittance.com^
+||inclinationsupervisor.com^
 ||inclinedallusionnearby.com^
 ||inclinedenemiesastray.com^
 ||incloak.com^
@@ -29062,6 +29066,7 @@ vkcdnservice.appspot.com^
 ||lmmnkwbtxmrxq.website^
 ||lmn-pou-win.com^
 ||lmngvqqskhppa.online^
+||lmnjsywqztqlk.site^
 ||lmoozvlrzemlq.top^
 ||lmottoofja.com^
 ||lmqvowebejzyy.top^
@@ -29083,6 +29088,7 @@ vkcdnservice.appspot.com^
 ||lnejt9ziuhx67mcb.cfd^
 ||lnemejybcariz.space^
 ||lnevgpyqncwpj.life^
+||lnevhxqvlwwdd.website^
 ||lnfksfxtuojmk.site^
 ||lnfncvjaweewi.tech^
 ||lnhvtwwsghodc.space^
@@ -40117,6 +40123,7 @@ vkcdnservice.appspot.com^
 ||rufcdstpjdcrd.site^
 ||rufdbymsjiwsg.website^
 ||rufffeotfnic.com^
+||rufhdndiebfal.website^
 ||rufiwccmsvvlc.website^
 ||ruftodru.net^
 ||rugakim.cyou^
@@ -40287,6 +40294,7 @@ vkcdnservice.appspot.com^
 ||ryapalta.com^
 ||ryaqlyayozjw.top^
 ||rybjwenfwjovuqf.xyz^
+||ryddiuaiixndo.site^
 ||rydmuxmuocztf.space^
 ||rydresa.info^
 ||ryemnlgddrxss.website^
@@ -41258,6 +41266,7 @@ vkcdnservice.appspot.com^
 ||sheehussoab.net^
 ||sheelbimboes.cfd^
 ||sheenlybruscha.cyou^
+||sheeptaurgeersi.net^
 ||sheertaxir.qpon^
 ||sheetvibe.com^
 ||shegaisoultou.net^
@@ -41607,6 +41616,7 @@ vkcdnservice.appspot.com^
 ||sjemmwjqgdpud.com^
 ||sjfyupmvpazsj.store^
 ||sjgtsqnmrqswz.space^
+||sjgynxxcbmpbf.online^
 ||sjiuevumbyiir.website^
 ||sjkigukddtknz.store^
 ||sjkiplqf.com^
@@ -44292,6 +44302,7 @@ vkcdnservice.appspot.com^
 ||tinselspecifically.com^
 ||tinsus.com^
 ||tinted-run.com^
+||tinted-specialist.pro^
 ||tintedvideo.com^
 ||tintersloggish.com^
 ||tiny-atmosphere.com^
@@ -45667,6 +45678,7 @@ vkcdnservice.appspot.com^
 ||uhsfoists.help^
 ||uhsmmaq4l2n5.com^
 ||uhtqrghdgtgvp.website^
+||uhuruslavsmatzas.cyou^
 ||uhvsefglyttww.fun^
 ||uhvsqmhvi.com^
 ||uhyuspdyothna.online^
@@ -46026,6 +46038,7 @@ vkcdnservice.appspot.com^
 ||unknownpermission.com^
 ||unlaidsixing.help^
 ||unlamechins.cfd^
+||unlawful-camera.pro^
 ||unlawful-judgment.com^
 ||unlawfulbasket.pro^
 ||unlawfuldamage.com^
@@ -49490,6 +49503,7 @@ vkcdnservice.appspot.com^
 ||xeiqculqoqvw.com^
 ||xeitnipcoefge.store^
 ||xejidwidsetmu.space^
+||xejrwgzfwzxwx.website^
 ||xel-xel-fie.com^
 ||xelhwfsgqffov.website^
 ||xelllwrite.com^
@@ -49966,6 +49980,7 @@ vkcdnservice.appspot.com^
 ||xxmcqrhazltss.space^
 ||xxmfopafuhkpe.space^
 ||xxnzjkioqzuyl.space^
+||xxpkpjptfwnrfkn.com^
 ||xxsncnivpev.xyz^
 ||xxvfswapdzisf.website^
 ||xxxbannerswap.com^
@@ -50186,6 +50201,7 @@ vkcdnservice.appspot.com^
 ||ydkxuqwwpzivm.space^
 ||ydnrwntqtikfg.online^
 ||ydoekexzpcxdf.online^
+||ydopvxjwmlkoo.space^
 ||ydqhvlqqhtuli.website^
 ||ydssnzuqzdild.online^
 ||ydtfvwvmeojpx.site^
@@ -51685,6 +51701,7 @@ vkcdnservice.appspot.com^
 ||aanetwork.vn^
 ||abnad.net^
 ||aboutads.quantcast.com^
+||acebet.com^
 ||acronym.com^
 ||actiondesk.com^
 ||activedancer.com^
@@ -120002,6 +120019,12 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||354xxcdt1.com^
+||hbz8v.com^
+||w5c6d9.cc^
+||bugs01171ko.com^
+||lqbe7i5gf.com^
+||1gj8lhfa1.com^
 ||ra0mpyy93.com^
 ||bugs01170ko.com^
 ||evpxl9a8h.com^
