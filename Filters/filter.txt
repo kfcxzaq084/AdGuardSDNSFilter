@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-18T03:46:54.383Z
+! Last modified: 2026-01-18T04:42:13.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -23868,6 +23868,7 @@ vkcdnservice.appspot.com^
 ||hoanhngbkquky.site^
 ||hoanoola.net^
 ||hoapsoumaipt.net^
+||hoardcocin.com^
 ||hoarishcaucho.cyou^
 ||hoarse-dark.pro^
 ||hoarsecelebrityversus.com^
@@ -26824,6 +26825,7 @@ vkcdnservice.appspot.com^
 ||jtgnqv5gkhj3x612fgh.cfd^
 ||jthvhvisxilvq.space^
 ||jtiasfkkg.xyz^
+||jtinbgeyzmcjd.online^
 ||jtj5mnz117urjj56j742ofivrw8xl.cfd^
 ||jtjyliospqsrs.online^
 ||jtmc7mey7u4g3e.cfd^
@@ -26949,6 +26951,7 @@ vkcdnservice.appspot.com^
 ||justpremium.com^
 ||justservingfiles.net^
 ||justsufficiently.com^
+||juswsuqwbegra.site^
 ||jutchoufos.com^
 ||jutepolitei.cfd^
 ||juttiedpulka.cfd^
@@ -29031,6 +29034,7 @@ vkcdnservice.appspot.com^
 ||ljhocruh.net^
 ||ljijbovhzytkj.online^
 ||ljiotibrwigir.online^
+||ljklwagzynotx.website^
 ||ljlkqcllihjiy.site^
 ||ljmbfywawrrrg.online^
 ||ljmboyizkykax.online^
@@ -29696,6 +29700,7 @@ vkcdnservice.appspot.com^
 ||lutsoowhauda.net^
 ||lutttkpgmlqsf.website^
 ||luuming.com^
+||luuspdbnxvyjs.site^
 ||luvianyao.cfd^
 ||luwt.cloud^
 ||luxadv.com^
@@ -31958,6 +31963,7 @@ vkcdnservice.appspot.com^
 ||nalcklqcmpu.com^
 ||nalemousery.cfd^
 ||nalitanitred.qpon^
+||naljipjupyej.com^
 ||nalraughaksie.net^
 ||nameads.com^
 ||namel.net^
@@ -35880,6 +35886,7 @@ vkcdnservice.appspot.com^
 ||pipqgicbrxhwl.website^
 ||pipsol.net^
 ||piquiafarde.help^
+||piquingbirneextancy.cyou^
 ||pirangagona.help^
 ||piratedsiress.shop^
 ||piratedstoory.qpon^
@@ -114650,8 +114657,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2026 14:05 UTC+7
-! Version: 2601151405
+! Last modified: 18 Jan 2026 11:06 UTC+7
+! Version: 2601181106
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -115442,8 +115449,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Jan 2026 14:05 UTC+7
-! Version: 2601151405
+! Last modified: 18 Jan 2026 11:06 UTC+7
+! Version: 2601181106
 ! Blocked: 4.831 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -120248,6 +120255,8 @@ dlsdk.appsflyer.com^
 ||xylophone37.com^
 ||kacq.cn^
 ||8fdmj67f5e.com^
+||nie8fe9far.com^
+||zqqwr9snx1.com^
 ||354xxcdt1.com^
 ||hbz8v.com^
 ||w5c6d9.cc^
