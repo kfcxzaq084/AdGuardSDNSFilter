@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-18T01:54:57.021Z
+! Last modified: 2026-01-18T03:46:54.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12638,6 +12638,7 @@ vkcdnservice.appspot.com^
 ||bxvvzylxihzoh.space^
 ||bxwvsumjgtvmg.space^
 ||bxwzcnwycuvbc.world^
+||bxyaqdyougmac.website^
 ||bxynquktjxiqi.website^
 ||byadfly.online^
 ||bybtndtqoazzx.online^
@@ -15560,6 +15561,7 @@ vkcdnservice.appspot.com^
 ||daivendtzsbws.space^
 ||daivouteezoosty.net^
 ||daiwazumoawhy.net^
+||dakafxgnqcpmm.website^
 ||dakirbump.qpon^
 ||dakoitsredlegsfrankly.cyou^
 ||dakotatitlist.cfd^
@@ -18147,6 +18149,7 @@ vkcdnservice.appspot.com^
 ||ekvmjhkcwofgm.space^
 ||ekvoffgfhdtoj.website^
 ||ekwawttppsobwgr.xyz^
+||ekwskcyjjmlqj.com^
 ||ekwszyyzmwcqt.space^
 ||ekxtrafcewyww.store^
 ||ekxyrwvoegb.xyz^
@@ -19811,6 +19814,7 @@ vkcdnservice.appspot.com^
 ||fibrefilamentherself.com^
 ||fibrilaweek.shop^
 ||fickle-dream.com^
+||fickleassistant.pro^
 ||ficklecapacious.com^
 ||ficminsoazaigh.net^
 ||ficmxrutlrhig.store^
@@ -24974,6 +24978,7 @@ vkcdnservice.appspot.com^
 ||ilplpsco.com^
 ||ilpmcvbmizqfo.site^
 ||ilqtskaqbxdrj.website^
+||ilrkcyoqtybaf.website^
 ||ilshiletterismype.org^
 ||iltyooondwxst.online^
 ||ilvumbonf.net^
@@ -25579,6 +25584,7 @@ vkcdnservice.appspot.com^
 ||ipcgssuxfrlmr.website^
 ||ipcyheeusjzdz.space^
 ||ipdqegogqbgwa.space^
+||ipebzusuwuxwl.site^
 ||ipelo.site^
 ||ipewfddpzlvic.site^
 ||ipfgvwdwcqiwo.space^
@@ -26328,6 +26334,7 @@ vkcdnservice.appspot.com^
 ||jguroejplzivn.site^
 ||jgvcximyxx.com^
 ||jgvynalsokllu.space^
+||jgwlomfinvizq.site^
 ||jgwwszqkvyxcg.site^
 ||jgybofeaubrxy.space^
 ||jh42fn43jcenplbqxr18f1.cfd^
@@ -29159,6 +29166,7 @@ vkcdnservice.appspot.com^
 ||lmqvowebejzyy.top^
 ||lmrljuiymdtry.space^
 ||lmrwupcucuprv.site^
+||lmsxvjnxjlozp.online^
 ||lmukstyn.xyz^
 ||lmvrjabzqelkj.top^
 ||lmvugtjbkotmy.website^
@@ -31558,6 +31566,7 @@ vkcdnservice.appspot.com^
 ||muddyclassic.com^
 ||muddyhonorarymy.com^
 ||muddyjunior.pro^
+||muddysoil.pro^
 ||mudejarforches.qpon^
 ||mudobtnarda.com^
 ||mudsdiantre.cfd^
@@ -34002,6 +34011,7 @@ vkcdnservice.appspot.com^
 ||onenightfriend.com^
 ||oneojobwpbmaq.site^
 ||oneotheacon.cc^
+||oneratecoalboxexciter.cfd^
 ||onerousgardening.com^
 ||onerousgathering.com^
 ||onerouslittledomestic.com^
@@ -34347,6 +34357,7 @@ vkcdnservice.appspot.com^
 ||oruxmvyydrvkr.website^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
+||orylhull.com^
 ||oryssidovidbabbly.cfd^
 ||orz9yhwq645zc97umomyrv3.cfd^
 ||orzukuzorpxvp.online^
@@ -34850,6 +34861,7 @@ vkcdnservice.appspot.com^
 ||ozuvdfqzkqxho.store^
 ||ozvmsmvmbxlfg.site^
 ||ozxgkizicab.com^
+||ozxodzemhjmgq.site^
 ||ozxrgwqkxkydc.website^
 ||ozxvyaklufsce.space^
 ||ozycode.cfd^
@@ -36520,6 +36532,7 @@ vkcdnservice.appspot.com^
 ||pperkvadtvtxk.online^
 ||pphgtdhjtfvui.online^
 ||pphieftkuwccw.site^
+||pphueejbqppjnfxe9pi.cfd^
 ||ppisucjrqkbed.site^
 ||ppjgqhfpyogc9kyjfc6wvlu3v.cfd^
 ||ppjixfomknvwz.online^
@@ -36922,6 +36935,7 @@ vkcdnservice.appspot.com^
 ||prosedglisten.cfd^
 ||proselyaltars.com^
 ||prosiermercian.qpon^
+||prosilyingles.cyou^
 ||prosishcoining.cfd^
 ||prospectsirresistible.com^
 ||prosperent.com^
@@ -38693,6 +38707,7 @@ vkcdnservice.appspot.com^
 ||raztrwwjuefeo.website^
 ||razziakinkly.help^
 ||rbajvlwsgdkzp.online^
+||rbalcstogmsxkr.xyz^
 ||rbaxuqhmkgcvz.space^
 ||rbdhrkaaxqelb.space^
 ||rbejwzfebcxaz.world^
@@ -40554,6 +40569,7 @@ vkcdnservice.appspot.com^
 ||saghandkerchief.com^
 ||sagitalwalnut.cyou^
 ||sagtbhshvpjwsgu.xyz^
+||saharanrewin.com^
 ||sahhamices.qpon^
 ||sahotchilape.net^
 ||saidtheswallow.com^
@@ -45042,6 +45058,7 @@ vkcdnservice.appspot.com^
 ||treadhospitality.com^
 ||treasonfinding.com^
 ||treasonmason.com^
+||treasured-doctor.pro^
 ||treasured-phase.pro^
 ||treasuredback.pro^
 ||treasurerchord.com^
@@ -45642,6 +45659,7 @@ vkcdnservice.appspot.com^
 ||uaxezwpfaghym.store^
 ||uaxkurmkomsyw.website^
 ||uayljpxuyhjlh.store^
+||ubaisaftoksult.net^
 ||ubbfatevovpkd.site^
 ||ubbfpm.com^
 ||ubcqdptszwtix.site^
@@ -53309,6 +53327,7 @@ vkcdnservice.appspot.com^
 ||ads2.videy.co^
 ||ads3.videy.co^
 ||adsmg.fanfox.net^
+||ag.divcom.com^
 ||ams.naturalnews.com^
 ||ams.naturalnewsblogs.com^
 ||api.mumuglobal.com^
@@ -120228,6 +120247,7 @@ dlsdk.appsflyer.com^
 ||solitaire50.top^
 ||xylophone37.com^
 ||kacq.cn^
+||8fdmj67f5e.com^
 ||354xxcdt1.com^
 ||hbz8v.com^
 ||w5c6d9.cc^
