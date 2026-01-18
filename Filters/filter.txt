@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-18T18:29:00.659Z
+! Last modified: 2026-01-18T20:23:30.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||bwoscenc.com^
+||oxtafkzfe.com^
 ||agl008.shop^
 ||sfaxunhan.com^
 ||core.ourdream.ai^
@@ -8855,6 +8857,7 @@ vkcdnservice.appspot.com^
 ||alcoholcheckoccur.com^
 ||alcoholclavialpalaung.cfd^
 ||alcondevarella.cfd^
+||alczpohhzjaag.online^
 ||aldealerret.cfd^
 ||alditolcensure.cfd^
 ||aldosesmajeure.com^
@@ -10092,6 +10095,7 @@ vkcdnservice.appspot.com^
 ||autopsytan.com^
 ||auvaugushik.net^
 ||auwhouwikri.com^
+||auxdciugyclyi.space^
 ||auxesescultual.shop^
 ||auxml.com^
 ||auydbswopjvtre.com^
@@ -11163,6 +11167,7 @@ vkcdnservice.appspot.com^
 ||beveldankish.com^
 ||beveyckzdzheo.site^
 ||bevueruddledkipsey.cfd^
+||bevwcymvettup.space^
 ||bevwxnkjjq.com^
 ||bewailindigestionunhappy.com^
 ||bewailknotcorruption.com^
@@ -12062,6 +12067,7 @@ vkcdnservice.appspot.com^
 ||bpdwgrtovfhga.site^
 ||bpeovknslhuqy.online^
 ||bpgwsiqunmadx.online^
+||bphgwntdzzyxs.space^
 ||bphtlhrntspkk.site^
 ||bpigydbzlrszz.online^
 ||bpleaaekrdvnj.site^
@@ -12623,7 +12629,6 @@ vkcdnservice.appspot.com^
 ||bwnnbwlngkwgd.space^
 ||bwomzivfbzrtm.online^
 ||bwoorvop.com^
-||bwoscenc.com^
 ||bwqkqkhfvwppy.website^
 ||bwqpdvvcxuzwi.website^
 ||bwqteixclqazk.store^
@@ -13849,6 +13854,7 @@ vkcdnservice.appspot.com^
 ||cisingrime.qpon^
 ||cisrdtjgexexa.website^
 ||cissiescatwort.shop^
+||cissingsaplessfellest.cyou^
 ||cissoanoughanso.net^
 ||cistaexpired.cyou^
 ||cisticplanes.qpon^
@@ -16295,6 +16301,7 @@ vkcdnservice.appspot.com^
 ||dfrgxsiydjbfj.space^
 ||dfsubnnhamtad.site^
 ||dfsuphjlbrxmv.website^
+||dftmuptixnvgl.com^
 ||dfuijqrojtvcb.site^
 ||dfuxpeudrhrpj.online^
 ||dfvmyfyb.xyz^
@@ -23783,6 +23790,7 @@ vkcdnservice.appspot.com^
 ||hiwucomhecyod.site^
 ||hixnvlrmsizkh.website^
 ||hixyhbsodvkip.site^
+||hiynedguboxqm.website^
 ||hiyszuqbiglyh.space^
 ||hiziiokmnfojq.site^
 ||hizouhoalsitho.com^
@@ -25807,6 +25815,7 @@ vkcdnservice.appspot.com^
 ||issitekelter.shop^
 ||issonruvxcgpp.website^
 ||issuedkuvasz.com^
+||istbfayfjgqfa.com^
 ||istipaumophy.com^
 ||istlnkbn.com^
 ||istsguqiooy.net^
@@ -30999,6 +31008,7 @@ vkcdnservice.appspot.com^
 ||mjcfpkgfkeoni.site^
 ||mjdoepcbogrix.store^
 ||mjekpownyklmv.online^
+||mjexciysaiymxu.com^
 ||mjexfqwxjuo.com^
 ||mjfrdqhmc.com^
 ||mjgmwrbkbbwak.space^
@@ -34677,6 +34687,7 @@ vkcdnservice.appspot.com^
 ||outheelrelict.com^
 ||outhermouther.qpon^
 ||outhulem.net^
+||outkickbeforespireas.cyou^
 ||outlandish-feature.pro^
 ||outlandish-net.pro^
 ||outlandishanalyst.pro^
@@ -34889,7 +34900,6 @@ vkcdnservice.appspot.com^
 ||oxshgkbicsayq.website^
 ||oxstjmmbgenpw.website^
 ||oxsvddrogqvwm.website^
-||oxtafkzfe.com^
 ||oxtracking.com^
 ||oxtsale1.com^
 ||oxtzgomhodrz.top^
@@ -36002,6 +36012,7 @@ vkcdnservice.appspot.com^
 ||piskaday.com^
 ||pissedakene.digital^
 ||pistickjoker.help^
+||pistilsaulete.qpon^
 ||pitchcustomaryoz.com^
 ||pitchedfurs.com^
 ||pitchesbemuse.shop^
@@ -42108,6 +42119,7 @@ vkcdnservice.appspot.com^
 ||slowfulfoujdar.help^
 ||slowlyfocuseddose.com^
 ||slowlyrearmslawgive.cyou^
+||slqhoitusidsr.site^
 ||slslkeszupdwl.space^
 ||slthavjtoxjoi.site^
 ||sltjvmiyttffi.space^
@@ -48589,6 +48601,7 @@ vkcdnservice.appspot.com^
 ||wejvdxiglvuwa.online^
 ||wel-wel-fie.com^
 ||welcome-past.pro^
+||welcome-phone.pro^
 ||welcomeneat.pro^
 ||welcomingaccompanyeffort.com^
 ||welcomingwaterfall.com^
