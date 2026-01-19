@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-19T03:51:24.147Z
+! Last modified: 2026-01-19T04:53:25.082Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -23384,6 +23384,7 @@ vkcdnservice.appspot.com^
 ||hdjsvkvqhfvdb.space^
 ||hdkokhzvalbxn.tech^
 ||hdkpdrzcvooaz.online^
+||hdlibkddkahdwl.com^
 ||hdmmkguxvsfrl.site^
 ||hdoditwa.xyz^
 ||hdowamsiyeibv.online^
@@ -24376,6 +24377,7 @@ vkcdnservice.appspot.com^
 ||hucmourtee.net^
 ||hucnfoxgiirbw.online^
 ||hudmmxrbwnbwl.fun^
+||hudupxzcaltnp.space^
 ||hue11.com^
 ||hue2b.com^
 ||hueadsxml.com^
@@ -24989,6 +24991,7 @@ vkcdnservice.appspot.com^
 ||iijwomwwwfhrz.online^
 ||iijyrnrxflbvn.store^
 ||iikok6qiwg15xfpx.cfd^
+||iilvrehcfgvkj.online^
 ||iiouzpgmqpftg.website^
 ||iiqetnbmcls.net^
 ||iiqkuzdjjregw.website^
@@ -26886,6 +26889,7 @@ vkcdnservice.appspot.com^
 ||jrzfcoqifpcjx.space^
 ||jrzgvazyluetk.website^
 ||jrzrqi0au.com^
+||jrzslkcsswbga.website^
 ||js-check.com^
 ||js2json.com^
 ||js7k.com^
@@ -30198,6 +30202,7 @@ vkcdnservice.appspot.com^
 ||manoareca.cyou^
 ||manominsurwan.cyou^
 ||manorowlapprehension.com^
+||manqueeaerialincuses.cyou^
 ||manrec.cc^
 ||manropelegati.qpon^
 ||mansionappointmentmoon.com^
@@ -32074,6 +32079,7 @@ vkcdnservice.appspot.com^
 ||nagrande.com^
 ||nahrsvtslfjzz.site^
 ||nahuaesnecy.help^
+||nahuatlcodens.com^
 ||naillimity.click^
 ||naineethehe.net^
 ||naipachevoapt.net^
@@ -102851,6 +102857,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||event-storage.netmonet.co^
+||neviju.netmonet.co^
+||jaeger.netmonet.co^
 ||wap.wovn.io^
 ||falcon.useinsider.com^
 ||sp.pluto.tv^
@@ -120503,6 +120512,9 @@ dlsdk.appsflyer.com^
 ||meander32.com^
 ||zlnitethia.com^
 ||butoqj0vh.com^
+||xkum.cn^
+||ulx1cpf68.com^
+||xktoy8fub.com^
 ||kasgnh7xwl.com^
 ||cmesgpqq8z.com^
 ||67qlvj0jcj.com^
