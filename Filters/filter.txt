@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-20T10:29:10.011Z
+! Last modified: 2026-01-20T12:52:36.225Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5752,6 +5752,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||paa-reporting-advertising.amazon^
 ||v.tampermonkey.net^
 ||u.tampermonkey.net^
 ||prebid-server.newsbreak.com^
@@ -6868,6 +6869,7 @@ vkcdnservice.appspot.com^
 ||4rabettraff.com^
 ||4rnqoqt1b17w4qy.cfd^
 ||4uol7t4f8cb8cu4yxhwex438kbi6gq.cfd^
+||4vci8kxg42cg8hnewmeo5u.cfd^
 ||4wmvc34l4pn7pkj4.cfd^
 ||4wnetwork.com^
 ||4y3wjnfiullobtel.cfd^
@@ -9105,6 +9107,7 @@ vkcdnservice.appspot.com^
 ||alysson.de^
 ||alzcdizuqhwfw.online^
 ||alzlwkybyblw.top^
+||alzuogujpnija.website^
 ||am10.ru^
 ||am15.net^
 ||amaabfvuyispa.space^
@@ -14825,6 +14828,7 @@ vkcdnservice.appspot.com^
 ||corcnyqqlnuyam.xyz^
 ||cordbraghare.com^
 ||cordclck.cc^
+||cordersorgans.qpon^
 ||cordinghology.info^
 ||cordplumb.com^
 ||core.dimatter.ai^
@@ -16413,6 +16417,7 @@ vkcdnservice.appspot.com^
 ||dfjpjzogrzywb.com^
 ||dfogeblecagjys.xyz^
 ||dfommwypqqrdw.online^
+||dfpcgvaknwpl.com^
 ||dfplofralyjlc.online^
 ||dfqbktlcmmcca.space^
 ||dfqirjrmqxnbg.space^
@@ -17918,6 +17923,7 @@ vkcdnservice.appspot.com^
 ||echiumthos.cfd^
 ||echoertongers.qpon^
 ||echoflaresoap.com^
+||echoizetx.shop^
 ||echopixelwave.net^
 ||ecidjfjtiyxmg.website^
 ||ecinw7ux5nyzcoy4ef8.cfd^
@@ -23831,6 +23837,7 @@ vkcdnservice.appspot.com^
 ||hiasor.com^
 ||hibawsvdvfsul.site^
 ||hibegyqmbinwo.site^
+||hibfrinr.com^
 ||hibids10.com^
 ||hicrqskneechm.website^
 ||hidcolouredclink.com^
@@ -25692,6 +25699,7 @@ vkcdnservice.appspot.com^
 ||instanceimprovedhew.com^
 ||instancejuxtaposeteaspoon.com^
 ||instant4ck.com^
+||instantconservativedetect.com^
 ||instantdeceived.com^
 ||instantdollarz.com^
 ||instaruptilt.com^
@@ -26741,6 +26749,7 @@ vkcdnservice.appspot.com^
 ||jjryhyjbsykiqpv.net^
 ||jjtmmlcyrudkn.website^
 ||jjudwgoiczwke.online^
+||jjwqskfn.xyz^
 ||jjxipmaerbtdj.online^
 ||jjzuqyezehdnj.space^
 ||jk1vgvztb9b61t.cfd^
@@ -28353,6 +28362,7 @@ vkcdnservice.appspot.com^
 ||kurveyfluemen.cyou^
 ||kusanming.qpon^
 ||kussebsaiksolt.net^
+||kutrhaatnoh.com^
 ||kutyigeegikcp.space^
 ||kuuqakgektnyn.site^
 ||kuvirixa.com^
@@ -30172,6 +30182,7 @@ vkcdnservice.appspot.com^
 ||lyvkvqitzktkx.store^
 ||lyvlbjzbozkxy.space^
 ||lyvqjhhxlcxhy.space^
+||lyvxhrsndalwx.space^
 ||lywfwxeexwcwc.online^
 ||lyxtctypvyltt.com^
 ||lyyyrqwnlyedjp.xyz^
@@ -30956,6 +30967,7 @@ vkcdnservice.appspot.com^
 ||mfymrypcirm.com^
 ||mfynwrbjbbybm.site^
 ||mfzijmmmuiibz.website^
+||mgbemwdvmpnls.com^
 ||mgbftodwqaujv.website^
 ||mgcash.com^
 ||mgcbncbblbrlh.site^
@@ -31443,6 +31455,7 @@ vkcdnservice.appspot.com^
 ||moderatedead.com^
 ||modern-crew.com^
 ||modern-trade.pro^
+||modernjingleshoes.com^
 ||modest-visual.pro^
 ||modificationdesignate.com^
 ||modificationdispatch.com^
@@ -32907,6 +32920,7 @@ vkcdnservice.appspot.com^
 ||njpwzgxksptql.website^
 ||njsarhluoqxqo.store^
 ||njsxourgkanks.online^
+||njszkroovzocc.site^
 ||njtbmyyhwjaxo.online^
 ||njufaubstlpar.space^
 ||njvhktxvqdrcj.xyz^
@@ -34483,6 +34497,7 @@ vkcdnservice.appspot.com^
 ||oomiakyetapa.com^
 ||oomougnoltaifto.net^
 ||oomsauleertoa.net^
+||oomtaingaurgaix.net^
 ||oonsoholreed.net^
 ||oookxrpzrlmib.space^
 ||oooqitpwsryvd.space^
@@ -35942,6 +35957,7 @@ vkcdnservice.appspot.com^
 ||pfawtedanqhgs.space^
 ||pfcdtsuluvo.com^
 ||pfctoaznqazlg.store^
+||pfcuynzlshtgg.site^
 ||pfdmuong.cfd^
 ||pffgvpihauhav.website^
 ||pffueglkyydya.online^
@@ -40900,6 +40916,7 @@ vkcdnservice.appspot.com^
 ||rygdzlvrladuc.store^
 ||ryhiuxqxohoiv.website^
 ||ryhkfuhxqbq8n27ix5wlwpm53n2jmt7.cfd^
+||ryhvhudttdekx.online^
 ||ryifzfdxgoatd.online^
 ||ryiklaawtjuus.online^
 ||ryivtpjcwrssq.com^
@@ -42420,6 +42437,7 @@ vkcdnservice.appspot.com^
 ||slippersphoto.com^
 ||slippersprimeexaltation.com^
 ||slipperymirror.pro^
+||slitterarustleakala.cyou^
 ||slivmux.com^
 ||sljahnmoeqlis.online^
 ||sllqlohjenqyg.site^
@@ -46125,6 +46143,7 @@ vkcdnservice.appspot.com^
 ||tzaqkp.com^
 ||tzartiangue.cyou^
 ||tzcevmcdqqjms.site^
+||tzcryiclytckx.site^
 ||tzeeqofqhqrag.website^
 ||tzegilo.com^
 ||tzepbopyvsdav.site^
@@ -46933,6 +46952,7 @@ vkcdnservice.appspot.com^
 ||uommyhvsmzozp.website^
 ||uoolxh3g7ntj85o.cfd^
 ||uooumilwtodnh.website^
+||uoprjgmbzp.com^
 ||uoptxvqdacicy.space^
 ||uopvpepvmrepe.website^
 ||uorksewkwesln.space^
@@ -47175,6 +47195,7 @@ vkcdnservice.appspot.com^
 ||usurv.com^
 ||uswardsodded.cyou^
 ||uswgjyclbvtjj.space^
+||uswsyzbbbhqsi.site^
 ||uszgtoawknavp.website^
 ||uszwemdrlwqxw.website^
 ||ut7gotgezumkfc97vyr27yyqrrge6j6hv.cfd^
@@ -115513,6 +115534,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
 ||neviju.netmonet.co^
 ||jaeger.netmonet.co^
@@ -119103,7 +119125,6 @@ dlsdk.appsflyer.com^
 ||sdk-monitoring.ogury.co^
 ||tracker.srta.spectrum.com^
 ||event-collector.moviesanywhere.com^
-||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
 ||tracker.ulivetv.net^
 ||trackernew.ulivetv.net^
@@ -133180,6 +133201,7 @@ dlsdk.appsflyer.com^
 ||r8ln4v4nef.com^
 ||bugs01201ko.com^
 ||dpuhlinevz.com^
+||5sghirlr5b.com^
 ||rwtzv9ehv.com^
 ||wxikfd89f.com^
 ||yy1veaxhf.com^
