@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-20T18:38:00.509Z
+! Last modified: 2026-01-20T20:42:56.434Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17395,6 +17395,7 @@ vkcdnservice.appspot.com^
 ||drpvqbzfwafbv.site^
 ||drsmediaexchange.com^
 ||drsmexa.xyz^
+||drsnralrkqhjn.space^
 ||drstmldoazjnj.website^
 ||drswiqpxdulnv.site^
 ||drtibnixidzrx.space^
@@ -18265,6 +18266,7 @@ vkcdnservice.appspot.com^
 ||eilz3l8wmmhvfnle2xm.cfd^
 ||eimerengarde.cyou^
 ||eimesthanzogt.space^
+||eimgxobrmsm.com^
 ||eimjjpkxirtmp.space^
 ||einfmxudckhxd.xyz^
 ||einkornlyses.cyou^
@@ -23689,6 +23691,7 @@ vkcdnservice.appspot.com^
 ||helpertesthome.com^
 ||helveschaffedjoyhop.cfd^
 ||hem41xm47.com^
+||hemapodfubberyvoilier.cyou^
 ||hematalmuffs.qpon^
 ||hemathematica.org^
 ||hemesinspake.click^
@@ -24914,6 +24917,7 @@ vkcdnservice.appspot.com^
 ||ibirzxqcljqxw.site^
 ||ibjdwgskynuv.com^
 ||iblcsjmyygfmc.website^
+||ibmeugmr.com^
 ||ibmfunk.com^
 ||ibmwqchwzvlmd.online^
 ||ibnxviddjsqgq.store^
@@ -25201,6 +25205,7 @@ vkcdnservice.appspot.com^
 ||iisclmekykjjr.store^
 ||iisdvomabauto.website^
 ||iitazqaajeeui.site^
+||iiwkyrrdmmbvw.site^
 ||iiwsadkxhypb.com^
 ||iiyfjuaumikou.space^
 ||iiyvlebuvfdie.online^
@@ -32874,6 +32879,7 @@ vkcdnservice.appspot.com^
 ||nijxbipzegqqm.site^
 ||nikkiexxxads.com^
 ||nikqxlrmmxang.online^
+||niktmeeqgvogw.online^
 ||nillingsmell.cfd^
 ||nillstawney.cfd^
 ||nilroobsoachoa.net^
@@ -40192,6 +40198,7 @@ vkcdnservice.appspot.com^
 ||rjnrddxsxpkwd.site^
 ||rjokawzwvavma.top^
 ||rjqwkmcvxsouz.space^
+||rjqxnscfpzsau.website^
 ||rjqzljvlbaeww.top^
 ||rjqzljvzeaekw.top^
 ||rjrflywubejow.website^
@@ -41515,6 +41522,7 @@ vkcdnservice.appspot.com^
 ||seafoodclickwaited.com^
 ||seaharlock.qpon^
 ||sealedissuedtelly.com^
+||sealerturacostaxers.cfd^
 ||sealsteroid.com^
 ||sealthatleak.com^
 ||seanfoisons.top^
@@ -41583,6 +41591,7 @@ vkcdnservice.appspot.com^
 ||sedatesdid.cyou^
 ||sedatingnews.com^
 ||sedativebitty.com^
+||sedativequickie.com^
 ||sedodna.com^
 ||sedsossaurse.com^
 ||seduceboozeblackmail.com^
@@ -45252,6 +45261,7 @@ vkcdnservice.appspot.com^
 ||toasoudouh.net^
 ||toastrowingthrilled.com^
 ||toathiphigra.net^
+||toaviwoneshoot.com^
 ||toawaups.net^
 ||tobaccosturgeon.com^
 ||tobaltoyon.com^
@@ -121820,6 +121830,7 @@ dlsdk.appsflyer.com^
 ||melodiouscomposition.com^
 ||melodiousharmony.com^
 ||melodioussymphony.com^
+||melodyglobe.com^
 ||meltmilk.com^
 ||memeorigin.com^
 ||memolight.com^
@@ -122208,6 +122219,7 @@ dlsdk.appsflyer.com^
 ||roseincome.com^
 ||rottenray.com^
 ||rovememoirs.com^
+||royalespring.com^
 ||royalsbagels.com^
 ||royalsweeper.com^
 ||ruralrobin.com^
