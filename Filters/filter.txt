@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-20T03:44:39.112Z
+! Last modified: 2026-01-20T04:46:11.099Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9922,6 +9922,7 @@ vkcdnservice.appspot.com^
 ||aswaylievest.com^
 ||asxmxoncntczg.website^
 ||asxvejeojwajf.online^
+||aszwpglgletyf.online^
 ||atableofcup.com^
 ||atafterpiquing.cfd^
 ||ataiyalstrays.com^
@@ -10825,6 +10826,7 @@ vkcdnservice.appspot.com^
 ||bawixi.xyz^
 ||baxebejoaglumoa.net^
 ||baxggcgtnsder.xyz^
+||baxoulqfwfwcg.site^
 ||baybushfinites.help^
 ||bayetatoggles.cfd^
 ||baygpuglqgzoi.store^
@@ -11475,6 +11477,7 @@ vkcdnservice.appspot.com^
 ||biolw.cloud^
 ||biontpottersrelicts.cyou^
 ||biontsjudokas.help^
+||biotahanburygaen.cfd^
 ||bipartyskirled.cyou^
 ||bipedalamarthlaminar.cfd^
 ||biphic.com^
@@ -22212,6 +22215,7 @@ vkcdnservice.appspot.com^
 ||gmorafjcnoifq.space^
 ||gmpjdxvoujgfz.website^
 ||gmpustyzebuow.store^
+||gmpwbnyqptdhyj.com^
 ||gmsizwxqspypi.space^
 ||gmxdyrieikifv.store^
 ||gmxes.com^
@@ -22743,6 +22747,7 @@ vkcdnservice.appspot.com^
 ||grouchy-wedding.pro^
 ||grouchyrecover.com^
 ||grouchytest.pro^
+||grouckauth.net^
 ||groufsesquih.com^
 ||groumpepsouckoo.net^
 ||groundafreshjumped.com^
@@ -23859,6 +23864,7 @@ vkcdnservice.appspot.com^
 ||highspeedads.top^
 ||highwaycpmrevenue.com^
 ||highwayearningsexpand.com^
+||higiphryleqfj.site^
 ||higpcebtahfsg.online^
 ||higrigake.com^
 ||hiiona.com^
@@ -39870,6 +39876,7 @@ vkcdnservice.appspot.com^
 ||rganizationsuch.com^
 ||rgavvimsecmbo.life^
 ||rgbkmubapsgza.space^
+||rgcgjmruqf.com^
 ||rgeaxjuf.xyz^
 ||rgemgnxejsmrt.online^
 ||rgezwfnbpigkd.site^
@@ -133102,6 +133109,9 @@ dlsdk.appsflyer.com^
 ||s7xrlzfa.top^
 ||vdnh.cn^
 ||confluent54.top^
+||gjzpwnuifk.com^
+||lp340p7czf.com^
+||gsk801201hh.com^
 ||rwtzv9ehv.com^
 ||wxikfd89f.com^
 ||yy1veaxhf.com^
