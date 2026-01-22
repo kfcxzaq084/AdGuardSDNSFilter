@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-22T03:48:32.090Z
+! Last modified: 2026-01-22T04:49:08.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11387,6 +11387,7 @@ vkcdnservice.appspot.com^
 ||bhdghvvwhlct.xyz^
 ||bhfrnzxxcxhbn.store^
 ||bhfrttttyyruo.store^
+||bhgantblx.com^
 ||bhgtubjtfggfa.website^
 ||bhhjjdqcwfrpv.space^
 ||bhijwyscus.com^
@@ -18123,6 +18124,7 @@ vkcdnservice.appspot.com^
 ||edzusegqavqik.store^
 ||ee2b93a3a4.com^
 ||eeaeghdfwnjnz.site^
+||eeawcdhxtjmkb.site^
 ||eeberoasfqxwg.global^
 ||eebivsjgsjktp.store^
 ||eebseecmugn.com^
@@ -20195,6 +20197,7 @@ vkcdnservice.appspot.com^
 ||findpartnerthefinder.com^
 ||findromanticdates.com^
 ||finds-girls-junction.com^
+||fine-sweet.pro^
 ||finednothue.com^
 ||finedsurmisecopper.com^
 ||finemonth.com^
@@ -23101,6 +23104,7 @@ vkcdnservice.appspot.com^
 ||gumon.site^
 ||gumophauny.net^
 ||gumseparately.com^
+||gumtreegravedo.com^
 ||gumyfui.com^
 ||gunatedbivvy.cfd^
 ||gunft.com^
@@ -28587,6 +28591,7 @@ vkcdnservice.appspot.com^
 ||kwhpllmraltfm.website^
 ||kwieeycycccpv.website^
 ||kwituobm.xyz^
+||kwjfejtnfuxlj.space^
 ||kwlmpwbrsennw.space^
 ||kwmbgyoruvsaa.store^
 ||kwnhefkto.net^
@@ -36795,6 +36800,7 @@ vkcdnservice.appspot.com^
 ||plushesmafura.help^
 ||plushpanic.com^
 ||pluvianuruguay.com^
+||pluxpdzouwubj.space^
 ||plxduievuehvu.website^
 ||plxibyjobzgfn.site^
 ||plxpubyxarcjl.space^
@@ -39087,6 +39093,7 @@ vkcdnservice.appspot.com^
 ||qwvvoallykvj.top^
 ||qwwgofjgyrtyv.website^
 ||qwwicwtadrszn.site^
+||qwwrqxlbplpws.website^
 ||qwxfhuzzyhyiu.space^
 ||qwxjdsqsccmdlx.com^
 ||qwyumelrlvq.xyz^
@@ -44076,6 +44083,7 @@ vkcdnservice.appspot.com^
 ||sulfiterebias.cyou^
 ||sulkvulnerableexpecting.com^
 ||sultamscopet.cyou^
+||sultoneframer.com^
 ||sultrymomentarily.com^
 ||sumagedruther.com^
 ||sumbreta.com^
@@ -115916,6 +115924,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.itbox.ua^
 ||stats.insighttimer.com^
 ||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
@@ -133601,6 +133610,10 @@ dlsdk.appsflyer.com^
 ||bugs01220ko.com^
 ||innveu2ji6.com^
 ||gsk801220hh.com^
+||juzn.cn^
+||em7ky342lo.com^
+||x0lkimaixh.com^
+||bugs01221ko.com^
 ||96zddjwn2.com^
 ||8g2a7mifv.com^
 ||gsk801211hh.com^
