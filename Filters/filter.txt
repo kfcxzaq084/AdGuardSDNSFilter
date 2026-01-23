@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-23T12:50:08.183Z
+! Last modified: 2026-01-23T14:26:37.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11281,6 +11281,7 @@ vkcdnservice.appspot.com^
 ||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestgirlsjourneys.com^
+||bestialanacompulsive.com^
 ||bestmmogame.com^
 ||bestofall.info^
 ||bestonlinecasino.club^
@@ -11550,6 +11551,7 @@ vkcdnservice.appspot.com^
 ||bingehassled.qpon^
 ||bingeysakell.click^
 ||bingeysosoneguarri.cyou^
+||bingiesourangsterk.cfd^
 ||bingovotress.click^
 ||binhoutwalk.qpon^
 ||binllknltjlke.net^
@@ -12101,6 +12103,7 @@ vkcdnservice.appspot.com^
 ||boqlwbntl.net^
 ||boracesoffice.help^
 ||borascoearldom.shop^
+||boratesmoluche.shop^
 ||borddiosma.help^
 ||bordermotivation.com^
 ||bordersyelling.cfd^
@@ -17966,6 +17969,7 @@ vkcdnservice.appspot.com^
 ||eallywasnothyca.com^
 ||eamolsepp.com^
 ||eamrxyoyatwgm.website^
+||eamtxtuj.com^
 ||eanresultancet.com^
 ||eaoyilbmqypkz.site^
 ||earbossysavvy.com^
@@ -19470,6 +19474,7 @@ vkcdnservice.appspot.com^
 ||exlzgmwsnvdpf.space^
 ||exmainclck.com^
 ||exmainclckback.com^
+||exmgvrcyhfewz.com^
 ||exmnyspbxagrb.website^
 ||exmwfltxyxwmr.website^
 ||exnesstrack.com^
@@ -20505,6 +20510,7 @@ vkcdnservice.appspot.com^
 ||flemerrokelay.rest^
 ||flepquix.com^
 ||fleraprt.com^
+||flettonmohican.cfd^
 ||fleuretleaved.help^
 ||flexibilitukydtea.com^
 ||flexlinks.com^
@@ -21726,6 +21732,7 @@ vkcdnservice.appspot.com^
 ||gayadpros.com^
 ||gayalstaxably.shop^
 ||gaychockededgiest.cfd^
+||gayishphrasem.cfd^
 ||gayliesspinae.cfd^
 ||gaz-help.ru^
 ||gazabosniggles.cyou^
@@ -25703,6 +25710,7 @@ vkcdnservice.appspot.com^
 ||imsonicgale.com^
 ||imtshvsvjzeob.website^
 ||imtvbovcxwhvl.global^
+||imuefdzrgnffy.space^
 ||imuyiqtmscgiy.space^
 ||imuyzqvydxswd.online^
 ||imvkovzhmbkg.com^
@@ -29669,6 +29677,7 @@ vkcdnservice.appspot.com^
 ||literethoxyl.shop^
 ||literssuasive.qpon^
 ||lithicsaps.rest^
+||lithicsulaibsings.cfd^
 ||liticismoverneme.org^
 ||litteracywing.pro^
 ||litterworerabbit.com^
@@ -30439,6 +30448,7 @@ vkcdnservice.appspot.com^
 ||lvrsbdhsoywh.net^
 ||lvsapphbvbgxf.website^
 ||lvsvzwagckrai.website^
+||lvtqzcfxlejtp.site^
 ||lvualvjfekioz.space^
 ||lvubwrnhxktlo.online^
 ||lvvbqeakmrjvy.top^
@@ -42197,6 +42207,7 @@ vkcdnservice.appspot.com^
 ||senegaspay.cyou^
 ||sengiprexes.cfd^
 ||senhorcoost.com^
+||seniordimmer.qpon^
 ||sennetfreezed.cfd^
 ||sennetsbequote.cyou^
 ||sennitsdefray.cfd^
@@ -42291,6 +42302,7 @@ vkcdnservice.appspot.com^
 ||sessionnewspaperthirteenth.com^
 ||sestihjdtwokp.space^
 ||seteamsobtantion.com^
+||setgrjeiiqkrj.com^
 ||setoffshayrake.shop^
 ||setoinc.com^
 ||setokanna.online^
@@ -42311,6 +42323,7 @@ vkcdnservice.appspot.com^
 ||seveelumus.com^
 ||sevenedgesteve.com^
 ||sevenmeters.biz^
+||seventeendepressed.com^
 ||seventhdisdainunlucky.com^
 ||severalsail.com^
 ||severecontrol.pro^
@@ -44750,6 +44763,7 @@ vkcdnservice.appspot.com^
 ||sywvuzbzlfpuv.space^
 ||sywxrvcisdjxe.store^
 ||syyynjvgdbmtj.online^
+||szbfdqwnnbhua.site^
 ||szblepeqqktbp.online^
 ||szciifmbhbmcx.space^
 ||szdikxkbkfcwd.store^
@@ -49534,6 +49548,7 @@ vkcdnservice.appspot.com^
 ||wbijhmyv7pyitbr3yxohmvf8p.cyou^
 ||wbilvnmool.com^
 ||wbiskyenhrwvx.website^
+||wbjashpesydhv.site^
 ||wbjjeykbznavr.space^
 ||wbkcxsdbchyrj.website^
 ||wbkokfwzpfuai.life^
@@ -50899,6 +50914,7 @@ vkcdnservice.appspot.com^
 ||wzvthohdheobm.site^
 ||wzvuzbcwcarnx.site^
 ||wzyazsjpaxa.com^
+||wzzpxvbjkdsqx.online^
 ||x-zjxfhysb.love^
 ||x011bt.com^
 ||x1cqv7vh6u1hgvgzm4y9xyr2oi.rest^
@@ -51666,6 +51682,7 @@ vkcdnservice.appspot.com^
 ||yasyyxtxtlbxpnq.net^
 ||yaszcbffjnfak.today^
 ||yatukdakwfhhp.online^
+||yatvyagcarfax.cyou^
 ||yatytentioniau.org^
 ||yaukggyktvseg.space^
 ||yaupaibcfqfvh.online^
@@ -52290,6 +52307,7 @@ vkcdnservice.appspot.com^
 ||yuhuads.com^
 ||yuintbradshed.com^
 ||yuixjstq.com^
+||yujkrdjfhrhfo.space^
 ||yukontrophon.cyou^
 ||yumenetworks.com^
 ||yummy-month.com^
@@ -116314,6 +116332,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.everythingstream.com^
 ||frontier.capcutw.us^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||log-v*-boot.capcutapi.com^
