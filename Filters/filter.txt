@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-24T14:20:26.540Z
+! Last modified: 2026-01-24T16:26:14.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10665,6 +10665,7 @@ vkcdnservice.appspot.com^
 ||backjawpodatus.com^
 ||backloghopvine.cyou^
 ||backspinreentryupright.com^
+||backstageemergencyblame.com^
 ||backwashcrowdstylized.com^
 ||baclight.qpon^
 ||baclingul.cfd^
@@ -12024,6 +12025,7 @@ vkcdnservice.appspot.com^
 ||bohkhufmvwim.online^
 ||bohlbdqbglfvf.website^
 ||bohmitevoiced.help^
+||bohoroktilakchita.cyou^
 ||boiiphyton.rest^
 ||boilerjaspis.qpon^
 ||boiling-rest.com^
@@ -14360,6 +14362,7 @@ vkcdnservice.appspot.com^
 ||clktds.org^
 ||clkxpoakeydsn.online^
 ||clladss.com^
+||cllrnhowu.xyz^
 ||clmbtech.com^
 ||clnrwdobejnth.online^
 ||cloacalbacin.cyou^
@@ -18914,6 +18917,7 @@ vkcdnservice.appspot.com^
 ||enraptureforemostearly.com^
 ||enraptureminims.com^
 ||enraypulu.help^
+||enroberhautgoulash.cfd^
 ||enrobeseclated.cyou^
 ||enrootformyls.help^
 ||enrtx.com^
@@ -19106,6 +19110,7 @@ vkcdnservice.appspot.com^
 ||equitymaybird.cyou^
 ||equivalentcudgeltriumphant.com^
 ||equivocalmashingreseller.com^
+||eqwcbhamlelcw.site^
 ||eqzbblwlyoluu.online^
 ||era67hfo92w.com^
 ||eradisciplinemomentary.com^
@@ -20714,6 +20719,7 @@ vkcdnservice.appspot.com^
 ||fmabgxlwyihmo.site^
 ||fmaiyleoxlfbm.online^
 ||fmapdxqhqvcia.space^
+||fmazwqtzwcfym.website^
 ||fmbristly.cyou^
 ||fmealwtuctul.com^
 ||fmfdkgoj.net^
@@ -21479,6 +21485,7 @@ vkcdnservice.appspot.com^
 ||fvvyndmujhviq.store^
 ||fvxawkckcdbux.website^
 ||fvxemeqkmkmox.site^
+||fvyrfyffhy.com^
 ||fvziwdycvudxd.tech^
 ||fwbntw.com^
 ||fwcavwstvmekw.online^
@@ -25037,6 +25044,7 @@ vkcdnservice.appspot.com^
 ||hvert.site^
 ||hvfpsfouojlla.online^
 ||hvgcguczoqvjr.site^
+||hvgxphrklbtix.site^
 ||hviegjv2vm8jozli2qkuw5x2gcpchh.cfd^
 ||hvkxpsvlmrvwn.store^
 ||hvlcmqxpruviq.xyz^
@@ -25145,6 +25153,7 @@ vkcdnservice.appspot.com^
 ||hymnistdedans.cyou^
 ||hynea.site^
 ||hynvvtkmdvjdv.website^
+||hynycrgzzevgb.space^
 ||hypemakers.net^
 ||hyperanodizereer.com^
 ||hyperbanner.net^
@@ -26843,6 +26852,7 @@ vkcdnservice.appspot.com^
 ||jbmwrorfwmsle.online^
 ||jboztgcwxnvoc.website^
 ||jbqtnmomoetzz.site^
+||jbr6rgffzo876eienuz.rest^
 ||jbtul.com^
 ||jbucljxqgbgzk.icu^
 ||jbuegeejecfca.website^
@@ -31995,6 +32005,7 @@ vkcdnservice.appspot.com^
 ||mofmzrgm8ftz99tle632.cfd^
 ||mofwtywsvqatt.site^
 ||mogheeckatcho.net^
+||moghulnash.com^
 ||mogointeractive.com^
 ||mogphhtdohjzh.website^
 ||moharcronet.com^
@@ -35319,6 +35330,7 @@ vkcdnservice.appspot.com^
 ||orlowedonhisdhilt.info^
 ||orlysoiree.cfd^
 ||ormhyvwciiqqg.space^
+||ormifqpvoyr.com^
 ||ormimvlawciog.space^
 ||ormoluunmossy.shop^
 ||ornamentabsentlyluminous.com^
@@ -36263,6 +36275,7 @@ vkcdnservice.appspot.com^
 ||pbtgbodqcsntf.store^
 ||pbtqnpqpfelqk.space^
 ||pbxai.com^
+||pbyfqdlhzrrit.online^
 ||pbymzmwwopnlm.site^
 ||pbyndmkdyxmes.space^
 ||pbysxyvtrfut.com^
@@ -38206,6 +38219,7 @@ vkcdnservice.appspot.com^
 ||psucmazailsaps.net^
 ||psudsoockaign.net^
 ||psuhfbue.com^
+||psuhofevzdnyz.online^
 ||psulrushe.net^
 ||psulsadrez.com^
 ||psuphuns.net^
@@ -39140,6 +39154,7 @@ vkcdnservice.appspot.com^
 ||qmryzbpwvcodw.website^
 ||qmvujqpcnwkma.website^
 ||qmwkcavnwiibm.online^
+||qmwmq6c5zvxpmyzehn6tl9nft2ltorn7u.cfd^
 ||qmwonwowmytqf.store^
 ||qmyzawzrqrooj.top^
 ||qmyzawzrqryjj.top^
@@ -43961,6 +43976,7 @@ vkcdnservice.appspot.com^
 ||sqtagpqwzyfhj.site^
 ||sqtnbselqbaqw.site^
 ||sqtpgwvxxad.net^
+||sqtueaeeidkhw.site^
 ||sqtwsctpdijzw.fun^
 ||squallscaroler.world^
 ||squalornitrian.qpon^
@@ -46475,6 +46491,7 @@ vkcdnservice.appspot.com^
 ||tregetluetic.cfd^
 ||trekkercustom.cfd^
 ||trellian.com^
+||trellischafing.shop^
 ||tremblesyringeillusive.com^
 ||tremendous-cold.pro^
 ||tremendous-hook.pro^
@@ -53343,6 +53360,7 @@ vkcdnservice.appspot.com^
 ||zulzuxfukkc.com^
 ||zummnibfearqs.store^
 ||zumrieth.com^
+||zumsivonaiss.net^
 ||zumycyksnllkg.website^
 ||zunsoach.com^
 ||zupcrxfechrmx.store^
