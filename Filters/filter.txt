@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-24T12:42:10.672Z
+! Last modified: 2026-01-24T14:20:26.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15091,6 +15091,7 @@ vkcdnservice.appspot.com^
 ||cowanbespate.cyou^
 ||cowardlydefinite.com^
 ||cowbirdipecacs.top^
+||cowingboubasmullet.cfd^
 ||cowingokey.com^
 ||cowirr.shop^
 ||cowishbrawlis.qpon^
@@ -19454,6 +19455,7 @@ vkcdnservice.appspot.com^
 ||ewremaelholqz.online^
 ||ewrjbdxbysngd.online^
 ||ewruuqe5p8ca.com^
+||ewtetortil.qpon^
 ||ewtivoqxdqmta.online^
 ||ewutoxapaffqc.site^
 ||ewvywlqn.net^
@@ -20112,6 +20114,7 @@ vkcdnservice.appspot.com^
 ||feminine-extreme.com^
 ||feminineconsequence.com^
 ||femininequarter.com^
+||femorahecate.cyou^
 ||fempjfqhpylty.space^
 ||fenacheaverage.com^
 ||fenixm.com^
@@ -22445,6 +22448,7 @@ vkcdnservice.appspot.com^
 ||glixoushep.net^
 ||gliybhqdie.xyz^
 ||glizauvo.net^
+||gljjnrwftvmpjhj.com^
 ||glkbqoypclywz.space^
 ||glkmvagwntgde.website^
 ||gllyiehduouct.site^
@@ -29561,6 +29565,7 @@ vkcdnservice.appspot.com^
 ||lgzwzyhkejtld.online^
 ||lh031i88q.com^
 ||lhacuwpfjscds.online^
+||lharfoeeeqsxr.site^
 ||lhbejygzfhvsh.space^
 ||lhcjpdeivssen.online^
 ||lheadydedfearinglest.org^
@@ -32980,6 +32985,7 @@ vkcdnservice.appspot.com^
 ||nbgpbzkllsdwk.space^
 ||nbhrgtcwodxgp.online^
 ||nbifegbbhpjag.site^
+||nbjlvyeegheug.site^
 ||nbjqxzarmes.com^
 ||nbkbzzlvtbkeh.website^
 ||nbkpigxextkjn.website^
@@ -36301,6 +36307,7 @@ vkcdnservice.appspot.com^
 ||pctsrv.com^
 ||pctv.xyz^
 ||pcwpyvbisdu.com^
+||pcwttlywhnxkx.com^
 ||pcyqadvwrqsmc.online^
 ||pdainpzfelpch.site^
 ||pdasiese.net^
@@ -36611,6 +36618,7 @@ vkcdnservice.appspot.com^
 ||pgfnciyodtbsm.store^
 ||pggheklolm.xyz^
 ||pghoker.cyou^
+||pgisdxbicrxqi.online^
 ||pgiwlghefn.xyz^
 ||pgjrefecajvj.com^
 ||pglephprff.com^
@@ -37582,6 +37590,7 @@ vkcdnservice.appspot.com^
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
+||powerful-path.pro^
 ||powerfulsensitive.pro^
 ||powerplentyseaman.com^
 ||powferads.com^
@@ -39049,6 +39058,7 @@ vkcdnservice.appspot.com^
 ||qjvksieybn.vip^
 ||qjvobwtqqbaacbt.com^
 ||qjyfpzgilxji8j9gt8zm7q8elep7u3hn3.cfd^
+||qkacjgqdpvilp.website^
 ||qkbjclwirtotj.vip^
 ||qkdsppnmfnhxx.space^
 ||qkedloyxrfsxx.net^
@@ -40803,6 +40813,7 @@ vkcdnservice.appspot.com^
 ||ringtawstodgy.com^
 ||ringtonepartner.com^
 ||rinpkoatro.com^
+||rinqgwqhyxozh.website^
 ||rinryesopertyva.org^
 ||rinsersdooket.cfd^
 ||rioewhlwcvkq.com^
@@ -43639,6 +43650,7 @@ vkcdnservice.appspot.com^
 ||soulxatte.cyou^
 ||soumehoo.net^
 ||soumoamower.com^
+||soundlyaplitic.qpon^
 ||souocvjmfccpx.store^
 ||soupermusky.qpon^
 ||soupy-temperature.pro^
@@ -43709,6 +43721,7 @@ vkcdnservice.appspot.com^
 ||sparkvibe.today^
 ||sparkytrayne.click^
 ||sparrowaboveaveragedefence.com^
+||sparrycarven.qpon^
 ||sparse-return.pro^
 ||sparseeconomics.pro^
 ||sparsivies.cfd^
@@ -43840,6 +43853,7 @@ vkcdnservice.appspot.com^
 ||spoilphysiqueteenagers.com^
 ||spokentomatoestraumatic.com^
 ||spolecznosci.net^
+||spoliaessede.cfd^
 ||spongecell.com^
 ||spongesofateacher.com^
 ||sponginarist.cfd^
@@ -47083,6 +47097,7 @@ vkcdnservice.appspot.com^
 ||ubjzmnbnhtdjj.site^
 ||ubkybaizijoct.website^
 ||ublasklnrnifs.site^
+||ublcyigsixgyu.website^
 ||ubmyqcleulnqa.website^
 ||ubnduamnwmdoi.site^
 ||ubplqxnckyxsz.space^
@@ -48441,6 +48456,7 @@ vkcdnservice.appspot.com^
 ||vax-boost.com^
 ||vax-now.com^
 ||vaxednltajoif.space^
+||vaxjhqfaahmgt.site^
 ||vaxnxltkeapnm.com^
 ||vazftadil.com^
 ||vazypteke.pro^
@@ -134271,6 +134287,8 @@ dlsdk.appsflyer.com^
 ||ngfkrduait.com^
 ||35kjurwwb6.com^
 ||gsk801241hh.com^
+||gdqu.cn^
+||dbvedren.com^
 ||oiu132jhz.com^
 ||oqvodgp36.com^
 ||p2muoczf5.com^
