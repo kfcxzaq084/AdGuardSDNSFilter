@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-24T03:27:24.626Z
+! Last modified: 2026-01-24T04:35:43.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10942,6 +10942,7 @@ vkcdnservice.appspot.com^
 ||bbcc3e012c.com^
 ||bbcrgate.com^
 ||bbd834il.de^
+||bbehvkrkbzcyw.online^
 ||bbftbcfjrtaot.online^
 ||bbhszcabrptsq.space^
 ||bbinfpwtwdhpw.website^
@@ -17574,6 +17575,7 @@ vkcdnservice.appspot.com^
 ||drtlgtrnqvnr.xyz^
 ||drtyqxnxkiddh.space^
 ||drubbedaloed.cfd^
+||drublylenemitanni.cfd^
 ||drudgeryarson.com^
 ||druej.com^
 ||drufgqygmwhen.site^
@@ -22645,6 +22647,7 @@ vkcdnservice.appspot.com^
 ||goldfishdrove.com^
 ||goldfishouncereburial.com^
 ||goldsgrylli.cfd^
+||golejddnzqnxb.website^
 ||golemsoutking.cfd^
 ||golgicolorer.life^
 ||golnkz.com^
@@ -24745,6 +24748,7 @@ vkcdnservice.appspot.com^
 ||hqdyhemqlkmnm.online^
 ||hqerddmneojvl.online^
 ||hqgkgvxhdlzba.store^
+||hqiozkugrprzc.site^
 ||hqivmamgiwbhv.site^
 ||hqjq64wzue87bxcgqn3lmuc9.cyou^
 ||hqjqjycvwpyhg.website^
@@ -27231,6 +27235,7 @@ vkcdnservice.appspot.com^
 ||jnxwqwhw.com^
 ||jo4z738gvmioe5.rest^
 ||joagrafaiy.net^
+||joagraisiroawu.net^
 ||joalidetaveeco.net^
 ||joanordeal.com^
 ||joaphaufouy.net^
@@ -35729,6 +35734,7 @@ vkcdnservice.appspot.com^
 ||oxulukobrtpcl.site^
 ||oxwmalckolij.com^
 ||oxwubxdszakdr.website^
+||oxwytjjqlkoqm.website^
 ||oxxpukgasaqzc.website^
 ||oxygensalts.com^
 ||oxystc.com^
@@ -36339,6 +36345,7 @@ vkcdnservice.appspot.com^
 ||pejzeexukxo.com^
 ||pekajmkimvx.com^
 ||pekeshackle.com^
+||pekinshouri.com^
 ||pekjhombxovne.online^
 ||pekoecafrackman.cyou^
 ||peleliuplanned.help^
@@ -36603,6 +36610,7 @@ vkcdnservice.appspot.com^
 ||phempeeram.net^
 ||phenylbionic.qpon^
 ||phewogungu.net^
+||phfhernc.com^
 ||phgddnjimcj.com^
 ||phgjrkvstw.com^
 ||phgop1.com^
@@ -47192,6 +47200,7 @@ vkcdnservice.appspot.com^
 ||uiikqirdiessi.love^
 ||uikyqdtressuj.online^
 ||uildfordgovery.com^
+||uilokiwn.com^
 ||uilts.com^
 ||uilxpfkcxgjoi.site^
 ||uimserv.net^
@@ -52902,6 +52911,7 @@ vkcdnservice.appspot.com^
 ||zjb9ewxq67jxb2iu2.cfd^
 ||zjd-nmdong.xyz^
 ||zjdac.com^
+||zjeuidmjfbsfe.com^
 ||zjfowaspawuza.store^
 ||zjfsjzzquhdcw.online^
 ||zjhopmpjrehih.space^
