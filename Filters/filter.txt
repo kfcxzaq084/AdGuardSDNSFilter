@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-25T01:58:14.777Z
+! Last modified: 2026-01-25T03:59:18.773Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10489,6 +10489,7 @@ vkcdnservice.appspot.com^
 ||axwpbsweuwclq.space^
 ||axxqqibnjdunk.space^
 ||axxynteocvosxyv.xyz^
+||axyqryagpug.com^
 ||axzjxagpgdoiu.online^
 ||axzrpzsdffui.com^
 ||axzrwvkfygjak.space^
@@ -15506,6 +15507,7 @@ vkcdnservice.appspot.com^
 ||ctxrpolj.net^
 ||ctyaodjceuvdu.space^
 ||ctyjfaawfonl.com^
+||ctyywrvwlffgc.online^
 ||ctzsryncxsdkg.site^
 ||ctzzirfslkvcv.website^
 ||cuafppiuum.com^
@@ -16469,6 +16471,7 @@ vkcdnservice.appspot.com^
 ||denotemylemonade.com^
 ||denotevocation.com^
 ||denoughtanot.info^
+||denrqkafl.com^
 ||dense-series.pro^
 ||denseceleryliver.com^
 ||densenimsonic.qpon^
@@ -19299,6 +19302,7 @@ vkcdnservice.appspot.com^
 ||esyeqegjjxuwr.website^
 ||esyoqiusgoxt.com^
 ||esznfqrpeivdr.website^
+||et47c6tloy9xkmy5znzg9ljbwuk7gb62rbivm.rest^
 ||etagumlbvhmuk.online^
 ||etailtastan.net^
 ||etalageunwept.qpon^
@@ -24515,6 +24519,7 @@ vkcdnservice.appspot.com^
 ||hnfuvjqpmzzey.website^
 ||hngtkmbijgmfy.xyz^
 ||hnhmwvomvllai.website^
+||hnizzwyxyqcfa.online^
 ||hnkiigrfygpcw.space^
 ||hnkvomwhtfcei.space^
 ||hnmsiygnvkygr.online^
@@ -25907,6 +25912,7 @@ vkcdnservice.appspot.com^
 ||includeceaslesshannah.com^
 ||includemodal.com^
 ||includinghardly.com^
+||incomparable-day.pro^
 ||incomparable-moment.pro^
 ||incomparable-pair.com^
 ||incomparableamoraldepression.com^
@@ -26926,6 +26932,7 @@ vkcdnservice.appspot.com^
 ||jcmkelvabngzu.site^
 ||jconceoormurg.online^
 ||jcqsiwmyioxsu.online^
+||jcqwudfidmevr.online^
 ||jcsbdfpddlahn.online^
 ||jcsjeisnswjmp.site^
 ||jcuaehwyrflch.online^
@@ -30634,6 +30641,7 @@ vkcdnservice.appspot.com^
 ||lvlhmjerf.buzz^
 ||lvltsgyorrxhl.website^
 ||lvoikaridbext.online^
+||lvpk5yn1jkmx6o273ej1ihh85vuz.cfd^
 ||lvq3m854zb6mjk4ey9f7j8bitk2wjpxv4izrxp.cfd^
 ||lvrsbdhsoywh.net^
 ||lvsapphbvbgxf.website^
@@ -32946,6 +32954,7 @@ vkcdnservice.appspot.com^
 ||nan46ysangt28eec.com^
 ||nanesbewail.com^
 ||nanhesitationhireling.com^
+||nanhrimuqmlqn.xyz^
 ||nankingcueist.click^
 ||nannyirrationalacquainted.com^
 ||naocpuzajwlgt.space^
@@ -35026,6 +35035,7 @@ vkcdnservice.appspot.com^
 ||onbfqhjqgifas.website^
 ||onbnicomv.com^
 ||onbwqcyctaoqd.website^
+||onbzmxyhzfnff.space^
 ||oncesets.com^
 ||onclckbn.net^
 ||onclckbnr.com^
@@ -38738,6 +38748,7 @@ vkcdnservice.appspot.com^
 ||pxctpszddyyan.site^
 ||pxekfmmylcrqo.space^
 ||pxgvyiizzmgqr.site^
+||pxgynnjtdxwsb.site^
 ||pxhjcxcmfynxf.online^
 ||pxhkjasvqquxo.online^
 ||pxifipfx.com^
@@ -39801,6 +39812,7 @@ vkcdnservice.appspot.com^
 ||raiwougleeroog.net^
 ||raizoaripophad.net^
 ||rajgpmrlvpdde.space^
+||rajivunnobly.com^
 ||rakandirks.cfd^
 ||rakeesvestral.qpon^
 ||rakiblinger.com^
@@ -40926,6 +40938,7 @@ vkcdnservice.appspot.com^
 ||ripewhining.com^
 ||riprapsskittle.help^
 ||ripsawsvailing.cfd^
+||riptidequia.cfd^
 ||riptognouque.net^
 ||riraconianstar.com^
 ||rirki.com^
@@ -40938,6 +40951,7 @@ vkcdnservice.appspot.com^
 ||riskyfooster.qpon^
 ||risnjmyxfqaep.website^
 ||risselwark.cyou^
+||rissoaantigay.cfd^
 ||rissomcherte.qpon^
 ||riszraezsijnw.online^
 ||ritajiltish.qpon^
@@ -41742,6 +41756,7 @@ vkcdnservice.appspot.com^
 ||rxscledbyfgos.site^
 ||rxthdr.com^
 ||rxtswetylelsw.net^
+||rxwjetugafkwt.online^
 ||rxzqwvoqqfafw.website^
 ||ryacossid.cfd^
 ||ryajaddrsylwy.site^
@@ -43726,6 +43741,7 @@ vkcdnservice.appspot.com^
 ||sorosisfooleryrm.cyou^
 ||sorragaleod.click^
 ||sorrowful-band.com^
+||sorrowphysidvedro.cfd^
 ||sorryfearknockout.com^
 ||sortedtincts.cyou^
 ||sortexampleposition.com^
@@ -44098,6 +44114,7 @@ vkcdnservice.appspot.com^
 ||srftkmswf.com^
 ||srgev.com^
 ||srhccydottlpc.website^
+||srmbhubcdxwns.com^
 ||srowvggksbuvv.vip^
 ||srpchbxglnjfv.site^
 ||srpzyjogmelxpo.com^
@@ -47177,6 +47194,7 @@ vkcdnservice.appspot.com^
 ||uajebcmnce.com^
 ||uajgfkbpypbsa.site^
 ||uakexjkcae.com^
+||uaktjvdbrstrg.online^
 ||ualcwoyuwyvhz.site^
 ||uangqkbflkwvv.space^
 ||uaomfbzuiavmd.website^
