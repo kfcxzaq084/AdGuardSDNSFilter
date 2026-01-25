@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-25T12:43:34.934Z
+! Last modified: 2026-01-25T14:20:11.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8643,6 +8643,7 @@ vkcdnservice.appspot.com^
 ||agxbwsuwhlrqpg.net^
 ||agxdzclwjcymr.space^
 ||agxpzsgyklgmg.today^
+||agynouspingers.qpon^
 ||agyqnpoo.com^
 ||agyriacletch.cyou^
 ||agysdhlufhdij.com^
@@ -15156,6 +15157,7 @@ vkcdnservice.appspot.com^
 ||cpp92copbhh31j.cfd^
 ||cppopmfbsoohj.top^
 ||cpsehmscxymgybu.xyz^
+||cpspbvsmbzdpd.website^
 ||cpsqqqgynbdjv.online^
 ||cptgxkosyjto.com^
 ||cpueaimrtggmd.space^
@@ -18416,6 +18418,7 @@ vkcdnservice.appspot.com^
 ||efxstcllyicd.com^
 ||efydsxswdsgsc.website^
 ||efykoaeajpzvy.site^
+||egaufxxiu.com^
 ||egaxybiqeramc.space^
 ||egbertcalloo.cfd^
 ||egbggijlkjwoo.space^
@@ -21528,6 +21531,7 @@ vkcdnservice.appspot.com^
 ||fvxemeqkmkmox.site^
 ||fvyrfyffhy.com^
 ||fvziwdycvudxd.tech^
+||fwbmcpvuvejuf.website^
 ||fwbntw.com^
 ||fwcavwstvmekw.online^
 ||fwcevu8oe71qex92wg.cfd^
@@ -26040,6 +26044,7 @@ vkcdnservice.appspot.com^
 ||informmyou.com^
 ||informsgainalexis.com^
 ||informsuppercocktail.com^
+||infoundtestao.cyou^
 ||infra.systems^
 ||infringementacquiredproposal.com^
 ||infyldugosiwkb.xyz^
@@ -28164,6 +28169,7 @@ vkcdnservice.appspot.com^
 ||kektds.com^
 ||kelimaponja.com^
 ||kellionpenally.shop^
+||kelpamusias.cfd^
 ||kelpieearthen.cyou^
 ||kelpiesregna.com^
 ||kelpycancrum.cyou^
@@ -31227,6 +31233,7 @@ vkcdnservice.appspot.com^
 ||mb104.com^
 ||mb38.com^
 ||mb57.com^
+||mbalologreking.shop^
 ||mbbgbxpvaymmw.store^
 ||mbbwtmwnirymm.online^
 ||mbcm2.com^
@@ -40191,6 +40198,7 @@ vkcdnservice.appspot.com^
 ||reate.info^
 ||reatwithdifyferuk.org^
 ||reaujwzwzkdih.store^
+||reauojyojmlcc.site^
 ||reauteaminase.qpon^
 ||reaverlunier.cfd^
 ||reavoidfeif.cyou^
@@ -42356,6 +42364,7 @@ vkcdnservice.appspot.com^
 ||scullerbiker.cfd^
 ||sculloghindgut.qpon^
 ||sculpcunan.help^
+||sculpedarrent.cfd^
 ||sculperatriums.cfd^
 ||sculptorhomeworkpersecute.com^
 ||sculshbassy.cyou^
@@ -42443,6 +42452,7 @@ vkcdnservice.appspot.com^
 ||sebagofulvene.click^
 ||sebundyjannock.qpon^
 ||secaledacian.cyou^
+||seccosstronganimo.cyou^
 ||secludeyourselvescaraway.com^
 ||secondbeltis.qpon^
 ||secondcallousnodding.com^
@@ -43257,6 +43267,7 @@ vkcdnservice.appspot.com^
 ||skaselyravelin.cfd^
 ||skated.co^
 ||skatedgrufted.rest^
+||skatesponytanna.cyou^
 ||skatetimprojects.com^
 ||skatolelabis.help^
 ||skayoxpcwxvem.space^
@@ -43728,6 +43739,7 @@ vkcdnservice.appspot.com^
 ||soliads.io^
 ||soliads.online^
 ||solicitorfillet.com^
+||solicitorvalvemade.com^
 ||solid-mall.com^
 ||solidlyrotches.guru^
 ||solidmigraine.com^
@@ -44227,6 +44239,7 @@ vkcdnservice.appspot.com^
 ||ssindserving.com^
 ||ssjjuvkrkamdnn.com^
 ||ssjskbenyzmha.online^
+||ssjxkddegyvoo.site^
 ||sskzlabs.com^
 ||ssl-services.com^
 ||ssl2anyone5.com^
@@ -46355,6 +46368,7 @@ vkcdnservice.appspot.com^
 ||toodlerehouse.com^
 ||tooglidanog.net^
 ||toojaipi.net^
+||tooktiqvciv.com^
 ||tooledundon.com^
 ||toolersubfix.cyou^
 ||toolkitpondage.cfd^
@@ -48463,6 +48477,7 @@ vkcdnservice.appspot.com^
 ||uxtvedolpjbpp.site^
 ||uxtzpzxryhbvh.online^
 ||uxweydwrulieb.website^
+||uxwhbqwdamroi.site^
 ||uxwinyafloqfy.store^
 ||uxxyrwdudiacf.online^
 ||uxzkvkzxhxxjv.space^
@@ -50933,6 +50948,7 @@ vkcdnservice.appspot.com^
 ||woofoobukugly.net^
 ||woogoust.com^
 ||wooguwhede.net^
+||woolensgrand.shop^
 ||woosspoom.cyou^
 ||wootmedia.net^
 ||woovoree.net^
@@ -51553,6 +51569,7 @@ vkcdnservice.appspot.com^
 ||xengqsqm.com^
 ||xenonsandpit.cyou^
 ||xeobmtdo.com^
+||xepaijcfgvzje.online^
 ||xepluwsaisxgi.website^
 ||xepsygfqsvyyv.tech^
 ||xeqkxbzbubpdb.site^
@@ -134557,6 +134574,7 @@ dlsdk.appsflyer.com^
 ||qsne.cn^
 ||ruziecoraz.com^
 ||thj36m3dm.com^
+||w55b76.cc^
 ||rgoxcknehm.com^
 ||zrz0c0sh7e.com^
 ||gsk801240hh.com^
