@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-25T03:59:18.773Z
+! Last modified: 2026-01-25T04:56:21.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15016,6 +15016,7 @@ vkcdnservice.appspot.com^
 ||corksadly.com^
 ||corncobossific.cfd^
 ||corncobwingman.qpon^
+||cornedmurrina.com^
 ||corneey.com^
 ||corneredsedatetedious.com^
 ||corneredtomb.com^
@@ -21501,6 +21502,7 @@ vkcdnservice.appspot.com^
 ||fvlh795f1j2hxgmbbz3.cfd^
 ||fvlhshpmjnrck.website^
 ||fvmiafwauhy.fun^
+||fvnqssgszdy.com^
 ||fvpbwmfihdscv.com^
 ||fvpcmlmpoyldc.space^
 ||fvpesjsqqmaxn.website^
@@ -23415,6 +23417,7 @@ vkcdnservice.appspot.com^
 ||guyoetiepwijy.online^
 ||guzzlealibied.cyou^
 ||gv9bykk4hi6eze9b8umymh3ggz.cfd^
+||gvbcsteidxqmd.website^
 ||gvdjmcztiqwhw.website^
 ||gvdxudyoswyfp.online^
 ||gvebfzopfpezm.website^
@@ -31486,6 +31489,7 @@ vkcdnservice.appspot.com^
 ||mestenokamares.cfd^
 ||mestlencaurus.help^
 ||mestreqa.com^
+||mesuaquittedfinewed.cfd^
 ||metabatted.com^
 ||metaeworral.help^
 ||metahv.xyz^
@@ -34194,6 +34198,7 @@ vkcdnservice.appspot.com^
 ||nwemnd.com^
 ||nwfkhvqxjxpll.online^
 ||nwfwvmtldikqs.space^
+||nwfyknavnqbn.com^
 ||nwjdldsfzszkp.rocks^
 ||nwmlglasjxvgx.space^
 ||nwmnd.com^
@@ -44198,6 +44203,7 @@ vkcdnservice.appspot.com^
 ||stagloatsaird.net^
 ||staid-shirt.pro^
 ||staiderkidhood.help^
+||staiglaugritcho.com^
 ||stailtoomt.net^
 ||staindessadness.com^
 ||staindumpexists.com^
@@ -51669,6 +51675,7 @@ vkcdnservice.appspot.com^
 ||xnfbhzbvsyepf.online^
 ||xnfjictwvrnuz.site^
 ||xnfuh9kn2mglp45g.cfd^
+||xnhogmnenzddf.website^
 ||xnjdbsbd.com^
 ||xnkldnhifcdmr.site^
 ||xnlokghdybvho.online^
@@ -51751,6 +51758,7 @@ vkcdnservice.appspot.com^
 ||xqcxufkredlqg.site^
 ||xqdpvfnmwgmkbfq.com^
 ||xqedtqzjdjheh.space^
+||xqennmzrybvkp.website^
 ||xqeoitqw.site^
 ||xqfpgwarzkecj.website^
 ||xqkqqtzljvwaj.space^
