@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-27T03:48:22.626Z
+! Last modified: 2026-01-27T04:48:20.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7534,6 +7534,7 @@ vkcdnservice.appspot.com^
 ||achcdn.com^
 ||acheerdewey.cyou^
 ||acheronascyrum.cfd^
+||achewattmen.qpon^
 ||acheworry.com^
 ||achievablecpmrevenue.com^
 ||achievementseeingladder.com^
@@ -19092,6 +19093,7 @@ vkcdnservice.appspot.com^
 ||eruxjtbqruaep.site^
 ||erv9eqigvxl3zp6irmkmpzi4vmp.cfd^
 ||ervrievipczam.site^
+||ervtdgkyqbsdd.website^
 ||ervwyrdicmuvz.space^
 ||erwallowsisheha.com^
 ||erwflorcelkn.xyz^
@@ -29158,6 +29160,7 @@ vkcdnservice.appspot.com^
 ||lamplynx.com^
 ||lampoonloa.com^
 ||lamppostadaptationlassitude.com^
+||lamxoxfkipkhahs.com^
 ||lancasternh.com^
 ||lancbcdncmphy.online^
 ||land.pixelsee.app^
@@ -42545,6 +42548,7 @@ vkcdnservice.appspot.com^
 ||sebundyjannock.qpon^
 ||secaledacian.cyou^
 ||seccosstronganimo.cyou^
+||secernstamein.shop^
 ||secludeyourselvescaraway.com^
 ||secondbeltis.qpon^
 ||secondcallousnodding.com^
@@ -46079,6 +46083,7 @@ vkcdnservice.appspot.com^
 ||thtrsihwdznav.site^
 ||thtucuficxrfb.online^
 ||thubanoa.com^
+||thudpeertunshod.cyou^
 ||thugincompatibleme.com^
 ||thumbsfibrinsshaver.cfd^
 ||thumeezy.xyz^
@@ -51902,6 +51907,7 @@ vkcdnservice.appspot.com^
 ||xljgbrlqylwwt.store^
 ||xlkbinzjgmnsy.site^
 ||xllbfdpplv.com^
+||xlmamdeykpist.online^
 ||xlnkuhkwczqbs.space^
 ||xlqonmpyuwmxe.com^
 ||xlrdr.com^
@@ -53772,6 +53778,7 @@ vkcdnservice.appspot.com^
 ||zticbxigsdhau.space^
 ||ztiggqitawltu.space^
 ||ztjxmnajfduht.life^
+||ztkqzvrzwlfjv.space^
 ||ztkyevuemenmj.online^
 ||ztlcrzmjshgfc.one^
 ||ztosxitodpymn.website^
