@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-28T18:38:56.126Z
+! Last modified: 2026-01-28T20:32:35.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15265,6 +15265,7 @@ vkcdnservice.appspot.com^
 ||croe1h838m72i4rcvfyhytglj.rest^
 ||crogctnujttuy.site^
 ||croiikcrom.cfd^
+||cronaica.net^
 ||croneljacktan.help^
 ||cronetpalermo.cyou^
 ||croni.site^
@@ -16210,6 +16211,7 @@ vkcdnservice.appspot.com^
 ||decisionmark.com^
 ||decisionnews.com^
 ||decisivedepth.pro^
+||deckalibisbricks.com^
 ||decknetwork.net^
 ||declareddetect.com^
 ||declareexhale.com^
@@ -18206,6 +18208,7 @@ vkcdnservice.appspot.com^
 ||edgryece.xyz^
 ||edgypollnormandy.com^
 ||edhsitalici.cfd^
+||edhsphocoid.shop^
 ||edhzwdjmhaatv.online^
 ||edibileupcard.click^
 ||edible-sort.pro^
@@ -22824,6 +22827,7 @@ vkcdnservice.appspot.com^
 ||gonreommon.com^
 ||gonujovux.com^
 ||good-ads-online.com^
+||good-replacement.pro^
 ||goodadvert.ru^
 ||goodandsoundcontent.com^
 ||goodbusinesspark.com^
@@ -23269,6 +23273,7 @@ vkcdnservice.appspot.com^
 ||growssatisfy.qpon^
 ||growthbuddy.app^
 ||growthhomelessprediction.com^
+||growzerimate.cfd^
 ||groxherku.com^
 ||grpcvcrugfsdi.site^
 ||grphfzutw.xyz^
@@ -26526,6 +26531,7 @@ vkcdnservice.appspot.com^
 ||iqnlxzueadjrg.website^
 ||iqoftxgeocyfl.site^
 ||iqosbavanqvhj.website^
+||iqrpmnofrcapi.online^
 ||iqrrfnwlgr.com^
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
@@ -32184,6 +32190,7 @@ vkcdnservice.appspot.com^
 ||mjxrcnuntghni.space^
 ||mjymhibmdwqlk.online^
 ||mkanxhbbxfhgd.online^
+||mkbcuryjsmhqb.com^
 ||mkcljppfkthiw.site^
 ||mkcmuoujzgsxv.online^
 ||mkexdzpuiswaq.online^
@@ -33830,6 +33837,7 @@ vkcdnservice.appspot.com^
 ||nimhuemark.com^
 ||nimietysyrtis.help^
 ||nimkdonnrzwdr.website^
+||nimmerepicly.com^
 ||nimrute.com^
 ||ninancukankin.org^
 ||ninase.sbs^
@@ -41452,6 +41460,7 @@ vkcdnservice.appspot.com^
 ||riraconianstar.com^
 ||rirki.com^
 ||rirteelraibsou.net^
+||risingexileshuavean.cfd^
 ||risingshadewhite.com^
 ||riskerspont.help^
 ||riskexcel.com^
@@ -44757,10 +44766,12 @@ vkcdnservice.appspot.com^
 ||sswalesmentb.com^
 ||sswexaki.com^
 ||sswqcyqhqefrb.site^
+||sswqlvslgiium.space^
 ||sswsadybmidze.online^
 ||st-to-uv.com^
 ||stabculpritconstrict.com^
 ||stable-consist.com^
+||stableaspect.com^
 ||stabledkindler.com^
 ||stableflowconnection.co.in^
 ||stablesknive.shop^
@@ -48022,6 +48033,7 @@ vkcdnservice.appspot.com^
 ||ugfusydmy.net^
 ||uggrcyzcgkbfr.space^
 ||uggwouhzwuhcb.website^
+||uggykkmldmzkp.site^
 ||ughesterurelanderp.org^
 ||ugkaetzjnmarl.online^
 ||ugkholrbztybq.space^
@@ -48092,6 +48104,7 @@ vkcdnservice.appspot.com^
 ||uighnhsbatmdf.store^
 ||uighurbitters.help^
 ||uiikqirdiessi.love^
+||uijzmvxoccscb.website^
 ||uikyqdtressuj.online^
 ||uildfordgovery.com^
 ||uilokiwn.com^
@@ -48186,6 +48199,7 @@ vkcdnservice.appspot.com^
 ||ulhpxqtmsmnbo.site^
 ||uliafpsf.tattoo^
 ||ulidianpretaorigami.cyou^
+||ulikbhbcqaplq.online^
 ||ulisxyz.store^
 ||uljbjmfmgenbh.online^
 ||uljtltlwybhpz.com^
@@ -51796,6 +51810,7 @@ vkcdnservice.appspot.com^
 ||wrqywyffqfpnf.online^
 ||wrrbilfpd.com^
 ||wrsmnqmpopund.net^
+||wrsmudpyssyshcl.com^
 ||wrufer.com^
 ||wrusjebdnykvm.com^
 ||wrvbilbuichsq.online^
@@ -52478,6 +52493,7 @@ vkcdnservice.appspot.com^
 ||xoubuywanqskg.website^
 ||xovbjzdbfomoo.site^
 ||xovlsjegbpwqs.site^
+||xovwgtcs.com^
 ||xown4no73rreqce5ouo1j8htmu.cfd^
 ||xownbkkhgzywg.website^
 ||xoxdxaxzcczof.site^
@@ -124809,6 +124825,7 @@ dlsdk.appsflyer.com^
 ||actuallysnake.com^
 ||adamantsnail.com^
 ||addictedattention.com^
+||addressfriend.com^
 ||admiral.pub^
 ||admiralproxied.com^
 ||admissionaudit.com^
@@ -124944,6 +124961,7 @@ dlsdk.appsflyer.com^
 ||blockdial.com^
 ||bloomsend.com^
 ||blueeyedblow.com^
+||bluelionlabs.net^
 ||bluenest.net^
 ||bluevinebooks.com^
 ||blushingbeast.com^
