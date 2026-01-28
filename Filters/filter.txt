@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-28T06:37:53.509Z
+! Last modified: 2026-01-28T08:33:54.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||hairsromance.com^
 ||17324723.cfd^
 ||pzaawtgujvim.com^
 ||dwlv.xyz^
@@ -7596,6 +7597,7 @@ vkcdnservice.appspot.com^
 ||acrosssparedhash.com^
 ||acsaofatjaiau.store^
 ||acscdn.com^
+||actcyuywbovpf.website^
 ||actglimpse.com^
 ||actiflex.org^
 ||actingastonishment.com^
@@ -11343,6 +11345,7 @@ vkcdnservice.appspot.com^
 ||bidbrain.app^
 ||bidclickmedia.com^
 ||bidderads.com^
+||biddiesieringtowzie.cyou^
 ||bidfortraffic.com^
 ||bidgetfencing.cyou^
 ||bidingdoating.cyou^
@@ -16163,6 +16166,7 @@ vkcdnservice.appspot.com^
 ||debtdispleaseboss.com^
 ||debtedquodsassi.cfd^
 ||debtfulignitedtetany.qpon^
+||debugtrullpotomac.cfd^
 ||debursechorti.cyou^
 ||debutknee.com^
 ||decalogxiphoidbolus.cfd^
@@ -16546,6 +16550,7 @@ vkcdnservice.appspot.com^
 ||dfrgxsiydjbfj.space^
 ||dfsubnnhamtad.site^
 ||dfsuphjlbrxmv.website^
+||dfthroyqefqtv.website^
 ||dftmuptixnvgl.com^
 ||dfuijqrojtvcb.site^
 ||dfuvslppaxhzv.site^
@@ -17628,6 +17633,7 @@ vkcdnservice.appspot.com^
 ||dtdusvxoxtqxw.site^
 ||dtfxzgjgjiooq.website^
 ||dtfyqfffwlkwz.online^
+||dtgxoyjjgyqba.com^
 ||dtheircleanwhitepi.org^
 ||dthhxxpkppevtg.net^
 ||dthin.site^
@@ -21370,6 +21376,7 @@ vkcdnservice.appspot.com^
 ||fugitivedepart.com^
 ||fuglerfisc.qpon^
 ||fuglesnits.cyou^
+||fugmyxsdxx.com^
 ||fugsslosher.com^
 ||fuhcoupnmivfn.site^
 ||fuhoftoajoabs.net^
@@ -26257,6 +26264,7 @@ vkcdnservice.appspot.com^
 ||instructaffrontlightly.com^
 ||instructive-while.pro^
 ||instrumenttactics.com^
+||insubstantial-cabinet.com^
 ||insufficienteventsenliven.com^
 ||insularimportantly.com^
 ||insultscollyr.cfd^
@@ -28614,6 +28622,7 @@ vkcdnservice.appspot.com^
 ||kloperd.com^
 ||klpgmansuchcesu.com^
 ||klpyvwucniztv.website^
+||klqraoatpzzaf.website^
 ||klrtisidtgrgn.website^
 ||klspkjyub-n.xyz^
 ||kludgecropperjobarbe.cyou^
@@ -30566,6 +30575,7 @@ vkcdnservice.appspot.com^
 ||lpwtbsfgamivm.space^
 ||lpwxtzhqeodnb.website^
 ||lpxgmdlmwkb.net^
+||lpxuutbqkrzzt.online^
 ||lpxwtr7f3umqhjb9.cfd^
 ||lpyyzoetztnmv.one^
 ||lpzttnoezjdir.xyz^
@@ -39968,6 +39978,7 @@ vkcdnservice.appspot.com^
 ||qvnpuwougsyug.website^
 ||qvokfoczqacvk.site^
 ||qvpmtnnrwjubd.website^
+||qvrnatsauhini.website^
 ||qvrqujqovtnm.net^
 ||qvrykgyestfdv.online^
 ||qvsimvenounsx.online^
@@ -40165,6 +40176,7 @@ vkcdnservice.appspot.com^
 ||raglassofrum.cc^
 ||ragrolromairsou.net^
 ||ragwormrisked.shop^
+||rahrcumhbyxrm.space^
 ||raibblzfnoctm.space^
 ||raidfrightbritain.com^
 ||raigleephi.net^
@@ -50534,6 +50546,7 @@ vkcdnservice.appspot.com^
 ||wcczteqglahvd.space^
 ||wcdkccrsixbtr.site^
 ||wcdmvjbbkdhzc.space^
+||wcgfpkumrjejf.website^
 ||wcgmlydzhwfgq.website^
 ||wchegfhscusnd.site^
 ||wchypueyeounn.space^
@@ -119427,7 +119440,6 @@ vkcdnservice.appspot.com^
 ||frontier.capcutw.us^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||log-v*-boot.capcutapi.com^
-||pinpoint.espn.com^
 ||analytics.itbox.ua^
 ||stats.insighttimer.com^
 ||trackinglibrary.prodperfect.com^
@@ -137138,6 +137150,8 @@ dlsdk.appsflyer.com^
 ||wvrp.cn^
 ||224oztn8dq.com^
 ||gsk801281hh.com^
+||6b8emvi3ya.com^
+||k0winsnua2.com^
 ||lp780937a.com^
 ||gsk801270hh.com^
 ||i5qquywfz.com^
