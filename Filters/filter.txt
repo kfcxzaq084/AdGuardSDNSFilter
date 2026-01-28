@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-28T03:46:02.460Z
+! Last modified: 2026-01-28T04:44:31.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12037,6 +12037,7 @@ vkcdnservice.appspot.com^
 ||botelsnodding.help^
 ||bothererune.com^
 ||botherlaying.com^
+||bothersmoanful.com^
 ||bothoorgoamsab.net^
 ||botiatheous.cyou^
 ||botpynlmmizsr.click^
@@ -13981,6 +13982,7 @@ vkcdnservice.appspot.com^
 ||circularbench.pro^
 ||circularcarry.com^
 ||circularconservation.com^
+||circulardefinition.pro^
 ||circulardraft.com^
 ||circulateramble.com^
 ||circumferenceabdicateredhead.com^
@@ -16995,6 +16997,7 @@ vkcdnservice.appspot.com^
 ||dkijnrhdtlvdm.fun^
 ||dkipfdjvrlird.love^
 ||dkjiaykhd.com^
+||dknzgafyc.com^
 ||dkpbuedvjpros.site^
 ||dkpsrhbbqikv.com^
 ||dkpvbyvscxraq.space^
@@ -22150,6 +22153,7 @@ vkcdnservice.appspot.com^
 ||gfkfqilsulylx.website^
 ||gfnpfbalgsfgw.space^
 ||gfnpuxuwhegea.space^
+||gfogjmvuwobroew.com^
 ||gfoqmtwpoodsy.space^
 ||gforanythingamgl.com^
 ||gfosegguevk.com^
@@ -29438,6 +29442,7 @@ vkcdnservice.appspot.com^
 ||layer-ad.org^
 ||layerrepeatedlychancy.com^
 ||laymandelian.cyou^
+||laymanesprit.com^
 ||laytroops.com^
 ||lazinessprint.com^
 ||lazuliempall.com^
@@ -34329,6 +34334,7 @@ vkcdnservice.appspot.com^
 ||nudeghogukwhx.store^
 ||nudesgirlsx.com^
 ||nudgedjoss.qpon^
+||nudgeflutterrechain.cyou^
 ||nudistrefuged.help^
 ||nudsoalrumtoops.net^
 ||nudumgangers.cyou^
@@ -50674,6 +50680,7 @@ vkcdnservice.appspot.com^
 ||weligillysies.com^
 ||welldocumented-president.pro^
 ||welldocumentedwrap.com^
+||wellgroomed-tackle.pro^
 ||wellhello.com^
 ||welliesfeucht.qpon^
 ||welliesratany.com^
@@ -51863,6 +51870,7 @@ vkcdnservice.appspot.com^
 ||wzcdffkknsvbz.space^
 ||wzhraonifqvig.space^
 ||wzjaczokogjfl.space^
+||wzjatpffpycgu.online^
 ||wzlzgwdtasjfs.online^
 ||wznljcvyjyomk.site^
 ||wzplcddnvdodh.xyz^
@@ -52394,6 +52402,7 @@ vkcdnservice.appspot.com^
 ||xsqaxmmepxmxw.site^
 ||xsqnbjvylfrbw.website^
 ||xsqzditggsbkd.space^
+||xsratajtqaebb.online^
 ||xsrbatihgyayg.site^
 ||xsrs.com^
 ||xssqagquifueb.space^
@@ -52970,6 +52979,7 @@ vkcdnservice.appspot.com^
 ||ykmterpeftso.com^
 ||yknhfifccqozk.space^
 ||ykozvjybzuctr.website^
+||ykqgbsktcoidr.space^
 ||ykrabkjoqurvl.online^
 ||ykrjuhnidkkb.com^
 ||ykrsorluybndt.website^
@@ -137097,6 +137107,7 @@ dlsdk.appsflyer.com^
 ||6acupxubky.com^
 ||mkff.cn^
 ||m485oq2gym.top^
+||wvrp.cn^
 ||lp780937a.com^
 ||gsk801270hh.com^
 ||i5qquywfz.com^
