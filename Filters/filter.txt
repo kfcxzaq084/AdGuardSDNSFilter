@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-29T06:49:57.481Z
+! Last modified: 2026-01-29T08:40:55.147Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6837,6 +6837,7 @@ vkcdnservice.appspot.com^
 ||6ef14e40a9.com^
 ||6fbce8ec59.com^
 ||6ff38f6d1b.com^
+||6g0sggey.xyz^
 ||6glece4homah8dweracea.com^
 ||6h23gvxwkkwix22xrtoi9zy.cfd^
 ||6imnqf4cj5im8gpqwyk.cfd^
@@ -8655,6 +8656,7 @@ vkcdnservice.appspot.com^
 ||ajpntegw.com^
 ||ajptwiopvptab.website^
 ||ajqhmhvihexlk.website^
+||ajqmswvmnmen.com^
 ||ajrkm1.com^
 ||ajrkm3.com^
 ||ajscdn.com^
@@ -14343,6 +14345,7 @@ vkcdnservice.appspot.com^
 ||cloudvideosa.com^
 ||cloudypotsincluded.com^
 ||cloudyreach.pro^
+||cloudysoil.com^
 ||cloureddunlin.help^
 ||cloursserpula.cfd^
 ||clovhmweksy.buzz^
@@ -25073,6 +25076,7 @@ vkcdnservice.appspot.com^
 ||hrlexpewdratn.space^
 ||hrllzdgzyzoiy.website^
 ||hrmdw8da.net^
+||hrnachzutdbey.online^
 ||hrogrpee.de^
 ||hrqadiqrxkz.com^
 ||hrqecm0d.xyz^
@@ -28883,6 +28887,7 @@ vkcdnservice.appspot.com^
 ||knurrymeaconafghani.cfd^
 ||knutenegros.pro^
 ||knwqrpumhldreg.com^
+||knxcyvvibuvde.website^
 ||knxpecbqfj.com^
 ||knyhnvzqbsqdc.website^
 ||knyujiwpadsu.com^
@@ -30695,6 +30700,7 @@ vkcdnservice.appspot.com^
 ||lp247p.com^
 ||lparket.com^
 ||lpazvocghyepn.website^
+||lpbpwvul.com^
 ||lpbtqxqhjzsvc.space^
 ||lpcqyjyhfhets.space^
 ||lpe99.com^
@@ -33773,6 +33779,7 @@ vkcdnservice.appspot.com^
 ||nfbkzvyqmdtwy.website^
 ||nfcieoyoqljx.net^
 ||nfcyrakmlvyub.site^
+||nfdomuxlrdypk.site^
 ||nfdxprxptlubs.buzz^
 ||nfexcdiuvfyuu.online^
 ||nff27oc6ixl7tuycm.cfd^
@@ -36541,6 +36548,7 @@ vkcdnservice.appspot.com^
 ||paginaewakens.shop^
 ||pagkitahn.com^
 ||pagnudcmodaf.com^
+||pagrusswangy.cyou^
 ||pagumariffed.shop^
 ||paht.tech^
 ||pahtdz.tech^
@@ -39695,6 +39703,7 @@ vkcdnservice.appspot.com^
 ||qihpwojcazrje.website^
 ||qijnwislyiceh.website^
 ||qilwa.com^
+||qimenrpozxuwo.online^
 ||qimqufza.com^
 ||qingolor.com^
 ||qinvaris.com^
@@ -43357,6 +43366,7 @@ vkcdnservice.appspot.com^
 ||sgfinery.com^
 ||sgfsdvc.com^
 ||sgftdcfhszswh.site^
+||sgggxzlyydbkd.website^
 ||sggsfejquvhak.site^
 ||sghbvhktcomrn.online^
 ||sginwrdwx.xyz^
@@ -51029,6 +51039,7 @@ vkcdnservice.appspot.com^
 ||wet-ambition.pro^
 ||wet-hurt.com^
 ||wet-judge.com^
+||wet-shape.pro^
 ||wetajer.cyou^
 ||wetbirdchats.cfd^
 ||wethlssblm.com^
@@ -51302,6 +51313,7 @@ vkcdnservice.appspot.com^
 ||whuzucot.net^
 ||whvxstats.com^
 ||whvyhcvlszizp.online^
+||whwodicurhybp.website^
 ||whwpeioudyjuu.space^
 ||whwsvvlvlpzlr.online^
 ||whygiglachy.com^
@@ -51729,6 +51741,7 @@ vkcdnservice.appspot.com^
 ||wordspsychology.com^
 ||wordsreceivingdisappointment.com^
 ||wordtradeflank.com^
+||wordyagent.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
 ||workback.net^
@@ -137450,6 +137463,10 @@ dlsdk.appsflyer.com^
 ||gtwrpsm.icu^
 ||lkwj.cn^
 ||w5daa5.com^
+||x9flqeptn.com^
+||azb6ljd22.com^
+||gsk801291hh.com^
+||z1e2vp1gw.com^
 ||03in08p3r1.com^
 ||2xx63f0bfy.com^
 ||nyv388w6lc.com^
