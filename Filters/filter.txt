@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-30T05:08:36.591Z
+! Last modified: 2026-01-30T06:51:34.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||controversychilly.com^
 ||sparrowcanned.com^
 ||hairsromance.com^
 ||17324723.cfd^
@@ -7180,6 +7181,7 @@ vkcdnservice.appspot.com^
 ||9fe84e92a1.com^
 ||9fnq2zhkkolqlzl.cyou^
 ||9gmnfzth6vmplp1.cfd^
+||9icmqwtv67ir3r1qz.cfd^
 ||9iw6l5qyp6tbikq.cfd^
 ||9japride.com^
 ||9jee7ypqol6xml6eny2ebqnwt39b.cfd^
@@ -21646,6 +21648,7 @@ vkcdnservice.appspot.com^
 ||fusilskoshare.cyou^
 ||fusionads.net^
 ||fusionironydaunt.com^
+||fuslyjnqsfkuy.site^
 ||fusoidactuate.com^
 ||fusrv.com^
 ||fussilymondays.cfd^
@@ -21987,6 +21990,7 @@ vkcdnservice.appspot.com^
 ||garglercheviedwelt.cyou^
 ||gargleunethicalthorough.com^
 ||garglingably.com^
+||garlahalc.com^
 ||garlicice.store^
 ||garlqzokdfoau.site^
 ||garmentcivilizepitcher.com^
@@ -22263,6 +22267,7 @@ vkcdnservice.appspot.com^
 ||gentle-wheel.pro^
 ||gentledaminegyms.cfd^
 ||gentlemanknittingpredict.com^
+||gentlesecond.pro^
 ||gentlyimpoliteprize.com^
 ||gentwoleads.top^
 ||genuine-crash.com^
@@ -22291,9 +22296,11 @@ vkcdnservice.appspot.com^
 ||geoticcardoon.shop^
 ||geotrkclknow.com^
 ||gepheeleexauz.net^
+||gepilghikmlds.site^
 ||gepiposiaijlm.online^
 ||geqxgljzocqbu.store^
 ||geqxtkeuplhqku.com^
+||geranintoquet.cyou^
 ||geraticimides.com^
 ||gerimpigfoot.com^
 ||gerlandcolove.shop^
@@ -27568,6 +27575,7 @@ vkcdnservice.appspot.com^
 ||jizzarchives.com^
 ||jjcatgejvemyu.click^
 ||jjdzxoruddwfa.website^
+||jjeckpzrldolz.site^
 ||jjeiraiaxnvbw.online^
 ||jjfghqcqwgcjx.site^
 ||jjfpirwvxqwft.online^
@@ -28330,6 +28338,7 @@ vkcdnservice.appspot.com^
 ||kalachtrover.qpon^
 ||kalapham.com^
 ||kalattery.qpon^
+||kalecaneton.shop^
 ||kaleidoscopic-coast.pro^
 ||kaleidoscopic-country.com^
 ||kaleidoscopictouch.com^
@@ -28917,6 +28926,7 @@ vkcdnservice.appspot.com^
 ||kmolerhebok.cfd^
 ||kmopebqlaxjrl.space^
 ||kmoxtvkjuxbgt.space^
+||kmqesqqgklpmyax.xyz^
 ||kmqqewmthmocc.online^
 ||kmrfinwhizkpe.site^
 ||kmrfxxxyogzka.space^
@@ -30118,6 +30128,7 @@ vkcdnservice.appspot.com^
 ||lhmbtyppk.xyz^
 ||lhmkjtnhstesl.website^
 ||lhmos.com^
+||lhmufqhps.com^
 ||lhotvezgcfdrt.site^
 ||lhoyyrxeicqtd.site^
 ||lhpkpjdhpifie.website^
@@ -31068,6 +31079,7 @@ vkcdnservice.appspot.com^
 ||lunatictoxicambiguity.com^
 ||lunbnjroymvwf.site^
 ||lunchoffended.com^
+||lunetstzontle.cyou^
 ||lungerect.com^
 ||lungicko.net^
 ||lunlllxfmkvxr.site^
@@ -33065,6 +33077,7 @@ vkcdnservice.appspot.com^
 ||mttxsoxkkmowj.online^
 ||mtuqqwbromboy.today^
 ||mturbwllojnxk.com^
+||mtuvgvllqorbu.online^
 ||mtuyddahzbvcr.online^
 ||mtvatglepglbz.site^
 ||mtvfojntnjkga.com^
@@ -36074,6 +36087,7 @@ vkcdnservice.appspot.com^
 ||orquideassp.com^
 ||orrhoidlila.qpon^
 ||orscrdthvbser.online^
+||orsedestummermob.cyou^
 ||orsqgxiuhkitm.website^
 ||orssgypxniykf.space^
 ||orsvwuqiszi.com^
@@ -41822,6 +41836,7 @@ vkcdnservice.appspot.com^
 ||rkndaxwnmlcwn.space^
 ||rkocuezkhfizy.site^
 ||rkomf.com^
+||rkscfrnebvnic.website^
 ||rktgxbkuuotll.com^
 ||rkvhqhkztzlxk.website^
 ||rkwvcicqkupid.website^
@@ -45356,6 +45371,7 @@ vkcdnservice.appspot.com^
 ||stoppedcrag.com^
 ||stoppedgipsyundoubtedly.com^
 ||stopperscared.com^
+||stopwaybattel.cyou^
 ||storage-ad.com^
 ||storageimagedisplay.com^
 ||storecomplexion.com^
@@ -47061,6 +47077,7 @@ vkcdnservice.appspot.com^
 ||tlcfhttbxdbhc.site^
 ||tlejxoaojbq.xyz^
 ||tlfeivdeybass.store^
+||tlhargslcdwpk.space^
 ||tlhbzimbrhqbg.online^
 ||tlkhivxrvlrcb.store^
 ||tlklwtqqewceq.world^
@@ -47265,6 +47282,7 @@ vkcdnservice.appspot.com^
 ||toostaupsoobaul.net^
 ||toothbless.com^
 ||toothbrushascertainhelped.com^
+||tooththoued.cfd^
 ||tootlesjawfish.cyou^
 ||toourmarketingef.org^
 ||top-best.com^
@@ -48125,6 +48143,7 @@ vkcdnservice.appspot.com^
 ||tydrumgmari.org^
 ||tyeribobywtmo.space^
 ||tyjhppeycigsm.space^
+||tykhcihsletwx.space^
 ||tylerfinlike.cyou^
 ||tyloseundosedarren.cyou^
 ||tylosisscotize.cyou^
@@ -48380,6 +48399,7 @@ vkcdnservice.appspot.com^
 ||uglufuepfcind.space^
 ||uglyaffair.pro^
 ||uglybalei.help^
+||uglyjustle.cfd^
 ||uglyresort.pro^
 ||uglytraining.com^
 ||ugmhqqlicdaqg.online^
@@ -50340,6 +50360,7 @@ vkcdnservice.appspot.com^
 ||vndhbthmtxgzo.space^
 ||vndrosaaypjvu.website^
 ||vnduafbugmgzd.online^
+||vne8mu5v7gkc56.rest^
 ||vnfptydtktoio.online^
 ||vnhmdeyzvmgho.love^
 ||vnhmwqviy.com^
