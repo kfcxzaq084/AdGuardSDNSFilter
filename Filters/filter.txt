@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-31T18:34:04.957Z
+! Last modified: 2026-01-31T20:27:07.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9833,6 +9833,7 @@ vkcdnservice.appspot.com^
 ||assumeflippers.com^
 ||assumptiveslumber.com^
 ||assuranceapprobationblackbird.com^
+||assured-airport.pro^
 ||assured-assistance.pro^
 ||assured-peace.com^
 ||assured-sandwich.com^
@@ -17407,6 +17408,7 @@ vkcdnservice.appspot.com^
 ||dollishreman.com^
 ||dollylarkjeweller.com^
 ||dollyspreadingbeer.com^
+||dolmenscragganmiswern.cyou^
 ||doloxfsojjujv.space^
 ||dolphincdn.xyz^
 ||dolularhenewrev.org^
@@ -26027,6 +26029,7 @@ vkcdnservice.appspot.com^
 ||ifwnukimkgocb.site^
 ||ifwtkyfcizwlj.space^
 ||igaming-warp-service.io^
+||igbowjiisat.com^
 ||igcvczotebzhr.space^
 ||igdianwrweqsz.online^
 ||igdkxrljusxvt.space^
@@ -30515,6 +30518,7 @@ vkcdnservice.appspot.com^
 ||limostreen.cfd^
 ||limp-organization.pro^
 ||limp-signal.pro^
+||limpassociation.pro^
 ||limping-gather.com^
 ||limping-reputation.pro^
 ||limpinganger.pro^
@@ -36810,6 +36814,7 @@ vkcdnservice.appspot.com^
 ||owqscacur.com^
 ||owrkwilxbw.com^
 ||owrtlcegkq.xyz^
+||owsgvnauvjbfm.online^
 ||owslnuzidiugg.store^
 ||owssalylvzcox.site^
 ||owsspudpokopi.site^
@@ -38160,6 +38165,7 @@ vkcdnservice.appspot.com^
 ||pkmyexkljzdfy.site^
 ||pknlagnbfzxoy.online^
 ||pknmdxjitu.com^
+||pknnuyaekwdlu.website^
 ||pkqkuaguyyxjr.online^
 ||pkrbkxkclcuif.online^
 ||pkrqmahwkxbiwwi.xyz^
@@ -38635,6 +38641,7 @@ vkcdnservice.appspot.com^
 ||porcatesorbet.cyou^
 ||porchadvertise.com^
 ||porchmy.com^
+||porcineermanicathud.cyou^
 ||porcinetintage.cfd^
 ||porculahoning.com^
 ||porculaworkman.cfd^
@@ -40540,6 +40547,7 @@ vkcdnservice.appspot.com^
 ||qtnljylmjmwpz.website^
 ||qtocttskrpfzi.space^
 ||qtpwhuodcsbtt.space^
+||qtpyyizgteovh.space^
 ||qtqkpddcbddmy.space^
 ||qtrkqylpsmkat.online^
 ||qtteqmprjnr.com^
@@ -45713,6 +45721,7 @@ vkcdnservice.appspot.com^
 ||stinkyassignment.com^
 ||stinkyloadeddoctor.com^
 ||stinkymildred.com^
+||stinkypaneltotally.com^
 ||stionicgeodist.com^
 ||stipepilpul.shop^
 ||stirksubarea.cyou^
@@ -46244,6 +46253,7 @@ vkcdnservice.appspot.com^
 ||svrgcqgtpe.com^
 ||svstfplolhlll.website^
 ||svswyokrievoe.space^
+||svsykpaqyusra.site^
 ||svtefnjwxtoto.site^
 ||svvpoynorhdec.website^
 ||svxsadbrobogk.website^
@@ -46727,6 +46737,7 @@ vkcdnservice.appspot.com^
 ||tcdwm.com^
 ||tcf58umppnphjz.cfd^
 ||tcfuzwrctqofr.online^
+||tcfydbeatqqbq.website^
 ||tchapananew.qpon^
 ||tchapangrinter.qpon^
 ||tchastedwards.qpon^
@@ -46737,6 +46748,7 @@ vkcdnservice.appspot.com^
 ||tckpbztfegetd.space^
 ||tcloaksandtheirc.org^
 ||tcmcpbjvotuaa.space^
+||tcmdlflufggcn.com^
 ||tcnaecgsqurme.online^
 ||tcolfwuhtwqln.space^
 ||tcpcharms.com^
