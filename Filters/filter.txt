@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-01T06:51:10.891Z
+! Last modified: 2026-02-01T08:34:16.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6152,6 +6152,7 @@ vkcdnservice.appspot.com^
 ||1d473a90d9.com^
 ||1db9fede5f.com^
 ||1dtdsln1j.de^
+||1e03d2091a.com^
 ||1ep.co^
 ||1ep2l1253.de^
 ||1f26db4741.com^
@@ -6350,6 +6351,7 @@ vkcdnservice.appspot.com^
 ||2fgrrc9t0.de^
 ||2fnptjci.de^
 ||2fqkh33xce1npuuq.rest^
+||2fyzxp40.xyz^
 ||2g2kaa598.de^
 ||2gcxigkv8jgzt653.rest^
 ||2gg6ebbhh.de^
@@ -18791,6 +18793,7 @@ vkcdnservice.appspot.com^
 ||ekxyrwvoegb.xyz^
 ||ekyimyfomkms.xyz^
 ||ekymmkhhdfvwr.online^
+||ekyngoyzuutls.website^
 ||ekzjdctkzlsvo.online^
 ||ekzrpjskeowcf.online^
 ||elaborate-fan.pro^
@@ -26308,6 +26311,7 @@ vkcdnservice.appspot.com^
 ||imgfeedbuzz.com^
 ||imgfeedget.com^
 ||imghst-de.com^
+||imgkdetaddxre.space^
 ||imglnkd.com^
 ||imglnke.com^
 ||imgot.site^
@@ -27903,6 +27907,7 @@ vkcdnservice.appspot.com^
 ||jlfdfodxejpxt.space^
 ||jlhkumsptbwuz.site^
 ||jlhmxduyftkae.site^
+||jlhoefzaqqbsz.online^
 ||jlishsdaxkibb.space^
 ||jllimjvotxwvk.website^
 ||jllxkqvoecigv.online^
@@ -34548,6 +34553,7 @@ vkcdnservice.appspot.com^
 ||nlezowlzrllro.site^
 ||nlfdclwhwkwyo.space^
 ||nlfutnfylfgez.store^
+||nlhiwbkfsxleqo.com^
 ||nlhsmlnnnhgpv.online^
 ||nlhuinvovrgkm.space^
 ||nlihxtqrggvkn.net^
@@ -44034,6 +44040,7 @@ vkcdnservice.appspot.com^
 ||sgziucofrczxh.website^
 ||sh0w-me-h0w.net^
 ||sh0w-me-how.com^
+||shabbatpunceglimed.cfd^
 ||shabby-mood.pro^
 ||shabtiqueur.rest^
 ||shackapple.com^
@@ -45383,6 +45390,7 @@ vkcdnservice.appspot.com^
 ||sportzflix.xyz^
 ||spotless-reveal.com^
 ||spotlesspersianwhereas.com^
+||spotlesstotal.com^
 ||spotlightprayers.com^
 ||spotofspawn.com^
 ||spotscenered.info^
@@ -46484,6 +46492,7 @@ vkcdnservice.appspot.com^
 ||syimwfacvwtqp.online^
 ||syinga.com^
 ||syjkcdmwgqwrm.top^
+||syjqvucueomi.com^
 ||sylfaczvioejj.site^
 ||sylloedema.help^
 ||syllogesyun.shop^
@@ -47848,6 +47857,7 @@ vkcdnservice.appspot.com^
 ||torquedolitory.qpon^
 ||torrango.com^
 ||torrent-protection.com^
+||tortamutismsantirs.qpon^
 ||tortavingolf.rest^
 ||tortocmauh.com^
 ||tosfeed.com^
@@ -54120,6 +54130,7 @@ vkcdnservice.appspot.com^
 ||yirajkujvmyzt.website^
 ||yirublylsjlks.online^
 ||yiskxtjozbiov.website^
+||yisnopijnmdvjc.com^
 ||yiuonzcmzxodc.site^
 ||yiuywkhqiyemsb.net^
 ||yiv4fpzy3r1nwwl.cfd^
@@ -54200,6 +54211,7 @@ vkcdnservice.appspot.com^
 ||ylkrkuafclwle.site^
 ||ylkujegjynqvn.online^
 ||yllaris.com^
+||ylligknjyhnpr.space^
 ||ylnrfnryvkjmh.website^
 ||ylodbhduliqpc.online^
 ||ylogepubxynzu.space^
@@ -55017,6 +55029,7 @@ vkcdnservice.appspot.com^
 ||zkdrywjcdepjx.online^
 ||zkdtpucowdlat.website^
 ||zkfjdxlwwcilg.website^
+||zkfpdhqwbtieh.site^
 ||zkggtossfobzd.space^
 ||zkhrbxzmcrvsmv.com^
 ||zkieqfgsiigts.store^
@@ -131971,8 +131984,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-01-04 06:09:51 CET
-# entries:        1154
+# last updated:   2026-02-01 08:01:49 CET
+# entries:        1151
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -132380,7 +132393,6 @@ dlsdk.appsflyer.com^
 ||sync.3fmediagroup.com^
 ||s-eu-1.pushpushgo.com^
 ||t.atmng.io^
-||t.fml.rip^
 ||t.gatorleads.co.uk^
 ||tag.heylink.com^
 ||tagging.hemnet.se^
@@ -132544,8 +132556,6 @@ dlsdk.appsflyer.com^
 ||webbplatsanalys.goteborg.se^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
-||widget.cdn.citygate.se^
-||widget.citygate.se^
 ||widget.lifeinside.io^
 ||widgets.getsitecontrol.com^
 ||widgets.spklw.com^
@@ -138354,6 +138364,8 @@ dlsdk.appsflyer.com^
 ||ce9qb0h4v.com^
 ||k9egtgh8v.com^
 ||gsk802011hh.com^
+||iwoihuemn.com^
+||n0zwlat83.com^
 ||gsk801311hh.com^
 ||q9ss0yqwa.com^
 ||yg0051thk.com^
