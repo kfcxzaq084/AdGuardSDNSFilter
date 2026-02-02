@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-02T05:24:04.402Z
+! Last modified: 2026-02-02T07:03:35.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11377,6 +11377,7 @@ vkcdnservice.appspot.com^
 ||blartexonym.cfd^
 ||blasphemelong.com^
 ||blastcahs.com^
+||blasterauntsatavi.cyou^
 ||blastyattar.cfd^
 ||blati.site^
 ||blatsdroll.com^
@@ -12995,6 +12996,7 @@ vkcdnservice.appspot.com^
 ||ccdd7a795c.com^
 ||ccdgqqaukssmx.website^
 ||ccdhskjkkerdt.website^
+||ccfqjqxvqpejymg.xyz^
 ||ccfvhquaynxcp.space^
 ||ccgateway.net^
 ||cchkvtejdnqov.space^
@@ -13575,6 +13577,7 @@ vkcdnservice.appspot.com^
 ||chouxatchaibse.net^
 ||chowsesnauseam.qpon^
 ||chpadblock.com^
+||chptbtxqkvbel.site^
 ||chrantary-vocking.com^
 ||chrismasynagog.cyou^
 ||chrisspinet.help^
@@ -15256,6 +15259,7 @@ vkcdnservice.appspot.com^
 ||cvwnpvbtezqvk.site^
 ||cvxbbrcunmulw.site^
 ||cvye4w5jbolht3m6k.cfd^
+||cvzrqzanffkxy.site^
 ||cwawlwdjdtxem.space^
 ||cwbtbhdhcirkr.website^
 ||cwchjisabnnmx.space^
@@ -15871,6 +15875,7 @@ vkcdnservice.appspot.com^
 ||deepenhotrod.com^
 ||deeperregardingcontend.com^
 ||deeplygumssandwich.com^
+||deepmemory.pro^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
 ||deepretainer.com^
@@ -16459,6 +16464,7 @@ vkcdnservice.appspot.com^
 ||disdainevaluation.com^
 ||disdainplayedbluster.com^
 ||disduboleinbolide.cyou^
+||disefyqrmsbya.website^
 ||disfigured-play.pro^
 ||disfiguredcomment.com^
 ||disgagedates.cyou^
@@ -16689,6 +16695,7 @@ vkcdnservice.appspot.com^
 ||dmfnwurs.xyz^
 ||dmgfqmltttogq.space^
 ||dmghgdmlepsek.online^
+||dmhkmjjrasysf.website^
 ||dmhulgvmedlik.store^
 ||dmhwextkychrz.website^
 ||dmiiqrlkypdmw.online^
@@ -20251,6 +20258,7 @@ vkcdnservice.appspot.com^
 ||flylikeaguy.com^
 ||flymob.com^
 ||flypartly.com^
+||flypechimar.qpon^
 ||flysfycwdazfb.website^
 ||flytechb.com^
 ||flyzcbrrwmwkg.site^
@@ -21850,6 +21858,7 @@ vkcdnservice.appspot.com^
 ||gkaxbfkjtdcqh.website^
 ||gkbbiahqabipz.online^
 ||gkbpmrtixkzui.one^
+||gkddyrrlgaepmr.com^
 ||gkhkmodocwnzu.site^
 ||gkihrlitlfndl.space^
 ||gkijdvpfpcjy.xyz^
@@ -23004,6 +23013,7 @@ vkcdnservice.appspot.com^
 ||gypjdmigbouth.website^
 ||gypojxrdrktqb.site^
 ||gyppingdoodle.qpon^
+||gypsinemuntz.cfd^
 ||gypsyairplanereign.com^
 ||gypsyimpel.com^
 ||gypsyproducing.com^
@@ -30047,6 +30057,7 @@ vkcdnservice.appspot.com^
 ||lvhtgmxvwznvo.site^
 ||lvinudabjlneg.space^
 ||lvizjwwjbnhuh.space^
+||lvjczzaojopzc.website^
 ||lvksiviwpenew.website^
 ||lvlhmjerf.buzz^
 ||lvltsgyorrxhl.website^
@@ -36375,6 +36386,7 @@ vkcdnservice.appspot.com^
 ||pitpitdeal.cfd^
 ||pitredamu.lat^
 ||pitsensation.com^
+||pitsidedonary.cyou^
 ||pitterdiamantschorl.cfd^
 ||pittoidmisly.help^
 ||pitwoodprosify.cyou^
@@ -38038,6 +38050,7 @@ vkcdnservice.appspot.com^
 ||pxambpzbommbb.website^
 ||pxavuanjmfygw.website^
 ||pxbairohsckfa.online^
+||pxbcobvcsict.com^
 ||pxbjmbnllzvhl.site^
 ||pxbnwrydgietf.space^
 ||pxctpszddyyan.site^
@@ -38958,6 +38971,7 @@ vkcdnservice.appspot.com^
 ||qzedtifkkkgsa.site^
 ||qzeibuevhxeac.online^
 ||qzfcqddxkdliy.top^
+||qzizvxzcdvxnd.website^
 ||qzjcjpugwmdda.site^
 ||qzkacxjzegehl.space^
 ||qznksxyvzngeq.site^
@@ -39280,6 +39294,7 @@ vkcdnservice.appspot.com^
 ||rcvmopjwwpfjd.website^
 ||rcxbznsriheku.website^
 ||rcygxjvmjadds.site^
+||rcylnhskcjngh.online^
 ||rdajveghkhlzz.site^
 ||rdbqyobwskjwr.site^
 ||rdcfdsgvjxxqs.xyz^
@@ -39622,6 +39637,7 @@ vkcdnservice.appspot.com^
 ||rekickgigger.cfd^
 ||rekipion.com^
 ||reklamko.pro^
+||reknockrenew.shop^
 ||rel-s.com^
 ||relaamlrijdxq.site^
 ||relappro.com^
@@ -43316,6 +43332,7 @@ vkcdnservice.appspot.com^
 ||squiffyboise.cyou^
 ||squiggly-dance.pro^
 ||squiggly-fill.pro^
+||squiggly-she.pro^
 ||squirrcrambe.cyou^
 ||squirtdrsuccession.com^
 ||squirtpresented.com^
@@ -46378,6 +46395,7 @@ vkcdnservice.appspot.com^
 ||u6reeq2hcp14boegipe.cfd^
 ||u8wiw86hfn3f476fyi3n87pxbpryo627uc5hjk.cfd^
 ||u9axpzf50.com^
+||u9qr7fytnj3btjujbm7xw93no858.cfd^
 ||uaagcvhljkxnemh.net^
 ||uabkqdfvtguvj.online^
 ||uacugnyezgqvp.site^
@@ -48596,6 +48614,7 @@ vkcdnservice.appspot.com^
 ||vrmyrmjkp.xyz^
 ||vrnfgjkurfxcl.site^
 ||vrnzbidmiesbl.site^
+||vrobuzbimodk.com^
 ||vroomsoutwickanglian.cfd^
 ||vrowunteachsixing.cyou^
 ||vrpfhdne.net^
@@ -51344,6 +51363,7 @@ vkcdnservice.appspot.com^
 ||yfswcwcrmslwb.website^
 ||yftbnnkmvi.com^
 ||yftcpnkgutqw.com^
+||yfu2g75oitggpf.rest^
 ||yfuciawgeyptp.space^
 ||yfueuktureukwo.org^
 ||yfveranuqguoc.love^
@@ -122208,6 +122228,7 @@ dlsdk.appsflyer.com^
 ||caspionlog.appspot.com^
 ||castify-trk.playitviral.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
+||cdn-a.raptor.digital^
 ||cdn.9gtb.com^
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.overblog.com^
