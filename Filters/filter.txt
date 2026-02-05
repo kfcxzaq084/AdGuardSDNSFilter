@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T05:17:06.951Z
+! Last modified: 2026-02-05T07:00:18.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8108,6 +8108,7 @@ vkcdnservice.appspot.com^
 ||aeiptbtyknklq.online^
 ||aeiwzejwyzqjy.rocks^
 ||aekpzxaghjyxa.global^
+||aelnyqxfdbejjtn.com^
 ||aelvjocjowtgi.online^
 ||aelyjabjzxcrg.online^
 ||aemeolkkydjop.space^
@@ -12562,6 +12563,7 @@ vkcdnservice.appspot.com^
 ||bwyrblprbxchm.site^
 ||bwywyammvghos.space^
 ||bwzjbhy5z5mqjb.cfd^
+||bx962tgu8hjcg4.rest^
 ||bxaclnvwqkrsy.space^
 ||bxadeltrcvulj.online^
 ||bxbkh.love^
@@ -17516,6 +17518,7 @@ vkcdnservice.appspot.com^
 ||duntletrucker.cyou^
 ||duolxovdwnnpi.com^
 ||duomoliggerbathool.cyou^
+||duospeeds.qpon^
 ||duplifybultey.qpon^
 ||duptoordoat.net^
 ||duqluquxvoijx.site^
@@ -22305,6 +22308,7 @@ vkcdnservice.appspot.com^
 ||glounsaiwhoa.net^
 ||glousoonomsy.xyz^
 ||gloutanacard.com^
+||glovedmenaced.shop^
 ||glowdot.com^
 ||glowingnews.com^
 ||glowparegal.cfd^
@@ -22543,6 +22547,7 @@ vkcdnservice.appspot.com^
 ||goosevisiting.com^
 ||goosierappetit.com^
 ||goourl.me^
+||gophkih8fnhjv16v5ob.cfd^
 ||gophykopta.com^
 ||gopsachuwilr.net^
 ||gopypteti.com^
@@ -25416,6 +25421,7 @@ vkcdnservice.appspot.com^
 ||iiwsadkxhypb.com^
 ||iiyfjuaumikou.space^
 ||iiyvlebuvfdie.online^
+||iizeqcko.com^
 ||iizvfsqtjgqgz.online^
 ||ijbaawqolrhpd.site^
 ||ijcnmbygtjhhv.website^
@@ -29137,6 +29143,7 @@ vkcdnservice.appspot.com^
 ||lcgvdkaclfzft.website^
 ||lcgwkdjniixjb.store^
 ||lchtraf.com^
+||lciovjviwz.com^
 ||lcipveakhv.com^
 ||lcjmevdynmiti.online^
 ||lckrtliqqgj7vv4.rest^
@@ -33812,6 +33819,7 @@ vkcdnservice.appspot.com^
 ||nrs6ffl9w.com^
 ||nrscxgvydsq.net^
 ||nrsegfcsdprwv.online^
+||nruduboj.com^
 ||nrusuivyenhcn.site^
 ||nrvxokhluosew.website^
 ||nryfifdmpeotb.site^
@@ -34995,6 +35003,7 @@ vkcdnservice.appspot.com^
 ||oooqitpwsryvd.space^
 ||oooxizemrslcq.site^
 ||oophiwherou.net^
+||oophoreperiost.cyou^
 ||oopqtqvnxobhfxl.com^
 ||oopscorrido.cfd^
 ||oopuhuenext.cyou^
@@ -35768,6 +35777,7 @@ vkcdnservice.appspot.com^
 ||ozlhjzqupdyuu.site^
 ||ozmbrfwzfreie.space^
 ||ozonemedia.com^
+||ozonisemutateskully.qpon^
 ||ozoniseupaisleimpship.cfd^
 ||ozonizesizer.cfd^
 ||ozorrjtydqrjd.online^
@@ -39658,6 +39668,7 @@ vkcdnservice.appspot.com^
 ||rancidframingyet.com^
 ||rancidmorsel.com^
 ||rancorsmiserly.com^
+||randaneyewear.shop^
 ||randiul.com^
 ||randomdnslab.com^
 ||randomignitiondentist.com^
@@ -47747,6 +47758,7 @@ vkcdnservice.appspot.com^
 ||unquotejervin.cfd^
 ||unqxeekhpyfyq.online^
 ||unracedglogg.cfd^
+||unratedhattock.qpon^
 ||unrealistic-due.com^
 ||unrealistic-tell.com^
 ||unregisteredtraditional.com^
@@ -51133,6 +51145,7 @@ vkcdnservice.appspot.com^
 ||wxrgjdkxhegjn.online^
 ||wxtldkydabpmz.online^
 ||wxtspwphcswxd.site^
+||wxuhixbauh.xyz^
 ||wxvaosdozpome.site^
 ||wxwdpvolofgdt.site^
 ||wxxjvvnetyomm.website^
