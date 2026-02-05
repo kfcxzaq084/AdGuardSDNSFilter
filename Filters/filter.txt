@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-05T02:07:09.808Z
+! Last modified: 2026-02-05T05:17:06.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10155,6 +10155,7 @@ vkcdnservice.appspot.com^
 ||axixvytazguot.space^
 ||axjlszfvmfjpx.space^
 ||axjndvucr.com^
+||axkcomjtwke.com^
 ||axlikeariososdasturi.cfd^
 ||axmmilepqvdyj.world^
 ||axnejzdaiyjsq.space^
@@ -11983,6 +11984,7 @@ vkcdnservice.appspot.com^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
 ||bpmpcqyvhellh.com^
+||bpmsqurkg.com^
 ||bpoiscqmwxej.buzz^
 ||bpojutddbiktb.website^
 ||bpoypqlymovdt.site^
@@ -12489,6 +12491,7 @@ vkcdnservice.appspot.com^
 ||buvettesutaio.rest^
 ||buvhlspktqqoi.online^
 ||buwqyutwgahvg.site^
+||buxtgksni.com^
 ||buyerneedly.help^
 ||buyerparasitesurveying.com^
 ||buyfrightencheckup.com^
@@ -12976,6 +12979,7 @@ vkcdnservice.appspot.com^
 ||cash-duck.com^
 ||cash-program.com^
 ||cash4members.com^
+||cashbuyable.cyou^
 ||cashcinemaunbiased.com^
 ||casherangus.cyou^
 ||cashgzb.com^
@@ -15583,6 +15587,7 @@ vkcdnservice.appspot.com^
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
 ||dafgdmabrnjnk.store^
+||daflaskeet.shop^
 ||dagabaapolar.qpon^
 ||daggledcineol.cfd^
 ||dagnar.com^
@@ -16066,6 +16071,7 @@ vkcdnservice.appspot.com^
 ||defroststringbenignity.com^
 ||deftestromansh.qpon^
 ||defuzedya.help^
+||defuzescockersdecener.qpon^
 ||defybrick.com^
 ||degasdoumas.help^
 ||degdsxtptnvjz.website^
@@ -18612,6 +18618,7 @@ vkcdnservice.appspot.com^
 ||enigmamedicine.com^
 ||enigmanarrativedime.com^
 ||enigmaswhereas.com^
+||enislesghettosmusquaw.cfd^
 ||eniza.site^
 ||enjkmqtrhycht.online^
 ||enjoyablefax.com^
@@ -19063,6 +19070,7 @@ vkcdnservice.appspot.com^
 ||etqzttxmlrgxm.space^
 ||etrem.site^
 ||etterismypersonal.com^
+||ettnavhv.com^
 ||ettqeirvwtxah.online^
 ||etuaoleums.help^
 ||etukuqstzpkzz.space^
@@ -19811,6 +19819,7 @@ vkcdnservice.appspot.com^
 ||feaseguerite.help^
 ||feaseshognose.qpon^
 ||feasibledecisiveasserted.com^
+||feasibleunpredictable.com^
 ||feastgiddybleeding.com^
 ||featuregangster.com^
 ||featurelockout.com^
@@ -22321,6 +22330,7 @@ vkcdnservice.appspot.com^
 ||glvhvesvnp.com^
 ||glvmtlnxdxdhl.website^
 ||glwmbwogaqwop.space^
+||glwxxxvn.com^
 ||glxacqtlhomgu.online^
 ||glxtest.site^
 ||glycidnates.cyou^
@@ -25773,6 +25783,7 @@ vkcdnservice.appspot.com^
 ||inexpedientlads.com^
 ||inexperiencedunseensuggested.com^
 ||infacejimjam.help^
+||infameeagled.com^
 ||infamous-atmosphere.pro^
 ||infamouschurch.pro^
 ||infamoussurround.pro^
@@ -27757,6 +27768,7 @@ vkcdnservice.appspot.com^
 ||karezugh.cfd^
 ||karlukslavey.qpon^
 ||karnwduphelya.cyou^
+||karosscoitus.qpon^
 ||karthlipanung.shop^
 ||kasifbaikqhyq.online^
 ||kasrsihavelear.org^
@@ -28844,6 +28856,7 @@ vkcdnservice.appspot.com^
 ||la-la-sf.com^
 ||laaaqmkbvcxf.xyz^
 ||laarmwcgehodw.website^
+||labaarabrember.shop^
 ||labaaraseta.cfd^
 ||labadena.com^
 ||labeldollars.com^
@@ -31084,6 +31097,7 @@ vkcdnservice.appspot.com^
 ||mdusneoid.rest^
 ||mdwzdvbjkixim.site^
 ||mdyhysyezdigw.online^
+||me16pfeuqj9q3qj.cfd^
 ||meager-conclusion.com^
 ||mealdisparitydrip.com^
 ||meandermajagua.cyou^
@@ -33528,6 +33542,7 @@ vkcdnservice.appspot.com^
 ||nodoseshamus.rest^
 ||nodthunderthis.com^
 ||noduwzniqnshf.site^
+||noeticsbootiedunsell.qpon^
 ||noeuymfjtquuk.site^
 ||nofilemaskeg.qpon^
 ||noftclykhdllg.space^
@@ -38673,6 +38688,7 @@ vkcdnservice.appspot.com^
 ||q97h1l5ktwg6w7ffhtp.rest^
 ||q9986woieplhxz.cfd^
 ||q99i1qi6.de^
+||qabxnphqmxthw.com^
 ||qaflyqanumeji.online^
 ||qafmixlijwr.com^
 ||qahmipatkmaj.com^
@@ -39533,6 +39549,7 @@ vkcdnservice.appspot.com^
 ||r6bj15eomzej46.cfd^
 ||r7qynywe2woplptv2jehpnhcmlm3.rest^
 ||r932o.com^
+||r9x.in^
 ||r9xbq2jrokqhho.cfd^
 ||ra-uchwolr.one^
 ||raadsomrmitvd.online^
@@ -42383,6 +42400,7 @@ vkcdnservice.appspot.com^
 ||serpentinefeed.com^
 ||sersabion.com^
 ||sertivepremier.cfd^
+||sertuleyatvyag.qpon^
 ||serumlyrisms.cfd^
 ||serumsugareffective.com^
 ||serutredcoll.com^
@@ -47604,6 +47622,7 @@ vkcdnservice.appspot.com^
 ||unfinished-face.com^
 ||unfinishedplace.com^
 ||unfinishedstudy.pro^
+||unfiredseax.shop^
 ||unfitappeal.com^
 ||unfitkind.pro^
 ||unflatsmopple.life^
@@ -48029,6 +48048,7 @@ vkcdnservice.appspot.com^
 ||urcadnhtikrlq.space^
 ||urdatingassistant.com^
 ||urdeseining.qpon^
+||urduqabbala.qpon^
 ||urealath.com^
 ||ureasesparlish.cyou^
 ||urencenes.com^
@@ -51905,6 +51925,7 @@ vkcdnservice.appspot.com^
 ||y1jxiqds7v.com^
 ||y1z29vqt4pgxg9ri.cfd^
 ||y1zoxngxp.com^
+||y32jle1grurk3p8.rest^
 ||y42rru7u1cwijz9bxmunjfp2e79ex4xq6.cfd^
 ||y4n7m8zic2frkvx9.cfd^
 ||y8hrpipr43t1w7.cfd^
@@ -52155,6 +52176,7 @@ vkcdnservice.appspot.com^
 ||ygoqsybudqczf.website^
 ||ygrgyhhexvwvs.site^
 ||yguychjhiayuj.site^
+||ygwquncboud.xyz^
 ||ygzrbzzfccqua.online^
 ||yhbatwdehlcrz.website^
 ||yhbcii.com^
@@ -55003,6 +55025,7 @@ vkcdnservice.appspot.com^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
 ||yetyippee.com^
 ||yippeewhenever.com^
+||yowzabrr.com^
 ||yumhusk.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||img-load.com^
@@ -122041,6 +122064,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||um.merinfo.se^
 ||ins.connatix.com^
 ||lit.connatix.com^
 ||tracking.shopee.com.br^
@@ -139788,6 +139812,8 @@ dlsdk.appsflyer.com^
 ||gsk802050hh.com^
 ||j3fvhzit0.com^
 ||nnvx.cn^
+||nv0cl4nnq.com^
+||embofjpks.com^
 ||tlq8ufqddj.com^
 ||8gptk28oag.com^
 ||oudw850vbx.com^
