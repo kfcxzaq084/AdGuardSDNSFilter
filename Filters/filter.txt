@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-06T18:52:56.789Z
+! Last modified: 2026-02-06T20:35:22.748Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8527,6 +8527,7 @@ vkcdnservice.appspot.com^
 ||airparksampi.qpon^
 ||airplaneprosperretreat.com^
 ||airshedcoart.com^
+||airtblbu.com^
 ||airtightcounty.com^
 ||airtimegrumly.cyou^
 ||airwayarachin.cyou^
@@ -9328,6 +9329,7 @@ vkcdnservice.appspot.com^
 ||appriating.com^
 ||appriedtheligh.org^
 ||appropriate-league.pro^
+||appropriatedealer.pro^
 ||approvalnor.com^
 ||approved.website^
 ||approxacreaktulipa.cyou^
@@ -22112,6 +22114,7 @@ vkcdnservice.appspot.com^
 ||giantlevel.pro^
 ||giarrahuddles.cyou^
 ||giaythethaonuhcm.com^
+||gibliabusingsithes.qpon^
 ||gibuqddhrp.com^
 ||giddyrabiddaylight.com^
 ||gidxggpntfrqz.online^
@@ -25629,6 +25632,7 @@ vkcdnservice.appspot.com^
 ||ilokanorfs.cfd^
 ||iloptrex.com^
 ||ilpmcvbmizqfo.site^
+||ilpoocsvxe.com^
 ||ilqtskaqbxdrj.website^
 ||ilrkcyoqtybaf.website^
 ||ilshiletterismype.org^
@@ -28750,6 +28754,7 @@ vkcdnservice.appspot.com^
 ||krshmqrqvipop.website^
 ||krtnyognzagow.online^
 ||kruaxite.help^
+||krubicurupayjahveh.cfd^
 ||krudavmbgnwrc.website^
 ||krumanremet.cfd^
 ||krumanunsmote.com^
@@ -52644,6 +52649,7 @@ vkcdnservice.appspot.com^
 ||ylih6ftygq7.com^
 ||ylinlhlzcumqe.online^
 ||ylitzzadjmfrk.space^
+||yljjsofxwaln.com^
 ||ylkdnoibgafda.website^
 ||ylkrkuafclwle.site^
 ||ylkujegjynqvn.online^
