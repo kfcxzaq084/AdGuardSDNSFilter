@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-06T05:15:15.166Z
+! Last modified: 2026-02-06T06:56:13.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||dingywearyfortress.com^
 ||garudakrakatau.com^
 ||demonicclanstarch.com^
 ||one-new-message.com^
@@ -7081,6 +7082,7 @@ vkcdnservice.appspot.com^
 ||93febf18c6.com^
 ||9421d59b1d.com^
 ||9453e87db8.com^
+||948ecijjzqjckkmoo.cfd^
 ||94ihw1ex4xotkrj1i3flv.cfd^
 ||9579ae0d4a.com^
 ||95ppq87g.de^
@@ -8924,6 +8926,7 @@ vkcdnservice.appspot.com^
 ||amgdgt.com^
 ||amgkqcsqjojjfn.xyz^
 ||amgladthereisosome.org^
+||amhrzucur.com^
 ||amiabledelinquent.com^
 ||amididsodaic.cfd^
 ||amidonbalaam.help^
@@ -8945,6 +8948,7 @@ vkcdnservice.appspot.com^
 ||amogartouchoams.net^
 ||amokswaister.cfd^
 ||amolesramsons.cfd^
+||amolesstare.qpon^
 ||amon1.net^
 ||amongfurfooz.cfd^
 ||amoralforsteppe.com^
@@ -21544,6 +21548,7 @@ vkcdnservice.appspot.com^
 ||galeechook.com^
 ||galeindelicatedrove.com^
 ||galemammals.shop^
+||galeoidkasa.qpon^
 ||galepush.net^
 ||galgkaaqhxhuz.world^
 ||galiotsrotunda.qpon^
@@ -25177,6 +25182,7 @@ vkcdnservice.appspot.com^
 ||iazcpoptkwapp.store^
 ||iazgviiojwhpm.online^
 ||ib1y9etg6xen3ok6frkj6xzr8xu.cfd^
+||ib8mkl15kg5qn6c.rest^
 ||ibbdgcvtwtpuj.site^
 ||ibblkbommtctu.online^
 ||ibbnmezzazmbt.site^
@@ -26049,6 +26055,7 @@ vkcdnservice.appspot.com^
 ||insure1266.fun^
 ||insureegushier.cfd^
 ||insurerappareloctans.cyou^
+||insurerimmewfripper.qpon^
 ||inswellbathes.com^
 ||intactbeatengraceless.com^
 ||integralvoteceased.com^
@@ -27654,6 +27661,7 @@ vkcdnservice.appspot.com^
 ||jvlrcbfxijxgk.store^
 ||jvmbgorjhyyao.click^
 ||jvpmjxgfphoqp.online^
+||jvqemtykwudfjqs.com^
 ||jvqlisbixnxaz.space^
 ||jvsrablddanwb.space^
 ||jvvaeiaiemsjj.website^
@@ -33155,6 +33163,7 @@ vkcdnservice.appspot.com^
 ||nepasimoons.qpon^
 ||nephilaplaque.help^
 ||nephriasebasichutia.cyou^
+||nepmenindent.shop^
 ||nerangee.com^
 ||nerdolac.com^
 ||nereserv.com^
@@ -37385,6 +37394,7 @@ vkcdnservice.appspot.com^
 ||pogmimonomdyc.space^
 ||pogothere.xyz^
 ||pohamqqueodzt.online^
+||pohaoptima.cyou^
 ||pohgrfoogvfvl.store^
 ||pohnapriscan.help^
 ||poidampish.com^
@@ -38852,6 +38862,7 @@ vkcdnservice.appspot.com^
 ||qarvpoomwzvcb.site^
 ||qasdszuhgnhtl.space^
 ||qawwuurotynov.site^
+||qaxjachdlkrcxi.com^
 ||qaypgfuwpemvn.space^
 ||qazjpdzhatxaw.vip^
 ||qbaarratalzyo.online^
@@ -40589,6 +40600,7 @@ vkcdnservice.appspot.com^
 ||reticencedecay.com^
 ||reticencestatesmanfigured.com^
 ||reticencevaliddecoction.com^
+||retinichawks.cyou^
 ||retinuearithmetic.com^
 ||retiringspamformed.com^
 ||retono42.us^
@@ -42703,6 +42715,7 @@ vkcdnservice.appspot.com^
 ||shakingtacklingunpeeled.com^
 ||shakosfustoc.cyou^
 ||shakydeploylofty.com^
+||shakysummonedtriumph.com^
 ||shaledreform.cfd^
 ||shallbuilds.com^
 ||shallotincuses.cfd^
@@ -45394,6 +45407,7 @@ vkcdnservice.appspot.com^
 ||tbbf186fbrrjjt9ex.rest^
 ||tbdhrjsywgjcq.tech^
 ||tbeiu658gftk.com^
+||tbepgemptaegvx.xyz^
 ||tbexzfbwrbnfp.online^
 ||tbgoqplabnhkb.site^
 ||tbguudxflcfub.site^
@@ -140013,6 +140027,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||aztwrmsgn4.com^
+||fvk6k2jrdu.com^
+||ny70zesy5v.com^
+||gsk802061hh.com^
+||gnla02061qp.com^
+||gxvf.cn^
+||agricultural64.top^
+||nneephon.com^
+||w58ce6.com^
 ||immediate49.com^
 ||k0tdrkbhx.com^
 ||d6gsujd8v.com^
