@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-07T06:42:38.124Z
+! Last modified: 2026-02-07T08:32:49.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22494,6 +22494,7 @@ vkcdnservice.appspot.com^
 ||gmlyemrfp25pybh4g8uz2hc.cfd^
 ||gmmxpyzumnqaa.store^
 ||gmnflbjlrkizf.website^
+||gmofuplco.com^
 ||gmorafjcnoifq.space^
 ||gmpjdxvoujgfz.website^
 ||gmpustyzebuow.store^
@@ -29623,6 +29624,7 @@ vkcdnservice.appspot.com^
 ||lfnwxpcbfpkcx.website^
 ||lfowbhzhqjhxb.online^
 ||lfpqkywymtxtb.online^
+||lfsadhdwvdpj.com^
 ||lfstmedia.com^
 ||lftqjvpn1uyxhu32bnzygyk.rest^
 ||lfugkipmkgmvd.space^
@@ -33066,6 +33068,7 @@ vkcdnservice.appspot.com^
 ||nativegram.com^
 ||nativepu.sh^
 ||nativesprivately.com^
+||nativevegetablesentered.com^
 ||natprb.ru^
 ||natqzyaatmnga.store^
 ||natrajdatsuns.cfd^
@@ -36720,6 +36723,7 @@ vkcdnservice.appspot.com^
 ||personalparcelmarker.com^
 ||personalskillsex.org^
 ||personifyproposition.com^
+||perstoppedsunken.com^
 ||pertauthentic.com^
 ||pertawee.net^
 ||pertersacstyli.com^
@@ -40324,6 +40328,7 @@ vkcdnservice.appspot.com^
 ||recovernotionvideo.com^
 ||recoverpresentationdriver.com^
 ||recoveryongoing.com^
+||recreationducked.com^
 ||rectangledevelopernewspapers.com^
 ||rectangular-diamond.pro^
 ||rectangular-she.pro^
@@ -40528,6 +40533,7 @@ vkcdnservice.appspot.com^
 ||religioguatuso.cyou^
 ||religionhaltnon.com^
 ||religionscammerbusinessmen.com^
+||religiontall.com^
 ||relinedbicker.help^
 ||relineschithe.help^
 ||relinkcutitis.qpon^
@@ -41788,6 +41794,7 @@ vkcdnservice.appspot.com^
 ||rutecwsieverf.online^
 ||ruthairbags.cyou^
 ||ruthclovepuberty.com^
+||ruthlesssomeoneabattoir.com^
 ||ruthsize.com^
 ||ruttingoxlips.qpon^
 ||ruttleguayulerecart.cyou^
@@ -43510,6 +43517,7 @@ vkcdnservice.appspot.com^
 ||slightdrink.pro^
 ||slightlyparentingaugust.com^
 ||slightresignationswiftly.com^
+||slim-guidance.pro^
 ||slimalternative.pro^
 ||slimdein.icu^
 ||slimespell.com^
@@ -51147,6 +51155,7 @@ vkcdnservice.appspot.com^
 ||wooablelakh.qpon^
 ||woodboxsumacsforwarn.cfd^
 ||woodenside.pro^
+||woodinereapplyalodium.cyou^
 ||woodracial.com^
 ||woodrismucosal.help^
 ||woodsfalsie.com^
@@ -52492,6 +52501,7 @@ vkcdnservice.appspot.com^
 ||ydoekexzpcxdf.online^
 ||ydopvxjwmlkoo.space^
 ||ydqhvlqqhtuli.website^
+||ydqhyowcrieax.com^
 ||ydqjjnyincwxu.site^
 ||ydratnhrkjqgrj.com^
 ||ydsagcvrejuim.online^
@@ -52832,6 +52842,7 @@ vkcdnservice.appspot.com^
 ||yoecsffqwtqle.life^
 ||yoehgupyqivfh.space^
 ||yogadineribbon.com^
+||yogaenlacedhafiz.cyou^
 ||yogapersuasive.com^
 ||yogbucxeeigvs.space^
 ||yogjylemldvjb.online^
@@ -140261,6 +140272,8 @@ dlsdk.appsflyer.com^
 ||avpr.cn^
 ||gnla02070qp.com^
 ||vwvaddoet.com^
+||gjt6z9wga.com^
+||wo6h5tx8w.com^
 ||aztwrmsgn4.com^
 ||fvk6k2jrdu.com^
 ||ny70zesy5v.com^
