@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-07T02:02:44.939Z
+! Last modified: 2026-02-07T05:05:18.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10313,6 +10313,7 @@ vkcdnservice.appspot.com^
 ||azzxoefggcsuo.website^
 ||b-m.xyz^
 ||b02byun5xc3s.com^
+||b0e81fb2f1.com^
 ||b0f01ce38a.com^
 ||b0f3731d0a.com^
 ||b14ae1c233.com^
@@ -11312,6 +11313,7 @@ vkcdnservice.appspot.com^
 ||bimouecctgacs.store^
 ||bin-layer.ru^
 ||bin-tds.site^
+||binarysimple.net^
 ||bincatracs.com^
 ||bindirect.click^
 ||binescrc.cyou^
@@ -14108,6 +14110,7 @@ vkcdnservice.appspot.com^
 ||clingcupidfootprint.com^
 ||clinkspurtfirmly.com^
 ||clioneembraidwants.cfd^
+||clionefingery.com^
 ||clionenewsymusks.cyou^
 ||clipmistermop.com^
 ||clipperroutesevere.com^
@@ -24086,6 +24089,7 @@ vkcdnservice.appspot.com^
 ||hfnfoupaytndf.space^
 ||hfopewkdgmcal.site^
 ||hfopteyhgqeas.online^
+||hfoxvuiy46cffztp1gkui7cm912.cfd^
 ||hfqsgcclxlvll.online^
 ||hfqxrivbvubyz.store^
 ||hfsecdrzfdsry.club^
@@ -26608,6 +26612,7 @@ vkcdnservice.appspot.com^
 ||iwkdgieptmede.site^
 ||iwkgepcvdeejm.online^
 ||iwklxkwqfiphw.website^
+||iwlhxgnimre.com^
 ||iwnmzkpzalkbo.online^
 ||iwoofaipie.net^
 ||iwovfiidszrk.tech^
@@ -28022,6 +28027,7 @@ vkcdnservice.appspot.com^
 ||kchhccjmzipel.site^
 ||kcjmivforjixu.online^
 ||kckc7p3oc4nffjhk2lolynocgr3pcvoe9yw.cfd^
+||kckoxavilaa.com^
 ||kcldlqybhdgdk.site^
 ||kcnjivjem.net^
 ||kcnoeqivvzana.online^
@@ -31898,6 +31904,7 @@ vkcdnservice.appspot.com^
 ||mkbcuryjsmhqb.com^
 ||mkcljppfkthiw.site^
 ||mkcmuoujzgsxv.online^
+||mkcokcdm.xyz^
 ||mkemdlgjkagkq.com^
 ||mkexdzpuiswaq.online^
 ||mkfarxelgalel.online^
@@ -32555,6 +32562,7 @@ vkcdnservice.appspot.com^
 ||mtypitea.net^
 ||mtyrltifpzwzb.online^
 ||mtyxmamrsjxyr.space^
+||mu3wc8tzo4y6en.rest^
 ||mu9qgorqvxl8hm64.cfd^
 ||muanadalow.xyz^
 ||mubkemxsr.net^
@@ -33459,6 +33467,7 @@ vkcdnservice.appspot.com^
 ||nhvyafmsoet.xyz^
 ||nhwoxbzlacaqx.website^
 ||nhzczuzvmmcfh.website^
+||niagaraswails.com^
 ||nianticcrip.rest^
 ||niaumxovmqpur.online^
 ||niayuziuisuru.online^
@@ -34459,6 +34468,7 @@ vkcdnservice.appspot.com^
 ||obavfairnmarw.website^
 ||obcswpfk.xyz^
 ||obdkeieufzyyr.website^
+||obdphmxlq.com^
 ||obedieval.my.id^
 ||obelionmermis.shop^
 ||obese-actor.pro^
@@ -38680,6 +38690,7 @@ vkcdnservice.appspot.com^
 ||pureapplication.pro^
 ||pureenergyflow.com^
 ||purganismprop.com^
+||purgaweak.cfd^
 ||purifydimeprove.com^
 ||purple-expert.pro^
 ||purpleads.io^
@@ -40234,6 +40245,7 @@ vkcdnservice.appspot.com^
 ||rebukeamalett.cfd^
 ||rebukeirresistiblesubstitute.com^
 ||rebukemusclesshark.com^
+||rebukergarceblarina.qpon^
 ||recalldys.cfd^
 ||recantetheric.cyou^
 ||recantkeynotecrane.com^
@@ -42307,6 +42319,7 @@ vkcdnservice.appspot.com^
 ||schuitspimenta.cfd^
 ||schutecahnite.qpon^
 ||schwarzcarlock.qpon^
+||sciathpaaldraws.qpon^
 ||sciathsurma.cfd^
 ||sciaticgallootarouse.cfd^
 ||scientific-doubt.com^
@@ -43364,6 +43377,7 @@ vkcdnservice.appspot.com^
 ||skillprogeny.com^
 ||skilpoterased.help^
 ||skilyake.net^
+||skimosunturnwench.cfd^
 ||skinkedeirack.shop^
 ||skinkedschtick.help^
 ||skinnedunsame.com^
@@ -52044,6 +52058,8 @@ vkcdnservice.appspot.com^
 ||xqsfsvngpzsns.store^
 ||xqsxkqbgwoyal.space^
 ||xqtoisaowmys.net^
+||xquihboxheok.com^
+||xquwtgtqilspjaj.com^
 ||xquzkomqjvslb.online^
 ||xqvenulmbseas.space^
 ||xqvsufkeuiwde.website^
@@ -126945,6 +126961,7 @@ dlsdk.appsflyer.com^
 ||data.debugbear.com^
 ||data.eetech.com^
 ||data.embeddables.com^
+||data.jaytuckwell.com^
 ||data.nexxt.com^
 ||data.queryly.com^
 ||data.replo.app^
@@ -127370,6 +127387,7 @@ dlsdk.appsflyer.com^
 ||t.smile.eu^
 ||t.spbx.app^
 ||t.spot.im^
+||t.themarketer.com^
 ||t.vibe.co^
 ||t2.t2b.click^
 ||taboolasyndication.com^
@@ -140215,6 +140233,11 @@ dlsdk.appsflyer.com^
 ||412dyo1ef.com^
 ||ivza0m05f.com^
 ||dcwxhamq0.com^
+||zyek35wsn.com^
+||reluctance58.com^
+||avpr.cn^
+||gnla02070qp.com^
+||vwvaddoet.com^
 ||aztwrmsgn4.com^
 ||fvk6k2jrdu.com^
 ||ny70zesy5v.com^
