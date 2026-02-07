@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-07T12:51:04.230Z
+! Last modified: 2026-02-07T14:26:58.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8734,6 +8734,7 @@ vkcdnservice.appspot.com^
 ||algaebinit.cyou^
 ||algarotracy.help^
 ||algarotwitless.cfd^
+||algatyramin.com^
 ||algcpeaqclu.com^
 ||algidforkers.cfd^
 ||algiersreests.com^
@@ -10963,6 +10964,7 @@ vkcdnservice.appspot.com^
 ||bengalifistify.cfd^
 ||benigntrolley.shop^
 ||beniluuxen.com^
+||benjoinshipt.cfd^
 ||bennetguarantee.com^
 ||benneunbrown.qpon^
 ||benrxbjyehvin.online^
@@ -13710,6 +13712,7 @@ vkcdnservice.appspot.com^
 ||chitinseuclase.help^
 ||chitonsgirns.qpon^
 ||chitsougli.net^
+||chittakscreich.com^
 ||chivalrouscalmlymexican.com^
 ||chiveraccede.com^
 ||chiverblinger.cyou^
@@ -14518,6 +14521,7 @@ vkcdnservice.appspot.com^
 ||compelbruises.com^
 ||compelcode.com^
 ||comperesceptre.com^
+||compereuncoltorigins.cfd^
 ||compereupburn.qpon^
 ||competent-partner.pro^
 ||compiledonatevanity.com^
@@ -17487,6 +17491,7 @@ vkcdnservice.appspot.com^
 ||dseel9.com^
 ||dsetx3.com^
 ||dseudvepnmooe.net^
+||dsevufcdlmkt.com^
 ||dsgszujtdzlea.online^
 ||dsgtosabuqcil.website^
 ||dsiljgnplyejw.website^
@@ -18861,6 +18866,7 @@ vkcdnservice.appspot.com^
 ||eofwlnyaxwfqt.global^
 ||eoglimegdapoh.site^
 ||eohhehznagsqn.online^
+||eoithfloor.cyou^
 ||eojbueuvveupr.space^
 ||eojfxignjyzev.website^
 ||eojqkvqebyaro.site^
@@ -25031,6 +25037,7 @@ vkcdnservice.appspot.com^
 ||hurkarubypaths.com^
 ||hurlmedia.design^
 ||hurriedlyslumremiss.com^
+||hurtedcloaked.shop^
 ||hurtful-job.com^
 ||hurtful-message.com^
 ||hurtfullong.pro^
@@ -25936,6 +25943,7 @@ vkcdnservice.appspot.com^
 ||indearamini.qpon^
 ||indeedhighths.qpon^
 ||indeedpeculiaritybeams.com^
+||indeedwhitten.cyou^
 ||indefinitelytonsil.com^
 ||indefinitemantle.com^
 ||indelibleeconomy.pro^
@@ -26087,6 +26095,7 @@ vkcdnservice.appspot.com^
 ||innyweakela.co^
 ||inocvsvmeopau.space^
 ||inopportunelargestrumble.com^
+||inositetelomic.cyou^
 ||inoussurdeen.net^
 ||inoutweiledstever.org^
 ||inouva.com^
@@ -29108,6 +29117,7 @@ vkcdnservice.appspot.com^
 ||lacilypelterscoagel.cyou^
 ||lackersmank.help^
 ||lackingcompare.com^
+||lackspotgun.qpon^
 ||lacmoidrobands.shop^
 ||lacnelmsvgghz.space^
 ||lacocajaquimaturkmen.cyou^
@@ -29281,6 +29291,7 @@ vkcdnservice.appspot.com^
 ||latheseventhobscenity.com^
 ||lathesfeoffee.qpon^
 ||lathstaverns.cfd^
+||lathyyt.cyou^
 ||latinosgrees.qpon^
 ||latinwayy.com^
 ||latkemanteau.qpon^
@@ -29837,6 +29848,7 @@ vkcdnservice.appspot.com^
 ||limbaspangshivs.qpon^
 ||limbeckinspire.cyou^
 ||limbersgorge.shop^
+||limbiclamdan.cfd^
 ||limbostap.qpon^
 ||limbouswirer.cyou^
 ||limited-bird.pro^
@@ -34411,6 +34423,7 @@ vkcdnservice.appspot.com^
 ||nzqbujvotlafu.online^
 ||nzruddunlfqgs.site^
 ||nztlzammtbqyd.today^
+||nzwcswidwtddjs.com^
 ||nzwomoxfjcosy.store^
 ||nzxqdmladgibx.website^
 ||nzyppdoppxpwb.website^
@@ -37788,6 +37801,7 @@ vkcdnservice.appspot.com^
 ||postaoz.xyz^
 ||postback.info^
 ||postcardcareful.com^
+||posterliking.com^
 ||posthocclavusrussel.qpon^
 ||postinvent.com^
 ||postoffrsmatch.com^
@@ -38553,6 +38567,7 @@ vkcdnservice.appspot.com^
 ||ptkbfiewzo.com^
 ||ptkhuimeeqelb.com^
 ||ptkmuqscgtakv.site^
+||ptldfhnxffuod.com^
 ||ptlucrangwlvs.website^
 ||ptlufbanslsse.website^
 ||ptlwm.com^
@@ -38633,6 +38648,7 @@ vkcdnservice.appspot.com^
 ||publishednundear.com^
 ||publisherads.click^
 ||publisherscantyusing.com^
+||publishoccur.com^
 ||publpush.com^
 ||pubmatic.com^
 ||pubmine.com^
@@ -42022,6 +42038,7 @@ vkcdnservice.appspot.com^
 ||sabdljzmuakkt.space^
 ||sabercacana.help^
 ||sabergood.com^
+||saberstglevying.qpon^
 ||sabikschnook.qpon^
 ||sabonakapona.com^
 ||sabotagesophisticatedfragile.com^
@@ -44819,6 +44836,7 @@ vkcdnservice.appspot.com^
 ||stripskeletonsting.com^
 ||striptfathmur.cyou^
 ||stripwedding.com^
+||striveemerges.cyou^
 ||strivendesi.help^
 ||strodeintended.com^
 ||strokedunhurt.help^
@@ -45271,6 +45289,7 @@ vkcdnservice.appspot.com^
 ||swingdeceive.com^
 ||swingelcalfish.com^
 ||swingelcoldish.cyou^
+||swingenoes.cyou^
 ||swinity.com^
 ||swinkpaussid.cfd^
 ||swissmilitarycoalition.com^
@@ -48094,6 +48113,7 @@ vkcdnservice.appspot.com^
 ||ungiltpeitrel.cfd^
 ||ungoredwhan.shop^
 ||ungriporthal.qpon^
+||ungtkeltic.qpon^
 ||unhairraxesplotter.cfd^
 ||unhairsirrees.qpon^
 ||unhappy-upstairs.com^
@@ -51745,6 +51765,7 @@ vkcdnservice.appspot.com^
 ||xbkcaouzpdgpb.site^
 ||xblymwmlhadfh.website^
 ||xbmiicdidpymj.vip^
+||xboiqvbxvrjmsa.com^
 ||xbosvsupnbtzx.website^
 ||xbovikgcahuob.website^
 ||xbpiwtgsrqbfr.online^
