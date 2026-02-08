@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-08T06:52:03.298Z
+! Last modified: 2026-02-08T08:34:28.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7332,6 +7332,7 @@ vkcdnservice.appspot.com^
 ||abiaxnkcprczb.space^
 ||abiddenisleted.cfd^
 ||abidersduole.cyou^
+||abididekedshiksa.cyou^
 ||abilenekeeking.cfd^
 ||abiosissubmaid.cyou^
 ||abixvrdblyakx.website^
@@ -21273,6 +21274,7 @@ vkcdnservice.appspot.com^
 ||fszrxnukujwpt.online^
 ||ft744w1er92kw86g3cykucv.cfd^
 ||ftacbwmrfphxa.online^
+||ftbedtikmzqvb.online^
 ||ftblltrck.com^
 ||ftd.agency^
 ||ftdtocbdkvlvj.space^
@@ -23287,6 +23289,7 @@ vkcdnservice.appspot.com^
 ||gtjjppgduvobm.online^
 ||gtk65j4boptqk6w83hk.cfd^
 ||gtlykyvizfrui.space^
+||gtmlihxoacezs.online^
 ||gtosmdjgn.xyz^
 ||gtprmwvtduybm.online^
 ||gtraiqgaqwlrk.website^
@@ -26708,6 +26711,7 @@ vkcdnservice.appspot.com^
 ||ivraysated.qpon^
 ||ivstracker.net^
 ||ivumjgplgllj.xyz^
+||ivutfugefqkim.site^
 ||ivvmkcwxvifeb.website^
 ||ivwigsvcogagh.website^
 ||ivxbrwcdafjzr.site^
@@ -27718,6 +27722,7 @@ vkcdnservice.appspot.com^
 ||jtnuinzarbmvw.site^
 ||jtopudllmvejj.website^
 ||jtq11p728xo57jqf9e.cfd^
+||jtqqwaehbu.com^
 ||jtren.site^
 ||jtrmkaiggvcjg.website^
 ||jtsqetqkdcwbq.online^
@@ -40002,6 +40007,7 @@ vkcdnservice.appspot.com^
 ||qzoxaijuvxzwv.online^
 ||qzpifnofrtvrd.store^
 ||qzpnlrckbpcwe.online^
+||qzqdoqqqqicne.website^
 ||qzruomjczpdzt.store^
 ||qzrwwchruinnx.space^
 ||qztqjcwpbbttr.store^
@@ -42528,6 +42534,7 @@ vkcdnservice.appspot.com^
 ||scholarshipexplosivepopular.com^
 ||scholarsslate.com^
 ||schuitspimenta.cfd^
+||schultzhommacktires.cfd^
 ||schutecahnite.qpon^
 ||schwarzcarlock.qpon^
 ||sciathpaaldraws.qpon^
@@ -43013,6 +43020,7 @@ vkcdnservice.appspot.com^
 ||sfhkbrsd.com^
 ||sfixretarum.com^
 ||sfjwwywgeyoak.website^
+||sflcvbxgpgayq.website^
 ||sfmajuhkqrr.com^
 ||sfmyfycxioqlv.online^
 ||sfnfbubdzlfdm.online^
@@ -47231,6 +47239,7 @@ vkcdnservice.appspot.com^
 ||trueconsist.pro^
 ||trueloveonlinee.com^
 ||truffzincing.cfd^
+||truiedqxeixlt.site^
 ||truigugrwqguh.store^
 ||truishstep.cfd^
 ||trulyfakes.qpon^
@@ -50052,6 +50061,7 @@ vkcdnservice.appspot.com^
 ||vttooqksrnhun.rocks^
 ||vtuowmzjyyavc.site^
 ||vtuqviwcbeuhr.site^
+||vtuzzlfmnpxdq.website^
 ||vtxcwfiaiucur.website^
 ||vtxnfezsswgbq.website^
 ||vtygazmid.com^
@@ -53093,6 +53103,7 @@ vkcdnservice.appspot.com^
 ||yogjylemldvjb.online^
 ||yohle.com^
 ||yohocrummer.cfd^
+||yohxtdgt.com^
 ||yoimeuyjstcyw.space^
 ||yoiwaoxfvihqj.com^
 ||yojbiagdemrac.buzz^
@@ -140521,6 +140532,10 @@ dlsdk.appsflyer.com^
 ||myieldell.com^
 ||nsul.cn^
 ||seductive37.top^
+||zgb6rg0r3h.com^
+||a6o69f9ky0.com^
+||35wo96wkjs.com^
+||gnla02081qp.com^
 ||412dyo1ef.com^
 ||ivza0m05f.com^
 ||dcwxhamq0.com^
