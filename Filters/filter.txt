@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-09T05:27:30.242Z
+! Last modified: 2026-02-09T07:05:34.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||cloudscape84.net^
+||kcwcohcmsotlsyn.com^
 ||dingywearyfortress.com^
 ||garudakrakatau.com^
 ||demonicclanstarch.com^
@@ -10210,6 +10212,7 @@ vkcdnservice.appspot.com^
 ||awryfully.shop^
 ||aws-itcloud.net^
 ||awsurveys.com^
+||awthhiwucafl.com^
 ||awtocbzrngxtu.site^
 ||awtunmmlmobnq.site^
 ||awumnf.com^
@@ -12224,6 +12227,7 @@ vkcdnservice.appspot.com^
 ||brgaupehcsayh.online^
 ||brhlndflc.net^
 ||briaredbreaker.qpon^
+||brichenamylum.com^
 ||bridalmaced.qpon^
 ||bridgetrack.com^
 ||bridlearctic.com^
@@ -14829,6 +14833,7 @@ vkcdnservice.appspot.com^
 ||coosuclemmus.shop^
 ||coosync.com^
 ||coosynci.com^
+||cootercivvies.cyou^
 ||cootheewigauk.net^
 ||cootlogix.com^
 ||coovesumoujashy.net^
@@ -22283,6 +22288,7 @@ vkcdnservice.appspot.com^
 ||ghettoformed.com^
 ||ghhlkfhlbysdv.website^
 ||ghhxnabvunfey.store^
+||ghiarbolz.com^
 ||ghixjipeapa.xyz^
 ||ghkrndebbziup.online^
 ||ghkrwjkgbqjel.website^
@@ -26086,6 +26092,7 @@ vkcdnservice.appspot.com^
 ||inbushbiliate.help^
 ||inbyeabnetretried.cfd^
 ||incarnatepicturesque.com^
+||incasedspirts.cfd^
 ||inchasebouget.cyou^
 ||incherprofuse.qpon^
 ||inchesray.com^
@@ -29057,6 +29064,7 @@ vkcdnservice.appspot.com^
 ||ksdamndwucubm.online^
 ||ksdclrvqvdeac.space^
 ||ksehinkitw.hair^
+||kseoxmeqxbhpi.space^
 ||kseseemyresum.org^
 ||ksezswovesyyb.online^
 ||ksfndodbfbgof.space^
@@ -29921,6 +29929,7 @@ vkcdnservice.appspot.com^
 ||lgunuddjobkyl.online^
 ||lgupyhmwrglwg.space^
 ||lgvowkkifkdzk.online^
+||lgxicvplbnejn.website^
 ||lgzraiodlejhy.online^
 ||lgzwzyhkejtld.online^
 ||lh031i88q.com^
@@ -30975,6 +30984,7 @@ vkcdnservice.appspot.com^
 ||lwdfqzckybcsl.online^
 ||lwecmzkeqjyag.online^
 ||lwgadm.com^
+||lwjbvkjetnpui.site^
 ||lwjevjpdrzosz.online^
 ||lwjvyd.com^
 ||lwktemxpaiuzx.website^
@@ -34374,6 +34384,7 @@ vkcdnservice.appspot.com^
 ||nruduboj.com^
 ||nrusuivyenhcn.site^
 ||nrvxokhluosew.website^
+||nrx1e14l79ej2eo.cfd^
 ||nryfifdmpeotb.site^
 ||nsamfrkzhawos.website^
 ||nsbxnwfkiqqjh.space^
@@ -35174,6 +35185,7 @@ vkcdnservice.appspot.com^
 ||ohgbefqegvejj.store^
 ||ohghhuqkxzsnu.online^
 ||ohgriforkvan.com^
+||ohgwkaedrbujt.website^
 ||ohiaschavel.world^
 ||ohkdsplu.com^
 ||ohkvvvttjyqsz.space^
@@ -35860,6 +35872,7 @@ vkcdnservice.appspot.com^
 ||oscarsverver.cfd^
 ||osculelost.com^
 ||osdkublrgnidm.website^
+||osdvmhchowlvm.website^
 ||oselaetuis.cyou^
 ||oselleasslike.help^
 ||osellecasel.qpon^
@@ -43303,6 +43316,7 @@ vkcdnservice.appspot.com^
 ||sharplytopple.com^
 ||sharpofferlinks.com^
 ||shasogna.com^
+||shastarepique.cfd^
 ||shatanlimbo.shop^
 ||shaugacakro.net^
 ||shaugloboksy.net^
@@ -44231,6 +44245,7 @@ vkcdnservice.appspot.com^
 ||sogropidy.com^
 ||sohiudhpgslgb.space^
 ||soholfit.com^
+||soigneejaggysubedit.cfd^
 ||soilenthusiasmshindig.com^
 ||soiliernighter.cyou^
 ||sojacortina.qpon^
@@ -47051,6 +47066,7 @@ vkcdnservice.appspot.com^
 ||tortamutismsantirs.qpon^
 ||tortavingolf.rest^
 ||tortulaoglers.cfd^
+||torvidyurak.cyou^
 ||tosfeed.com^
 ||tosherboltel.shop^
 ||toshimtairteex.net^
@@ -49106,6 +49122,7 @@ vkcdnservice.appspot.com^
 ||uvrggpvzkobmx.store^
 ||uvsvljawmqxik.space^
 ||uvtbfriwugkhn.store^
+||uvtbimseazfye.site^
 ||uvtwcxrwiibvy.online^
 ||uvuawvcjpiyzt.online^
 ||uvulacoil.qpon^
@@ -50301,6 +50318,7 @@ vkcdnservice.appspot.com^
 ||vtxcwfiaiucur.website^
 ||vtxnfezsswgbq.website^
 ||vtygazmid.com^
+||vtzvxuiye2xjejzpk6i6tbojhj2n8p.rest^
 ||vu-kgxwyxpr.online^
 ||vuainqkmjdiqp.site^
 ||vucfgvhm.com^
