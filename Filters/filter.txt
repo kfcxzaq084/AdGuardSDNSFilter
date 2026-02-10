@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T05:27:33.020Z
+! Last modified: 2026-02-10T07:05:27.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||typicallyuncovernull.com^
 ||improbablehospital.com^
 ||zstnzufw.com^
 ||xbarbppqv.com^
@@ -7573,6 +7574,7 @@ vkcdnservice.appspot.com^
 ||acmwyrhmvxycw.life^
 ||acnelarick.cfd^
 ||acnemiatitians.cfd^
+||acnjukhajo.com^
 ||acnoderiksmal.cfd^
 ||acoinlatakia.help^
 ||aconeilleck.cyou^
@@ -9592,6 +9594,7 @@ vkcdnservice.appspot.com^
 ||arnicasmotyka.shop^
 ||arnimalconeer.com^
 ||arockclauber.cyou^
+||aroeirarunletsmosaist.cfd^
 ||arointtishiya.qpon^
 ||aroliumgreyinggumweed.cyou^
 ||aromatic-salary.pro^
@@ -11381,6 +11384,7 @@ vkcdnservice.appspot.com^
 ||bikestripara.cfd^
 ||bikingdecare.help^
 ||bilbirowet.cyou^
+||bilchflares.qpon^
 ||bilgingregally.cfd^
 ||billardchalaza.qpon^
 ||billboardwring.com^
@@ -12137,6 +12141,7 @@ vkcdnservice.appspot.com^
 ||bphtlhrntspkk.site^
 ||bphunbyla.com^
 ||bpigydbzlrszz.online^
+||bpilzice7rb29c8q7q.rest^
 ||bpleaaekrdvnj.site^
 ||bpltqydasflff.online^
 ||bpmbhbpmmbndn.online^
@@ -12632,6 +12637,7 @@ vkcdnservice.appspot.com^
 ||businessessities.com^
 ||bussocktourer.top^
 ||busteeonenessvingtun.cyou^
+||busticsavage.qpon^
 ||bustlefungus.com^
 ||bustlingwest.pro^
 ||bustslicerstrongbox.com^
@@ -13263,6 +13269,7 @@ vkcdnservice.appspot.com^
 ||cbldtrxnatewy.site^
 ||cblmcgeipgxxc.online^
 ||cblqmoests.com^
+||cbluygxyvtfhv.site^
 ||cbpttdpymofjx.online^
 ||cbqhmxsejgjma.website^
 ||cbqkgyeeqnzjq.site^
@@ -17237,6 +17244,7 @@ vkcdnservice.appspot.com^
 ||dodgilycindymetric.cfd^
 ||dodgyfactoidprecut.com^
 ||dodomastrow.cfd^
+||dodonaolona.cyou^
 ||doekvivek.qpon^
 ||doffsache.cyou^
 ||dofrhyluyqtex.online^
@@ -27158,6 +27166,7 @@ vkcdnservice.appspot.com^
 ||jampredestination.com^
 ||jamsboules.cfd^
 ||jamsiwhauksoa.net^
+||jangkarparrots.cyou^
 ||jangledcloskeyfattish.qpon^
 ||janglergippo.cyou^
 ||jangmglkchtgl.website^
@@ -32136,6 +32145,7 @@ vkcdnservice.appspot.com^
 ||midtermedison.qpon^
 ||midwaymommer.qpon^
 ||miejytpsofoua.website^
+||miekyydb.xyz^
 ||mierslkkekrml.website^
 ||miewocoaedlin.online^
 ||mifotqdzy.com^
@@ -32924,6 +32934,7 @@ vkcdnservice.appspot.com^
 ||mremvisne.qpon^
 ||mreuvcnspfxpb.online^
 ||mrflhiuulmarq.website^
+||mrfnfxldvetfb.space^
 ||mrftawmnabgoy.site^
 ||mrgrekeroad.com^
 ||mrktmtrcs.net^
@@ -34534,6 +34545,7 @@ vkcdnservice.appspot.com^
 ||nrivkotu.com^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
+||nrovmibm.com^
 ||nrqihuzvyunel.website^
 ||nrqosslemaknn.site^
 ||nrqvqkdn.com^
@@ -41546,6 +41558,7 @@ vkcdnservice.appspot.com^
 ||rhwtmzipznhgd.online^
 ||rhxawvxgqrawy.space^
 ||rhxdsplm.com^
+||rhymyachiote.cfd^
 ||rhythmclamour.com^
 ||rhythmxchange.com^
 ||riaegkkggnllp.website^
@@ -42454,6 +42467,7 @@ vkcdnservice.appspot.com^
 ||rxaoagyvihrcq.online^
 ||rxaxj.com^
 ||rxayc.com^
+||rxbpvgbu5joumh41ktb4c1yuvb8.cfd^
 ||rxcbyimzmzizp.space^
 ||rxdqldqeltnsz.space^
 ||rxeosevsso.com^
@@ -44887,6 +44901,7 @@ vkcdnservice.appspot.com^
 ||spurtshrubvending.com^
 ||spurtvastsummer.com^
 ||sputnikballata.qpon^
+||spxdcbpiqhetd.space^
 ||spxjmadd.xyz^
 ||spxsvrvxwouyp.site^
 ||spylees.com^
@@ -44997,6 +45012,7 @@ vkcdnservice.appspot.com^
 ||sskzlabs.com^
 ||ssl-services.com^
 ||ssl2anyone5.com^
+||ssldfvjbtznlc.space^
 ||sslph.com^
 ||ssm.codes^
 ||ssmtfxdslsvzz.space^
@@ -46321,6 +46337,7 @@ vkcdnservice.appspot.com^
 ||tdrczdscckdwu.online^
 ||tdsafe.org^
 ||tdslinetraffic.com^
+||tdslyoyszpvdb.space^
 ||tdueuhucfevnv.website^
 ||tdvpihxupzkcw.online^
 ||tdwpdgmgjgbqk.site^
@@ -51030,6 +51047,7 @@ vkcdnservice.appspot.com^
 ||wbpiaqaqnqlmc.space^
 ||wbrgeoldclybx.online^
 ||wbrihpfkpgujh.space^
+||wbryzfgwkpqno.space^
 ||wbstdisnlcgiw.site^
 ||wbsuckexjnhca.site^
 ||wbt9e9egqw6yq86ju2.cfd^
@@ -51854,6 +51872,7 @@ vkcdnservice.appspot.com^
 ||wnp.com^
 ||wnpqshqzj.com^
 ||wnqyilqcjmqag.website^
+||wnrybhgykolnf.com^
 ||wnsteuadptaly.space^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
