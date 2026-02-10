@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T07:05:27.347Z
+! Last modified: 2026-02-10T08:56:37.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14004,6 +14004,7 @@ vkcdnservice.appspot.com^
 ||ciqvaiywqpkpk.club^
 ||cirbxyidgqvtw.online^
 ||circlejavgg124.fun^
+||circlesassailslopy.qpon^
 ||circularbench.pro^
 ||circularcarry.com^
 ||circularconservation.com^
@@ -17109,6 +17110,7 @@ vkcdnservice.appspot.com^
 ||dlbtsqpnhhzzf.site^
 ||dldvfyshpgftw.website^
 ||dle-news.xyz^
+||dlerwfqexgfoh.space^
 ||dletviqckubbb.space^
 ||dlhdcawqeawfb.space^
 ||dlhwyaetguynl.space^
@@ -21862,6 +21864,7 @@ vkcdnservice.appspot.com^
 ||gahypawsppxnz.website^
 ||gaibaishuk.net^
 ||gaietyunhappy.com^
+||gailylibellousguinea.com^
 ||gainedspotsspun.com^
 ||gainerskalmuck.qpon^
 ||gainingpartyyoga.com^
@@ -22879,6 +22882,7 @@ vkcdnservice.appspot.com^
 ||godoxevez.com^
 ||godpvqnszo.com^
 ||godroonrefrig.com^
+||godsonhonorswaniest.cyou^
 ||goegcygrphial.site^
 ||goegesdfnnewf.site^
 ||goemotmgshaly.cyou^
@@ -26948,6 +26952,7 @@ vkcdnservice.appspot.com^
 ||ivlnszjtorszh.website^
 ||ivm3o1p1ztuxmzfby.cfd^
 ||ivmivrobvoxop.online^
+||ivosqtlpqpewu.online^
 ||ivovxzyccyrws.online^
 ||ivqkhhsnuhgiu.site^
 ||ivraysated.qpon^
@@ -30952,6 +30957,7 @@ vkcdnservice.appspot.com^
 ||ltymvdqtbywss.site^
 ||luabrsxnfdloc.space^
 ||luagyywwmuq.xyz^
+||luaqdpygomehy.online^
 ||luationiamcu.org^
 ||lubowitz.biz^
 ||lubrrquxbrka.com^
@@ -34747,6 +34753,7 @@ vkcdnservice.appspot.com^
 ||nvrtq4clmkm6j54wg3be.cfd^
 ||nvsfnhjkwlrnd.site^
 ||nvsucjifrawbf.online^
+||nvtkanfhjoff.com^
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
 ||nvyhlkbvtoifv.site^
@@ -36633,6 +36640,7 @@ vkcdnservice.appspot.com^
 ||paejpopfa.xyz^
 ||pafiptuy.net^
 ||paganlymisceboily.cyou^
+||pagbdewy.com^
 ||pageantlethal.com^
 ||pagejunky.com^
 ||pagerrentablespotlight.com^
@@ -36772,6 +36780,7 @@ vkcdnservice.appspot.com^
 ||parasitematurity.com^
 ||parasiteoutdoorsmix.com^
 ||parasolcrimefactory.com^
+||parched-mail.com^
 ||parchedblock.com^
 ||pardinepawdite.shop^
 ||pardoternion.shop^
@@ -36955,6 +36964,7 @@ vkcdnservice.appspot.com^
 ||pbknxnruccskn.online^
 ||pblcpush.com^
 ||pblinq.com^
+||pbmfeqqytolng.online^
 ||pbmipgoqdlgnv.site^
 ||pbmjjozyvyegz.store^
 ||pbmlcgdxrjxcp.website^
@@ -48292,6 +48302,7 @@ vkcdnservice.appspot.com^
 ||uddougqbgbhmg.website^
 ||udfaguykrfeur.site^
 ||udgdzwjgilmwn.site^
+||udglcoqrbwevl.site^
 ||udishcotty.cyou^
 ||udjolmaphsyfo.online^
 ||udjvypscmvaxq.website^
@@ -49902,6 +49913,7 @@ vkcdnservice.appspot.com^
 ||vetofellowshipfly.com^
 ||vetogheg.cyou^
 ||vetoismmutase.qpon^
+||vetoplain.com^
 ||veuptyvapstbj.space^
 ||veusvuswbkfjd.online^
 ||vewpxodougmmt.site^
@@ -50534,6 +50546,7 @@ vkcdnservice.appspot.com^
 ||vrwzecqcyjfmy.site^
 ||vrxhpgjiuauqc.website^
 ||vryjackjkxpov.online^
+||vrzbtcmdbzyiq.online^
 ||vs3.com^
 ||vsavbpsnxdrgt.online^
 ||vscogqhkhwdaf.space^
@@ -50615,6 +50628,7 @@ vkcdnservice.appspot.com^
 ||vulnerablecognomen.com^
 ||vulnerableimmigrateaboveaverage.com^
 ||vultursidlins.cyou^
+||vumzvmsquiiar.online^
 ||vuodrpcxdpxjr.website^
 ||vurmzvsdhtzlk.space^
 ||vuromxpubrzi.com^
@@ -51326,6 +51340,7 @@ vkcdnservice.appspot.com^
 ||wfurena.cfd^
 ||wfvuctrttrdwk.global^
 ||wfwnihvjcsddw.website^
+||wfxbhdmbjuuve.site^
 ||wfxxjwzu.com^
 ||wfzoskvfbdwot.site^
 ||wg-aff.com^
@@ -51882,6 +51897,7 @@ vkcdnservice.appspot.com^
 ||wntoejrkjbguc.com^
 ||wntxedblgkvn.com^
 ||wnujsatapndbq.today^
+||wnunhzcllmn.com^
 ||wnvxsbctvedod.online^
 ||wnxcmjqpcviit.website^
 ||wnxgldmlnkdbf.site^
