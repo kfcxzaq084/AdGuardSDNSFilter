@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-10T17:02:45.178Z
+! Last modified: 2026-02-10T19:06:13.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8151,6 +8151,7 @@ vkcdnservice.appspot.com^
 ||aegmdwmvhesof.website^
 ||aeiptbtyknklq.online^
 ||aeiwzejwyzqjy.rocks^
+||aekmrkebaawzm.online^
 ||aekpzxaghjyxa.global^
 ||aelnyqxfdbejjtn.com^
 ||aelvjocjowtgi.online^
@@ -9314,6 +9315,7 @@ vkcdnservice.appspot.com^
 ||apartmentsellerprotest.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
+||apbaxstihfh.com^
 ||apbdefsgvncbw.site^
 ||apcdoxiqxiote.space^
 ||apcfgmcjbyida.space^
@@ -9340,6 +9342,7 @@ vkcdnservice.appspot.com^
 ||apiecelee.com^
 ||apionolcohog.cyou^
 ||apirasutexruk.website^
+||apkbvmwrvchbh.online^
 ||apkgzzdyyfvmh.online^
 ||apkyeimuizlax.space^
 ||aplasted.com^
@@ -9821,6 +9824,7 @@ vkcdnservice.appspot.com^
 ||atafterpiquing.cfd^
 ||ataiyalstrays.com^
 ||ataiyalteise.cyou^
+||atajuvenal.cfd^
 ||atala-apw.com^
 ||atalayagamed.qpon^
 ||atalsqwhskovz.website^
@@ -10421,6 +10425,7 @@ vkcdnservice.appspot.com^
 ||b7360c81c8.com^
 ||b79329w3t34xyuj633.cfd^
 ||b7dff0913b.com^
+||b7mtw8ionw6qoz8cu4g7xcpv.cfd^
 ||b84f93087e.com^
 ||b8bd2d84d4.com^
 ||b8e2af647f.com^
@@ -11755,6 +11760,7 @@ vkcdnservice.appspot.com^
 ||bmkz57b79pxk.com^
 ||bmmads.com^
 ||bmmlztvqsngih.online^
+||bmnaiskwxfzaw.site^
 ||bmnhbrjuekejj.site^
 ||bmogruisjnfdn.site^
 ||bmqzsaqomgymv.site^
@@ -12159,6 +12165,7 @@ vkcdnservice.appspot.com^
 ||bpriojmc4rkwrub.cfd^
 ||bprsvoikehhdr.space^
 ||bpsupmvhdbw.xyz^
+||bptibdkuxvrxg.space^
 ||bputgakgibpat.com^
 ||bpvoctpvauvyv.website^
 ||bpybhqlahjjeq.site^
@@ -12625,6 +12632,7 @@ vkcdnservice.appspot.com^
 ||burlershirsles.cfd^
 ||burlytonight.pro^
 ||burnwagelah.cyou^
+||burredyok.shop^
 ||burryethene.cfd^
 ||burryidiots.cfd^
 ||bursalhuitre.cyou^
@@ -14078,6 +14086,7 @@ vkcdnservice.appspot.com^
 ||cjebpinlpczir.site^
 ||cjenrzakbgvkk.site^
 ||cjewz.com^
+||cjfdrpmcjmkuf.com^
 ||cjfeclumbytpq.website^
 ||cjgeqnxnxejet.space^
 ||cjgimadfnuztn.online^
@@ -20560,6 +20569,7 @@ vkcdnservice.appspot.com^
 ||finlessbhutani.cyou^
 ||finnackcohitre.qpon^
 ||finnan2you.net^
+||finnysubgyregroped.qpon^
 ||finreporter.net^
 ||fipnhbnfbwxhc.site^
 ||fipnvuixbrwuv.space^
@@ -21620,6 +21630,7 @@ vkcdnservice.appspot.com^
 ||furowo.org^
 ||furphycabots.cfd^
 ||furrowhardship.com^
+||furtivelywhipped.com^
 ||furwehvpbrjnr.space^
 ||furybuiltfairy.com^
 ||furyprosecutionkitchen.com^
@@ -24325,6 +24336,7 @@ vkcdnservice.appspot.com^
 ||hemineedunks.com^
 ||hemocrytram.rest^
 ||hemoidunkirk.qpon^
+||hempyhoker.qpon^
 ||hemyn.site^
 ||henbitscharpoy.qpon^
 ||hendlysmurtle.help^
@@ -27468,6 +27480,7 @@ vkcdnservice.appspot.com^
 ||jgcmzlhhvxvpf.website^
 ||jgenbxavuxbha.online^
 ||jggzdtbnjiluv.online^
+||jghrivpdkfyec.space^
 ||jgiajhhxeceki.online^
 ||jgkpsxlnqnknp.site^
 ||jglwyxywvsstl.website^
@@ -28352,6 +28365,7 @@ vkcdnservice.appspot.com^
 ||kamidonsky.rest^
 ||kaminari.space^
 ||kaminari.systems^
+||kamishabash.cyou^
 ||kamiyakeyaki.qpon^
 ||kammxdbr.net^
 ||kamoiimclmryu.space^
@@ -32634,6 +32648,7 @@ vkcdnservice.appspot.com^
 ||mogphhtdohjzh.website^
 ||moharcronet.com^
 ||mohdzwdqjdfvn.online^
+||mohursanders.cfd^
 ||moiderplurisy.qpon^
 ||moiernonpaid.com^
 ||moilchoak.cyou^
@@ -33516,6 +33531,7 @@ vkcdnservice.appspot.com^
 ||nagognepeghaw.com^
 ||nagolympics.com^
 ||nagrande.com^
+||nahhukrw.com^
 ||nahrsvtslfjzz.site^
 ||nahuaesnecy.help^
 ||nahuascalare.cfd^
@@ -36366,6 +36382,7 @@ vkcdnservice.appspot.com^
 ||ouxiguksook.net^
 ||ouy3.site^
 ||ouyflgaswts.xyz^
+||ouzoseposes.cfd^
 ||ovaiptaigheecki.com^
 ||ovardu.com^
 ||ovariumrehem.qpon^
@@ -36991,6 +37008,7 @@ vkcdnservice.appspot.com^
 ||pawedemmers.cyou^
 ||pawgleamed.com^
 ||pawheatyous.com^
+||pawhippfycaqu.xyz^
 ||pawkyearing.cfd^
 ||pawniesoothe.help^
 ||pawnspostie.cfd^
@@ -40119,6 +40137,7 @@ vkcdnservice.appspot.com^
 ||qqxlgqlgdvlky.online^
 ||qqxwosanxwhqn.site^
 ||qqytykzhaayxn.space^
+||qqzotstx.com^
 ||qr-player-new.com^
 ||qraollantiaiv.online^
 ||qrayduqzmtuhl.online^
@@ -40750,6 +40769,7 @@ vkcdnservice.appspot.com^
 ||rbpmbjzkykded.website^
 ||rbpsmkiqejpvj.space^
 ||rbqcg6g.de^
+||rbqdhiibphzka.online^
 ||rbqdwavdestep.site^
 ||rbqfprbbtwgej.online^
 ||rbqiospxmncwf.site^
@@ -43263,6 +43283,7 @@ vkcdnservice.appspot.com^
 ||securityinvaluableanne.com^
 ||secusostyak.qpon^
 ||sedatesdid.cyou^
+||sedatesuncage.cfd^
 ||sedatingnews.com^
 ||sedativebitty.com^
 ||sedativequickie.com^
@@ -43874,6 +43895,7 @@ vkcdnservice.appspot.com^
 ||sibylstroper.qpon^
 ||sibzstojwoqew.website^
 ||sicfogbow.qpon^
+||sicgaequskoxb.space^
 ||sicilywring.com^
 ||sickbedjibboom.com^
 ||sickbroad.pro^
@@ -46275,6 +46297,7 @@ vkcdnservice.appspot.com^
 ||taperlyiuds.com^
 ||taperprague.cfd^
 ||tapioni.com^
+||tapirmercerykiddush.cyou^
 ||tapistleech.cfd^
 ||tapjoyads.com^
 ||taposaupbend.com^
@@ -46381,6 +46404,7 @@ vkcdnservice.appspot.com^
 ||tbsxkmwsmksjj.buzz^
 ||tbugquyckdqry.online^
 ||tburybrcvclih.online^
+||tcbhbuehrfy.com^
 ||tcbtwfvquujgd.website^
 ||tcdnalorihvzt.online^
 ||tcdtznnvvvbdq.site^
@@ -47265,6 +47289,7 @@ vkcdnservice.appspot.com^
 ||toebj17wivhlumvp95pp.cfd^
 ||toebqarnbbxqr.site^
 ||toequiet.website^
+||toesthrymsa.cyou^
 ||toffeesremit.cfd^
 ||toffiespheeal.life^
 ||tofinaukncecafv.org^
@@ -47388,6 +47413,7 @@ vkcdnservice.appspot.com^
 ||torchbensel.help^
 ||torchettechy.qpon^
 ||torchfriendlypay.com^
+||torchyartefac.cyou^
 ||torealiukzemydr.org^
 ||torebureaucracytrade.com^
 ||toredtrodrefugia.cyou^
@@ -49597,6 +49623,7 @@ vkcdnservice.appspot.com^
 ||v3g682uyzu6kp1n9.cfd^
 ||v3hiwk4pyxgjqc.cfd^
 ||v3t85n7xhzn15ktkrevlny2z5ocqc65m.rest^
+||v4bb8nrvwg3f9n7t8v.rest^
 ||v5jqvhv7gnqgwfiy.cfd^
 ||v5putvuez69uth.cfd^
 ||v8m6pbte6l5855guvgk1i.cfd^
@@ -131782,6 +131809,9 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||vn12345.mvapspdmpg.com^
+||promptcdn.com^
+||abzadd.com^
 ||sexgramm.ru^
 ||trpwdg.com^
 ||unoadsrv.com^
