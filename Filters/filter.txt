@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-11T17:05:06.548Z
+! Last modified: 2026-02-11T19:04:18.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7051,6 +7051,7 @@ vkcdnservice.appspot.com^
 ||8f17d89ec7.com^
 ||8f4c607ea0.com^
 ||8f74a52456.com^
+||8f8ol6j1o8nqwkr.rest^
 ||8fbfeb27e6.com^
 ||8ffea74ec5.com^
 ||8fju4hc6v65eohunzg.cfd^
@@ -8754,6 +8755,7 @@ vkcdnservice.appspot.com^
 ||aldealerret.cfd^
 ||aldiminnudish.shop^
 ||alditolcensure.cfd^
+||aldonkofw.com^
 ||aldosesmajeure.com^
 ||aldosesml.cyou^
 ||aldragalgean.com^
@@ -8815,6 +8817,7 @@ vkcdnservice.appspot.com^
 ||alignedpenlite.cyou^
 ||alikepublicity.com^
 ||aliloveyousaidthe.com^
+||alinedio.shop^
 ||aliposite.site^
 ||alismalsaman.qpon^
 ||alisoroquetsripal.cyou^
@@ -10816,6 +10819,7 @@ vkcdnservice.appspot.com^
 ||bcnonwgwntvpv.website^
 ||bcombdmnoidze.online^
 ||bcpbtqpumbarw.online^
+||bcpnsajrgrlop.online^
 ||bcprm.com^
 ||bcqnp7tgnxopee.cfd^
 ||bcrcyfcfjqghn.space^
@@ -11738,6 +11742,7 @@ vkcdnservice.appspot.com^
 ||bluethverts.help^
 ||bluffappend.com^
 ||bluggyutahan.cyou^
+||blumesoaps.com^
 ||blunchagen.com^
 ||blunketspt.help^
 ||bluqwtfeyasw.com^
@@ -12427,6 +12432,7 @@ vkcdnservice.appspot.com^
 ||brygella.com^
 ||bryndzakilovar.cyou^
 ||bryny.xyz^
+||bryoniashopper.shop^
 ||bryozoasauter.qpon^
 ||brzbrjycauqcf.site^
 ||brzcjvmxfmiep.site^
@@ -12536,6 +12542,7 @@ vkcdnservice.appspot.com^
 ||buentos.xyz^
 ||buevafbtqeaaz.website^
 ||buevauzsyouob.space^
+||buffersruffing.cyou^
 ||buffetaccommodating.com^
 ||buffigodowns.cyou^
 ||buffooncountabletreble.com^
@@ -18747,6 +18754,7 @@ vkcdnservice.appspot.com^
 ||elfishconfest.cfd^
 ||elflandvacuouscantic.cfd^
 ||elfnuhdfebphr.life^
+||elhhmueryveia.website^
 ||elianbezazz.cfd^
 ||elicaowl.com^
 ||elidefickly.shop^
@@ -18964,6 +18972,7 @@ vkcdnservice.appspot.com^
 ||encyclopaediafoodpatent.com^
 ||encyclopaediaforever.com^
 ||encyclopediaskilled.com^
+||encygavages.shop^
 ||endangerunderneathcar.com^
 ||endechavulgars.qpon^
 ||endersbunce.com^
@@ -21871,6 +21880,7 @@ vkcdnservice.appspot.com^
 ||fypxwlxhvwgok.website^
 ||fyqtpfmzmvmgz.website^
 ||fyqvlsvraskhk.online^
+||fyrrsevs.com^
 ||fysymslqftldc.site^
 ||fytbadthewihr.store^
 ||fytuffcswzahq.space^
@@ -22125,6 +22135,7 @@ vkcdnservice.appspot.com^
 ||gaychockededgiest.cfd^
 ||gayishphrasem.cfd^
 ||gayliesspinae.cfd^
+||gayunfixt.cyou^
 ||gazabosniggles.cyou^
 ||gazati.com^
 ||gazedatthewon.com^
@@ -27704,6 +27715,7 @@ vkcdnservice.appspot.com^
 ||jjfpirwvxqwft.online^
 ||jjfseftxrstt.net^
 ||jjfseftxrstt.xyz^
+||jjfwwjxu.xyz^
 ||jjgscmamptmer.site^
 ||jjixhsyfdkv.net^
 ||jjixhsyfdkv.xyz^
@@ -28037,6 +28049,7 @@ vkcdnservice.appspot.com^
 ||jravekvyeyyvq.top^
 ||jrbbavbvqmbaz.top^
 ||jrfngdrodrdop.icu^
+||jriahbimxt.com^
 ||jrjexx.com^
 ||jrkihvllezsla.space^
 ||jrkveqlzvpcmd.space^
@@ -38679,6 +38692,7 @@ vkcdnservice.appspot.com^
 ||pqzplntcvsxvm.store^
 ||pqzyzircitnva.top^
 ||pr3tty-fly-4.net^
+||pr6oqpvrwtei48e33.cfd^
 ||practicablepancakevisual.com^
 ||practical-associate.pro^
 ||practical-interest.com^
@@ -41037,6 +41051,7 @@ vkcdnservice.appspot.com^
 ||reachmode.com^
 ||readiong.net^
 ||readserv.com^
+||ready-skin.pro^
 ||readycelebrationleaf.com^
 ||readydolphinpoverty.com^
 ||reagend.com^
@@ -46052,6 +46067,7 @@ vkcdnservice.appspot.com^
 ||surprisinglycrescent.com^
 ||surprisinglystaunchdemocratic.com^
 ||surrealjibbs.qpon^
+||surreptredwardstuffed.cfd^
 ||surroundwaxworkspoisonous.com^
 ||survbrahma.qpon^
 ||surveyonline.top^
@@ -46447,6 +46463,7 @@ vkcdnservice.appspot.com^
 ||talkdodgeticket.com^
 ||talkscreativity.com^
 ||talkshoodle.shop^
+||tall-difficulty.pro^
 ||tallboytenias.click^
 ||talldoubted.com^
 ||tallerolabia.help^
@@ -49443,6 +49460,7 @@ vkcdnservice.appspot.com^
 ||upoqtcynyaikm.space^
 ||upperpotionspersonnel.com^
 ||uppersrepage.help^
+||uppilehasted.shop^
 ||upqdazjgizzfl.space^
 ||upright-group.pro^
 ||uprightbunnypane.com^
@@ -49951,6 +49969,7 @@ vkcdnservice.appspot.com^
 ||vanivhljfgvhq.website^
 ||vannedslued.help^
 ||vannicflench.cfd^
+||vanqacxuzqpy.com^
 ||vanquishnorthern.com^
 ||vansaushashy.net^
 ||vaokbuyvpiyzw.website^
@@ -54022,6 +54041,7 @@ vkcdnservice.appspot.com^
 ||ynurfigldblbt.online^
 ||ynvhnmjwszeuf.online^
 ||ynvtepiimtshs.store^
+||ynwzcnth.com^
 ||ynykrhlltoytp.website^
 ||yo6lvimgrmhk57n861ygrt9wxbe9.rest^
 ||yoads.net^
