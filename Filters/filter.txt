@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-12T13:09:36.269Z
+! Last modified: 2026-02-12T14:48:53.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||pahter.tech^
+||pahtuo.tech^
+||pahtuz.tech^
+||pahtlf.tech^
+||pahtsx.tech^
+||pahtbt.tech^
 ||adbkacpmu.com^
 ||lepidpomps.com^
 ||ejretpiytkcna.website^
@@ -9004,6 +9010,7 @@ vkcdnservice.appspot.com^
 ||amendpayola.cyou^
 ||amendsthurle.qpon^
 ||amenismhollaed.cyou^
+||amentaexhaled.shop^
 ||amesgraduatel.xyz^
 ||ametheyallflewa.com^
 ||amewtoehwajro.site^
@@ -10714,6 +10721,7 @@ vkcdnservice.appspot.com^
 ||basepush.com^
 ||bashawpeters.rest^
 ||bashconnecting.com^
+||bashedbourout.cyou^
 ||bashedplayas.help^
 ||basheighthnumerous.com^
 ||bashfortitudeaffability.com^
@@ -14399,6 +14407,7 @@ vkcdnservice.appspot.com^
 ||closenesshistorian.com^
 ||closercopy.cfd^
 ||closestbounceintentionally.com^
+||closetechnologysolder.com^
 ||closetssazerac.qpon^
 ||closingabode.com^
 ||closingwatchmanconfidence.com^
@@ -14767,6 +14776,7 @@ vkcdnservice.appspot.com^
 ||completionloyalty.com^
 ||complexionbootydistinction.com^
 ||complyjudgementessay.com^
+||compolehaori.cfd^
 ||composed-virus.pro^
 ||compositeoverdo.com^
 ||composurepossess.com^
@@ -18383,6 +18393,7 @@ vkcdnservice.appspot.com^
 ||edctiqiehensj.space^
 ||edd41b7f68.com^
 ||eddfrwjpdijtb.store^
+||eddiofhbaizot.space^
 ||eddyingfempty.cfd^
 ||eddymahoe.qpon^
 ||edeclineryb.org^
@@ -18715,6 +18726,7 @@ vkcdnservice.appspot.com^
 ||ejusnctb.com^
 ||ejvlcwqxrbxjd.online^
 ||ejvopiwqynfcp.site^
+||ejvrbtdriurco.online^
 ||ejwxlplhgzzhf.store^
 ||ejxhiitnxgwun.site^
 ||ejxyjegaiufgo.space^
@@ -20666,6 +20678,7 @@ vkcdnservice.appspot.com^
 ||fimldboqdwjsq.site^
 ||fimserve.com^
 ||fimzavdihj.com^
+||fimzocbxpsqmf.website^
 ||fin.ovh^
 ||finallyswirly.cfd^
 ||financialwagerepel.com^
@@ -23228,6 +23241,7 @@ vkcdnservice.appspot.com^
 ||gpcrn.com^
 ||gpfhlajkvdhvv.space^
 ||gpfihqkvbcifz.space^
+||gphocbplkxaln.site^
 ||gpiebbxurugod.online^
 ||gpivqupxyvkit.website^
 ||gpkbvwlczebwv.website^
@@ -24204,6 +24218,7 @@ vkcdnservice.appspot.com^
 ||hash-hash-tag.com^
 ||hashabdaffier.cfd^
 ||hashauksie.net^
+||hasididlespeise.cyou^
 ||hasoswoh.com^
 ||haspbrulziearayne.qpon^
 ||hastateankara.top^
@@ -25090,6 +25105,7 @@ vkcdnservice.appspot.com^
 ||homesicktheseheld.com^
 ||homespotaudience.com^
 ||homierpomate.qpon^
+||homilyikra.cfd^
 ||hominalgrovers.cfd^
 ||hommerunfolerewer.com^
 ||homsebauwub.net^
@@ -30422,6 +30438,7 @@ vkcdnservice.appspot.com^
 ||libgetkotal.com^
 ||librarybengals.cyou^
 ||librarysituation.com^
+||libratebraca.cfd^
 ||libriluger.qpon^
 ||libsoury.qpon^
 ||libyaphasma.cfd^
@@ -30488,6 +30505,7 @@ vkcdnservice.appspot.com^
 ||lijawxhfip.com^
 ||lijjk.space^
 ||lijqfqpdavjhs.store^
+||likable-neat.pro^
 ||likable-negotiation.pro^
 ||likeableindispensableassault.com^
 ||likeads.com^
@@ -31560,6 +31578,7 @@ vkcdnservice.appspot.com^
 ||m87eg41ut5f4qxxw.cfd^
 ||m9ml5oqq3rz4li2pyic.cfd^
 ||ma3ion.com^
+||mabaedmond.cyou^
 ||mabeerougnaimt.net^
 ||mabhyethodxorcs.net^
 ||mabhyethodxorcs.xyz^
@@ -33763,6 +33782,7 @@ vkcdnservice.appspot.com^
 ||nadajotum.com^
 ||nadese.xyz^
 ||nads.io^
+||nadwnaorwrwjda.com^
 ||naedyudpxzmgs.online^
 ||naegaithumoreragau.qpon^
 ||naehqgcanrh.xyz^
@@ -35004,6 +35024,7 @@ vkcdnservice.appspot.com^
 ||nummuspunned.cyou^
 ||numnahphineas.com^
 ||numouwaumpauwy.net^
+||nunbirdglommedmeratia.cyou^
 ||nuncioebbets.cyou^
 ||nunnujvsoodd.xyz^
 ||nunsourdaultozy.net^
@@ -45950,6 +45971,7 @@ vkcdnservice.appspot.com^
 ||stunning-perception.pro^
 ||stunningmontana.com^
 ||stunsbarbola.website^
+||stuntednicht.com^
 ||stupid-analyst.pro^
 ||stupidconveniences.com^
 ||stupidquantity.pro^
@@ -50611,6 +50633,7 @@ vkcdnservice.appspot.com^
 ||vieva.xyz^
 ||viewablemedia.net^
 ||viewclc.com^
+||viewedsplite.shop^
 ||viewedspurtdysfunctional.com^
 ||viewflood.com^
 ||viewlnk.com^
@@ -50777,6 +50800,7 @@ vkcdnservice.appspot.com^
 ||vizirtrypeta.cfd^
 ||viznfzhbiiual.space^
 ||vizoalygrenn.com^
+||vizorscarbon.qpon^
 ||vizoruntuck.cfd^
 ||vizzycanel.cfd^
 ||vizzynonionvender.cyou^
@@ -55404,6 +55428,7 @@ vkcdnservice.appspot.com^
 ||zygoidinvileredness.cyou^
 ||zygoticlatched.cfd^
 ||zygtaxiognrri.website^
+||zyhxqpbvlakfx.online^
 ||zyhzzhxnlnfdk.site^
 ||zyhzzxcwgqwtx.online^
 ||zyiaxyfrbehub.space^
@@ -55425,6 +55450,7 @@ vkcdnservice.appspot.com^
 ||zzhlssowvzfds.online^
 ||zzindwzduphsb.site^
 ||zzmqptxatuosm.space^
+||zznipsbqzvhpz.site^
 ||zzpgiredutflq.space^
 ||zzqolojazoyre.top^
 ||zzrazrolqazkb.top^
@@ -141778,6 +141804,8 @@ dlsdk.appsflyer.com^
 ||l2qdfaq62o.com^
 ||dlsybe78o0.com^
 ||8rht5welv5.com^
+||rtip4abjv3.com^
+||idavmk1276.com^
 ||skirmish33.top^
 ||1hhwyb4vl.com^
 ||yzhcp6cw1.com^
