@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-13T06:59:56.512Z
+! Last modified: 2026-02-13T08:43:00.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11586,6 +11586,7 @@ vkcdnservice.appspot.com^
 ||bizosama.com^
 ||bj2550.com^
 ||bj2q2f63kt8ktcqqk.rest^
+||bj2rrrjb.xyz^
 ||bj366wrmk68yrr.cfd^
 ||bjadelkrmufem.space^
 ||bjahkoprtosw.com^
@@ -12299,6 +12300,7 @@ vkcdnservice.appspot.com^
 ||brainient.com^
 ||brainlyads.com^
 ||brainsoptionsshirt.com^
+||brakeddiscingleaned.cfd^
 ||brakiefissive.com^
 ||brakierarvo.cfd^
 ||bramb.site^
@@ -22379,6 +22381,7 @@ vkcdnservice.appspot.com^
 ||gdqmnvweycjnl.website^
 ||gdrcaguddyj.space^
 ||gdtrbrsyziwmw.website^
+||gdtsjroqgkdbk.site^
 ||gduagbswxkdhk.website^
 ||gdwywjcmfcwbz.space^
 ||gdxgfldzzovjr.space^
@@ -25926,6 +25929,7 @@ vkcdnservice.appspot.com^
 ||iazgviiojwhpm.online^
 ||ib1y9etg6xen3ok6frkj6xzr8xu.cfd^
 ||ib8mkl15kg5qn6c.rest^
+||ibahakimtoywort.qpon^
 ||ibbdgcvtwtpuj.site^
 ||ibblkbommtctu.online^
 ||ibbnmezzazmbt.site^
@@ -26579,6 +26583,7 @@ vkcdnservice.appspot.com^
 ||inconsistentoverflowscan.com^
 ||incordacclaim.cfd^
 ||incorenext.com^
+||incorporatehookersenses.com^
 ||increasingbelieveabonnement.com^
 ||increasinglycockroachpolicy.com^
 ||increasinglyirritationecstatic.com^
@@ -27640,6 +27645,7 @@ vkcdnservice.appspot.com^
 ||jcyjurzmokuhm.online^
 ||jcynhzpblaobj.site^
 ||jczaiqixoiozi.online^
+||jdauflfpdmoop.online^
 ||jdcwuqcwgcqqa.space^
 ||jdecansbndbbg.website^
 ||jdeekqk-bjqt.fun^
@@ -29092,6 +29098,7 @@ vkcdnservice.appspot.com^
 ||kimcugcijap.com^
 ||kincobloggats.cyou^
 ||kindergartenharness.com^
+||kindergartensurgeon.com^
 ||kindhearted-building.pro^
 ||kindhearted-member.pro^
 ||kindheartedice.pro^
@@ -29689,6 +29696,7 @@ vkcdnservice.appspot.com^
 ||kurveyfluemen.cyou^
 ||kusanming.qpon^
 ||kussebsaiksolt.net^
+||kuswhslyfid.com^
 ||kutchviably.qpon^
 ||kutrhaatnoh.com^
 ||kutyigeegikcp.space^
@@ -32543,6 +32551,7 @@ vkcdnservice.appspot.com^
 ||mhgulzhluhcvt.space^
 ||mhhfgxvqgsxio.fun^
 ||mhhr.cloud^
+||mhiiafknctopm.site^
 ||mhiiopll.net^
 ||mhixmkuhwtbfp.space^
 ||mhjasudirbgqs.website^
@@ -33672,6 +33681,7 @@ vkcdnservice.appspot.com^
 ||muzarabeponym.website^
 ||muzhikgaudy.cfd^
 ||muzikguide.com^
+||muzmdlccovfca.site^
 ||muzzledescend.com^
 ||muzzleflebile.life^
 ||muzzlesechtembolo.qpon^
@@ -35843,6 +35853,7 @@ vkcdnservice.appspot.com^
 ||ohbognmxxssou.space^
 ||ohbtludnmaaqd.online^
 ||ohbxjiwpjzewd.online^
+||ohcwxnyjbb.com^
 ||ohdbwbwxrlgsd.site^
 ||ohdhevxnilnvd.space^
 ||ohdorkhi.com^
@@ -39204,6 +39215,7 @@ vkcdnservice.appspot.com^
 ||priortreasonpositive.com^
 ||prisspongid.qpon^
 ||pristine-creative.com^
+||pristine-departure.com^
 ||pristineswing.pro^
 ||pritesol.com^
 ||pritheeemulant.cfd^
@@ -41432,6 +41444,7 @@ vkcdnservice.appspot.com^
 ||reaskhutched.qpon^
 ||reasonable-source.com^
 ||reasonable-track.pro^
+||reasoningcarry.com^
 ||reasoningfashionbrood.com^
 ||reasoningiconcealment.com^
 ||reastymumpish.help^
@@ -47281,6 +47294,7 @@ vkcdnservice.appspot.com^
 ||tghixmakh.xyz^
 ||tgingleagaineda.org^
 ||tgjonodnifuxu.online^
+||tgjvkzyrnojbp.online^
 ||tglnawthbtaeg.com^
 ||tgolerogkcbck.online^
 ||tgoribis.com^
@@ -48297,6 +48311,7 @@ vkcdnservice.appspot.com^
 ||treadhospitality.com^
 ||treasonfinding.com^
 ||treasonmason.com^
+||treasonmorallyinexpedient.com^
 ||treasured-doctor.pro^
 ||treasured-phase.pro^
 ||treasuredback.pro^
@@ -49591,6 +49606,7 @@ vkcdnservice.appspot.com^
 ||unleanpayer.cfd^
 ||unleashgrantpurple.com^
 ||unlimbhutlet.cfd^
+||unlnhvevjkmzz.online^
 ||unloadeasier.com^
 ||unloadonly.com^
 ||unlockcontent.org^
@@ -51133,6 +51149,7 @@ vkcdnservice.appspot.com^
 ||vmrqhfbfvkmj.com^
 ||vmsdxtbgqozxp.website^
 ||vmuid.com^
+||vmuxjfszzntawc.com^
 ||vmvwstuhensma.online^
 ||vmwoxqroobncg.online^
 ||vmxckyomhbtcz.space^
