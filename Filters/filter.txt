@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-17T13:05:17.985Z
+! Last modified: 2026-02-17T14:46:53.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||smartytouch.co^
 ||ftl5li6yv2x4tio8pum64x.rest^
 ||tcufahfu.com^
 ||abkzitollpce.com^
@@ -7363,6 +7364,7 @@ vkcdnservice.appspot.com^
 ||aaacompany.net^
 ||aaaconnect.info^
 ||aabjyjjphdwmb.site^
+||aabsgiofdhywj.site^
 ||aacsqpdhmnlak.site^
 ||aada35c15f.com^
 ||aadtqwvvlljse.site^
@@ -9803,6 +9805,7 @@ vkcdnservice.appspot.com^
 ||arridgeepilog.cyou^
 ||arrivedeuropean.com^
 ||arrivedmuffin.com^
+||arrivespeck.com^
 ||arrivinglivelinesshop.com^
 ||arrivingserpentoutbalance.com^
 ||arrlnk.com^
@@ -12945,6 +12948,7 @@ vkcdnservice.appspot.com^
 ||busteeonenessvingtun.cyou^
 ||busticsavage.qpon^
 ||bustlefungus.com^
+||bustleplaguereed.com^
 ||bustlingwest.pro^
 ||bustslicerstrongbox.com^
 ||busy-host.pro^
@@ -17537,6 +17541,7 @@ vkcdnservice.appspot.com^
 ||djexvabvbybza.site^
 ||djgdmnyuokahc.site^
 ||djgqucjpunwhs.store^
+||djhvfsteezlam.online^
 ||djinnspasewa.cyou^
 ||djjzdejdqsfqm.store^
 ||djktorysvfcrw.website^
@@ -21745,6 +21750,7 @@ vkcdnservice.appspot.com^
 ||forgetfulpromptlyappointment.com^
 ||forgetfulspidersantiquity.com^
 ||forgivenbeavervague.com^
+||forgivengirlie.com^
 ||forgivenrepresent.com^
 ||forgotgnatpalsy.com^
 ||forintcrin.qpon^
@@ -24207,6 +24213,7 @@ vkcdnservice.appspot.com^
 ||gsecxxxcxzmhxm.com^
 ||gsedkytitvtsp.space^
 ||gsfpdvjkpishb.website^
+||gsfqhrexgwsiu.website^
 ||gsgonebya.com^
 ||gsgvfcgzoygkr.site^
 ||gsitojxupxpnv.website^
@@ -26431,6 +26438,7 @@ vkcdnservice.appspot.com^
 ||ialyfitnisscn.site^
 ||iamiraqi.com^
 ||iamxqlbmd.com^
+||iamzeuvycftc.com^
 ||ianjumb.com^
 ||ianoubcdoavip.website^
 ||iaopbzjfhemrb.website^
@@ -32945,6 +32953,7 @@ vkcdnservice.appspot.com^
 ||medalbashfulsunstroke.com^
 ||medalopenairtedious.com^
 ||medbzvejdlkxe.today^
+||meddlingregret.com^
 ||medfoodsafety.com^
 ||medfoodspace.com^
 ||medfoodtech.com^
@@ -36126,6 +36135,7 @@ vkcdnservice.appspot.com^
 ||nyqfvttopmpck.space^
 ||nyqhbucah.com^
 ||nyquazhpvouya.website^
+||nyrenabg.com^
 ||nyssidhnilwqyo.com^
 ||nythathaveresul.org^
 ||nythingamglad.com^
@@ -36621,6 +36631,7 @@ vkcdnservice.appspot.com^
 ||ogicatius.com^
 ||ogitbkjirtzdi.site^
 ||ogjybrolzwrhf.online^
+||ogklquovimtgc.website^
 ||ogkydwllwcyks.online^
 ||oglalavoodoo.world^
 ||ogle-0740lb.com^
@@ -37263,6 +37274,7 @@ vkcdnservice.appspot.com^
 ||oraubsoux.net^
 ||orbedturpis.help^
 ||orbengine.com^
+||orbiccheeter.qpon^
 ||orbicunposed.cfd^
 ||orbitarsnoop.qpon^
 ||orbitarwinsome.cfd^
@@ -41201,6 +41213,7 @@ vkcdnservice.appspot.com^
 ||qf73vcboh6zkutrtx6ohi.cfd^
 ||qfddweieadlud.xyz^
 ||qfeazbcjxoaxz.website^
+||qffsvzwbdweai.website^
 ||qfgzjprfvrabq.site^
 ||qfhteauylb.net^
 ||qfiobhon.com^
@@ -44098,6 +44111,7 @@ vkcdnservice.appspot.com^
 ||rxggkxdozyugf.space^
 ||rxgwcjrjbzzsw.website^
 ||rxhifyyzvrwzj.space^
+||rxhlxnzndnklv.site^
 ||rxidhevafwczq.online^
 ||rxiewfjyestco.website^
 ||rxiptliymhnrv.online^
@@ -44300,6 +44314,7 @@ vkcdnservice.appspot.com^
 ||salomonplexuremopey.qpon^
 ||salpianjeershalloth.cyou^
 ||salpianpungey.cyou^
+||salpidsjollier.cyou^
 ||salrnflgyvntw.website^
 ||salseprudely.com^
 ||saltagruelly.cfd^
@@ -49464,6 +49479,7 @@ vkcdnservice.appspot.com^
 ||trim-tone.pro^
 ||trim-vacation.com^
 ||trimchafegrove.com^
+||trimertzetse.cyou^
 ||trimpur.com^
 ||trimreaddrunken.com^
 ||trimsfeuds.life^
@@ -51042,6 +51058,7 @@ vkcdnservice.appspot.com^
 ||uppilehasted.shop^
 ||upqdazjgizzfl.space^
 ||upright-group.pro^
+||uprightbent.com^
 ||uprightbunnypane.com^
 ||uprimp.com^
 ||uprivaladserver.net^
@@ -54806,6 +54823,7 @@ vkcdnservice.appspot.com^
 ||xjowkbpwzznav.website^
 ||xjqalftkd.com^
 ||xjrwxfdphc.com^
+||xjueekpdakm.com^
 ||xjurarsoqdinb.website^
 ||xjwkmuaaleotc.space^
 ||xkanzuqreeloy.store^
