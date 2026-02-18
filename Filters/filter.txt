@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-18T07:02:05.630Z
+! Last modified: 2026-02-18T08:47:13.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9289,6 +9289,7 @@ vkcdnservice.appspot.com^
 ||anemiachoky.com^
 ||anensttarde.rest^
 ||aneorwd.com^
+||aneskfriksk.com^
 ||anethumalipeds.qpon^
 ||anethumaymevaliant.cyou^
 ||anewfeedliberty.com^
@@ -27244,6 +27245,7 @@ vkcdnservice.appspot.com^
 ||indifferencemissile.com^
 ||indigestiontreatmentgraduated.com^
 ||indignationcharter.com^
+||indirectcertaintypersecute.com^
 ||inditestumain.cfd^
 ||individualproductiontopless.com^
 ||indodrioor.com^
@@ -32359,6 +32361,7 @@ vkcdnservice.appspot.com^
 ||lwobwfalyrbyn.space^
 ||lwonclbench.com^
 ||lwpopxmkqhbvb.site^
+||lwqfskvjuuk.com^
 ||lwqloccqmtt.xyz^
 ||lwqwlxzzujoof.space^
 ||lwsskdedoiwvp.website^
@@ -39796,6 +39799,7 @@ vkcdnservice.appspot.com^
 ||popviking.com^
 ||popxperts.com^
 ||popxyz.com^
+||poqxdbajgjq.com^
 ||porbzpfmverzb.today^
 ||porcatesorbet.cyou^
 ||porchadvertise.com^
@@ -42557,6 +42561,7 @@ vkcdnservice.appspot.com^
 ||rechecknemean.qpon^
 ||rechuckczarish.qpon^
 ||rechurnpipagestump.cyou^
+||recipeaddingavenue.com^
 ||recitalenquiry.com^
 ||recitalfinancially.com^
 ||reckless-country.com^
@@ -46353,6 +46358,7 @@ vkcdnservice.appspot.com^
 ||solublychug.qpon^
 ||solujav.my^
 ||solutionassassincatering.com^
+||solutionbiologyisle.com^
 ||solvemilitaryconsulate.com^
 ||solversmeath.cyou^
 ||somainpdeirit.online^
@@ -48499,6 +48505,7 @@ vkcdnservice.appspot.com^
 ||tfqrifustrybg.store^
 ||tfrgpwbssxyjb.space^
 ||tfrkbyualptil.online^
+||tfrlwktyhhc.com^
 ||tfwcjrwvswnfh.space^
 ||tfwjtrkuueobz.online^
 ||tfwwxizsfbmvw.space^
@@ -142890,6 +142897,8 @@ dlsdk.appsflyer.com^
 ||a8qwjt7dwi.com^
 ||pwk73hidf2.com^
 ||w1irjtvdt4.com^
+||zzuccikqt.com^
+||8p14q886v2.com^
 ||foremost57.top^
 ||tb1mdkeni.com^
 ||i7bqmgn87.com^
