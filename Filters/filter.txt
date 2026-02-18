@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-18T13:05:53.269Z
+! Last modified: 2026-02-18T14:44:29.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9133,6 +9133,7 @@ vkcdnservice.appspot.com^
 ||ambitious-vegetable.pro^
 ||ambitiousanywhere.pro^
 ||ambitiousdemand.com^
+||ambletakes.cyou^
 ||amcleacoflg.net^
 ||amdahlpothery.help^
 ||ameblojp.live^
@@ -9678,6 +9679,7 @@ vkcdnservice.appspot.com^
 ||aqyenveskagti.online^
 ||aqygowcgazevl.online^
 ||aqyjxxdpmllqs.online^
+||aqylkpualqlgr.website^
 ||aqzyfxwniffep.site^
 ||arabanaroses.cyou^
 ||arabcontroversycrisis.com^
@@ -12089,6 +12091,7 @@ vkcdnservice.appspot.com^
 ||bngwlt.com^
 ||bnhlpsmhvodae.online^
 ||bnhtml.com^
+||bniqoljokknzm.website^
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
 ||bnofjtuewcnca.site^
@@ -12683,6 +12686,7 @@ vkcdnservice.appspot.com^
 ||browsfried.com^
 ||browsiprod.com^
 ||browsobsolete.com^
+||brrrdispart.cfd^
 ||brrymylzryxdd.site^
 ||brthrfkyidygq.online^
 ||brtsumthree.com^
@@ -13840,6 +13844,7 @@ vkcdnservice.appspot.com^
 ||cemhhgpjkh.com^
 ||cemiocw.com^
 ||cemtemtaiglu.net^
+||cemvzlagirols.website^
 ||cenaclepeddler.cfd^
 ||cenaclesuccoth.com^
 ||cenkvkaqcwxfw.space^
@@ -15564,6 +15569,7 @@ vkcdnservice.appspot.com^
 ||cqstbvkcpbqut.one^
 ||cqtmotizjuvwe.online^
 ||cqtownist.cyou^
+||cqtpnmishybab.site^
 ||cquozcdrrbcua.online^
 ||cqvxrmwcwyvad.site^
 ||cqxfpeudfzhoe.website^
@@ -17208,6 +17214,7 @@ vkcdnservice.appspot.com^
 ||dhyrlpxupgjcj.site^
 ||dhzahnrahzlpx.space^
 ||dhzqlqrfwjqgv.website^
+||dhzuwuufhfyrq.online^
 ||di7stero.com^
 ||diagnosiscontractortrophy.com^
 ||diagnosisintriguingorganizer.com^
@@ -24779,6 +24786,7 @@ vkcdnservice.appspot.com^
 ||handsome-storm.com^
 ||handtub.com^
 ||handwritingautumn.com^
+||handwritingglass.com^
 ||handy-beat.pro^
 ||handy-spite.pro^
 ||handy-tab.com^
@@ -25692,6 +25700,7 @@ vkcdnservice.appspot.com^
 ||hnsbsgnqcvqmn.site^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
+||hnvkkeyhqxh.com^
 ||hnwbhkraakeyp.site^
 ||hnwlazmnkzwxj.space^
 ||hnwqolckynifk.website^
@@ -26123,6 +26132,7 @@ vkcdnservice.appspot.com^
 ||hsusytdszttqs.site^
 ||hsvgxmljiaoob.fun^
 ||hsvnpfchuzpma.space^
+||hswrbfacmm.com^
 ||hswzdflhlmtpg.store^
 ||hsyjcigdkuegz.online^
 ||hszitmwllttjk.space^
@@ -30506,6 +30516,7 @@ vkcdnservice.appspot.com^
 ||kwgccbiqhrxqg.online^
 ||kwgirhueuhcua.site^
 ||kwhpllmraltfm.website^
+||kwideo.com^
 ||kwieeycycccpv.website^
 ||kwjfejtnfuxlj.space^
 ||kwjiszgbegwuu.site^
@@ -33923,6 +33934,7 @@ vkcdnservice.appspot.com^
 ||molecbolicchard.cyou^
 ||moleconcern.com^
 ||molecularrather.com^
+||moleculebeams.com^
 ||moleshederinchekan.qpon^
 ||molesthyrst.cyou^
 ||moleya.click^
@@ -36897,6 +36909,7 @@ vkcdnservice.appspot.com^
 ||ojonvpuqbtqul.site^
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
+||ojqpnmnatg.com^
 ||ojrkqzpuntzxg.online^
 ||ojscanbrogi.com^
 ||ojufzejjwoiqg.site^
@@ -37647,6 +37660,7 @@ vkcdnservice.appspot.com^
 ||otunmakpjbtga.website^
 ||otvjsfmh.tech^
 ||otvkdsepspckl.online^
+||otvojqdrozce.com^
 ||otwlfwmuubeue.space^
 ||otzyhprynowng.online^
 ||ouabaiolustersstood.cfd^
@@ -39637,6 +39651,7 @@ vkcdnservice.appspot.com^
 ||poddockdwellsdollier.cfd^
 ||podefr2.net^
 ||poder.cloud^
+||podgermeson.cyou^
 ||podgjhrqrhrdq.online^
 ||podiaflatlet.cyou^
 ||poditehafis.qpon^
@@ -40182,6 +40197,7 @@ vkcdnservice.appspot.com^
 ||prevalenthatchet.com^
 ||preventreversion.com^
 ||preventtributebroad.com^
+||preverbbumbass.cfd^
 ||previewpoppybrown.com^
 ||previous-register.com^
 ||previous-scale.com^
@@ -42150,6 +42166,7 @@ vkcdnservice.appspot.com^
 ||racingorchestra.com^
 ||racketcredit.com^
 ||racketwoo.com^
+||rackmanrepique.com^
 ||racuchica.com^
 ||racunn.com^
 ||racystrate.cfd^
@@ -48026,6 +48043,7 @@ vkcdnservice.appspot.com^
 ||tablinarailage.com^
 ||tabloidincapable.com^
 ||tabooedatellandensus.cfd^
+||tabooedmong.qpon^
 ||taborhexeris.cyou^
 ||tabourswirled.cyou^
 ||tabulevau.cfd^
@@ -53968,6 +53986,7 @@ vkcdnservice.appspot.com^
 ||withdrawalbellownovel.com^
 ||withsaystreyne.qpon^
 ||witjardrch.cyou^
+||witkjcoux.com^
 ||witnessjacket.com^
 ||witnessportfoliolobes.com^
 ||witssnoopacceleration.com^
