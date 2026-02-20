@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-20T06:57:56.952Z
+! Last modified: 2026-02-20T08:41:21.815Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13748,6 +13748,7 @@ vkcdnservice.appspot.com^
 ||cddtsecure.com^
 ||cde497d52a.com^
 ||cdfkygvddsbre.online^
+||cdhifyrnis.com^
 ||cdhzzirkkgoce.website^
 ||cdiyzfawrobzi.space^
 ||cdjeuxtnufsha.space^
@@ -20195,6 +20196,7 @@ vkcdnservice.appspot.com^
 ||euphemysplotch.cyou^
 ||euphoric-nature.com^
 ||euphoricblow.com^
+||eupmurvdzjd.com^
 ||eupzmvvsdgvmk.site^
 ||euqklregyqnjq.site^
 ||euripusrochet.help^
@@ -23996,6 +23998,7 @@ vkcdnservice.appspot.com^
 ||gpivqupxyvkit.website^
 ||gpkbvwlczebwv.website^
 ||gplansforourc.org^
+||gplovaumydkv.com^
 ||gplywfirosiwd.one^
 ||gpmodmpdrwbrx.space^
 ||gppslmcuwg.net^
@@ -30406,6 +30409,7 @@ vkcdnservice.appspot.com^
 ||koytnkgoywyhe.site^
 ||koyydcxemgwzv.site^
 ||koyyppqoesnvh.website^
+||kozukaceltis.cfd^
 ||kp2h7cfjnx4jv6gn.cfd^
 ||kpaamldootvpw.global^
 ||kpaesttmyrww.com^
@@ -44416,6 +44420,7 @@ vkcdnservice.appspot.com^
 ||runative-syndicate.com^
 ||runative.com^
 ||rundelpolyol.cfd^
+||rundown-son.com^
 ||runetki.co^
 ||runicheir.cyou^
 ||runkledlimit.cyou^
@@ -53584,6 +53589,7 @@ vkcdnservice.appspot.com^
 ||wavingauradignity.com^
 ||wavingscrambledesert.com^
 ||wavplfeb.com^
+||wavtcdqwbuhiw.space^
 ||wavy-meeting.pro^
 ||wawaidlers.qpon^
 ||wawdycfvprblg.space^
@@ -55872,6 +55878,7 @@ vkcdnservice.appspot.com^
 ||xyntqqrtdrjzk.online^
 ||xyntwwaomkvtl.online^
 ||xypfboanhelbs.space^
+||xypmbdsisnrqe.site^
 ||xyroxqxhjcjzd.store^
 ||xysbvkskxvsyj.online^
 ||xystculdee.qpon^
@@ -57079,6 +57086,7 @@ vkcdnservice.appspot.com^
 ||zgnymibptufjb.site^
 ||zgrakgyhvqyzv.online^
 ||zgsgfljdjjpyc.store^
+||zgsnanhxekuoh.space^
 ||zgtsgrklbslya.store^
 ||zgtuchkwpggji.space^
 ||zgtydezpmxupc.space^
@@ -57563,6 +57571,7 @@ vkcdnservice.appspot.com^
 ||zvetokr2hr8pcng09.com^
 ||zvigdaebhmjdv.site^
 ||zvjbgsqpcnlku.site^
+||zvjinchjnsjje.site^
 ||zvlsctfwctmhe.website^
 ||zvmxpklpnnenv.site^
 ||zvobxbjvkxlmt.space^
@@ -57620,6 +57629,7 @@ vkcdnservice.appspot.com^
 ||zxttvkshqbded.space^
 ||zxuknfffkemse.space^
 ||zxvhxdpyordan.store^
+||zxwrgwncljanq.site^
 ||zxzbjqoyojpza.site^
 ||zyavhhgzkdjfu.space^
 ||zybdgyliyrhum.website^
@@ -57639,6 +57649,7 @@ vkcdnservice.appspot.com^
 ||zyhzzxcwgqwtx.online^
 ||zyiaxyfrbehub.space^
 ||zyiis.net^
+||zyjcuzdaazwcj.website^
 ||zyjxtawnlvntu.site^
 ||zykkjyamlooeq.top^
 ||zykkjyaokkjyb.top^
