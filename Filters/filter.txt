@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-20T18:50:34.961Z
+! Last modified: 2026-02-20T20:33:24.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15625,6 +15625,7 @@ vkcdnservice.appspot.com^
 ||cqjgztejpzvkd.space^
 ||cqjt6ri4gjci796tg69gumrx267j.cfd^
 ||cqkikfffmcqbl.online^
+||cqkpoxtlakibf.space^
 ||cqkzgchjtlllo.store^
 ||cqmbwcxjzfaal.online^
 ||cqmgoxqbhsmgg.site^
@@ -15854,6 +15855,7 @@ vkcdnservice.appspot.com^
 ||crtznwsuivbvt.online^
 ||crucesslummer.cyou^
 ||crucialostensiblestops.com^
+||cruddedtutrix.com^
 ||crudenessfinishersacred.com^
 ||crudletaille.shop^
 ||cruel-love.com^
@@ -16797,6 +16799,7 @@ vkcdnservice.appspot.com^
 ||debaucky.com^
 ||debellisagoge.help^
 ||debiliters.rest^
+||deborahlac.com^
 ||debristopmeanwhile.com^
 ||debtdispleaseboss.com^
 ||debtedquodsassi.cfd^
@@ -18625,6 +18628,7 @@ vkcdnservice.appspot.com^
 ||dxzjhinnqbeej.site^
 ||dyavcfwtujvuey.net^
 ||dyberamlhynnd.website^
+||dyblpgaiomtdv.online^
 ||dyefejywztloj.store^
 ||dyeingsbayamo.com^
 ||dyeniqzawtqsh.site^
@@ -26858,6 +26862,7 @@ vkcdnservice.appspot.com^
 ||idlestupid.pro^
 ||idmiddnqrgssm.site^
 ||idnatwyiezicd.online^
+||idnzhexoymrlc.space^
 ||idoelwwtfzkzo.website^
 ||idoeschikvwsn.website^
 ||idolinflectiongentlemen.com^
@@ -44603,6 +44608,7 @@ vkcdnservice.appspot.com^
 ||rwjbdrzrqgsrf.space^
 ||rwldfopjypomy.space^
 ||rwlkmstaerhrt.site^
+||rwmswevrmftrr.website^
 ||rwofesciqvzgr.site^
 ||rwohwaeyupzjp.website^
 ||rwohxheuqhmqy.site^
@@ -48960,6 +48966,7 @@ vkcdnservice.appspot.com^
 ||tgel2ebtx.ru^
 ||tgesiqglcpyfm.online^
 ||tgfkqpvxzcfxq.world^
+||tggchvuu.com^
 ||tggpgfvgyhgps.website^
 ||tghixmakh.xyz^
 ||tgingleagaineda.org^
@@ -52066,6 +52073,7 @@ vkcdnservice.appspot.com^
 ||uyuvcqrvyatpc.website^
 ||uyvfipxnbtrgh.online^
 ||uyvtnjqbp.com^
+||uywfpprhavyog.site^
 ||uyxkpkvungun.xyz^
 ||uyzbhxhzgpsyw.website^
 ||uz-kqtecqs.space^
@@ -53334,6 +53342,7 @@ vkcdnservice.appspot.com^
 ||vvusxpvwokviz.website^
 ||vvuttotofvazt.site^
 ||vvvshlnaxlbyp.website^
+||vvwskuuryf.com^
 ||vvxxqpvylixke.store^
 ||vvyffpulokdxe.website^
 ||vvyjeglmc.com^
@@ -55734,6 +55743,7 @@ vkcdnservice.appspot.com^
 ||xqsxkqbgwoyal.space^
 ||xqtoisaowmys.net^
 ||xquihboxheok.com^
+||xqutffswwqaq.com^
 ||xquwtgtqilspjaj.com^
 ||xquzkomqjvslb.online^
 ||xqvenulmbseas.space^
