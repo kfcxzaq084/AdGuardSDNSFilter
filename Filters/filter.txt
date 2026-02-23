@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-23T07:05:32.187Z
+! Last modified: 2026-02-23T08:52:01.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15703,6 +15703,7 @@ vkcdnservice.appspot.com^
 ||cq96gjrmc1mguze6hyw.cfd^
 ||cqaqwekgzvkek.tech^
 ||cqcaoltqtarmz.space^
+||cqcctsyeqovsh.site^
 ||cqcpazetvhaso.website^
 ||cqeorasldxsbw.store^
 ||cqft3xpnhy8ntb2xxxjl37ypc3.rest^
@@ -28594,6 +28595,7 @@ vkcdnservice.appspot.com^
 ||jaijs.com^
 ||jailishwabbles.cfd^
 ||jailorscoman.cfd^
+||jailshoming.cyou^
 ||jaimirozadair.net^
 ||jaiphaugaw.net^
 ||jaiphoudidaust.net^
@@ -29181,6 +29183,7 @@ vkcdnservice.appspot.com^
 ||jnbhi.com^
 ||jncqlqqy.xyz^
 ||jndcdxcoqjroj.store^
+||jndgnfrypjtsy.site^
 ||jnezifddgagrsu.com^
 ||jnfizwhqiowvz.space^
 ||jnhqfeejekruh.website^
@@ -30789,6 +30792,7 @@ vkcdnservice.appspot.com^
 ||kreps.xyz^
 ||krffawlfeuqcc.online^
 ||krfqlrxvmoyrj.online^
+||krg4f5bo.xyz^
 ||krhmtdzuxxmsc.space^
 ||krhyrrfwvcx.xyz^
 ||krisydark.com^
@@ -32116,6 +32120,7 @@ vkcdnservice.appspot.com^
 ||lkdvvxvtsq6o.com^
 ||lkehftpjptswp.site^
 ||lkepqqsatfugc.store^
+||lkeqdkckbgnbf.online^
 ||lkg6g644.de^
 ||lkibtkagrmvdi.website^
 ||lkijvrrofszzz.online^
@@ -34213,6 +34218,7 @@ vkcdnservice.appspot.com^
 ||mjgmwrbkbbwak.space^
 ||mjgqjvbrathgo.site^
 ||mjgxsmcfnddde.online^
+||mjhdppbv.com^
 ||mjhjofacejzxi.space^
 ||mjiillaizjckm.website^
 ||mjkjatrhfvjsd.website^
@@ -35594,6 +35600,7 @@ vkcdnservice.appspot.com^
 ||ncoyercwrriqc.website^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
+||ncqzyyjhjjoak.site^
 ||nctskfaizblyq.space^
 ||ncyxfrdxpacie.website^
 ||ncz3u7cj2.com^
@@ -38584,6 +38591,7 @@ vkcdnservice.appspot.com^
 ||ownthmorningb.org^
 ||owonchghcurdw.website^
 ||owougoodoom.net^
+||owptcpqzfeajd.site^
 ||owqbvomroabvp.online^
 ||owqscacur.com^
 ||owrelayzanzakermis.cyou^
@@ -49658,6 +49666,7 @@ vkcdnservice.appspot.com^
 ||throughthesumeme.com^
 ||throwcommercial.com^
 ||throwmewling.help^
+||thrtamykpggls.space^
 ||thrtle.com^
 ||thrumsheild.cfd^
 ||thrustinextricable.com^
@@ -53655,6 +53664,7 @@ vkcdnservice.appspot.com^
 ||vqdqbloehwafw.online^
 ||vqelkqlaavjmm.top^
 ||vqfdpwwodstou.space^
+||vqfkoowhpvltt.space^
 ||vqfyoaemuefsk.store^
 ||vqghlnhtosfng.space^
 ||vqkffynxyptrx.online^
@@ -144070,6 +144080,7 @@ dlsdk.appsflyer.com^
 ||ibns3ibgf.com^
 ||gohgn02231la.com^
 ||gz93n2pkh.com^
+||cscbd31jv.com^
 ||qcs6kxekav.com^
 ||tsdtvcx579.com^
 ||practitioner23.com^
