@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-25T05:23:15.572Z
+! Last modified: 2026-02-25T07:03:07.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13488,6 +13488,7 @@ vkcdnservice.appspot.com^
 ||caitoasece.com^
 ||caizaipt.net^
 ||caizuvuptobane.net^
+||cajangtikker.cyou^
 ||cajolesnassau.qpon^
 ||cajunspiddled.cfd^
 ||cakcobqvrgklu.space^
@@ -14763,6 +14764,7 @@ vkcdnservice.appspot.com^
 ||ckzypnshkzevn.xyz^
 ||cl0udh0st1ng.com^
 ||clabberscended.com^
+||clacksamber.cyou^
 ||cladp.com^
 ||cladupius.com^
 ||clafpboyab.com^
@@ -21889,6 +21891,7 @@ vkcdnservice.appspot.com^
 ||flbhwgoibnoku.space^
 ||flbrabot.cfd^
 ||flcspboszvfym.space^
+||fle611yhjjb3le7ymlgkrzw2hrk2.cfd^
 ||fleamx.com^
 ||fleaszaurak.cfd^
 ||fleckydyassic.help^
@@ -25116,6 +25119,7 @@ vkcdnservice.appspot.com^
 ||gyronspeagesspatula.cfd^
 ||gyrvdqmxhrepw.website^
 ||gyspsffbmfefx.space^
+||gysqvkkbnuksr.xyz^
 ||gystqpfwfxqno.global^
 ||gyvaafyvnvna.net^
 ||gyvxiyeixsjfl.website^
@@ -33302,6 +33306,7 @@ vkcdnservice.appspot.com^
 ||mabhyethodxorcs.xyz^
 ||maboftaurgok.net^
 ||mabutipurines.world^
+||mabxjjcgzjggn.com^
 ||macacusdame.com^
 ||macan-native.com^
 ||macaomoll.cfd^
@@ -37783,6 +37788,7 @@ vkcdnservice.appspot.com^
 ||oitoeamtyhafb.site^
 ||oiuiybsfqfmyd.site^
 ||oivlvkwuwlssr.website^
+||oivymcomda.com^
 ||oivzkyesgwkqh.site^
 ||oiwryudeyymdj.online^
 ||oiycak.com^
@@ -47919,6 +47925,7 @@ vkcdnservice.appspot.com^
 ||spokesmanalientwentieth.com^
 ||spolecznosci.net^
 ||spoliaessede.cfd^
+||spoliapedicab.cfd^
 ||spongecell.com^
 ||spongesofateacher.com^
 ||sponginarist.cfd^
@@ -54702,6 +54709,7 @@ vkcdnservice.appspot.com^
 ||wbt9e9egqw6yq86ju2.cfd^
 ||wbtzciyvbektf.website^
 ||wbwtbhaowksqc.site^
+||wbww9ouxolw7ji3i.rest^
 ||wbxkuluivdutn.site^
 ||wbxrjivadctya.space^
 ||wbygrybvjjksf.site^
