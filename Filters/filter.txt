@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-25T02:10:55.261Z
+! Last modified: 2026-02-25T05:23:15.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10774,6 +10774,7 @@ vkcdnservice.appspot.com^
 ||b51f251b31.com^
 ||b58ncoa1c07f.com^
 ||b5e17bdf06.com^
+||b5ow7kq9tgzuqig.rest^
 ||b60756935f.com^
 ||b61351ki7nnff5tmz3fk8f93.cyou^
 ||b63kqe1fqnoqwjwjgy2i.cfd^
@@ -11179,6 +11180,7 @@ vkcdnservice.appspot.com^
 ||bcgwetajinklt.website^
 ||bcgzqzjkyjmfd.store^
 ||bchqezzrmsqng.online^
+||bckxsykwv.com^
 ||bclogin-check.com^
 ||bcloudhost.com^
 ||bclqzrrkefcwq.website^
@@ -12133,6 +12135,7 @@ vkcdnservice.appspot.com^
 ||blondassignappear.com^
 ||blondmonth.pro^
 ||blondspeaker.com^
+||bloomscrappy.cfd^
 ||blotchinvestigation.com^
 ||blotecardthumb.com^
 ||blottermorabit.cyou^
@@ -13105,6 +13108,7 @@ vkcdnservice.appspot.com^
 ||buntssejunct.cyou^
 ||bunzamxbtj.space^
 ||buoyant-most.pro^
+||buoyantbug.pro^
 ||buoyantspecial.com^
 ||bupatp.com^
 ||buphagadsnames.help^
@@ -23849,6 +23853,7 @@ vkcdnservice.appspot.com^
 ||gkohnecqlkxkn.online^
 ||gkqejegv9v3mpob.cfd^
 ||gkrtmc.com^
+||gkunnht45pk2x8f9kre.cfd^
 ||gkusantpnfxmn.space^
 ||gkwhtl5meu9f82.cfd^
 ||gkxixncsphfli.online^
@@ -24276,6 +24281,7 @@ vkcdnservice.appspot.com^
 ||goodnatured-meaning.pro^
 ||goodnatureddelay.pro^
 ||goodnaturedinside.com^
+||goodnaturedstop.pro^
 ||goodnesstamper.com^
 ||goodnightpawnmossy.com^
 ||goodsdunelocated.com^
@@ -28094,6 +28100,7 @@ vkcdnservice.appspot.com^
 ||intelligent-black.com^
 ||intelligent-comfortable.com^
 ||intelligent-man.pro^
+||intelligentnatural.pro^
 ||intellipopup.com^
 ||intendedeasiestlost.com^
 ||intendsopush.com^
@@ -30470,6 +30477,7 @@ vkcdnservice.appspot.com^
 ||kibsaraigni.net^
 ||kickhoistsuccess.com^
 ||kickougeetsu.net^
+||kiddingainus.cfd^
 ||kidimportant.com^
 ||kidnapbarkey.cyou^
 ||kidnapstrongestfeathers.com^
@@ -34129,6 +34137,7 @@ vkcdnservice.appspot.com^
 ||mgcash.com^
 ||mgcbncbblbrlh.site^
 ||mgcld.xyz^
+||mgcnkpkishgiipd.xyz^
 ||mgdfponxplgya.space^
 ||mgdjmp.com^
 ||mgdnjexlmiqfl.online^
@@ -34546,6 +34555,7 @@ vkcdnservice.appspot.com^
 ||mlnasbahfttnu.space^
 ||mlnbsdowzejzz.website^
 ||mlojywdigmqfn.online^
+||mloltknepcsgh.com^
 ||mlqcixbbgdwij.online^
 ||mlrmsqujduomp.space^
 ||mlrohhfgxhuil.site^
@@ -35168,6 +35178,7 @@ vkcdnservice.appspot.com^
 ||mszddprapuziw.vip^
 ||mszpktwaepcdl.site^
 ||mtaeeslwsfxjw.club^
+||mtakpfquym.com^
 ||mtbokvdkfqntm.website^
 ||mtburn.com^
 ||mtddzanzcserh.space^
@@ -41516,6 +41527,7 @@ vkcdnservice.appspot.com^
 ||psdjyhuerechn.site^
 ||psdlcuqojbuxn.space^
 ||psdn.xyz^
+||psdqempur.com^
 ||psdxbtjowlyjxhs.com^
 ||pseckugloudeel.net^
 ||psedwm.com^
@@ -41868,6 +41880,7 @@ vkcdnservice.appspot.com^
 ||punishencoder.cfd^
 ||punishgreater.com^
 ||punishmentsupport.com^
+||punishutrubi.com^
 ||punjabihoaxers.cfd^
 ||punkahtollery.qpon^
 ||punkspyke.com^
@@ -50899,6 +50912,7 @@ vkcdnservice.appspot.com^
 ||triangularmouse.com^
 ||triangularrespond.pro^
 ||trianonluxate.click^
+||triaryknub.qpon^
 ||tribalfusion.com^
 ||tribracbiaxal.com^
 ||tributeglassmulberry.com^
@@ -54039,6 +54053,7 @@ vkcdnservice.appspot.com^
 ||vpbjuracackcm.online^
 ||vpcjijijkzhjv.space^
 ||vpdehpjxotemz.space^
+||vpdjwckw.com^
 ||vpeaseouzpsgp.website^
 ||vphfcftukjmnf.site^
 ||vpico.com^
@@ -55663,6 +55678,7 @@ vkcdnservice.appspot.com^
 ||woodypata.qpon^
 ||wooersromanza.shop^
 ||woof-wo0f.net^
+||wooferdeia.com^
 ||woofoobukugly.net^
 ||woogoust.com^
 ||wooguwhede.net^
@@ -149808,6 +149824,11 @@ dlsdk.appsflyer.com^
 ||cnzz.trafficmanager.net^
 ||f5nn75ozf.com^
 ||z1el6lgol.com^
+||sq5f10q3d.com^
+||unenviable89.com^
+||usc8nll40.com^
+||gohgn02251la.com^
+||ac00qmnjz.com^
 ||3hfmrv8d45.com^
 ||qkr4uac6tx.com^
 ||hazardous58.top^
@@ -154581,6 +154602,7 @@ dlsdk.appsflyer.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||code.geonamebase.com^
 ||kdewa111.familydoctor.com.cn^
 ||zgzxm.weathercn.com^
 ||cientch.360doc.cn^
@@ -154979,7 +155001,6 @@ dlsdk.appsflyer.com^
 ||dms.xuexxing.com^
 ||dmym.fwol.cn^
 ||dn*.ixinwei.com^
-||domain1.chahaoba.cn^
 ||ds.ruanwengfa.com^
 ||du1.bbdj.com^
 ||edu.jiukang.org^
