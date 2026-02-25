@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-25T19:07:07.377Z
+! Last modified: 2026-02-25T20:37:04.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14278,6 +14278,7 @@ vkcdnservice.appspot.com^
 ||charkashowling.qpon^
 ||charlottemice.com^
 ||charmhealingcarla.com^
+||charming-visual.pro^
 ||charmingpoliteinjunction.com^
 ||charmshoist.com^
 ||charnupock.cfd^
@@ -27535,6 +27536,7 @@ vkcdnservice.appspot.com^
 ||ikqhdccrihdyr.online^
 ||ikqyazeadzqvo.space^
 ||ikryuq39ceqgjxnq87k52.cfd^
+||iksgypgyj.com^
 ||iktzrzjpugczl.website^
 ||ikubypxrzqjah.store^
 ||ikujajchtbxmv.site^
@@ -31104,6 +31106,7 @@ vkcdnservice.appspot.com^
 ||kspyqwogczssl.website^
 ||ksqkmhdydi.net^
 ||ksrameyexbogf.space^
+||kstiovfe.com^
 ||kstnyuhvyrtpp.club^
 ||ksvjmvrjjo.com^
 ||ksvnwdhtvndeq.site^
@@ -31742,6 +31745,7 @@ vkcdnservice.appspot.com^
 ||ldqkyedvfepop.online^
 ||ldqlbzuhjovtd.website^
 ||ldqsoiynsqiix.website^
+||ldqudibcstsuyy.com^
 ||ldrtuisabstxa.store^
 ||ldscxvbgahtdh.online^
 ||ldsglxilxmczr.site^
