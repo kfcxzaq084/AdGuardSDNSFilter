@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-25T13:06:38.744Z
+! Last modified: 2026-02-25T14:50:38.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11988,6 +11988,7 @@ vkcdnservice.appspot.com^
 ||bkjcspqtrlafh.online^
 ||bkjgqyasbalgk.website^
 ||bkjhqkohal.com^
+||bkjjxbvwcthqjny.com^
 ||bklgryhncfrha.site^
 ||bklihaatruags.website^
 ||bklkgeijmzsbu.online^
@@ -13999,6 +14000,7 @@ vkcdnservice.appspot.com^
 ||ceasecompromisetwine.com^
 ||ceasedaggravation.com^
 ||ceaskedasensibl.org^
+||ceaslessivorygoats.com^
 ||ceaslesswisely.com^
 ||ceatloohvy.com^
 ||ceaxumvjvwncpfs.com^
@@ -34424,6 +34426,7 @@ vkcdnservice.appspot.com^
 ||misleadgifted.com^
 ||mislearsulliedsuber.cyou^
 ||mislucktinean.com^
+||missalagopus.cfd^
 ||missaryfrieze.shop^
 ||missarypengun.help^
 ||missav001.lol^
@@ -37064,6 +37067,7 @@ vkcdnservice.appspot.com^
 ||nuzostgcylun.com^
 ||nv3tosjqd.com^
 ||nv5918kz1xj9mogpxxb.cfd^
+||nvbfbdfajyuur.com^
 ||nvcprrqy.com^
 ||nvejmzqxuuujx.love^
 ||nvfpshunedmgf.online^
@@ -38832,6 +38836,7 @@ vkcdnservice.appspot.com^
 ||overturnelse.com^
 ||overturnmarshaltowers.com^
 ||overturnspecified.com^
+||overwebwhorl.com^
 ||overwetgashes.help^
 ||ovfvwgwxfwq.com^
 ||ovghljmcnxejx.online^
@@ -48953,6 +48958,7 @@ vkcdnservice.appspot.com^
 ||surprisingarsonistcooperate.com^
 ||surprisinglycrescent.com^
 ||surprisinglystaunchdemocratic.com^
+||surramodule.qpon^
 ||surrealjibbs.qpon^
 ||surreptredwardstuffed.cfd^
 ||surrogateicybeagle.com^
@@ -58062,6 +58068,7 @@ vkcdnservice.appspot.com^
 ||zanyismredskin.cfd^
 ||zanypotential.com^
 ||zapasizzard.com^
+||zapateoversts.shop^
 ||zapfgyqcktakq.site^
 ||zapmlugpzaufk.website^
 ||zapogentasofh.site^
@@ -149879,6 +149886,7 @@ dlsdk.appsflyer.com^
 ||gohgn02251la.com^
 ||ac00qmnjz.com^
 ||vidsgs4x4.com^
+||re0rlupcz.com^
 ||3hfmrv8d45.com^
 ||qkr4uac6tx.com^
 ||hazardous58.top^
