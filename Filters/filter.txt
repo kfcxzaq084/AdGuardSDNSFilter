@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-26T05:19:58.119Z
+! Last modified: 2026-02-26T07:01:14.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7338,6 +7338,7 @@ vkcdnservice.appspot.com^
 ||9cf6e88edb.com^
 ||9coo47pekb2i11rhzr6413.rest^
 ||9d611c2d8a.com^
+||9da190a7d9.com^
 ||9dcae0f138.com^
 ||9dmnv9z0gtoh.com^
 ||9e031f589f.com^
@@ -10760,6 +10761,7 @@ vkcdnservice.appspot.com^
 ||b0f01ce38a.com^
 ||b0f3731d0a.com^
 ||b14ae1c233.com^
+||b173280abe.com^
 ||b1733e915d.com^
 ||b1814392f8.com^
 ||b1aa0634bb.com^
@@ -25096,6 +25098,7 @@ vkcdnservice.appspot.com^
 ||gwypqtmamicep.site^
 ||gwzpjzqxzbbwv.site^
 ||gx101.com^
+||gx1lnkfypelyifob9v4f7xg.rest^
 ||gxaswlbqotagx.online^
 ||gxbbxhjlyzbvd.website^
 ||gxbmiystgwkwq.online^
@@ -25167,6 +25170,7 @@ vkcdnservice.appspot.com^
 ||gyronsamal.cyou^
 ||gyronspeagesspatula.cfd^
 ||gyrvdqmxhrepw.website^
+||gysgwisaqyvin.com^
 ||gyspsffbmfefx.space^
 ||gysqvkkbnuksr.xyz^
 ||gystqpfwfxqno.global^
@@ -42120,6 +42124,7 @@ vkcdnservice.appspot.com^
 ||putteecirculi.shop^
 ||putteesmahzor.cfd^
 ||puttingconfirm.qpon^
+||puttodjin.cfd^
 ||puttoogwine.help^
 ||puuush.me^
 ||puvqnflkiuhwl.site^
@@ -42714,6 +42719,7 @@ vkcdnservice.appspot.com^
 ||qloekmmsuwjlq.website^
 ||qlpwodpqwzqcc.website^
 ||qlqdtgamhhnfe.site^
+||qlqopimpblfxhx.xyz^
 ||qlsaqtqd.tattoo^
 ||qlsejdfqiqsvq.space^
 ||qlspgxhlng.com^
@@ -45528,6 +45534,7 @@ vkcdnservice.appspot.com^
 ||rxkhzggwtrevg.online^
 ||rxkscizlldoak.website^
 ||rxkuyfgksykdn.com^
+||rxlwugxyuw.com^
 ||rxnvg.com^
 ||rxqqxtyrshpkq.store^
 ||rxscledbyfgos.site^
@@ -49659,6 +49666,7 @@ vkcdnservice.appspot.com^
 ||tcppu.com^
 ||tcrtidleivyai.space^
 ||tcsndrvora.xyz^
+||tcsuspptwmoy.com^
 ||tctbgheohtgfnm.net^
 ||tctlligvdwoppz.com^
 ||tctrbtdxbscuw.site^
@@ -54808,6 +54816,7 @@ vkcdnservice.appspot.com^
 ||wbaetwsafkqlw.store^
 ||wbamedia.com^
 ||wbaolixcouqle.website^
+||wbbqxxxelvpy.com^
 ||wbbuhddcgijha.online^
 ||wbdaxsscxpgzg.website^
 ||wbdds.com^
@@ -57188,6 +57197,7 @@ vkcdnservice.appspot.com^
 ||y32jle1grurk3p8.rest^
 ||y42rru7u1cwijz9bxmunjfp2e79ex4xq6.cfd^
 ||y4n7m8zic2frkvx9.cfd^
+||y6xwfjbiqq1h18l7t4.cfd^
 ||y7iy9w1e2g3z1m.rest^
 ||y8hrpipr43t1w7.cfd^
 ||y8uvpyb1euyvci7h9.cfd^
@@ -149990,6 +150000,8 @@ dlsdk.appsflyer.com^
 ||ivcfsi3dr0.com^
 ||mjursnb.com^
 ||foolhardy76.com^
+||pybmulveaz.com^
+||gohgn02261la.com^
 ||f5nn75ozf.com^
 ||z1el6lgol.com^
 ||sq5f10q3d.com^
