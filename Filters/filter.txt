@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-26T18:54:13.276Z
+! Last modified: 2026-02-26T20:39:07.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12762,6 +12762,7 @@ vkcdnservice.appspot.com^
 ||braylosings.qpon^
 ||brazenwholly.com^
 ||braziersynop.cfd^
+||brbtybjwochjb.com^
 ||brcjvwooqneol.online^
 ||brdbwayjkebb.xyz^
 ||brdhbizupevpj.online^
@@ -17373,6 +17374,7 @@ vkcdnservice.appspot.com^
 ||derelictbookstorebilly.com^
 ||derfsyhdcskpm.website^
 ||derfulstatuehel.com^
+||deridenightingalepartial.com^
 ||derideskid.com^
 ||dernergrampus.shop^
 ||dertralycosa.qpon^
@@ -18220,6 +18222,7 @@ vkcdnservice.appspot.com^
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
 ||dokrithauw.net^
+||doksvqsc.com^
 ||dolcedrol.cyou^
 ||dolcianjaypie.shop^
 ||dolekaraokeoversleep.com^
@@ -19065,6 +19068,7 @@ vkcdnservice.appspot.com^
 ||eaglewarfareconclusions.com^
 ||eagrassdenat.help^
 ||eahpujutchkzn.online^
+||eainbkjxvwppi.website^
 ||eakpspoytvnti.store^
 ||eakualybesflq.website^
 ||ealeo.com^
@@ -20839,6 +20843,7 @@ vkcdnservice.appspot.com^
 ||explodeddeitycomparatively.com^
 ||explorerapiecebachelor.com^
 ||explorerippledisperse.com^
+||expniahmewrfc.space^
 ||expocrack.com^
 ||exporder-patuility.com^
 ||exportseats.com^
@@ -21618,6 +21623,7 @@ vkcdnservice.appspot.com^
 ||fhjtecpoknkfb.website^
 ||fhktaryvtgnaw.store^
 ||fhldb.site^
+||fhllxoygplwey.website^
 ||fhlxpaxuaftay.website^
 ||fhndaxrnudbf.net^
 ||fhnyeqrstjbbo.com^
@@ -30653,6 +30659,7 @@ vkcdnservice.appspot.com^
 ||kindleunfocusedunpaired.com^
 ||kindly-equivalent.com^
 ||kindlyoutsellunderling.com^
+||kindlytelephone.pro^
 ||kindnessmarshalping.com^
 ||kineckekyu.com^
 ||king3rsc7ol9e3ge.com^
@@ -37444,6 +37451,7 @@ vkcdnservice.appspot.com^
 ||oamsedsaiph.net^
 ||oamsoasoonsump.net^
 ||oamsursumsauz.net^
+||oamwrbrhcftgp.site^
 ||oangewha.net^
 ||oanimsen.net^
 ||oansadsolr.net^
@@ -38042,6 +38050,7 @@ vkcdnservice.appspot.com^
 ||okyjnarzvujqz.space^
 ||okzbvxcjbxpyx.site^
 ||ol4mpcypiiufz9wuxx4.cfd^
+||olahkncvsc.com^
 ||olatrammerspintry.cyou^
 ||olayomad.com^
 ||olbeeqbqgumdt.website^
@@ -44792,6 +44801,7 @@ vkcdnservice.appspot.com^
 ||rkcuxnnaoscefxq.xyz^
 ||rkdpzcdehop.fun^
 ||rkdswkcwbsp.com^
+||rkfcpvofbdlod.site^
 ||rkfhmcdvprsbz.website^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
@@ -50935,6 +50945,7 @@ vkcdnservice.appspot.com^
 ||tqcppxvxhbzgi.site^
 ||tqctbjddb.xyz^
 ||tqdxwboexwawx.site^
+||tqevahjkdhapc.com^
 ||tqgayhnwphgxn.site^
 ||tqgdovbcivlfu.space^
 ||tqggbkdanotht.space^
@@ -57581,6 +57592,7 @@ vkcdnservice.appspot.com^
 ||yghhkouwxpvew.site^
 ||ygimeqcpvbtci.rocks^
 ||ygiuraqcxqgfmej.com^
+||ygkhbpnqycyog.site^
 ||ygkswbscgvukj.space^
 ||ygncvlnvzvsco.website^
 ||ygolbhqmlvhkz.online^
@@ -57979,6 +57991,7 @@ vkcdnservice.appspot.com^
 ||yrduojmxtuhqs.space^
 ||yrfitmobjkskj.space^
 ||yrflgsqpywsmh.website^
+||yrguvdtxvcgrs.site^
 ||yrhnw7h63.com^
 ||yrhxicouoe.com^
 ||yrhzytcrqnbtj.site^
