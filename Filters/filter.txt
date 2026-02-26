@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-26T02:06:53.240Z
+! Last modified: 2026-02-26T05:19:58.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6728,6 +6728,7 @@ vkcdnservice.appspot.com^
 ||4536e19398.com^
 ||455t.com^
 ||459b6951ca.com^
+||45bctnhlk2iynx5pnxczix8vb8.cfd^
 ||45f467a9d4.com^
 ||460e19ebd6.com^
 ||46186911.vtt^
@@ -8863,6 +8864,7 @@ vkcdnservice.appspot.com^
 ||ajar-instruction.pro^
 ||ajar-lesson.pro^
 ||ajardesire.pro^
+||ajarguitar.pro^
 ||ajarmargaritaalmond.com^
 ||ajautchaissaur.net^
 ||ajcafpjuhur.xyz^
@@ -9358,6 +9360,7 @@ vkcdnservice.appspot.com^
 ||anastasia-international.com^
 ||anastasiasaffiliate.com^
 ||anathemmicrons.cfd^
+||anatifabended.shop^
 ||anattosiressheils.cfd^
 ||anattospursier.com^
 ||anbavidkids.shop^
@@ -13852,6 +13855,7 @@ vkcdnservice.appspot.com^
 ||cbdedibles.site^
 ||cbdfjelmkjele.website^
 ||cbdsrltmmlbnu.space^
+||cbf7yhmhocuk2vm19n5znhppiic2n.rest^
 ||cbfb239585.com^
 ||cbfcrpynch.com^
 ||cbfxilexavemz.space^
@@ -14209,6 +14213,7 @@ vkcdnservice.appspot.com^
 ||cgpnhjatakwqnjd.xyz^
 ||cgrsihmgjmzfb.space^
 ||cgsaxsvjvswcu.space^
+||cgsmalgre.cfd^
 ||cgt114u5chbwknvxfz.cfd^
 ||cgthnxnovsmml.xyz^
 ||cgtkclfydnqhp.site^
@@ -14725,6 +14730,7 @@ vkcdnservice.appspot.com^
 ||cjewz.com^
 ||cjfdrpmcjmkuf.com^
 ||cjfeclumbytpq.website^
+||cjfevlbbmjvyee.com^
 ||cjgeqnxnxejet.space^
 ||cjgimadfnuztn.online^
 ||cjhmaygz.com^
@@ -17627,6 +17633,7 @@ vkcdnservice.appspot.com^
 ||digubpgjkdmsl.website^
 ||digzjnuguwwxr.online^
 ||dijuvxuzjhkrb.website^
+||dikageovinae.cfd^
 ||dikasomywnqww.website^
 ||dikcmpgwemomx.space^
 ||dikedbizonal.cfd^
@@ -19237,6 +19244,7 @@ vkcdnservice.appspot.com^
 ||edibileupcard.click^
 ||edible-mind.com^
 ||edible-sort.pro^
+||ediblespratap.cfd^
 ||edificecanters.click^
 ||edioca.com^
 ||edition25.com^
@@ -19582,6 +19590,7 @@ vkcdnservice.appspot.com^
 ||ekamsply.com^
 ||ekbggmuqsovel.site^
 ||ekcdojssgniji.site^
+||ekcqwtogca.com^
 ||ekcuvfdimrzet.website^
 ||ekczzoyecfkfm.store^
 ||ekdthfqecpmjp.click^
@@ -19602,6 +19611,7 @@ vkcdnservice.appspot.com^
 ||ekogulzaxpito.site^
 ||ekont.site^
 ||ekovsuztvtobn.site^
+||ekpovbhxqpx.com^
 ||ekrpjrrovubka.club^
 ||ekrzyzcepsqbf.site^
 ||ekulsoulrosa.net^
@@ -21641,6 +21651,7 @@ vkcdnservice.appspot.com^
 ||fifthlyteabowl.qpon^
 ||figboyyok.qpon^
 ||figemdmcgufxs.xyz^
+||figglefodge.com^
 ||fightingdesert.com^
 ||fightingleatherconspicuous.com^
 ||fightmallowfiasco.com^
@@ -27358,6 +27369,7 @@ vkcdnservice.appspot.com^
 ||ieruuicdabgday.net^
 ||iesjbtyxtoraq.site^
 ||iesqbiyuiiccz.online^
+||ietarchtn.xyz^
 ||ietwzcakupkfs.store^
 ||ieufkdgnl.com^
 ||ieuuihjhggttw.site^
@@ -30388,6 +30400,7 @@ vkcdnservice.appspot.com^
 ||keqvwbtazpulb.online^
 ||keqzqtfpzpzll.site^
 ||ker2clk.com^
+||keratboucher.qpon^
 ||kerchpsetta.cyou^
 ||kermisveil.qpon^
 ||kernelbudstwig.com^
@@ -33848,6 +33861,7 @@ vkcdnservice.appspot.com^
 ||mbzakfkiymvra.website^
 ||mbzavqzuxplxf.site^
 ||mc7clurd09pla4nrtat7ion.com^
+||mcahjytj.com^
 ||mcctndeffuklz.online^
 ||mceikiriyhpmo.online^
 ||mcejaxrmu.com^
@@ -46989,6 +47003,7 @@ vkcdnservice.appspot.com^
 ||similar-depth.pro^
 ||similarlyabdomenwrestle.com^
 ||similarpresence.com^
+||similartoweldeep.com^
 ||simmeringsuitableunwoven.com^
 ||simonfriend.help^
 ||simple-interview.com^
@@ -48367,6 +48382,7 @@ vkcdnservice.appspot.com^
 ||static-srv.com^
 ||staticgalaksion.com^
 ||stationinterfacehunter.com^
+||stationnaish.qpon^
 ||statistic-data.com^
 ||statisticresearch.com^
 ||statisticsaccent.com^
@@ -60458,6 +60474,7 @@ vkcdnservice.appspot.com^
 ||perfumedsecret.com^
 ||pileevery.com^
 ||pilotuntil.com^
+||pishenormously.com^
 ||r033o0p37qr4v914m06om.xyz^
 ||rawbeautifully.com^
 ||righteouslyyumaugmentnext.com^
@@ -132153,6 +132170,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||dap.worldota.net^
 ||dap.livemint.com^
 ||smetrics.edb.gov.sg^
 ||p19-ad-site-sign-sg.tiktokcdn.com^
@@ -149967,6 +149985,11 @@ dlsdk.appsflyer.com^
 ||cnzz.trafficmanager.net^
 ||i2fxsez4f0.com^
 ||22eo9qlbpt.com^
+||pcmxcdjbgo.com^
+||x42zfctilh.com^
+||ivcfsi3dr0.com^
+||mjursnb.com^
+||foolhardy76.com^
 ||f5nn75ozf.com^
 ||z1el6lgol.com^
 ||sq5f10q3d.com^
