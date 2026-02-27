@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-27T05:14:47.793Z
+! Last modified: 2026-02-27T06:55:44.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6420,6 +6420,7 @@ vkcdnservice.appspot.com^
 ||262bdc3a5d.com^
 ||2639iqjkl.de^
 ||26a840907b.com^
+||26bn2t98xiwt6fw7.rest^
 ||26e8841da4.com^
 ||26fc4b0b38.com^
 ||26q4nn691.de^
@@ -6830,6 +6831,7 @@ vkcdnservice.appspot.com^
 ||51f7cf32cd.com^
 ||51fb350e23.com^
 ||51t4657yf85ym6xwn.cfd^
+||51u9e6hjh4ecrk.cfd^
 ||5201l41kuvl7.top^
 ||52588314e4.com^
 ||526d43cc6c.com^
@@ -11908,6 +11910,7 @@ vkcdnservice.appspot.com^
 ||biqocsvz.com^
 ||biqqavjzrmmkr.store^
 ||biqqounvexmcs.website^
+||biqrdjqxars.com^
 ||bircherexsert.top^
 ||birchsottagejacksaw.cfd^
 ||birdeentecta.shop^
@@ -13213,6 +13216,7 @@ vkcdnservice.appspot.com^
 ||busierflutier.qpon^
 ||busilycarnival.com^
 ||businessessities.com^
+||buskeddrizzly.qpon^
 ||bussocktourer.top^
 ||busteeonenessvingtun.cyou^
 ||busticsavage.qpon^
@@ -19203,6 +19207,7 @@ vkcdnservice.appspot.com^
 ||eceefutchee.net^
 ||eceepsoograirtu.net^
 ||ecef83eaa0.com^
+||ecesiscreatic.cfd^
 ||eceunutlxxfha.website^
 ||eceuvtsjfoauc.site^
 ||echeonycha.com^
@@ -20515,6 +20520,7 @@ vkcdnservice.appspot.com^
 ||etbbvbulyhyyo.space^
 ||etbtomrowbmji.website^
 ||etchedpernis.cyou^
+||etdhlfwn.xyz^
 ||etdtbkpurdcbb.xyz^
 ||etetxwdgqxufr.one^
 ||etfqkluorsjby.website^
@@ -25649,6 +25655,7 @@ vkcdnservice.appspot.com^
 ||hbhood.com^
 ||hbhpjolxaizkz.online^
 ||hbidfirrysrvw.global^
+||hbiujovtvvhihia.com^
 ||hbloveinfo.com^
 ||hbmasrtzvfwvx.online^
 ||hbmjhfdxtwhwq.website^
@@ -33513,6 +33520,7 @@ vkcdnservice.appspot.com^
 ||machinerymainlandsport.com^
 ||machinerypostcardcollect.com^
 ||machineryvegetable.com^
+||machingapo.shop^
 ||machmayhavedesc.org^
 ||machogoantenor.cyou^
 ||machogodynamis.com^
@@ -43035,6 +43043,7 @@ vkcdnservice.appspot.com^
 ||qqxitlxhswoy.com^
 ||qqxlgqlgdvlky.online^
 ||qqxwosanxwhqn.site^
+||qqybcwqo.com^
 ||qqytykzhaayxn.space^
 ||qqzhmxzdnfsjb.site^
 ||qqzotstx.com^
@@ -53853,6 +53862,7 @@ vkcdnservice.appspot.com^
 ||vgohgpevlamqm.website^
 ||vgooztalndnhs.website^
 ||vgpjkpqwiqgie.space^
+||vgppwknmqyhsf.online^
 ||vgqixiwdtjgbv.website^
 ||vgrmgnzkbcpjj.site^
 ||vgtevnzhlujfv.website^
@@ -54610,6 +54620,7 @@ vkcdnservice.appspot.com^
 ||vvfyce.cyou^
 ||vvhtpupuhcixg.site^
 ||vvkholowfoeku.website^
+||vvlplnkzympin.online^
 ||vvnbeszocfcfs.site^
 ||vvolnzdglprvf.store^
 ||vvozhgxuksfkt.space^
@@ -55370,6 +55381,7 @@ vkcdnservice.appspot.com^
 ||wgmdckuydsclg.website^
 ||wgmenxpvnxnbs.space^
 ||wgovzfxfccdpd.site^
+||wgptspxgngbhf.space^
 ||wgsaralfncvvb.online^
 ||wgsndjdiiofac.space^
 ||wgtjcifwqkmiz.space^
@@ -56909,6 +56921,7 @@ vkcdnservice.appspot.com^
 ||xlhddotafjvyx.com^
 ||xlhzormvzjazz.website^
 ||xliirdr.com^
+||xliohleaxabmf.website^
 ||xlirdr.com^
 ||xlivesex.com^
 ||xlivrdr.com^
@@ -57273,6 +57286,7 @@ vkcdnservice.appspot.com^
 ||xwgdcamizuhhp.online^
 ||xwgkbcbvjjvxr.website^
 ||xwguvpwktsjkg.site^
+||xwhahgileeegv.site^
 ||xwiashrkcpvns.love^
 ||xwkvojadxcnyd.space^
 ||xwkwiakgumoyz.site^
@@ -59218,6 +59232,7 @@ vkcdnservice.appspot.com^
 ||zzhlssowvzfds.online^
 ||zzifactpogrlz.website^
 ||zzindwzduphsb.site^
+||zzlymkvojnjog.online^
 ||zzmqptxatuosm.space^
 ||zznipsbqzvhpz.site^
 ||zzpgiredutflq.space^
@@ -132395,6 +132410,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||acollector.wb.ru^
+||journal-bt.wildberries.ru^
 -events-collector.spot.im^
 ||dap.worldota.net^
 ||dap.livemint.com^
