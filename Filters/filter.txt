@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-27T18:44:02.555Z
+! Last modified: 2026-02-27T20:28:49.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8742,6 +8742,7 @@ vkcdnservice.appspot.com^
 ||ahukfcpfknenp.website^
 ||ahvqydcujtjgo.website^
 ||ahvxmwukrdlkk.website^
+||ahwsksbrdwrta.site^
 ||ahwzqqlumpyba.website^
 ||ahxpudoydaraw.site^
 ||ahxqqfgmfumpo.website^
@@ -10764,6 +10765,7 @@ vkcdnservice.appspot.com^
 ||azqqlobqwomqr.top^
 ||azskk.com^
 ||azsqyupwulmgx.site^
+||azstepivxokgt.website^
 ||aztciboopxfhe.site^
 ||aztphapk.com^
 ||azulcw7.com^
@@ -11416,6 +11418,7 @@ vkcdnservice.appspot.com^
 ||behavesyahan.qpon^
 ||behelddialectextract.com^
 ||behim.click^
+||behindcanary.com^
 ||behindforhewas.org^
 ||beigedevotedcockpit.com^
 ||beigelseizor.cfd^
@@ -18093,6 +18096,7 @@ vkcdnservice.appspot.com^
 ||dlbtsqpnhhzzf.site^
 ||dldvfyshpgftw.website^
 ||dle-news.xyz^
+||dlefmrfkqjmyw.site^
 ||dlerwfqexgfoh.space^
 ||dletviqckubbb.space^
 ||dlglvsxadvloc.online^
@@ -23796,6 +23800,7 @@ vkcdnservice.appspot.com^
 ||gfglsjrfdxvte.website^
 ||gfhgxmczmrcda.site^
 ||gfkfqilsulylx.website^
+||gfmoyucbasr.com^
 ||gfnpfbalgsfgw.space^
 ||gfnpuxuwhegea.space^
 ||gfogjmvuwobroew.com^
@@ -30180,6 +30185,7 @@ vkcdnservice.appspot.com^
 ||jwigxlvorrowv.site^
 ||jwjcpzdprksgg.online^
 ||jwkjlejxvxj.xyz^
+||jwnlbobszdrama.com^
 ||jwoawrucjoerw.space^
 ||jwp4th9kj1i89ce.cfd^
 ||jwqatrgdttvdj.website^
@@ -48175,6 +48181,7 @@ vkcdnservice.appspot.com^
 ||soxfokwppwqpm.website^
 ||soybeanteskere.cyou^
 ||soycdn.lol^
+||soydhhbtirqqh.space^
 ||sozlsiexijubh.website^
 ||soznlghtktitc.website^
 ||sozzlypeavies.com^
@@ -48283,6 +48290,7 @@ vkcdnservice.appspot.com^
 ||sphericalwife.pro^
 ||sphidaphyps.com^
 ||sphinxillbred.com^
+||sphxriacbsuql.space^
 ||spice-sugar.net^
 ||spicedeirene.cyou^
 ||spiceforthjobless.com^
@@ -51700,6 +51708,7 @@ vkcdnservice.appspot.com^
 ||tudrrynzkocdq.website^
 ||tuesdayfetidlit.com^
 ||tuesdaypeas.com^
+||tueubpbayxqrs.online^
 ||tufaaijqffzug.site^
 ||tuffoonincaged.com^
 ||tuffsexhumer.shop^
@@ -54455,6 +54464,7 @@ vkcdnservice.appspot.com^
 ||vnjfknqhebwq.com^
 ||vnkzpvmaximaz.website^
 ||vnncpccdpfupq.site^
+||vnourljxqtsxz.site^
 ||vnpcqiazqmzeq.online^
 ||vnrbjvbwbqfob.click^
 ||vntsm.com^
@@ -56116,6 +56126,7 @@ vkcdnservice.appspot.com^
 ||wnnatyfziksqt.website^
 ||wnndiuhirl.net^
 ||wnoeyhmmzfmlt.online^
+||wnouedleuwvj.com^
 ||wnouncrrippleshiswa.org^
 ||wnp.com^
 ||wnpqshqzj.com^
