@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-28T04:57:03.124Z
+! Last modified: 2026-02-28T06:39:54.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7151,6 +7151,7 @@ vkcdnservice.appspot.com^
 ||7rh3wjf4o5czkicukz.cyou^
 ||7thvyebqhu7956.cfd^
 ||7v6n8qo83l71346kwz4nlq.rest^
+||7vpqbe34x6hzht7rylkgeql.cfd^
 ||7wmkm3837trf1lobgo.cfd^
 ||7wuoy9ijxj53p3rl7xf6mkz.cfd^
 ||7y62znxblcg8zy8ujpovei.rest^
@@ -15033,6 +15034,7 @@ vkcdnservice.appspot.com^
 ||cloakedjesses.cfd^
 ||clobberprocurertightwad.com^
 ||cloblmsvwkjvy.site^
+||clockangrilypotter.com^
 ||clockinaugurateounce.com^
 ||clockwiseleaderfilament.com^
 ||clockwisequillwilfrid.com^
@@ -16500,6 +16502,7 @@ vkcdnservice.appspot.com^
 ||cvosfxunx.com^
 ||cvpdkmzxvnzng.online^
 ||cvqfwzrnkvtun.website^
+||cvsoffmqamhvc.com^
 ||cvsojvxvufspb.website^
 ||cvtkzngwrdnjz.space^
 ||cvtxvdvnjwgex.site^
@@ -22331,6 +22334,7 @@ vkcdnservice.appspot.com^
 ||fodderpracticable.com^
 ||fodsoack.com^
 ||foemengasper.cfd^
+||foemenpater.shop^
 ||foemenpost.cyou^
 ||foeowuevgzenq.online^
 ||foerpo.com^
@@ -29062,6 +29066,7 @@ vkcdnservice.appspot.com^
 ||jadaichuwhegral.net^
 ||jadcenter.com^
 ||jaded-voice.pro^
+||jadedblame.pro^
 ||jadedguidance.pro^
 ||jadeinvitelawsuit.com^
 ||jadjkuofzwad.com^
@@ -43347,6 +43352,7 @@ vkcdnservice.appspot.com^
 ||quarterbackchangeless.com^
 ||quarterlybeyond.com^
 ||quarterlybeyond.pro^
+||quarterlyimportance.pro^
 ||quartzgradient.net^
 ||quashtancel.cyou^
 ||quasicurrant.com^
@@ -49966,6 +49972,7 @@ vkcdnservice.appspot.com^
 ||tatfuneyuwbqk.site^
 ||tatianapyrous.life^
 ||tatqjnpzzwlyh.site^
+||tattered-panic.pro^
 ||tattered-regular.com^
 ||tattered-sale.com^
 ||tatteredboyfriend.pro^
@@ -50023,6 +50030,7 @@ vkcdnservice.appspot.com^
 ||tbnunoenoxnyi.site^
 ||tbogujbgj.net^
 ||tbomrnjwazblx.website^
+||tbpnaezomkw.com^
 ||tbpot.com^
 ||tbpxrzzrtvbqn.space^
 ||tbspraffe.rest^
@@ -50087,6 +50095,7 @@ vkcdnservice.appspot.com^
 ||tdueuhucfevnv.website^
 ||tdvpihxupzkcw.online^
 ||tdwpdgmgjgbqk.site^
+||tdxwtdxyvgi.com^
 ||tdzegpeatygun.tech^
 ||te6mumo35cc2t6rc11cvh.cfd^
 ||teacherrecollect.com^
@@ -56768,6 +56777,7 @@ vkcdnservice.appspot.com^
 ||wympecivpnbxd.website^
 ||wymprdyqvqaqxdj.com^
 ||wymuxgvyjwmraqn.net^
+||wynrisisthm.qpon^
 ||wynvalur.com^
 ||wypmfqgwnetdz.online^
 ||wyqikvlslnuuf.space^
