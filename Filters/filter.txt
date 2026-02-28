@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-28T06:39:54.498Z
+! Last modified: 2026-02-28T08:30:42.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10285,6 +10285,7 @@ vkcdnservice.appspot.com^
 ||attacheatableoverlabor.com^
 ||attached-clock.pro^
 ||attachedglorysticks.com^
+||attachedguy.pro^
 ||attachedkneel.com^
 ||attackastonishment.com^
 ||attackedwary.com^
@@ -22524,6 +22525,7 @@ vkcdnservice.appspot.com^
 ||forzscabridmyotony.cfd^
 ||forzubatr.com^
 ||foshauxoalie.net^
+||fotccipmvwt.com^
 ||fotchacherg.net^
 ||fotgjbrvuzw.com^
 ||fothergleave.qpon^
@@ -30301,6 +30303,7 @@ vkcdnservice.appspot.com^
 ||jyvddjlkimool.website^
 ||jyvkwqjremmly.top^
 ||jyvkwqjremqkz.top^
+||jywbsdjbocnfqui.com^
 ||jyxzaikrzaprd.site^
 ||jyygfagvwio.xyz^
 ||jyzkut.com^
@@ -31072,6 +31075,7 @@ vkcdnservice.appspot.com^
 ||knakplhtmqxzo.space^
 ||knalpmavgfdum.space^
 ||knappanguarrau.qpon^
+||knappycuts.qpon^
 ||knatteholtsnumbing.cfd^
 ||knbncmmklysfe.site^
 ||knbobfcgrbm.xyz^
@@ -32961,6 +32965,7 @@ vkcdnservice.appspot.com^
 ||lominglaes.com^
 ||loneinner.com^
 ||lonelslnbh.xyz^
+||lonelyerror.com^
 ||lonelyjunior.com^
 ||lonelysilver.pro^
 ||lonelystress.com^
@@ -58632,6 +58637,7 @@ vkcdnservice.appspot.com^
 ||zabkvvqzulvwe.online^
 ||zabraridger.cyou^
 ||zachpigs.help^
+||zacjyotxtq.com^
 ||zacleporis.com^
 ||zacnzkkkaufrb.online^
 ||zacoortautsougi.net^
@@ -58701,6 +58707,7 @@ vkcdnservice.appspot.com^
 ||zazlluqbstvzk.website^
 ||zazlpkapqlrai.website^
 ||zb94bheebq2bip.cfd^
+||zbaleqvaffoqg.com^
 ||zbhfbgoskxqmz.online^
 ||zbhxbpkoqbysc.website^
 ||zbifzcbcwsuuu.space^
@@ -150532,6 +150539,7 @@ dlsdk.appsflyer.com^
 ||bgblsb5s6a.com^
 ||jbw4kkuf2y.com^
 ||tgdlqeqpbh.com^
+||5yc8ui0n3j.com^
 ||muxc8wxhv.com^
 ||z0vogb8ns.com^
 ||jvqo1iiej.com^
