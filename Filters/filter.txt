@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-28T03:56:17.438Z
+! Last modified: 2026-02-28T04:57:03.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20150,6 +20150,7 @@ vkcdnservice.appspot.com^
 ||enquiryjennie.cyou^
 ||enquirysavagely.com^
 ||enraged-contest.pro^
+||enraged-moment.pro^
 ||enrageperplexparable.com^
 ||enrangedioecy.cyou^
 ||enraptureforemostearly.com^
@@ -38962,6 +38963,7 @@ vkcdnservice.appspot.com^
 ||otgyufesofpmu.online^
 ||othburjqeliqk.space^
 ||other-log.pro^
+||othercharacter.pro^
 ||otherleg.pro^
 ||otherwallowssheh.com^
 ||otherwisepassageinsulting.com^
@@ -47163,6 +47165,7 @@ vkcdnservice.appspot.com^
 ||shockdefined.com^
 ||shocked-failure.com^
 ||shocked-home.com^
+||shockedfeature.pro^
 ||shocking-honey.com^
 ||shockinghighlight.pro^
 ||shockingstrategynovelty.com^
@@ -55619,6 +55622,7 @@ vkcdnservice.appspot.com^
 ||wgmdckuydsclg.website^
 ||wgmenxpvnxnbs.space^
 ||wgovzfxfccdpd.site^
+||wgpnkfvdbiq.com^
 ||wgptspxgngbhf.space^
 ||wgsaralfncvvb.online^
 ||wgsndjdiiofac.space^
@@ -57496,6 +57500,7 @@ vkcdnservice.appspot.com^
 ||xulryfwligvot.site^
 ||xunuzotensoza.website^
 ||xupmzrflnoedu.website^
+||xupnmgwgmjddx.site^
 ||xupobpgarh.com^
 ||xupxugwmed.com^
 ||xurkvrrdbevqc.website^
@@ -150515,6 +150520,8 @@ dlsdk.appsflyer.com^
 ||pj4til72yp.com^
 ||inception27.com^
 ||bgblsb5s6a.com^
+||jbw4kkuf2y.com^
+||tgdlqeqpbh.com^
 ||muxc8wxhv.com^
 ||z0vogb8ns.com^
 ||jvqo1iiej.com^
