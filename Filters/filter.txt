@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-01T18:34:58.863Z
+! Last modified: 2026-03-01T20:28:09.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10773,6 +10773,7 @@ vkcdnservice.appspot.com^
 ||azidosovertyattaleh.cyou^
 ||azimidecoft.qpon^
 ||azirwjyxuctdp.website^
+||azixsxtxoptba.site^
 ||azjmp.com^
 ||azjodnjtu.com^
 ||azjzlvgaifdzc.site^
@@ -19749,6 +19750,7 @@ vkcdnservice.appspot.com^
 ||ejgmkvprpjqww.site^
 ||ejhlcimbpsqwj.site^
 ||ejihhtgvjeglq.online^
+||ejkhqkcnjfyyc.space^
 ||ejlqdcyrjsakh.site^
 ||ejmfafawvxqam.online^
 ||ejmshxkjsfrhi.space^
@@ -20866,6 +20868,7 @@ vkcdnservice.appspot.com^
 ||eweriesisidia.cfd^
 ||ewesmedia.com^
 ||ewetrotreset.com^
+||ewfashuomphim.website^
 ||ewhareey.com^
 ||ewheegeeci.net^
 ||ewhfrfdrwffkg.website^
@@ -22944,6 +22947,7 @@ vkcdnservice.appspot.com^
 ||fryboldlymalice.com^
 ||frycornwhole.com^
 ||fryrurzfmbrhi.online^
+||frzsblxklkuoa.site^
 ||frztpfjmnuexn.space^
 ||fsalfrwdr.com^
 ||fsbbdiymhh.xyz^
@@ -27024,6 +27028,7 @@ vkcdnservice.appspot.com^
 ||hrient.xyz^
 ||hrihqgbkuarzq.online^
 ||hrinnwqjnfwap.online^
+||hriojnskugefb.website^
 ||hrjdhhqxhvi.com^
 ||hrkjgepefndrh.site^
 ||hrknqbbxmyvyo.site^
@@ -27883,6 +27888,7 @@ vkcdnservice.appspot.com^
 ||iisdvomabauto.website^
 ||iisrttiivyqe.com^
 ||iitazqaajeeui.site^
+||iiuazinxasakx.online^
 ||iiwkyrrdmmbvw.site^
 ||iiwsadkxhypb.com^
 ||iiy7i5gyumoi45c3m5cwrh1f.cfd^
@@ -34674,6 +34680,7 @@ vkcdnservice.appspot.com^
 ||mfftbblsjilnb.space^
 ||mffvrbibyvnne.site^
 ||mfgoxtdrxupes.website^
+||mfhkabefnl.com^
 ||mfjgekte.com^
 ||mfjhkyeptwiop.site^
 ||mfkygwkhrbabn.online^
@@ -42244,6 +42251,7 @@ vkcdnservice.appspot.com^
 ||psgkhiojxrfbi.online^
 ||psgtabmbcygivc.com^
 ||psgtmjbcngxdv.website^
+||psgzyrkkjmjvh.online^
 ||pshb.me^
 ||pshmetrk.com^
 ||pshvpyilxuow.net^
@@ -47966,6 +47974,7 @@ vkcdnservice.appspot.com^
 ||sleeverdearn.cyou^
 ||sleeybknlwlcv.online^
 ||sleighssecalin.cfd^
+||sleiwoufxgjui.space^
 ||slerbssivissp.site^
 ||slervwlteedfj.website^
 ||slewinggis.cyou^
@@ -52816,6 +52825,7 @@ vkcdnservice.appspot.com^
 ||ulbackgroundandi.com^
 ||ulbruiqadlmaa.online^
 ||ulbtffsibqrdw.site^
+||ulclaleicfqrp.space^
 ||ulcmswawrzjym.site^
 ||uldhyajkjmcdw.online^
 ||uldthinkhimunp.com^
@@ -54171,6 +54181,7 @@ vkcdnservice.appspot.com^
 ||vdhlxpyxqqnkj.online^
 ||vdhyzqehrizib.site^
 ||vdjzreyjxrjtn.website^
+||vdkozlpgnrdlg.website^
 ||vdkvjefuqvfoh.site^
 ||vdlquklhkemfr.website^
 ||vdlvry.com^
@@ -57508,6 +57519,7 @@ vkcdnservice.appspot.com^
 ||xkcgjgeslbxii.com^
 ||xkfbgozlndstp.online^
 ||xkhjonrijnvvy.online^
+||xkideefv.com^
 ||xkihevzkxjtdq.website^
 ||xkisdsaazwzch.online^
 ||xkjcixcapnt.net^
