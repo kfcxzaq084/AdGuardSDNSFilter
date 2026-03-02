@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-02T18:51:22.212Z
+! Last modified: 2026-03-02T20:38:39.704Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10663,6 +10663,7 @@ vkcdnservice.appspot.com^
 ||avulsedlibbing.qpon^
 ||avulsepingers.help^
 ||avusuapzdqcrc.site^
+||avvheohijfajsl.com^
 ||avview3431.fun^
 ||avxskbxkmtawx.space^
 ||avzaqmaoryehd.website^
@@ -13504,6 +13505,7 @@ vkcdnservice.appspot.com^
 ||bwhuyauklndvt.online^
 ||bwkfevvdrwevl.website^
 ||bwkwfuwfv.xyz^
+||bwldkamba.com^
 ||bwloqkpsisafx.xyz^
 ||bwmbwughl.xyz^
 ||bwnddkpcoavas.website^
@@ -15345,6 +15347,7 @@ vkcdnservice.appspot.com^
 ||cnadxljxczslw.online^
 ||cnahwyisopurj.online^
 ||cnaqnvcexfuwj.website^
+||cnbhxhxvpyo.com^
 ||cnduoumdmxtrt.online^
 ||cnesnnavxumlh.online^
 ||cnethvmomtnsh.site^
@@ -20449,6 +20452,7 @@ vkcdnservice.appspot.com^
 ||envious-impact.pro^
 ||enviousdate.pro^
 ||enviousrootery.cfd^
+||enviromentalspace.cyou^
 ||environmental3x.fun^
 ||environmentimpedimentthorny.com^
 ||environonychia.qpon^
@@ -37915,6 +37919,7 @@ vkcdnservice.appspot.com^
 ||nvikiblsteotq.online^
 ||nvkpfyaubxuud.store^
 ||nvlksszdvekse.space^
+||nvlsfybxuhthz.site^
 ||nvlxvyzmbmixu.site^
 ||nvmfezrbtlcws.online^
 ||nvmkozixnjkwg.website^
@@ -43302,6 +43307,7 @@ vkcdnservice.appspot.com^
 ||qcwncvezgmqbx.site^
 ||qcwnfoqtqgvau.icu^
 ||qcxavhaxbsdie.space^
+||qcymkuckphzpm.website^
 ||qcyqkirxrhidh.site^
 ||qdbqdirohipeb.space^
 ||qdbsewwvrrqug.site^
@@ -43473,6 +43479,7 @@ vkcdnservice.appspot.com^
 ||qhojziwmoav.com^
 ||qhokrckmxeczb.online^
 ||qhqthxofmcdxl.site^
+||qhrgbibebyrow.space^
 ||qhrgkzpfvrtzm.online^
 ||qhsebegxeicom.online^
 ||qhupphmzchsdo.space^
@@ -50587,6 +50594,7 @@ vkcdnservice.appspot.com^
 ||tattered-regular.com^
 ||tattered-sale.com^
 ||tatteredboyfriend.pro^
+||tatteredimprovement.pro^
 ||tatteredpassenger.com^
 ||tatteredperception.pro^
 ||tattiedretched.cyou^
@@ -51149,6 +51157,7 @@ vkcdnservice.appspot.com^
 ||thomasmonks.com^
 ||thomaspigeon.com^
 ||thomistillusor.shop^
+||thonalbxtwvkw.site^
 ||thongmilletbrutally.com^
 ||thongrooklikelihood.com^
 ||thoojoneersooy.net^
@@ -52546,6 +52555,7 @@ vkcdnservice.appspot.com^
 ||tvvydeysyzwnl.site^
 ||tvwxwboysflvt.website^
 ||tvxzuiiddkbqy.online^
+||tvyiggownbqcu.online^
 ||tvzyqtgcqhvtr.space^
 ||twanamatha.cfd^
 ||twangedspitter.cyou^
@@ -53079,6 +53089,7 @@ vkcdnservice.appspot.com^
 ||ujgssjktyezth.website^
 ||ujhmwfajzdsvu.space^
 ||ujiqkgxnuzofp.site^
+||ujjzkcqcgidfv.space^
 ||ujkvzzmbmgvdx.online^
 ||ujlqgbvetzjmf.space^
 ||ujlqnxrgbmtgg.online^
@@ -59342,6 +59353,7 @@ vkcdnservice.appspot.com^
 ||yzncadillukzs.space^
 ||yzottjbhgjcbz.space^
 ||yzozkqzhsbeur.online^
+||yzplgbuupbiwk.online^
 ||yzqituewobhot.website^
 ||yzrgtocyuvzxc.online^
 ||yzsgwklwqzemn.online^
