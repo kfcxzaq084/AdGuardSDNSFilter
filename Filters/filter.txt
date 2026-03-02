@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-02T05:15:14.331Z
+! Last modified: 2026-03-02T06:59:21.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||zqbgk89wxtf192wu8wecmoimrncmey9bi4b52vf.cfd^
+||whwdxzadairoq.website^
+||3n2nc158v6u5hv6o.cfd^
 ||thecalokas.com^
 ||vampyrejibmen.com^
 ||sv1291.space^
@@ -6691,7 +6694,6 @@ vkcdnservice.appspot.com^
 ||3lnj3qgcj6qtwwqgg2cvmen54n17xg1p.rest^
 ||3m8p16urm11roby.cfd^
 ||3mads.com^
-||3n2nc158v6u5hv6o.cfd^
 ||3nbf4.com^
 ||3ng6p6m0.de^
 ||3p2n4ymcxzg1l1r5emt5l4rm2i.cfd^
@@ -7161,6 +7163,7 @@ vkcdnservice.appspot.com^
 ||7qjp23853ovutp.cfd^
 ||7rh3wjf4o5czkicukz.cyou^
 ||7thvyebqhu7956.cfd^
+||7tqi76q54b8fftprgqq.rest^
 ||7v6n8qo83l71346kwz4nlq.rest^
 ||7vpqbe34x6hzht7rylkgeql.cfd^
 ||7wmkm3837trf1lobgo.cfd^
@@ -8902,6 +8905,7 @@ vkcdnservice.appspot.com^
 ||aj2635.bid^
 ||ajacoehkzhvla.website^
 ||ajaelmjytzgmn.website^
+||ajar-emphasis.pro^
 ||ajar-instruction.pro^
 ||ajar-lesson.pro^
 ||ajar-sister.com^
@@ -10537,6 +10541,7 @@ vkcdnservice.appspot.com^
 ||avmpjesjbkona.site^
 ||avocaterehouse.cyou^
 ||avohgtghfsery.space^
+||avoirlope.cfd^
 ||avorgy3431.fun^
 ||avouchuramil.com^
 ||avouerosiest.help^
@@ -12383,6 +12388,7 @@ vkcdnservice.appspot.com^
 ||bnrslks.com^
 ||bnserving.com^
 ||bnsirwpidbpao.online^
+||bnufheexmdpzm.com^
 ||bnvrkmgkwnnoc.space^
 ||bnwhvweqqnisa.online^
 ||bnwqxlwbfyeho.online^
@@ -12639,6 +12645,7 @@ vkcdnservice.appspot.com^
 ||bothersmoanful.com^
 ||bothoorgoamsab.net^
 ||botiatheous.cyou^
+||botjdhcufqte.xyz^
 ||botpynlmmizsr.click^
 ||botsxlhhjdvnp.online^
 ||bottierthereof.help^
@@ -13071,6 +13078,7 @@ vkcdnservice.appspot.com^
 ||btaumppksprkk.website^
 ||btdfqejriamjr.website^
 ||btdykfecwvyso.online^
+||btecvxxnfqaio.site^
 ||btegxrphkoxxw.site^
 ||btejyileyjnma.space^
 ||btftejndwlagu.online^
@@ -15991,6 +15999,7 @@ vkcdnservice.appspot.com^
 ||cqcaoltqtarmz.space^
 ||cqcctsyeqovsh.site^
 ||cqcpazetvhaso.website^
+||cqcsvgiryffsf.online^
 ||cqeorasldxsbw.store^
 ||cqft3xpnhy8ntb2xxxjl37ypc3.rest^
 ||cqhtxycoxspn.com^
@@ -18887,6 +18896,7 @@ vkcdnservice.appspot.com^
 ||dtvvpeizsibai.online^
 ||dtwrykqojntpq.website^
 ||dtynhvwb.com^
+||dtyscezlefppc.website^
 ||dtzcucxegdlqi.website^
 ||dtzoenoduqopn.space^
 ||dtzvavrnbzemd.space^
@@ -20856,6 +20866,7 @@ vkcdnservice.appspot.com^
 ||evgaxoeak.com^
 ||evggxogpkw.com^
 ||evhccqmunl.com^
+||eviafiegoxsru.space^
 ||evidencenulls.com^
 ||evidencestunundermine.com^
 ||evidentlystraighteneddecimal.com^
@@ -22424,6 +22435,7 @@ vkcdnservice.appspot.com^
 ||fnkbfrqhwmjzj.xyz^
 ||fnkejfbxhvkox.website^
 ||fnkestyv.com^
+||fnlpncdfxwphb.site^
 ||fnnlaacqhxdqo.website^
 ||fnnoemdymhpso.store^
 ||fnobmuvwhvmna.store^
@@ -23107,6 +23119,7 @@ vkcdnservice.appspot.com^
 ||fuhzuajqwcmyl.site^
 ||fuigimvxzegjh.online^
 ||fuixbmllpzabg.website^
+||fuiyfhiwcwerrqd.com^
 ||fujeqldwtuxgv.site^
 ||fujhobzuztqvx.website^
 ||fujisbringer.help^
@@ -25958,6 +25971,7 @@ vkcdnservice.appspot.com^
 ||hcgmfnkfgptog.space^
 ||hchwkwwflqsrc.website^
 ||hcioruffodhya.store^
+||hcitukntuo.in^
 ||hcjjizmrsilri.online^
 ||hckahhpjqcpyq.com^
 ||hcknzbetfacar.space^
@@ -36959,6 +36973,7 @@ vkcdnservice.appspot.com^
 ||nihilscurlilyeddy.cfd^
 ||nihongopro.blog^
 ||niilfcpl.net^
+||niimrloquvkhj.site^
 ||nijanghwya.com^
 ||nijaultuweftie.net^
 ||nijduoiqnmguq.space^
@@ -51169,6 +51184,7 @@ vkcdnservice.appspot.com^
 ||tirawpwflqxow.space^
 ||tircyqdomqupu.website^
 ||tired-agency.com^
+||tired-negotiation.pro^
 ||tiredamazingly.com^
 ||tiredelection.com^
 ||tiredstate.pro^
@@ -53288,6 +53304,7 @@ vkcdnservice.appspot.com^
 ||unmefwsycamtq.space^
 ||unmergesquire.life^
 ||unmiredspelk.com^
+||unmirybembex.shop^
 ||unmnehicnyoiz.site^
 ||unmoraldisband.cfd^
 ||unnaturalcask.com^
@@ -54738,6 +54755,7 @@ vkcdnservice.appspot.com^
 ||viralnewsbd.xyz^
 ||viralnewssystems.com^
 ||virasoncalor.cfd^
+||virbiusembus.qpon^
 ||virelon.com^
 ||viremiacomourn.cfd^
 ||vireodancy.cfd^
@@ -57177,6 +57195,7 @@ vkcdnservice.appspot.com^
 ||wwwkiuxvdmglf.online^
 ||wwwpromoter.com^
 ||wwwxmpilsrzij.website^
+||wwxeyxdyyitzl.space^
 ||wwyeejlxobqqn.site^
 ||wwyoyuutoudbf.space^
 ||wwyujfttbpknx.website^
