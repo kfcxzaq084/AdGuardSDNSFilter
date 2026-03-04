@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-04T10:37:23.333Z
+! Last modified: 2026-03-04T12:58:26.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||t.easywebland.my^
+||clladss.com^
+||ofbtrorzo.in^
 ||host57k.cfd^
 ||druggedrat.com^
 ||attacheatableoverlabor.com^
@@ -6827,6 +6830,7 @@ vkcdnservice.appspot.com^
 ||468p54ctzlerylrolnkncpqx33.cfd^
 ||4690y10pvpq8.com^
 ||46a30abd78.com^
+||46rujoo1twcho5n.rest^
 ||479d24d9fd.com^
 ||47c50e31a9.com^
 ||47cb693fa6.com^
@@ -10322,6 +10326,7 @@ vkcdnservice.appspot.com^
 ||aveepsaukseeta.net^
 ||avelpwnzhdoyx.site^
 ||aveneryalumium.cyou^
+||avenuenineteenthendorsement.com^
 ||avepilrorgemtou.net^
 ||averiadoura.help^
 ||averredbiotaxy.cyou^
@@ -13019,6 +13024,7 @@ vkcdnservice.appspot.com^
 ||bwtsfdwatsyhz.website^
 ||bwttasdajpduj.site^
 ||bwwardgyspxvy.site^
+||bwxmlbokxsul.xyz^
 ||bwxpystpdnbla.online^
 ||bwyrblprbxchm.site^
 ||bwywyammvghos.space^
@@ -14607,7 +14613,6 @@ vkcdnservice.appspot.com^
 ||clkrev.com^
 ||clksite.com^
 ||clkxpoakeydsn.online^
-||clladss.com^
 ||clmbtech.com^
 ||clnrwdobejnth.online^
 ||cloacalbacin.cyou^
@@ -17925,6 +17930,7 @@ vkcdnservice.appspot.com^
 ||dqdmiktuordrb.site^
 ||dqdsnemauijvc.online^
 ||dqdtshdifbwm.xyz^
+||dqenixgshnwtg.site^
 ||dqfzbnhbqeqox.space^
 ||dqgjkrsabhnqd.space^
 ||dqgtmenikcjbaf.xyz^
@@ -18908,6 +18914,7 @@ vkcdnservice.appspot.com^
 ||egjqqvtfmjwos.space^
 ||egjtmguxueesf.xyz^
 ||egleevegreemouw.net^
+||eglpfzuyxctkz.space^
 ||egmjqaoequdsv.site^
 ||egoaehxcdqxdn.website^
 ||egoampoomsicird.net^
@@ -20025,6 +20032,7 @@ vkcdnservice.appspot.com^
 ||eviafiegoxsru.space^
 ||evidencenulls.com^
 ||evidentlystraighteneddecimal.com^
+||evidvixve.com^
 ||evil-candle.pro^
 ||evilexchanged.com^
 ||evilstrike.pro^
@@ -20688,6 +20696,7 @@ vkcdnservice.appspot.com^
 ||fdddxeihynrwp.online^
 ||fdewqzozjbjuv.site^
 ||fdfuhymycyhuc.online^
+||fdgfsihvdxfjx.site^
 ||fdglexdsffxug.website^
 ||fdiosdpunrytp.site^
 ||fdkox-a.online^
@@ -24273,6 +24282,7 @@ vkcdnservice.appspot.com^
 ||gvyrxseoqvugu.online^
 ||gwabduqywxher.website^
 ||gwallet.com^
+||gwcqypynajuel.online^
 ||gwdhbowgiiuww.site^
 ||gwfwopvvtqmfh.space^
 ||gwgbgdfponcyb.site^
@@ -26053,6 +26063,7 @@ vkcdnservice.appspot.com^
 ||hvltqxtkeldbc.site^
 ||hvofgazzorthf.space^
 ||hvooyieoei.com^
+||hvpfddlx.com^
 ||hvpgebskfwvux.space^
 ||hvpojkilqqykq.website^
 ||hvpsfsuruamnc.icu^
@@ -26793,6 +26804,7 @@ vkcdnservice.appspot.com^
 ||imminentadvisedlylucius.com^
 ||imminentcawplod.com^
 ||immoderatebreathtaking.com^
+||immoderatescarsheer.com^
 ||immoralhands.com^
 ||immoralmisspell.com^
 ||immortalheliumoverturn.com^
@@ -29400,6 +29412,7 @@ vkcdnservice.appspot.com^
 ||kfkgfumirrdtr.space^
 ||kflosfpnwfzrc.store^
 ||kflxwqsmgegwh.space^
+||kfmayryejhdbw.space^
 ||kfmmfyrkrgipm.love^
 ||kfmsltodvutodo.xyz^
 ||kfpuxzmsanfbb.website^
@@ -30031,6 +30044,7 @@ vkcdnservice.appspot.com^
 ||ksfndodbfbgof.space^
 ||ksglacggaiqfo.online^
 ||ksiabdgtqzbsq.top^
+||ksirqbdzcfeiw.space^
 ||ksjustlikeanan.com^
 ||ksknhvggsizbu.store^
 ||kslfqcxumewry.store^
@@ -30290,6 +30304,7 @@ vkcdnservice.appspot.com^
 ||l1native.com^
 ||l1vec4ms.com^
 ||l2mfle649s080425l.cfd^
+||l34muby3gzqxtju6mtf1bq4efp8x2rqetnpv.cfd^
 ||l3qv7u9ju6b9exevk8hu2564zhieut.rest^
 ||l4c49w21lzpct4c15vr4jnq.cfd^
 ||l4gzf1c3obom3zgfj.cfd^
@@ -30891,6 +30906,7 @@ vkcdnservice.appspot.com^
 ||lfdnetguvtpeg.site^
 ||lfecrvjyokbvh.site^
 ||lfelnkxiazxkx.store^
+||lffmauigoa.com^
 ||lfgknhbirotrt.space^
 ||lfgoielaksccl.site^
 ||lfjikymmt.net^
@@ -31700,6 +31716,7 @@ vkcdnservice.appspot.com^
 ||lprgcuewbzwdd.store^
 ||lprhgzxwskuzd.online^
 ||lprnmzdbmkmah.space^
+||lprqfgedatnhx.space^
 ||lpsaubcit.xyz^
 ||lpskfqjxnrnh.xyz^
 ||lptrak.com^
@@ -33179,6 +33196,7 @@ vkcdnservice.appspot.com^
 ||miniature-gate.pro^
 ||miniature-injury.pro^
 ||miniature-movie.pro^
+||miniaturereality.pro^
 ||minikenungiddy.qpon^
 ||minimumomnipotentintern.com^
 ||minimumshortest.com^
@@ -36183,6 +36201,7 @@ vkcdnservice.appspot.com^
 ||odasospxrfrpk.space^
 ||odbsmbtdcjuzp.site^
 ||odchkdybnsxre.space^
+||odcxkikikbhfm.online^
 ||oddball-creative.pro^
 ||oddlybraceletunseen.com^
 ||oddsideovum.cyou^
@@ -36433,6 +36452,7 @@ vkcdnservice.appspot.com^
 ||ohqaqxurdpnmv.site^
 ||ohqyvfinftokk.space^
 ||ohrdsplu.com^
+||ohrkklvfurjjw.space^
 ||ohsxgfbuqqwog.site^
 ||ohtctjiuow.com^
 ||ohtwiqwhxovjlqi8fcb.cfd^
@@ -47159,6 +47179,7 @@ vkcdnservice.appspot.com^
 ||suyogberate.cfd^
 ||suzanathold.cfd^
 ||suzanne.pro^
+||suzzfekhuwz.in^
 ||svanazido.qpon^
 ||svarajwennish.qpon^
 ||svbakoarswdvw.site^
@@ -47569,6 +47590,7 @@ vkcdnservice.appspot.com^
 ||tanikodolours.qpon^
 ||tankfangspain.com^
 ||tankroyaldivide.com^
+||tanygkdowyekf.online^
 ||taoiyazoarite.cfd^
 ||taoyinbiacid.com^
 ||tapasidlinslicking.cfd^
@@ -50122,6 +50144,7 @@ vkcdnservice.appspot.com^
 ||unaware-pick.pro^
 ||unawaredasheen.com^
 ||unawareirreparable.com^
+||unawarelimited.com^
 ||unawarepozzy.cfd^
 ||unawayartou.cfd^
 ||unbakedlists.cyou^
@@ -54489,6 +54512,7 @@ vkcdnservice.appspot.com^
 ||xnwncknejempg.website^
 ||xnwoyfoqfwvck.site^
 ||xnwtugzfknrtr.store^
+||xnwyqmaqwladi.com^
 ||xnyuivuekmxqm.online^
 ||xo7h4gyq9c2zoeic6yqqj5m.cfd^
 ||xoalt.com^
@@ -60399,6 +60423,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||afs.googlesyndication.com^
+||pob-mob2.websearchbrowser.com^
 ||ucads.ucweb.com^
 ||ad-api.maxnapps.com^
 ||d3vgkjyuhp91nc.cloudfront.net^
@@ -61194,6 +61220,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||mollyflow.com^
 ||carsarace.com^
 ||citiservi.es^
 ||api.datahub-srgssr.ch^
@@ -136042,6 +136069,10 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||log.sweepycleanplus.com^
+||log.photorecoverypicturerecovery.com^
+||log.scanqrcodedesign.live^
+||log.cleanerwish.live^
 ||trace-v1.free-reels.com^
 ||tracking.twelveapp.sh^
 ||trkcliq.com^
