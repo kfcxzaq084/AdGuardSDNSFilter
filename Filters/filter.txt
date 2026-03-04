@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-04T06:50:18.116Z
+! Last modified: 2026-03-04T08:40:19.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||host57k.cfd^
 ||druggedrat.com^
 ||attacheatableoverlabor.com^
 ||zqbgk89wxtf192wu8wecmoimrncmey9bi4b52vf.cfd^
@@ -12406,6 +12407,7 @@ vkcdnservice.appspot.com^
 ||bpigydbzlrszz.online^
 ||bpleaaekrdvnj.site^
 ||bplguggfgslstqm.com^
+||bplpneesbsfmb.website^
 ||bpltqydasflff.online^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
@@ -15801,6 +15803,7 @@ vkcdnservice.appspot.com^
 ||ctwihnfnjypom.site^
 ||ctwmcd.com^
 ||ctwmed.com^
+||ctwnkbrjvigom.online^
 ||ctxirjhxpyjtm.space^
 ||ctxrpolj.net^
 ||ctxwifwe.com^
@@ -20924,6 +20927,7 @@ vkcdnservice.appspot.com^
 ||fhgalvgaycyqw.website^
 ||fhgh9sd.com^
 ||fhgvvrpqkxafv.website^
+||fhgzzmbgbaoyj.website^
 ||fhidpgtnlatkm.com^
 ||fhidzinivqjfv.site^
 ||fhiegretefqfb.website^
@@ -20965,6 +20969,7 @@ vkcdnservice.appspot.com^
 ||fibaulaimpaup.net^
 ||fibbooze.com^
 ||fibredelivery.com^
+||fibvghdjfcbua.space^
 ||fickle-dream.com^
 ||fickle-travel.pro^
 ||fickleassistant.pro^
@@ -31456,6 +31461,7 @@ vkcdnservice.appspot.com^
 ||lockersatelic.cam^
 ||locketsauce.com^
 ||lockoophoossy.net^
+||locksadvancedrelease.com^
 ||lockupaccede.com^
 ||locnrivalry.qpon^
 ||locoesferrara.qpon^
@@ -32687,6 +32693,7 @@ vkcdnservice.appspot.com^
 ||mdruxuqpjtjej.net^
 ||mdrwjsijuqvtn.rocks^
 ||mdsdnwagyymbr.space^
+||mdspfbxnvqgut.website^
 ||mdsvzlhktbgey.space^
 ||mdvsrvyjsnwds.site^
 ||mdwzdvbjkixim.site^
@@ -36294,6 +36301,7 @@ vkcdnservice.appspot.com^
 ||ofklefkian.com^
 ||ofkrabbyr.com^
 ||ofleafeona.com^
+||oflewvqfoilcn.website^
 ||ofljjrxtflpva.space^
 ||ofluyplnfaqhi.site^
 ||ofmdohtxiotxm.site^
@@ -41355,6 +41363,7 @@ vkcdnservice.appspot.com^
 ||qubakqrsnvr.com^
 ||qubbitkwznett.space^
 ||qubisticss.com^
+||qudbmtsluirkx.site^
 ||queachhewing.qpon^
 ||queachycorer.com^
 ||queasy-regular.pro^
@@ -51208,6 +51217,7 @@ vkcdnservice.appspot.com^
 ||vclouds.com^
 ||vcluuabdlvgmx.online^
 ||vcmedia.com^
+||vcnulcbadmyobhe.com^
 ||vcommission.com^
 ||vcpawsbq.net^
 ||vcpxqngfyulqg.website^
@@ -53934,6 +53944,7 @@ vkcdnservice.appspot.com^
 ||wxlgtwrcruaui.online^
 ||wxnbmpishocym.online^
 ||wxoxhqasovdxy.space^
+||wxpmgnvi.com^
 ||wxqhhskaltnbw.site^
 ||wxrgjdkxhegjn.online^
 ||wxtldkydabpmz.online^
@@ -138164,6 +138175,7 @@ dlsdk.appsflyer.com^
 ||bananabarrel.com^
 ||barbadoshello.com^
 ||barbarousbase.com^
+||barbershirts.com^
 ||baseboosters.com^
 ||basilfish.com^
 ||basketballbelieve.com^
@@ -150634,6 +150646,8 @@ dlsdk.appsflyer.com^
 ||mhmciof8ef.com^
 ||fp9gvw5ber.com^
 ||chplea1tj9.top^
+||4nndezdx2u.com^
+||7ddqvun8i1.com^
 ||x6d93mku0.com^
 ||bkam33lsr.com^
 ||fvfxpkmo.icu^
