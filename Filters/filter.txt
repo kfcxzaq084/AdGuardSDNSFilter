@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-06T18:47:31.384Z
+! Last modified: 2026-03-06T20:32:56.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14093,6 +14093,7 @@ vkcdnservice.appspot.com^
 ||cheateditza.cyou^
 ||cheatingagricultural.com^
 ||chebelviciousyellowy.cfd^
+||chebfqsmfwovu.online^
 ||cheboolraibsook.net^
 ||check-tl-ver-294-2.com^
 ||check-windows-ai.xyz^
@@ -17673,6 +17674,7 @@ vkcdnservice.appspot.com^
 ||dltvynzqambdl.space^
 ||dlvakopvbuiwi.website^
 ||dlvtuqmylwqwr.online^
+||dlwcykvqaebqb.com^
 ||dlwezntlxwlqu.website^
 ||dlwhtkiilipxk.site^
 ||dlwmkldaebzds.website^
@@ -20937,6 +20939,7 @@ vkcdnservice.appspot.com^
 ||feistsshalier.cyou^
 ||feisty-strength.pro^
 ||fejwweqjtndwz.site^
+||fekspkhytsivw.website^
 ||felafelcypsela.cyou^
 ||felidturusledges.cyou^
 ||felinaecauline.cfd^
@@ -23802,6 +23805,7 @@ vkcdnservice.appspot.com^
 ||goraps.com^
 ||gorbitshallopvillus.cyou^
 ||gorblekeepers.qpon^
+||gorckvuyefwjt.site^
 ||gorclck.com^
 ||gorcockgutta.help^
 ||gordiusoer.com^
@@ -25720,6 +25724,7 @@ vkcdnservice.appspot.com^
 ||hogpastebruise.com^
 ||hogtiedhalawi.com^
 ||hogyardkerasin.com^
+||hohuwpdeefdgp.website^
 ||hoickpinyons.com^
 ||hoicksfq.xyz^
 ||hoirms.com^
@@ -28497,6 +28502,7 @@ vkcdnservice.appspot.com^
 ||jhifvrtpxuxuu.online^
 ||jhkaqxqggetya.website^
 ||jhkfd.com^
+||jhkhlbdeos.com^
 ||jhlqeima.net^
 ||jhlxmodmknxce.online^
 ||jhmjhgef.net^
@@ -30246,6 +30252,7 @@ vkcdnservice.appspot.com^
 ||kpuscrsmljibk.space^
 ||kpvilypxcybct.site^
 ||kpvlhacvplbci.site^
+||kpwvntvpoksyw.website^
 ||kpwxihsvzxxsv.online^
 ||kpysjsnfgqdnc.website^
 ||kpzdophqurlbw.website^
@@ -30490,6 +30497,7 @@ vkcdnservice.appspot.com^
 ||kwnrmeykkqmqo.site^
 ||kwnvylweylven.online^
 ||kwpgeebopaqpn.site^
+||kwphbfgfhehbm.online^
 ||kwrbryjcespcp.online^
 ||kwserving.com^
 ||kwtdaxwvabhrp.site^
@@ -35022,6 +35030,7 @@ vkcdnservice.appspot.com^
 ||nckyebkwqugez.website^
 ||ncmeojlrybcza.online^
 ||ncnqvqyekbvno.site^
+||ncovrokc.com^
 ||ncoyercwrriqc.website^
 ||ncpxxeqcnifnur.com^
 ||ncqfppkwczjal.site^
@@ -38382,6 +38391,7 @@ vkcdnservice.appspot.com^
 ||pastelentirely.com^
 ||pasteljav128.fun^
 ||pastieschechia.cyou^
+||pastilsrenneguid.cyou^
 ||pastrevolution.pro^
 ||pastryhobbled.com^
 ||pasttable.com^
@@ -48335,6 +48345,7 @@ vkcdnservice.appspot.com^
 ||telesiskhakhamboonies.cyou^
 ||telesmdhal.help^
 ||televisiongrownupcrowd.com^
+||telicsagummilkers.cfd^
 ||tellinelenchi.cyou^
 ||telllwrite.com^
 ||tellsvastpuff.com^
@@ -48980,6 +48991,7 @@ vkcdnservice.appspot.com^
 ||tlhargslcdwpk.space^
 ||tlhbzimbrhqbg.online^
 ||tlhrenkzzrwzc.online^
+||tliplyornbfuz.site^
 ||tlkhivxrvlrcb.store^
 ||tlklwtqqewceq.world^
 ||tlllccmkxwcze.website^
@@ -53199,6 +53211,7 @@ vkcdnservice.appspot.com^
 ||wbaetwsafkqlw.store^
 ||wbamedia.com^
 ||wbaolixcouqle.website^
+||wbbooupkjgwox.site^
 ||wbbqxxxelvpy.com^
 ||wbbuhddcgijha.online^
 ||wbdaxsscxpgzg.website^
@@ -54314,6 +54327,7 @@ vkcdnservice.appspot.com^
 ||wqoruynunigia.website^
 ||wqpe2oby1rfiz7i5n8.cfd^
 ||wqpgjenwxsbyd.space^
+||wqpkffkrcnqyw.online^
 ||wqsorpqjnpwrg.online^
 ||wqtfijyhoppfk.website^
 ||wqtpdbegijbuz.website^
@@ -55616,6 +55630,7 @@ vkcdnservice.appspot.com^
 ||ycqsozlszqmdr.website^
 ||ycstajztzoyiu.online^
 ||yctoqjnhqoyzw.space^
+||ycugaikxafv.com^
 ||ycujxlhfxchwi.space^
 ||ycuqsfstnqztg.online^
 ||ycvlvgcuaxtem.website^
@@ -55845,6 +55860,7 @@ vkcdnservice.appspot.com^
 ||yjhcwchynwgko.website^
 ||yjjfvcbzbrppe.store^
 ||yjnymcgboozbn.site^
+||yjonbxthuxllt.website^
 ||yjotqzesimahl.online^
 ||yjpqcnhnpaghu.site^
 ||yjrohhkqfddlx.store^
