@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T20:36:01.402Z
+! Last modified: 2026-03-09T22:29:38.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6477,6 +6477,7 @@ vkcdnservice.appspot.com^
 ||1ts19.top^
 ||1ug4kjo858fwzokkt4icgj8hq.rest^
 ||1ul6b1692e993bxyc3bzhx7.cyou^
+||1v7cn3wcfbff1ynurjuno.rest^
 ||1vpuev9xcwniqw.cfd^
 ||1vrz8y2kyblejpv852k.cfd^
 ||1web.me^
@@ -15646,6 +15647,7 @@ vkcdnservice.appspot.com^
 ||cozigplpxpcih.site^
 ||cozovoids.shop^
 ||cozyforestglade.com^
+||cp2z67w9gwpokhyo69ii7c.cfd^
 ||cpa-optimizer.online^
 ||cpa3iqcp.de^
 ||cpabeyond.com^
@@ -17151,6 +17153,7 @@ vkcdnservice.appspot.com^
 ||denialtransportationfair.com^
 ||denierconsuls.cyou^
 ||denknowledc.org^
+||denomlotas.qpon^
 ||denotemylemonade.com^
 ||denotevocation.com^
 ||denoughtanot.info^
@@ -19484,6 +19487,7 @@ vkcdnservice.appspot.com^
 ||electricalglimmerexasperate.com^
 ||electricalsedate.com^
 ||electricruin.pro^
+||electsauna.com^
 ||electthirteenth.com^
 ||elegancecharacter.com^
 ||elegant-plate.pro^
@@ -22569,6 +22573,7 @@ vkcdnservice.appspot.com^
 ||fuglerfisc.qpon^
 ||fuglesnits.cyou^
 ||fugsslosher.com^
+||fuguhavageputlog.cyou^
 ||fuhcoupnmivfn.site^
 ||fuhoftoajoabs.net^
 ||fuhzuajqwcmyl.site^
@@ -28551,6 +28556,7 @@ vkcdnservice.appspot.com^
 ||jaimirozadair.net^
 ||jaiphaugaw.net^
 ||jaiphoudidaust.net^
+||jakebizarreexclusively.com^
 ||jakeconventconcerned.com^
 ||jakedefy.com^
 ||jakobincide.help^
@@ -28721,6 +28727,7 @@ vkcdnservice.appspot.com^
 ||jdt8.net^
 ||jdtqbvirzetyc.website^
 ||jdvncnlwf.net^
+||jdvrlaqnp.com^
 ||jdwqsewrbvnnt.website^
 ||jdxnelgnhtfyq.space^
 ||jdxxuvnrpdmit.space^
@@ -28739,6 +28746,7 @@ vkcdnservice.appspot.com^
 ||jedirtatchaum.net^
 ||jedlint.cyou^
 ||jedrgrklutyni.site^
+||jedtowdvfkdmosj.com^
 ||jeebuneeraulee.net^
 ||jeecouthie.cyou^
 ||jeejujou.net^
@@ -29467,6 +29475,7 @@ vkcdnservice.appspot.com^
 ||juc75kopmn318ywek25wc8ekp.cfd^
 ||judaicaravened.cyou^
 ||judaismgerate.shop^
+||judaparevernia.cfd^
 ||judazkoxbnhnc.store^
 ||juddockacorea.help^
 ||judebelii.com^
@@ -32441,6 +32450,7 @@ vkcdnservice.appspot.com^
 ||lowlifewhateverspotless.com^
 ||lowlyikfeaco.com^
 ||lowlynovices.shop^
+||lowmostuttered.cfd^
 ||lowmothandhadb.org^
 ||lownoc.org^
 ||loworiginatepalette.com^
@@ -33270,6 +33280,7 @@ vkcdnservice.appspot.com^
 ||margive.com^
 ||margotfoehn.cfd^
 ||marianneperiod.com^
+||mariaplebs.shop^
 ||marijuanaclosenessblotch.com^
 ||marimedia.com^
 ||marinadelifestyle.com^
@@ -33997,6 +34008,7 @@ vkcdnservice.appspot.com^
 ||millsuspect.com^
 ||milnhghbwgyco.site^
 ||milpasexogyra.cfd^
+||milpastholes.cyou^
 ||milterismaili.cfd^
 ||miltersdonnee.cyou^
 ||miltlametta.com^
@@ -38261,6 +38273,7 @@ vkcdnservice.appspot.com^
 ||ouhcukdnksvft.space^
 ||ouhoxibwjvwuz.site^
 ||ouhzizxfdmsbv.site^
+||ouirlegoascq.com^
 ||ouiwfrtqcwjeu.online^
 ||oukaurgaukreery.net^
 ||ouldhukelpmetor.org^
@@ -43156,6 +43169,7 @@ vkcdnservice.appspot.com^
 ||realevalbs.com^
 ||realisechewing.com^
 ||realiserecognize.com^
+||realisticprint.pro^
 ||realisticwhite.com^
 ||realizationnewestfangs.com^
 ||realizationwaterwillingly.com^
@@ -46173,6 +46187,7 @@ vkcdnservice.appspot.com^
 ||shinebliss.com^
 ||shinedaffiedsirees.cyou^
 ||shinglerid.com^
+||shingonpuggry.cyou^
 ||shiningleafpath.com^
 ||shiny-toe.com^
 ||shinybarvelepigone.cfd^
@@ -48529,6 +48544,7 @@ vkcdnservice.appspot.com^
 ||swhzkxsvixmod.space^
 ||swidgeromper.help^
 ||swidprxaafwha.store^
+||swift-vacation.pro^
 ||swiftenhuffing.cfd^
 ||swiftladle.com^
 ||swiftlymonumentcheating.com^
@@ -55621,6 +55637,7 @@ vkcdnservice.appspot.com^
 ||xajgsjguxriuc.space^
 ||xakhgpksmptdm.website^
 ||xankzgpeqersd.site^
+||xanvjayulcjcb.xyz^
 ||xaofdyhfyowfw.space^
 ||xapads.com^
 ||xaplonmsgwn.com^
