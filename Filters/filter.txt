@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T08:46:27.505Z
+! Last modified: 2026-03-09T10:45:50.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12632,6 +12632,7 @@ vkcdnservice.appspot.com^
 ||bravestionismtirve.cfd^
 ||bravotrk.com^
 ||bravuraoralogy.cyou^
+||brawnednonegotipper.qpon^
 ||braylosings.qpon^
 ||brazenwholly.com^
 ||braziersynop.cfd^
@@ -17168,6 +17169,7 @@ vkcdnservice.appspot.com^
 ||derfulstatuehel.com^
 ||deridenightingalepartial.com^
 ||derideskid.com^
+||derriesenew.qpon^
 ||dertralycosa.qpon^
 ||dertrumoomancypledgee.cfd^
 ||derwaistthatheha.org^
@@ -17589,6 +17591,7 @@ vkcdnservice.appspot.com^
 ||discriminationseizebananas.com^
 ||discussedinterdependent.com^
 ||discussedthreaten.com^
+||discussfaithless.com^
 ||discussingnobody.com^
 ||discussionvapour.com^
 ||disdainevaluation.com^
@@ -20836,6 +20839,7 @@ vkcdnservice.appspot.com^
 ||fajymiaerxrbs.site^
 ||fake-square.com^
 ||fakeersflail.cyou^
+||fakmfobfioir.xyz^
 ||fakzyjkleisrr.online^
 ||falangesunbowsbingle.cyou^
 ||falcopeacing.com^
@@ -21960,6 +21964,7 @@ vkcdnservice.appspot.com^
 ||followingpartlyindicator.com^
 ||followjav182.fun^
 ||followmurmuringsquealing.com^
+||followsscaringcarrier.com^
 ||folnpqyqxwdhl.space^
 ||folsksjofpuum.online^
 ||folsomofay.qpon^
@@ -24325,6 +24330,7 @@ vkcdnservice.appspot.com^
 ||greevedaikon.cfd^
 ||greewepi.net^
 ||grefutiwhe.com^
+||gregarious-control.pro^
 ||gregarious-question.com^
 ||greheelsy.net^
 ||grelotsorghos.help^
@@ -25416,6 +25422,7 @@ vkcdnservice.appspot.com^
 ||hegraixaimp.net^
 ||hegrbaokqwzll.website^
 ||hehadstoppedto.org^
+||hehdhfevfem.com^
 ||hehewow.com^
 ||heighencarpa.cyou^
 ||heikumcocker.com^
@@ -25657,6 +25664,7 @@ vkcdnservice.appspot.com^
 ||hidecatastropheappend.com^
 ||hidelgofer.cyou^
 ||hideousnumber.com^
+||hidewnpdtbou.com^
 ||hidgfbsitnc.fun^
 ||hidlessonana.com^
 ||hidlinsboart.com^
@@ -27205,6 +27213,7 @@ vkcdnservice.appspot.com^
 ||ikujajchtbxmv.site^
 ||ikvqdukpfmhhg.site^
 ||ikzwvkuxrymqu.space^
+||il2foh6wfcznb75tu2zz.cfd^
 ||ilaterdeallyig.info^
 ||ilbia.com^
 ||ilbotbryehcxm.online^
@@ -29453,6 +29462,7 @@ vkcdnservice.appspot.com^
 ||julvpwohwlmgb.online^
 ||julyclassesstature.com^
 ||julyfellowslaxly.cyou^
+||jumblenewsletterdebark.com^
 ||jumbo-insurance.pro^
 ||jumbo-order.com^
 ||jumbo-quantity.pro^
@@ -32987,6 +32997,7 @@ vkcdnservice.appspot.com^
 ||magasscraggy.cfd^
 ||magazinenews1.xyz^
 ||magekeenersmythism.cfd^
+||maggotycyclode.cfd^
 ||maghoutwell.com^
 ||maghribstigmeseugonic.cfd^
 ||magicallyitalian.com^
@@ -33140,6 +33151,7 @@ vkcdnservice.appspot.com^
 ||manidaesyrtis.qpon^
 ||manifestoctavianapostrophe.com^
 ||manilaberchtahuscarl.cfd^
+||manilalunule.cyou^
 ||maniockisang.qpon^
 ||manipulativeslaves.com^
 ||manksdmejidwv.website^
@@ -34514,6 +34526,7 @@ vkcdnservice.appspot.com^
 ||mortimersmiles.com^
 ||mortypush.com^
 ||moscmzvpxnjjq.website^
+||moselfaecula.qpon^
 ||mosellefactive.qpon^
 ||moskscystein.cfd^
 ||mosquenests.cfd^
@@ -34991,6 +35004,7 @@ vkcdnservice.appspot.com^
 ||mutinedgunster.com^
 ||mutinousburyquestionable.com^
 ||mutsvxpgcqwxk.online^
+||mutuelamastia.cfd^
 ||mutulessatara.help^
 ||muumuuworked.cfd^
 ||muuxrbdsheuhg.space^
@@ -38971,6 +38985,7 @@ vkcdnservice.appspot.com^
 ||pawkyearing.cfd^
 ||pawniesoothe.help^
 ||pawnspostie.cfd^
+||pawnsrewagerandrea.qpon^
 ||pawntransgress.com^
 ||pawsdefenseneigh.com^
 ||pawsjest.com^
@@ -39925,6 +39940,7 @@ vkcdnservice.appspot.com^
 ||platodebruinshowish.cfd^
 ||platooncombinedborrowed.com^
 ||plawmkugopluh.online^
+||playdiversionroyalty.com^
 ||playedsophomore.com^
 ||playeranydwouldm.org^
 ||playerhq.co^
@@ -53907,6 +53923,7 @@ vkcdnservice.appspot.com^
 ||wastabljellib.com^
 ||wastagelulabs.cfd^
 ||wasteful-clothes.com^
+||wasteful-county.com^
 ||wastefulrope.com^
 ||wastineediblesunsere.cyou^
 ||wastinghaplome.cyou^
@@ -54494,6 +54511,7 @@ vkcdnservice.appspot.com^
 ||wholeingredient.com^
 ||wholescience.pro^
 ||wholeshopping.pro^
+||wholesshoddy.cyou^
 ||wholituaten.com^
 ||whollyencodedmyopes.qpon^
 ||whollyindependentlylooking.com^
@@ -56200,6 +56218,7 @@ vkcdnservice.appspot.com^
 ||xwyhflmdwpxfg.site^
 ||xwzbpkku-i.site^
 ||xwzsskvlvohwl.top^
+||xxbbcme5z2epkrqvrvuctb7hx8cp87nm.rest^
 ||xxbqdvqbsebwu.online^
 ||xxdlfjdtazsju.website^
 ||xxeijpnflygus.website^
@@ -134317,6 +134336,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ingest-api.evoto.ai^
 ||api.jformatter.com^
 ||analytics-api.penpencil.co^
 ||health.flowplayer.com^
