@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T13:05:02.744Z
+! Last modified: 2026-03-09T14:51:57.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15021,6 +15021,7 @@ vkcdnservice.appspot.com^
 ||coaxxzbkmxkki.website^
 ||coazdbbxocvgi.site^
 ||cobaltsanctionyodel.com^
+||cobbiercurvet.shop^
 ||cobrascared.help^
 ||cobwebcomprehension.com^
 ||cobwebhauntedallot.com^
@@ -19414,6 +19415,7 @@ vkcdnservice.appspot.com^
 ||ekfqaxxwnmqdb.website^
 ||ekgjddiuwwyrv.online^
 ||ekgliuilmwdi.com^
+||ekisticspinoid.cyou^
 ||ekjuwbrab.com^
 ||ekjyguvzxzlrb.online^
 ||ekklgpfmaviji.online^
@@ -19766,6 +19768,7 @@ vkcdnservice.appspot.com^
 ||engbjwqvwznxg.website^
 ||engemaminoid.qpon^
 ||engfjteoiyrou.online^
+||enghleforra.qpon^
 ||enginecorruptiontrice.com^
 ||enginedbarelygrocery.cfd^
 ||enginedriverlatter.com^
@@ -20698,6 +20701,7 @@ vkcdnservice.appspot.com^
 ||eygzbrwnapgql.space^
 ||eyiccxilrwhpm.site^
 ||eyidtfpkxbbsl.website^
+||eykcjdmmtsoykl.com^
 ||eykzuhazborbc.online^
 ||eylzypoaxzyjs.online^
 ||eynbheeleyxyv.website^
@@ -23975,6 +23979,7 @@ vkcdnservice.appspot.com^
 ||goaserv.com^
 ||goasrv.com^
 ||goathaga.top^
+||goatsalmighty.com^
 ||goatsearlapflock.com^
 ||goavesyuruk.qpon^
 ||gobacktothefuture.biz^
@@ -25083,6 +25088,7 @@ vkcdnservice.appspot.com^
 ||hanqpwl.com^
 ||hanryyjchzqsv.website^
 ||hansaifordous.net^
+||hanseconelet.qpon^
 ||hanselsgipping.com^
 ||hanssubside.com^
 ||hanypkwwltkhj.online^
@@ -27359,6 +27365,7 @@ vkcdnservice.appspot.com^
 ||imjprkvybgfdw.space^
 ||imkirh.com^
 ||imkjihsbqroov.online^
+||immaterial-food.pro^
 ||immaterial-garden.pro^
 ||immaterial-mother.com^
 ||immaterialentrance.pro^
@@ -27415,6 +27422,7 @@ vkcdnservice.appspot.com^
 ||impersonalsix.com^
 ||impertinencefiddledeplore.com^
 ||impetrenotice.com^
+||impetretangosuncool.cfd^
 ||impetuousseatspeck.com^
 ||impetusorgansseparation.com^
 ||impiesprosos.cfd^
@@ -31800,6 +31808,7 @@ vkcdnservice.appspot.com^
 ||ligcspstbrvgf.online^
 ||liggewaeful.com^
 ||lighoudsaltie.net^
+||light-coach.pro^
 ||lightenslush.com^
 ||lighterdrowngrammar.com^
 ||lightfoot.top^
@@ -39216,6 +39225,7 @@ vkcdnservice.appspot.com^
 ||peerlessqueensuccessfully.com^
 ||peesouglovoudah.net^
 ||peevesfellafraid.com^
+||peevingwarwolfchapped.cyou^
 ||peevishbluming.cfd^
 ||peevoopheve.net^
 ||peewhouheeku.net^
@@ -47841,6 +47851,7 @@ vkcdnservice.appspot.com^
 ||stikineturma.cfd^
 ||stikroltiltoowi.net^
 ||stillawokeathwart.com^
+||stiltyfoist.shop^
 ||stimpaichoulr.net^
 ||stimtavy.net^
 ||stimulateartificial.com^
@@ -51583,6 +51594,7 @@ vkcdnservice.appspot.com^
 ||unfatedkhuzi.com^
 ||unfeatyeyeroot.cyou^
 ||unfencelumpens.cyou^
+||unfinished-accident.pro^
 ||unfinished-apple.com^
 ||unfinished-face.com^
 ||unfinishedplace.com^
@@ -154126,6 +154138,7 @@ dlsdk.appsflyer.com^
 ||bwvhtadad.com^
 ||6k2fehacp.com^
 ||iremnazae.com^
+||xscp03091xq.com^
 ||drudgery89.com^
 ||wkjwumtex3.com^
 ||n1yy6blznk.com^
