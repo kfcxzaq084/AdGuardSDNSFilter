@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T18:54:28.055Z
+! Last modified: 2026-03-09T20:36:01.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -27062,6 +27062,7 @@ vkcdnservice.appspot.com^
 ||iezxmddndn.com^
 ||ifacusijrhiaj.space^
 ||ifadnfhgaozlo.store^
+||ifahkwpycvdr.com^
 ||ifaifterdudseey.net^
 ||ifaqirpgjntoc.site^
 ||ifcartbwtzzwb.online^
@@ -30623,6 +30624,7 @@ vkcdnservice.appspot.com^
 ||korexo.com^
 ||korgiejoinyou.com^
 ||korinbokhara.shop^
+||korinrucheselfing.qpon^
 ||korrelate.net^
 ||korunasrhumba.help^
 ||koryakyjpoprw.space^
@@ -35290,6 +35292,7 @@ vkcdnservice.appspot.com^
 ||mzoryqtsbvfgu.online^
 ||mzownzmmlccqy.online^
 ||mzowp32okp2lq94nwgm.cfd^
+||mzozybinmkvz.com^
 ||mzptgqshvvrl.com^
 ||mzrawmzkdtbvd.online^
 ||mzsantsemsgll.website^
@@ -42164,6 +42167,7 @@ vkcdnservice.appspot.com^
 ||qkxwhdgnpczur.space^
 ||qkxwtytuaybam.space^
 ||qkyefoursktbj.website^
+||qkywopumttfgd.com^
 ||qkzpgqcmohyky.site^
 ||qkzrybopigalg.site^
 ||ql181i9foz886x4.cfd^
@@ -45245,6 +45249,7 @@ vkcdnservice.appspot.com^
 ||saplessbooky.cfd^
 ||saplingunregal.cfd^
 ||sapmgtkvtoulm.space^
+||sappedhebrewbushi.qpon^
 ||sappierkoali.cfd^
 ||sapqwgnlntaly.space^
 ||saptiledispatch.com^
@@ -55520,6 +55525,7 @@ vkcdnservice.appspot.com^
 ||wydvhtwbwplfd.site^
 ||wyemijjnbkrol.space^
 ||wyeosamxhgqwt.world^
+||wyforngfeglvo.com^
 ||wyglyvaso.com^
 ||wyhdebbpcfgyq.online^
 ||wyhifdpatl.com^
@@ -56617,6 +56623,7 @@ vkcdnservice.appspot.com^
 ||yelzrlnjpdhoz.online^
 ||yemmethgqyufg.space^
 ||yemselregillswollen.qpon^
+||yemxiadimvpyr.com^
 ||yenahcaizvlyd.online^
 ||yenawxeozlyob.site^
 ||yennedaspishamenia.qpon^
@@ -57627,6 +57634,7 @@ vkcdnservice.appspot.com^
 ||zfdcjsheuhlxp.site^
 ||zfdwjrxmtatjc.online^
 ||zfectyowjgk.com^
+||zfedutamj.in^
 ||zfeekfndznsru.site^
 ||zfenhpijjexpd.online^
 ||zferral.com^
