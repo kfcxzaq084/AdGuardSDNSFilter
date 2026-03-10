@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-10T05:09:59.482Z
+! Last modified: 2026-03-10T06:52:21.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9509,6 +9509,7 @@ vkcdnservice.appspot.com^
 ||anlxminajoupg.online^
 ||anlytics.co^
 ||anmdr.link^
+||anmfjlicn.xyz^
 ||annasdonnees.cyou^
 ||annatssence.help^
 ||annesuspense.com^
@@ -15867,6 +15868,7 @@ vkcdnservice.appspot.com^
 ||crihbeppscadw.site^
 ||crimeagc.com^
 ||criminal-buddy.com^
+||criminal-purchase.pro^
 ||criminalhouse.pro^
 ||crinalwaywode.help^
 ||cringezonearistocracy.com^
@@ -16235,6 +16237,7 @@ vkcdnservice.appspot.com^
 ||curstlyaborterbacks.cfd^
 ||curtaingluttonybounty.com^
 ||curtcrannyhustle.com^
+||curtedsuliote.cfd^
 ||curteinbesugo.help^
 ||curtworlds.com^
 ||curuatracery.cyou^
@@ -29796,6 +29799,7 @@ vkcdnservice.appspot.com^
 ||k8n8ghr779gohn.rest^
 ||k8qwzwx6wth8hk.rest^
 ||k8zy.com^
+||k986iv2je4gth4fn.cfd^
 ||k9emu4vzwlfkke.cfd^
 ||kaarheciqa.xyz^
 ||kaascypher.com^
@@ -31224,6 +31228,7 @@ vkcdnservice.appspot.com^
 ||lantakatift.cyou^
 ||lantmaar.cfd^
 ||lantodomirus.com^
+||lantumscalenehurdis.qpon^
 ||laolcwsd.tech^
 ||laoslloydskeeg.cfd^
 ||laoxkzqexiduv.website^
@@ -32734,6 +32739,7 @@ vkcdnservice.appspot.com^
 ||lullprivacyheater.com^
 ||lumaktoys.com^
 ||lumbangstaynilachene.cfd^
+||lumberingtomorrow.pro^
 ||lumberossa.qpon^
 ||luminosoocchio.com^
 ||luminousrev.com^
@@ -37181,6 +37187,7 @@ vkcdnservice.appspot.com^
 ||odgcckutvefssf.com^
 ||odgmxwepbbfwe.online^
 ||odgsaxlabmvgi.online^
+||odhcuttu.in^
 ||odhdnbucgpwly.website^
 ||odi6.online^
 ||odjxpyyhmuvfj.website^
@@ -40003,6 +40010,7 @@ vkcdnservice.appspot.com^
 ||placedscutta.qpon^
 ||placetobeforever.com^
 ||placetsflumps.cyou^
+||placiddeb.cfd^
 ||placidityelite.com^
 ||placiditylever.com^
 ||placksslaloms.help^
@@ -42496,6 +42504,7 @@ vkcdnservice.appspot.com^
 ||quackupsilon.com^
 ||quagfa.com^
 ||quaintbitter.com^
+||quaiskendal.shop^
 ||quaizoa.xyz^
 ||quakedevastatedprinter.com^
 ||quakilyporite.cfd^
@@ -43506,6 +43515,7 @@ vkcdnservice.appspot.com^
 ||rejoinedfondmurmur.com^
 ||rejve.com^
 ||rekickgigger.cfd^
+||rekinggawgaw.shop^
 ||rekipion.com^
 ||rel-s.com^
 ||relaamlrijdxq.site^
@@ -47008,6 +47018,7 @@ vkcdnservice.appspot.com^
 ||snellgarsil.cfd^
 ||snellswrible.cyou^
 ||snhhgpcocqkwnb.com^
+||snickdoormatabime.cyou^
 ||snickeyfatales.qpon^
 ||snickforfeit.com^
 ||sniffingtransient.com^
@@ -47567,6 +47578,7 @@ vkcdnservice.appspot.com^
 ||spudboyfeted.qpon^
 ||spuingmanges.qpon^
 ||spukechutney.qpon^
+||spumiercithara.qpon^
 ||spumoniunites.qpon^
 ||spuppeh.net^
 ||spurdogpints.cyou^
@@ -48702,6 +48714,7 @@ vkcdnservice.appspot.com^
 ||sympatheticnerve.pro^
 ||sympatheticwriter.pro^
 ||sympathydistinguish.com^
+||synapsehontish.shop^
 ||synaxarconking.cfd^
 ||syncclickflow.com^
 ||synccora.com^
@@ -48785,6 +48798,7 @@ vkcdnservice.appspot.com^
 ||t84c3srgclc9.com^
 ||t85itha3nitde.com^
 ||t8elpwiehpj46q2ql5o.cyou^
+||t8h1qlvfe36hzqwug2.rest^
 ||t8nl8qmiv23fblom.cfd^
 ||t8okfjqrxt77rw8wp7t1ro8ro.cfd^
 ||t93fqnk7wfb9ugx24rh1ggikbjqh.cfd^
@@ -49317,6 +49331,7 @@ vkcdnservice.appspot.com^
 ||textbookextremelycivic.com^
 ||textbookfilamentguidance.com^
 ||textileintersectionroam.com^
+||textilerugger.qpon^
 ||textureblaze.co^
 ||texzjbsfcynqr.site^
 ||tfaxtyhedrwub.global^
@@ -57178,6 +57193,7 @@ vkcdnservice.appspot.com^
 ||yryxwlovbdyjm.site^
 ||yrzjtrlzdrewa.site^
 ||yrzkvwrrpampg.online^
+||ysckhgcaqo.com^
 ||ysdcfwvpmucdw.website^
 ||ysdtufmmswzwh.online^
 ||yseodjirzuuax.website^
@@ -60119,6 +60135,7 @@ vkcdnservice.appspot.com^
 ||ad-serve.b-cdn.net^
 ||ad.22betpartners.com^
 ||ad.about.co.kr^
+||ad.ari.lt^
 ||ad.edugram.com^
 ||ad.mediamixer.co.kr^
 ||ad.netmedia.hu^
