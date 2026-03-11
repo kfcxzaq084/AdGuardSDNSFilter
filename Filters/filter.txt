@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-11T06:55:20.741Z
+! Last modified: 2026-03-11T08:42:11.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||fhpxjbryxqwoak.com^
+||aikhiwnpdff.com^
 ||satisfiednews.com^
 ||acceptancedishearten.com^
 ||broadlyjukeboxunrevised.com^
@@ -7956,6 +7958,7 @@ vkcdnservice.appspot.com^
 ||acreinterstatethe.com^
 ||acritagiddiedwaives.cyou^
 ||acritanpausai.cyou^
+||acrobatic-carry.pro^
 ||acrobatic-chest.pro^
 ||acrobaticcouple.com^
 ||acrodusabscind.qpon^
@@ -8642,6 +8645,7 @@ vkcdnservice.appspot.com^
 ||afiliapub.click^
 ||afilliateapp.com^
 ||afilliatetraff.com^
+||afiobdzwenzir.website^
 ||afivgqhqgrtxy.website^
 ||afknfnosaxyps.website^
 ||afkwa.com^
@@ -15676,6 +15680,7 @@ vkcdnservice.appspot.com^
 ||cotysphenols.cyou^
 ||couacsemoted.cyou^
 ||coucalhidated.com^
+||coucalmildishbright.cyou^
 ||coucheegimbal.help^
 ||coudawaisto.net^
 ||couijnmkgjdim.site^
@@ -16364,6 +16369,7 @@ vkcdnservice.appspot.com^
 ||cuykdvvnhkjgy.space^
 ||cuzqaskcyjyut.site^
 ||cuzwihmlsomxm.online^
+||cvaiojnnjprul.space^
 ||cvastico.com^
 ||cvbwtmpzxwxkl.site^
 ||cvcglqxybcnqp.space^
@@ -19485,6 +19491,7 @@ vkcdnservice.appspot.com^
 ||eixgdeonnumrp.site^
 ||eiyyjstblubzo.website^
 ||eizcfqypdourg.online^
+||eizheksjqinjf.space^
 ||eizzih.com^
 ||ejadhobthckao.site^
 ||ejajqmtadgoce.space^
@@ -20675,6 +20682,7 @@ vkcdnservice.appspot.com^
 ||exdnoseykzteg.site^
 ||exdynsrv.com^
 ||executivehoroscope.com^
+||executorsfrom570.com^
 ||exejfbqkavbst.rocks^
 ||exemplary-scratch.pro^
 ||exemptgovernorinterdependent.com^
@@ -20758,6 +20766,7 @@ vkcdnservice.appspot.com^
 ||expressjustifierlent.com^
 ||exptlgooney.com^
 ||exptrncaaidhs.site^
+||expulsionelinorcorruption.com^
 ||exqbxfzcrslqg.store^
 ||exqbxkfncmcli.website^
 ||exrcfdbcqiddp.space^
@@ -22357,6 +22366,7 @@ vkcdnservice.appspot.com^
 ||fppxjvtmcxjqib.xyz^
 ||fpqtfxgqlvcvi.space^
 ||fprgsxjsykxem.website^
+||fpuditrtxsdhb.online^
 ||fpukmwpb.top^
 ||fpuxxbskapwcz.online^
 ||fpvqazktkywjf.site^
@@ -28306,6 +28316,7 @@ vkcdnservice.appspot.com^
 ||isabellalive.cfd^
 ||isagogeidyler.cyou^
 ||isawthenews.com^
+||isazoxytimaliacrudes.cyou^
 ||isbnrs.com^
 ||isboost.co.jp^
 ||ischarct.shop^
@@ -28382,6 +28393,7 @@ vkcdnservice.appspot.com^
 ||italianbeepimpediment.com^
 ||italianceramal.cyou^
 ||italianforesee.com^
+||italiangooseberry.com^
 ||italyrogueinhabit.com^
 ||itaupsophie.net^
 ||itawaxywmjarm.space^
@@ -32140,6 +32152,7 @@ vkcdnservice.appspot.com^
 ||lintolstelopea.qpon^
 ||lintsbunker.qpon^
 ||lintyahimsas.com^
+||linwezjgwscfk.online^
 ||lionbasote.cyou^
 ||liondolularhenewre.com^
 ||lioneldorical.cfd^
@@ -48270,6 +48283,7 @@ vkcdnservice.appspot.com^
 ||stoomawy.net^
 ||stoondgastly.shop^
 ||stoopedbedaub.cfd^
+||stoopeddigestaggregation.com^
 ||stoopeddiscourse.com^
 ||stoopsellers.com^
 ||stoorturtun.net^
@@ -51708,6 +51722,7 @@ vkcdnservice.appspot.com^
 ||ujiqkgxnuzofp.site^
 ||ujjzkcqcgidfv.space^
 ||ujkvzzmbmgvdx.online^
+||ujldaumawxqqe.site^
 ||ujlqgbvetzjmf.space^
 ||ujlqnxrgbmtgg.online^
 ||ujmbkieuybw.com^
@@ -55326,6 +55341,7 @@ vkcdnservice.appspot.com^
 ||wlzhmngyhuebs.space^
 ||wlzzwzeevbyak.top^
 ||wmbbsat.com^
+||wmcafnbjivh.com^
 ||wmccd.com^
 ||wmcdct.com^
 ||wmcdpt.com^
@@ -55776,6 +55792,7 @@ vkcdnservice.appspot.com^
 ||wttnezsassgeq.website^
 ||wttpwvlurczpe.rocks^
 ||wtxqkplrdszqm.space^
+||wtyhyzvsxlpeb.space^
 ||wtzqznypmadeo.store^
 ||wuaafacwszsqh.store^
 ||wubbmfsxhjtyber.com^
@@ -56514,6 +56531,7 @@ vkcdnservice.appspot.com^
 ||xqjasiudpfzsi.website^
 ||xqjfylqpjryru.space^
 ||xqkqqtzljvwaj.space^
+||xqkxhwjirgfky.com^
 ||xqkyaeyjigb.com^
 ||xqqmcnphocpku.website^
 ||xqqqpwtzcrwrj.site^
@@ -148306,6 +148324,8 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||fsuooh.cc^
+||hsehk.cn^
 ||upload.xchina.io^
 ||fancyapi.com^
 ||fancydsp.com^
@@ -149773,8 +149793,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Mar 2026 11:19 UTC+7
-! Version: 2603111119
+! Last modified: 11 Mar 2026 14:02 UTC+7
+! Version: 2603111402
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
