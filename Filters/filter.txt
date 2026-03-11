@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-11T18:54:36.612Z
+! Last modified: 2026-03-11T20:35:04.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12181,6 +12181,7 @@ vkcdnservice.appspot.com^
 ||blondassignappear.com^
 ||blondmonth.pro^
 ||blondspeaker.com^
+||bloomerpotshot.cfd^
 ||bloomscrappy.cfd^
 ||blotchinvestigation.com^
 ||blotecardthumb.com^
@@ -12787,6 +12788,7 @@ vkcdnservice.appspot.com^
 ||bretncqhxzygz.website^
 ||brevitychestprocess.com^
 ||breweryalevin.cfd^
+||brewingeasel.com^
 ||brewstpreedit.help^
 ||brgaupehcsayh.online^
 ||brgetizqltkfa.space^
@@ -15734,6 +15736,7 @@ vkcdnservice.appspot.com^
 ||courtshipanditla.com^
 ||cousinselizareproach.com^
 ||coutaizoace.net^
+||covensarcheolthermos.qpon^
 ||coverdistilltile.com^
 ||covertlaurite.qpon^
 ||covertstokes.qpon^
@@ -23607,6 +23610,7 @@ vkcdnservice.appspot.com^
 ||gfbpavquitssy.site^
 ||gfbrxguhwypdq.site^
 ||gfbxsoxbywqvp.store^
+||gfdpjfngu.com^
 ||gffoycbmmfptr.space^
 ||gffprwnkrpamw.online^
 ||gfglsjrfdxvte.website^
@@ -28986,6 +28990,7 @@ vkcdnservice.appspot.com^
 ||jebatstimied.qpon^
 ||jebeewetsaidrie.net^
 ||jebelmisdeed.help^
+||jecisyqvowdzx.website^
 ||jeciwgjoudnza.website^
 ||jeclfryrxukoc.online^
 ||jecromaha.info^
@@ -29686,6 +29691,7 @@ vkcdnservice.appspot.com^
 ||jsxxbwiagooag.online^
 ||jsxzwxheeytpd.online^
 ||jsyfwuqiwanqd.online^
+||jszwcvutrlpcr.site^
 ||jszxpgqtwmdkv.site^
 ||jtatovqvkzlqs.site^
 ||jtdkmjuiogidh.site^
@@ -40407,6 +40413,7 @@ vkcdnservice.appspot.com^
 ||pleasurewardrobeversatile.com^
 ||pleatfertilemiss.com^
 ||plebesforbar.qpon^
+||pledgorapellesmoll.cyou^
 ||plejhzwgdzhju.website^
 ||plelvlwyxcouh.net^
 ||plenomedia.com^
@@ -51916,6 +51923,7 @@ vkcdnservice.appspot.com^
 ||ulm3o2zip5wwmfnr2k8c5n4xr9.cfd^
 ||ulm6mqrvvm1hcmm4z1qviheypvz4ikuj85pw.cfd^
 ||ulmicnashgob.shop^
+||ulmoxtamgg.com^
 ||ulmoyc.com^
 ||ulmqfhgfjrxbj.site^
 ||ulnariaempire.cyou^
@@ -54317,6 +54325,7 @@ vkcdnservice.appspot.com^
 ||vyiqsohuuoziu.store^
 ||vyjtdbhvlmmbw.online^
 ||vyjvoegkwxabj.website^
+||vyldxsvhyevdp.space^
 ||vympzhnxgoweg.store^
 ||vymybkyrzvwky.top^
 ||vynrniokadmgi.website^
@@ -57363,6 +57372,7 @@ vkcdnservice.appspot.com^
 ||yjpqcnhnpaghu.site^
 ||yjrohhkqfddlx.store^
 ||yjsmoafrwbmvd.online^
+||yjsnhansijjpy.online^
 ||yjtrcuqfxbvhz.space^
 ||yjtwkkyczcyut.site^
 ||yjwajohilqxia.online^
@@ -57378,6 +57388,7 @@ vkcdnservice.appspot.com^
 ||ykeccyheoxsgb.site^
 ||ykejihmzdvsex.store^
 ||ykgfzgxfxiehq.space^
+||ykhikqgrdmfll.website^
 ||ykhkzepaezbkj.space^
 ||ykiyhzbgnqkys.online^
 ||ykleidzsileck.today^
@@ -58030,6 +58041,7 @@ vkcdnservice.appspot.com^
 ||zbtwzuihkndsv.space^
 ||zbuztpvgfghmu.space^
 ||zbvbmifryccxd.website^
+||zbweattfkwerz.space^
 ||zbzfzftwtifyv.online^
 ||zcadqlurfhqgv.online^
 ||zcapieuheltue.store^
