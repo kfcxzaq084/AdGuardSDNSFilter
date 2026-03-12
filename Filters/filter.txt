@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-12T18:55:27.508Z
+! Last modified: 2026-03-12T20:36:28.804Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9675,6 +9675,7 @@ vkcdnservice.appspot.com^
 ||anwgmaonmzz.com^
 ||anwjlyjthfucs.website^
 ||anxiousequal.com^
+||anxioussmile.pro^
 ||anyadx.live^
 ||anymind360.com^
 ||anyonegoal.com^
@@ -11033,6 +11034,7 @@ vkcdnservice.appspot.com^
 ||bananasadvocate.com^
 ||bananascasketuntrue.com^
 ||bancemrode.cyou^
+||banchibipack.com^
 ||banclip.com^
 ||banddisordergraceless.com^
 ||bandelcot.com^
@@ -13745,6 +13747,7 @@ vkcdnservice.appspot.com^
 ||carefreefootball.pro^
 ||carefulbleatdish.com^
 ||carelessnurse.com^
+||caremecoshes.com^
 ||caresseashoreunrest.com^
 ||caressfinancialdodge.com^
 ||carfaremissit.cfd^
@@ -16118,6 +16121,7 @@ vkcdnservice.appspot.com^
 ||crowdsuitcaseuntwist.com^
 ||crowingmoudie.cyou^
 ||crownetsketchy.qpon^
+||crownzodiac.com^
 ||crpgduvlxhklv.website^
 ||crprmbjapabkt.website^
 ||crptentry.com^
@@ -17014,6 +17018,7 @@ vkcdnservice.appspot.com^
 ||dcgpsjmcytukn.website^
 ||dciuocgwopyla.website^
 ||dcjvnjnkhanpk.space^
+||dcjxowgfytohp.space^
 ||dcldfxcchfzem.site^
 ||dcleuevkxvzmr.site^
 ||dcmbaescepqsq.space^
@@ -19793,6 +19798,7 @@ vkcdnservice.appspot.com^
 ||eloquentgossipold.com^
 ||elozcdoizevhm.site^
 ||elpex.site^
+||elpsirftovofi.space^
 ||elqhgsxjyeouy.online^
 ||elsaidthecharit.com^
 ||elsewhereregret.com^
@@ -23375,6 +23381,7 @@ vkcdnservice.appspot.com^
 ||gathermadness.com^
 ||gatnzlayrscdc.site^
 ||gaubaisteelaze.net^
+||gaucyvigilsepheboi.cyou^
 ||gaulfanteeg.cfd^
 ||gaulshupsteal.com^
 ||gaulugrooptaz.net^
@@ -25261,6 +25268,7 @@ vkcdnservice.appspot.com^
 ||gzqfpkponqief.space^
 ||gzqolmizp9m128.cfd^
 ||gzrlncudpybtf.site^
+||gzsbcirpmakvd.site^
 ||gzsmzfafszuih.website^
 ||gztnnjfknixqv.website^
 ||gztwtccvfpngw.website^
@@ -28848,6 +28856,7 @@ vkcdnservice.appspot.com^
 ||izekxwljsjboe.online^
 ||izeumxgynohpd.site^
 ||izfbtqfedzzob.online^
+||izhbcqubhsaos.online^
 ||izhukvhcxfcon.vip^
 ||izigx3phh1i95p4cpkzix69wrp.cfd^
 ||izikthr.my^
@@ -29856,6 +29865,7 @@ vkcdnservice.appspot.com^
 ||jtrmkaiggvcjg.website^
 ||jtsdwxfoxeyhk.space^
 ||jtsqetqkdcwbq.online^
+||jttgfuoerocek.space^
 ||jtuyocdzxtzla.store^
 ||jtwvwfilhixroid.net^
 ||jtxpxubcgwers.site^
@@ -39634,6 +39644,7 @@ vkcdnservice.appspot.com^
 ||payersgreking.com^
 ||payingtore.com^
 ||paymentperiodiciceberg.com^
+||payolassneakedgemses.qpon^
 ||payoutaures.shop^
 ||payrollmerchant.com^
 ||payslipspurse.com^
@@ -40789,6 +40800,7 @@ vkcdnservice.appspot.com^
 ||pnsqsv.com^
 ||pnuapymfjrtoy.site^
 ||pnuhondppw.com^
+||pnvgvddcxpczr.space^
 ||pnvjktqmmwapn.online^
 ||pnxfexrscthlb.store^
 ||pnymcxpmuomam.space^
@@ -41149,6 +41161,7 @@ vkcdnservice.appspot.com^
 ||ppcnt.pro^
 ||ppctraffic.co^
 ||ppduaejaozsch.website^
+||ppecimxkyhax.in^
 ||ppeiutpbqegcj.online^
 ||pperkqewlwdgc.space^
 ||pperkvadtvtxk.online^
@@ -42075,6 +42088,7 @@ vkcdnservice.appspot.com^
 ||punrbligpisll.life^
 ||puntoutetnean.qpon^
 ||puntshaunter.qpon^
+||punysafety.com^
 ||puolqoparnf.net^
 ||puolqoparnf.xyz^
 ||puoucchwtnlyp.website^
@@ -42732,6 +42746,7 @@ vkcdnservice.appspot.com^
 ||qjizeeyeiuggk.online^
 ||qjjckhourpvey.site^
 ||qjjqhcqxcyfex.tech^
+||qjkktxnclsjywoj.com^
 ||qjkvxdkpzvrya.site^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
@@ -43333,6 +43348,7 @@ vkcdnservice.appspot.com^
 ||qymswdusycdvz.space^
 ||qyoddqlbvzjvn.site^
 ||qypwiayveem.xyz^
+||qypyxzcixhaqr.online^
 ||qyqvxtufskevk.site^
 ||qyromjlyvzwoj.top^
 ||qysruufmtjpvu.online^
@@ -49673,6 +49689,7 @@ vkcdnservice.appspot.com^
 ||tauvoojo.net^
 ||tauzo.xyz^
 ||tavadwdjzfgjw.online^
+||tavaobnftgph.com^
 ||taveriva.cyou^
 ||tavernacolonus.cyou^
 ||tavlomikyionr.website^
