@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-12T02:09:08.492Z
+! Last modified: 2026-03-12T05:15:48.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7092,6 +7092,7 @@ vkcdnservice.appspot.com^
 ||5o8aj5nt.de^
 ||5p51uij6w5812tfo.rest^
 ||5pi13h3q.de^
+||5pjiv72jrumgml.rest^
 ||5qo144jluzfnbpwen.cfd^
 ||5r6lux3rrlqte1r5.cfd^
 ||5t1jqutv8lj8364uoe11ki1uh.cfd^
@@ -7118,6 +7119,7 @@ vkcdnservice.appspot.com^
 ||61011fc558.com^
 ||611b2ec55c.com^
 ||613f15a070.com^
+||617rr8vyuqueep67uxhf.cfd^
 ||61847b1398.com^
 ||618856e0bb.com^
 ||61d7a302a1.com^
@@ -10162,6 +10164,7 @@ vkcdnservice.appspot.com^
 ||aspectsunfightsephen.cyou^
 ||aspensbangup.cfd^
 ||asperencium.com^
+||asphaltniveau.qpon^
 ||aspignitean.com^
 ||aspirationprogrammecontains.com^
 ||aspiredemeaningmarvelous.com^
@@ -12707,6 +12710,7 @@ vkcdnservice.appspot.com^
 ||bqkerpcwptpya.space^
 ||bqlmweiecxpxr.online^
 ||bqocyvxzhcpvh.online^
+||bqomubti.com^
 ||bqqfztbozkwyb.site^
 ||bqqrygwtehqmf.site^
 ||bqrdoilvhadpq.vip^
@@ -13157,6 +13161,7 @@ vkcdnservice.appspot.com^
 ||bunningscapple.com^
 ||bunningzippy.qpon^
 ||bunnyassetsworn.com^
+||bunterstty.com^
 ||bunth.net^
 ||buntssejunct.cyou^
 ||bunzamxbtj.space^
@@ -14874,6 +14879,7 @@ vkcdnservice.appspot.com^
 ||clenchedfavouritemailman.com^
 ||clenchedquarterbackluxuriant.com^
 ||clenchedtea.com^
+||cleoidlivor.qpon^
 ||cleopatraadulatefrench.com^
 ||clergystickingprecedent.com^
 ||clericscribed.cyou^
@@ -16879,6 +16885,7 @@ vkcdnservice.appspot.com^
 ||dawurtinsumpoaz.net^
 ||daxtnnqlppovj.space^
 ||dayanhairup.cyou^
+||dayboygubbincoexert.cyou^
 ||daydawnplanxty.cyou^
 ||dayghhobglfko.space^
 ||dayglowmedille.com^
@@ -17989,6 +17996,7 @@ vkcdnservice.appspot.com^
 ||dkipfdjvrlird.love^
 ||dkiuzabnt.com^
 ||dkjpozfpehc.com^
+||dkoyksanerezl.website^
 ||dkpbuedvjpros.site^
 ||dkpvbyvscxraq.space^
 ||dkqmltboagmona.xyz^
@@ -18146,6 +18154,7 @@ vkcdnservice.appspot.com^
 ||doastootheg.net^
 ||doatingshifted.help^
 ||doatkahar.qpon^
+||doatscreakyantique.cyou^
 ||dobbinfleying.cfd^
 ||dobrdkkyxohlk.site^
 ||dobvvamtbskgg.online^
@@ -18476,6 +18485,7 @@ vkcdnservice.appspot.com^
 ||drctcldff.com^
 ||drcuqemd.xyz^
 ||drdevelopmentcolor.com^
+||drdluxam.com^
 ||dreadedrevisablevest.com^
 ||dreadfullyemulateconservation.com^
 ||dreadfullynormallyinsist.com^
@@ -29366,6 +29376,7 @@ vkcdnservice.appspot.com^
 ||jlavmdvzxpgqs.online^
 ||jlccmbmeeuuxq.space^
 ||jlcdpxvbrjxgk.online^
+||jlcfdpolegxlv.space^
 ||jlewkgqnwicwf.site^
 ||jlfdfodxejpxt.space^
 ||jlhkumsptbwuz.site^
@@ -32100,6 +32111,7 @@ vkcdnservice.appspot.com^
 ||liadm.com^
 ||liaisonmonumentbreeding.com^
 ||liambafaying.com^
+||liamjvutjsdn.com^
 ||lianepassage.cyou^
 ||liangsoloing.com^
 ||lianova.space^
@@ -32141,6 +32153,7 @@ vkcdnservice.appspot.com^
 ||liejowler.com^
 ||liekjdowrnim.com^
 ||liepotikons.com^
+||lieutenantvealelongated.com^
 ||lievestarnicasbogymen.qpon^
 ||lievestcrasser.com^
 ||lif4wtefrkzho1.cfd^
@@ -34289,6 +34302,7 @@ vkcdnservice.appspot.com^
 ||midewinpasear.cfd^
 ||midgerelativelyhoax.com^
 ||midgetbreakfast.com^
+||midgetreckon.com^
 ||midlegulnas.qpon^
 ||midlk.online^
 ||midnightbashslightly.com^
@@ -36353,6 +36367,7 @@ vkcdnservice.appspot.com^
 ||nimble-tear.pro^
 ||nimble-wine.com^
 ||nimblecontest.com^
+||nimbymjipsdap.space^
 ||nimhuemark.com^
 ||nimietysyrtis.help^
 ||nimkdonnrzwdr.website^
@@ -36751,6 +36766,7 @@ vkcdnservice.appspot.com^
 ||nouwhauwazooted.net^
 ||nouwhoocougy.net^
 ||novadune.com^
+||novatorunflush.cfd^
 ||novel-bread.pro^
 ||novel-cross.pro^
 ||novel-inevitable.com^
@@ -38466,6 +38482,7 @@ vkcdnservice.appspot.com^
 ||orphismfuff.cfd^
 ||orqbvhkyufnxk.space^
 ||orqlzuoqgad.com^
+||orqmimfug.in^
 ||orqrdm.com^
 ||orquideassp.com^
 ||orrhoidlila.qpon^
@@ -39248,6 +39265,7 @@ vkcdnservice.appspot.com^
 ||pamperwoody.com^
 ||panaservers.com^
 ||pancakesuspenseant.com^
+||panclndhgcpktf.com^
 ||pandavapricks.cfd^
 ||pandersmidge.cyou^
 ||panelhexagyn.qpon^
@@ -39874,6 +39892,7 @@ vkcdnservice.appspot.com^
 ||peztnnvhihziq.online^
 ||pf34zdjoeycr.com^
 ||pfawtedanqhgs.space^
+||pfbcmfoqapv.xyz^
 ||pfbiforocldba.site^
 ||pfctoaznqazlg.store^
 ||pfcuynzlshtgg.site^
@@ -42197,6 +42216,7 @@ vkcdnservice.appspot.com^
 ||pzbxnlourkdrv.site^
 ||pzckypp.beer^
 ||pzcr76heplutyrhokmjgw2ukcu6jhqq.cfd^
+||pzebzsagsntlc.online^
 ||pzemzwvodejwz.website^
 ||pzevcsnxpnvwb.site^
 ||pzgeqlkniuvdl.website^
@@ -43724,6 +43744,7 @@ vkcdnservice.appspot.com^
 ||recoctunquod.cfd^
 ||recodemumbo.com^
 ||recoilregionsjonas.com^
+||recollectautomatically.com^
 ||recomendedsite.com^
 ||recommendationbredshrimp.com^
 ||recommendationknee.com^
@@ -44027,6 +44048,7 @@ vkcdnservice.appspot.com^
 ||rendounelated.help^
 ||renewedrepresent.com^
 ||renewsymbolmosque.com^
+||renguefusser.cfd^
 ||renkycarene.com^
 ||rennetscubitus.cyou^
 ||rennstrudel.qpon^
@@ -47012,6 +47034,7 @@ vkcdnservice.appspot.com^
 ||sizryblhbofmd.space^
 ||sizzling-camp.pro^
 ||sjadkbbvcmdfd.website^
+||sjbkubmrnrqvg.space^
 ||sjbnwzwwmcubf.site^
 ||sjbtqzptourxf.online^
 ||sjdscbmgdke.com^
@@ -52631,6 +52654,7 @@ vkcdnservice.appspot.com^
 ||upwhirlcatclawtaupo.cfd^
 ||upwwcowrgvtqg.space^
 ||upwwqfvpvbara.site^
+||upxtgbgyfecfs.space^
 ||upyayfmrdocin.space^
 ||upymgrtnacpco.site^
 ||upyokedhaks.cfd^
@@ -53057,6 +53081,7 @@ vkcdnservice.appspot.com^
 ||vagilecoca.cfd^
 ||vaginaegalleys.cfd^
 ||vagjxotbfroij.website^
+||vagkmjytobgqb.online^
 ||vagrateflytail.qpon^
 ||vagrejaba.com^
 ||vague-key.com^
@@ -53744,6 +53769,7 @@ vkcdnservice.appspot.com^
 ||vireosfour.help^
 ||viresanagua.cyou^
 ||virgatekinoos.cyou^
+||virgedesistnotates.qpon^
 ||virgingrapefruitweariness.com^
 ||virginityinvasion.com^
 ||virificaplysia.qpon^
@@ -54431,6 +54457,7 @@ vkcdnservice.appspot.com^
 ||vzkngyik.com^
 ||vzldnxgdbhyle.website^
 ||vzmilkdaptnug.online^
+||vznofosterjwq.online^
 ||vzoqn.buzz^
 ||vztformhlflsz.website^
 ||vzuzrrywyxrdl.online^
@@ -56039,6 +56066,7 @@ vkcdnservice.appspot.com^
 ||wvhba6470p.com^
 ||wvjzqrwhbvepc.space^
 ||wvkrsgeugkjuk.website^
+||wvkvbsckwuru.com^
 ||wvlwtsgbperzr.space^
 ||wvmvpjlguwapy.online^
 ||wvn8oopixhyvgo3in628rz815f28g4ge.cfd^
@@ -57335,6 +57363,7 @@ vkcdnservice.appspot.com^
 ||ygfzfsdckrkij.online^
 ||yggujyvmvmhgo.website^
 ||yghhkouwxpvew.site^
+||yghskbmrqpxqp.com^
 ||ygimeqcpvbtci.rocks^
 ||ygiuraqcxqgfmej.com^
 ||ygkhbpnqycyog.site^
@@ -150010,8 +150039,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Mar 2026 14:02 UTC+7
-! Version: 2603111402
+! Last modified: 12 Mar 2026 09:48 UTC+7
+! Version: 2603120948
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -150802,8 +150831,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Mar 2026 10:10 UTC+7
-! Version: 2603051010
+! Last modified: 12 Mar 2026 09:48 UTC+7
+! Version: 2603120948
 ! Blocked: 4.832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -155613,6 +155642,10 @@ dlsdk.appsflyer.com^
 ||ngdrld.icu^
 ||guwd.cn^
 ||92p3c8lgqt.com^
+||gl0r6d2uyy.com^
+||xscp03121xq.com^
+||obv3epx22d.com^
+||xdyn03121jy.com^
 ||i12het785.com^
 ||ryd626moj.com^
 ||z0rto0758.com^
