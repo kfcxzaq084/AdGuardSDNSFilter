@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-13T18:43:03.052Z
+! Last modified: 2026-03-13T20:35:44.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -21470,6 +21470,7 @@ vkcdnservice.appspot.com^
 ||fdfuhymycyhuc.online^
 ||fdgfsihvdxfjx.site^
 ||fdglexdsffxug.website^
+||fdhxvayocbhwyq.com^
 ||fdiosdpunrytp.site^
 ||fdkox-a.online^
 ||fdlivdwtmju.com^
@@ -22459,6 +22460,7 @@ vkcdnservice.appspot.com^
 ||forgetfulpromptlyappointment.com^
 ||forgetfulspidersantiquity.com^
 ||forgivenbeavervague.com^
+||forgivenessmafia.com^
 ||forgivengirlie.com^
 ||forgivenrepresent.com^
 ||forgotgnatpalsy.com^
@@ -26782,6 +26784,7 @@ vkcdnservice.appspot.com^
 ||hpowfhyhqgtvg.website^
 ||hppfyrdeuangi.website^
 ||hpplosswaluxl.website^
+||hprhotukqlaqqj.com^
 ||hprwygmlvnzqf.space^
 ||hpryvlxqtsgpx.site^
 ||hpsnansjrsbcm.site^
@@ -26989,6 +26992,7 @@ vkcdnservice.appspot.com^
 ||huhwryctykitp.space^
 ||huhwz6f2mglkrr.cfd^
 ||huhzbffylooec.website^
+||hujvbvdwewxmwe.com^
 ||hukelpfulinotaherer.org^
 ||hulagrorgouftee.net^
 ||hulchmarathimesozoa.cfd^
@@ -27048,6 +27052,7 @@ vkcdnservice.appspot.com^
 ||hurriedlyslumremiss.com^
 ||hurtful-job.com^
 ||hurtful-message.com^
+||hurtleswippendouse.cfd^
 ||hurtsbehalf.com^
 ||husbandnights.com^
 ||husfly.com^
@@ -33164,6 +33169,7 @@ vkcdnservice.appspot.com^
 ||lrlqiohtorwwl.website^
 ||lrnqzfvtxyjiw.online^
 ||lrorwzpayomsy.space^
+||lrrwikamnggon.com^
 ||lrtfiyldgsawj.website^
 ||lrvttzvsdgywx.online^
 ||lrvwxbifst.xyz^
@@ -36600,6 +36606,7 @@ vkcdnservice.appspot.com^
 ||nictatemonarda.cyou^
 ||nidakcdk.com^
 ||nidfipgitrdhj.space^
+||nidifycullasidlins.cyou^
 ||niecesprivilegelimelight.com^
 ||niecesweep.com^
 ||nievesouraris.cfd^
@@ -38495,6 +38502,7 @@ vkcdnservice.appspot.com^
 ||ooglostongoob.net^
 ||oognaxoudroogru.net^
 ||oognbstsfzgxp.space^
+||oogncsdcflsnh.online^
 ||oogneenu.net^
 ||oohkbadeeaaem.site^
 ||oohnqrfepvexr.website^
@@ -40152,6 +40160,7 @@ vkcdnservice.appspot.com^
 ||persistarcticthese.com^
 ||persistdeportraid.com^
 ||persona3.tech^
+||personal-bowl.pro^
 ||personalengage.com^
 ||personalparcelmarker.com^
 ||personalskillsex.org^
@@ -45492,6 +45501,7 @@ vkcdnservice.appspot.com^
 ||rrssjhewlzzru.website^
 ||rrtrivkvstpci.site^
 ||rruxvlycnmeko.xyz^
+||rrwuztmacebayl.com^
 ||rrxcjogqvssex.space^
 ||rrxcxo371j9j5lbq8t.cfd^
 ||rrxoysq.art^
@@ -45888,6 +45898,7 @@ vkcdnservice.appspot.com^
 ||ryzxjxtttxpfr.com^
 ||rz44nj49ltfc22.cfd^
 ||rzakuwuhzcwnd.website^
+||rzbbqovsrrugf.space^
 ||rzedmincpjcam.website^
 ||rzeso.com^
 ||rzeuizwtvteer.online^
@@ -49593,6 +49604,7 @@ vkcdnservice.appspot.com^
 ||syigfmoeoaono.space^
 ||syimwfacvwtqp.online^
 ||syinga.com^
+||syjdybprospmg.site^
 ||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
 ||sylloedema.help^
@@ -50230,6 +50242,7 @@ vkcdnservice.appspot.com^
 ||tevryvlkjnqec.website^
 ||tewbsihtpscoz.website^
 ||texaseswiglets.cyou^
+||teximbbsfojck.online^
 ||texnudity.cfd^
 ||texsk.com^
 ||texsxhprkkljb.rocks^
@@ -58645,6 +58658,7 @@ vkcdnservice.appspot.com^
 ||zcadqlurfhqgv.online^
 ||zcapieuheltue.store^
 ||zcbetcczfvylq.site^
+||zcbwoorjvzbcu.online^
 ||zccamorykaexo.website^
 ||zccfnakbucamq.site^
 ||zccwpzhgnxnwl.online^
@@ -58721,6 +58735,7 @@ vkcdnservice.appspot.com^
 ||zebkqpgyfxnbz.online^
 ||zeblaitjiznqv.space^
 ||zebpqonnhezmt.store^
+||zebprgnqqyrcj.online^
 ||zebradiomate.com^
 ||zebubesting.cfd^
 ||zecsriilqkdei.site^
@@ -58839,6 +58854,7 @@ vkcdnservice.appspot.com^
 ||zggfoihyhdtxp.space^
 ||zghdautxlwvis.store^
 ||zgidrglauryqr.space^
+||zgijmnnrexeej.online^
 ||zgijtonvzgadk.online^
 ||zgkowgslzqhir.online^
 ||zgkrxxudimfdj.space^
