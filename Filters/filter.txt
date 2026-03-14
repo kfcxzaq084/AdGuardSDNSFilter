@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-14T14:29:01.839Z
+! Last modified: 2026-03-14T16:33:51.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6995,6 +6995,7 @@ vkcdnservice.appspot.com^
 ||4r6c4p6ynkumgbgkg5nub.cfd^
 ||4rabettraff.com^
 ||4rnqoqt1b17w4qy.cfd^
+||4uc1bcgizofb9wq3.rest^
 ||4uchu1k1birwz14.rest^
 ||4ucwg8mu4txq5jr5n19.rest^
 ||4uipybjyqp6xe4lkr.cfd^
@@ -18596,6 +18597,7 @@ vkcdnservice.appspot.com^
 ||dqdsnemauijvc.online^
 ||dqdtshdifbwm.xyz^
 ||dqenixgshnwtg.site^
+||dqeozccymwpqw.online^
 ||dqflgtbtppbjf.site^
 ||dqfzbnhbqeqox.space^
 ||dqgjkrsabhnqd.space^
@@ -21599,6 +21601,7 @@ vkcdnservice.appspot.com^
 ||feelssunkcredential.com^
 ||feepothugib.net^
 ||feeptugraphiy.net^
+||feetagechoomloopist.cfd^
 ||feeuhx9rkpq6i5.cfd^
 ||feezedbieninial.cyou^
 ||fef86b659b.com^
@@ -23349,6 +23352,7 @@ vkcdnservice.appspot.com^
 ||g33ktr4ck.com^
 ||g33tr4c3r.com^
 ||g3j42pi2pn4lpr.rest^
+||g3jzt6wknmzcxyoifb3bm.cfd^
 ||g41pk8kn9vnc8j.cfd^
 ||g5hxng7tc1kht66b3rro74.cfd^
 ||g67wbqj199umx36giq4rcl3p.cfd^
@@ -24712,6 +24716,7 @@ vkcdnservice.appspot.com^
 ||gqnkuo8ub84pmzgegyx.cfd^
 ||gqpdgily.net^
 ||gqpeyiqibmfid.site^
+||gqpphcywxrnji.website^
 ||gqprjkneyocuo.site^
 ||gqqsyxpoeiiby.site^
 ||gqrggczdmzoqv.space^
@@ -27886,6 +27891,7 @@ vkcdnservice.appspot.com^
 ||ilvumbonf.net^
 ||ilvumysnmlrvr.space^
 ||ilvzxlpvprsff.online^
+||ilwmxyuboh.com^
 ||ilxovjyxaxfox.site^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
@@ -27911,6 +27917,7 @@ vkcdnservice.appspot.com^
 ||imavqwrjaqu.com^
 ||imbedsclopped.qpon^
 ||imberbebromian.shop^
+||imbercommavirales.qpon^
 ||imbet.site^
 ||imbfsidnchope.site^
 ||imbibeswordier.cfd^
@@ -31405,6 +31412,7 @@ vkcdnservice.appspot.com^
 ||kronenbuilder.cyou^
 ||kronendaylong.help^
 ||kronenroovehistrio.cfd^
+||kronero.net^
 ||kroonsejam.com^
 ||kroonsforches.qpon^
 ||krpoxpezhuqqx.online^
@@ -38377,6 +38385,7 @@ vkcdnservice.appspot.com^
 ||oldstercyathos.cyou^
 ||oleaclaye.cfd^
 ||olebcnoveqtgn.site^
+||olecnhgwlootg.site^
 ||olefinsmimus.cfd^
 ||oleinoutdone.help^
 ||olfawljswltdh.site^
@@ -42817,6 +42826,7 @@ vkcdnservice.appspot.com^
 ||qcoatmemznenu.site^
 ||qcqfkzglgynfr.site^
 ||qcqobpxpeeiwh.store^
+||qcrjfkqvvl.com^
 ||qcsvxobneexyu.site^
 ||qcszfukqffzqz.online^
 ||qctltbddoojgy.website^
@@ -47058,6 +47068,7 @@ vkcdnservice.appspot.com^
 ||sfwwzmtlhrajx.website^
 ||sfxdifdabwsux.site^
 ||sfxsxbwmloubq.site^
+||sfzeqzazjmowe.space^
 ||sfzhpuxozrvdf.site^
 ||sgaijlnojrrok.site^
 ||sgarialfdgbtj.com^
@@ -49721,6 +49732,7 @@ vkcdnservice.appspot.com^
 ||sxdrfkxuaayyf.online^
 ||sxdsvaicpjnzg.website^
 ||sxeythdkvmjyl.online^
+||sxfwpqgovovtv.space^
 ||sxfwwsii.net^
 ||sxgqqsngkzozy.website^
 ||sxidblabmvaod.site^
@@ -49744,6 +49756,7 @@ vkcdnservice.appspot.com^
 ||sxqxvcymtiwxo.space^
 ||sxwbmryfmsqgk.website^
 ||sybilevolver.shop^
+||sybspipmmiozz.online^
 ||syceedepend.qpon^
 ||sycheeyustaga.qpon^
 ||sycockpeelers.cfd^
@@ -50392,6 +50405,7 @@ vkcdnservice.appspot.com^
 ||tetherstried.help^
 ||tetonsketchyconsy.qpon^
 ||tetrousfiz.cyou^
+||tetvxsedkmlgh.site^
 ||teuchitreality.cyou^
 ||teutonsurfs.cyou^
 ||tevfosejxalzh.website^
@@ -55585,6 +55599,7 @@ vkcdnservice.appspot.com^
 ||wegetpaid.net^
 ||wegnpzpsgjpzx.space^
 ||wegoomtiltootie.net^
+||wehcqqqrrnxmd.space^
 ||wehdflzsphxij.website^
 ||weightfeathersoffhand.com^
 ||weightwindow.com^
@@ -57494,6 +57509,7 @@ vkcdnservice.appspot.com^
 ||xrqcamarbnhxg.website^
 ||xrqiweauoxfwn.site^
 ||xrqmatwxtzorj.online^
+||xrrguslbyma.com^
 ||xrrvrnlp.xyz^
 ||xrtgnrremhq2gwu8u.cfd^
 ||xrtnppzzcmcze.online^
