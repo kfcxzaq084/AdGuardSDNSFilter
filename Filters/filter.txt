@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-18T13:14:21.520Z
+! Last modified: 2026-03-18T15:03:34.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9231,6 +9231,7 @@ vkcdnservice.appspot.com^
 ||aleilu.com^
 ||alepolesaguran.qpon^
 ||alersehymnist.cfd^
+||alersemenders.com^
 ||alertlygayish.cyou^
 ||alespeonor.com^
 ||aletheaprevoid.shop^
@@ -16202,6 +16203,7 @@ vkcdnservice.appspot.com^
 ||crakbanner.com^
 ||crakedquartin.com^
 ||cramb.site^
+||crambidpleon.cyou^
 ||crambusstiffer.com^
 ||cramfinalizesluice.com^
 ||crampleadspace.com^
@@ -17845,6 +17847,7 @@ vkcdnservice.appspot.com^
 ||dfycwmrofqyeh.website^
 ||dfypinknckctz.website^
 ||dfzuxtkanxwxx.space^
+||dgabydwedwceh.website^
 ||dgafgadsgkjg.top^
 ||dgbdgpnuroggy.website^
 ||dgbksmqokosii.space^
@@ -18457,6 +18460,7 @@ vkcdnservice.appspot.com^
 ||dmoocvjybyqvq.space^
 ||dmozazelsojos.website^
 ||dmqsgbxgnytqog.xyz^
+||dmqwbmcqj.com^
 ||dmqwctmxnaizz.site^
 ||dmripoytoknlp.online^
 ||dmrtx.com^
@@ -25196,6 +25200,7 @@ vkcdnservice.appspot.com^
 ||grewhymnody.cfd^
 ||greyaxgqpraqj.website^
 ||greystripe.com^
+||grfhpefgerqijoj.com^
 ||grfpr.com^
 ||grgalylnihcym.space^
 ||grgddtxiepeyr.space^
@@ -25524,6 +25529,7 @@ vkcdnservice.appspot.com^
 ||gumihancymlin.cyou^
 ||gummedtenury.cfd^
 ||gummierhedera.life^
+||gummoseloupsaitic.cfd^
 ||gummy-ability.pro^
 ||gummy-opening.pro^
 ||gummyability.com^
@@ -35487,6 +35493,7 @@ vkcdnservice.appspot.com^
 ||mlgwhmepawefr.online^
 ||mlhevgydxouxs.online^
 ||mlifyigbpoxxm.top^
+||mlihmhcksmy.com^
 ||mlipqtrxx.xyz^
 ||mlkfloltdjhfh.site^
 ||mllkgpense.com^
@@ -37014,6 +37021,7 @@ vkcdnservice.appspot.com^
 ||netmenclowereldest.cyou^
 ||netobscenityoverdo.com^
 ||netpatas.com^
+||netsmanamminesrustful.cfd^
 ||netstam.com^
 ||netund.com^
 ||networking444.net^
@@ -40116,6 +40124,7 @@ vkcdnservice.appspot.com^
 ||ozuycxchfgexu.website^
 ||ozvmsmvmbxlfg.site^
 ||ozvofparfa.com^
+||ozwaphqdzzrxp.space^
 ||ozxodzemhjmgq.site^
 ||ozxrgwqkxkydc.website^
 ||ozxvyaklufsce.space^
@@ -42732,6 +42741,7 @@ vkcdnservice.appspot.com^
 ||psqnvvhohipcm.site^
 ||psshqlfxthaza.online^
 ||psslbjewrblbw.website^
+||psspumpyaeose.website^
 ||psstlexica.qpon^
 ||pssyjxliwunax.website^
 ||psszqijvawlgk.online^
@@ -43721,6 +43731,7 @@ vkcdnservice.appspot.com^
 ||qkmihtfjcgnsw.store^
 ||qkohvmgxsfcxn.website^
 ||qkplapmvmbtbj.online^
+||qkrxetsjnfkms.website^
 ||qksromwmntslx.website^
 ||qksrv.cc^
 ||qksrv.net^
@@ -47332,6 +47343,7 @@ vkcdnservice.appspot.com^
 ||scxmwvhc.net^
 ||scytalestaumer.help^
 ||scytnutated.qpon^
+||scyvcioxq.in^
 ||scyvqhcehstpt.top^
 ||sczknwxhchxif.online^
 ||sda.seesaa.jp^
@@ -49884,6 +49896,7 @@ vkcdnservice.appspot.com^
 ||strict-drink.com^
 ||strict-duty.pro^
 ||strictease.com^
+||striddire.com^
 ||stridemuzzleportal.com^
 ||stridentladder.pro^
 ||stridentuser.com^
@@ -49927,6 +49940,7 @@ vkcdnservice.appspot.com^
 ||stucesaumpie.net^
 ||stuckashespassion.com^
 ||stuckenpernine.cyou^
+||stuckenthimber.qpon^
 ||studads.com^
 ||studerich.shop^
 ||studious-make.com^
@@ -51768,6 +51782,7 @@ vkcdnservice.appspot.com^
 ||tmbzzscswoyir.space^
 ||tmculdluhuyfi.space^
 ||tmdsrbtmrnwxz.website^
+||tmdwtgflpgzus.online^
 ||tmdzqltlscxhb.website^
 ||tmedapgqtmqhs.store^
 ||tmekzzpsewdyo.website^
@@ -51911,6 +51926,7 @@ vkcdnservice.appspot.com^
 ||tomekas.com^
 ||tomladvert.com^
 ||tomlldahehun.org^
+||tommermartial.cfd^
 ||tommyholysnapped.com^
 ||tommylearningskilled.com^
 ||tomorrowlemonade.com^
@@ -157258,6 +157274,7 @@ dlsdk.appsflyer.com^
 ||xibvdjz2x2.com^
 ||5b0a1c63v9.com^
 ||mhukzoikt.com^
+||wj8i1rlp2b.com^
 ||b4641y3dw.com^
 ||vigyn4gpx.com^
 ||nhlrzf.icu^
