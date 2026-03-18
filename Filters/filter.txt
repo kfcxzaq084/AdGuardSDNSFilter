@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-18T07:02:49.981Z
+! Last modified: 2026-03-18T08:51:50.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13880,6 +13880,7 @@ vkcdnservice.appspot.com^
 ||canyonconsultation.com^
 ||canzosdropman.cyou^
 ||canzoskralnags.cyou^
+||caodghtqiba.com^
 ||caokvepcdzeha.site^
 ||caoled.com^
 ||caoymjqpsflnb.space^
@@ -14512,6 +14513,7 @@ vkcdnservice.appspot.com^
 ||chaletrobber.qpon^
 ||chaliceguzzlerlandlord.com^
 ||chalkedretrieval.com^
+||chalkerfecundmannose.cfd^
 ||chalkleash.com^
 ||chalkoscerous.qpon^
 ||chalkyfablerstabler.cfd^
@@ -22031,6 +22033,7 @@ vkcdnservice.appspot.com^
 ||fh-wgt.com^
 ||fh1f6i5hzht53zvwq7q7.cfd^
 ||fh259by01r25.com^
+||fhbkmbrcnejqrar.com^
 ||fhcggnfqejjji.com^
 ||fhgalvgaycyqw.website^
 ||fhgh9sd.com^
@@ -44638,6 +44641,7 @@ vkcdnservice.appspot.com^
 ||rchauffenglut.cfd^
 ||rchnjyrju.net^
 ||rchnl62hlum6gmmgvtxz6545.cfd^
+||rchsqgkmqya.com^
 ||rcinksfpvdfgb.store^
 ||rciokmwkjiwuw.store^
 ||rciypzypf7j2tcwnggx3.cfd^
@@ -52821,6 +52825,7 @@ vkcdnservice.appspot.com^
 ||txbwpztu-oh.site^
 ||txcslpvgwxeao.website^
 ||txdrzgmuwoqqh.site^
+||txfqxhilkl.com^
 ||txfzmurcavgqx.space^
 ||txggmesrvgpyl.online^
 ||txgpgszrhedyl.online^
@@ -53849,6 +53854,7 @@ vkcdnservice.appspot.com^
 ||untopproplex.com^
 ||untownbusying.cyou^
 ||untriedcause.pro^
+||untrillstoteraskr.qpon^
 ||untristseaside.com^
 ||untrue-use.com^
 ||untrueaddition.pro^
@@ -56418,6 +56424,7 @@ vkcdnservice.appspot.com^
 ||wellmov.com^
 ||welltodo-mouth.pro^
 ||welltodomanager.pro^
+||welltodosingle.com^
 ||wellworn-lead.com^
 ||wellworn-phrase.com^
 ||welsomflaunty.cyou^
@@ -157190,6 +157197,7 @@ dlsdk.appsflyer.com^
 ||qmeqraen.com^
 ||wral.cn^
 ||xibvdjz2x2.com^
+||5b0a1c63v9.com^
 ||b4641y3dw.com^
 ||vigyn4gpx.com^
 ||nhlrzf.icu^
