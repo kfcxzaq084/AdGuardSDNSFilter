@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-18T20:37:44.599Z
+! Last modified: 2026-03-18T22:33:27.351Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6901,6 +6901,7 @@ vkcdnservice.appspot.com^
 ||4289rbmg6fygvpeugulnpewt6bcirlb8vxegzy.cyou^
 ||42d9c0e6fb.com^
 ||42jdbcb.de^
+||42ltelq45mm7pkyq5f9beb.cfd^
 ||4302118d1a.com^
 ||4319a692b9.com^
 ||43201617eb.com^
@@ -7737,6 +7738,7 @@ vkcdnservice.appspot.com^
 ||abaolokyjmryv.top^
 ||abaryoyidjcso.store^
 ||abashfireworks.com^
+||abassinsalaameffacer.cyou^
 ||abateadversity.com^
 ||abatiserector.cfd^
 ||abaturenative.cfd^
@@ -11584,6 +11586,7 @@ vkcdnservice.appspot.com^
 ||begeainrkdubh.online^
 ||begemepical.qpon^
 ||beggarconceivablecareful.com^
+||beggercliffed.cyou^
 ||beggingload.com^
 ||beggingrivulet.com^
 ||beginnerfurglow.com^
@@ -13485,6 +13488,7 @@ vkcdnservice.appspot.com^
 ||buzkalepjvgni.site^
 ||buzzdancing.com^
 ||buzzersidewalkcathedral.com^
+||buzzycodeina.shop^
 ||bv41c3c51jrvoqqhc939.cyou^
 ||bv8rjlooeg8wxw81tt4ge9g7yx7qon4l2xyxl8.cfd^
 ||bv967egpj6lb7p1ryrixkcpqkwryhy.cfd^
@@ -20960,6 +20964,7 @@ vkcdnservice.appspot.com^
 ||etvurlcoygadl.site^
 ||etwasranter.cfd^
 ||etwdpgjsvdqzk.site^
+||etweesqueres.qpon^
 ||etwiwgnnyouvw.space^
 ||etwmijxejhqrr.site^
 ||etxezrqexghpb.site^
@@ -23326,6 +23331,7 @@ vkcdnservice.appspot.com^
 ||fullfoetus.com^
 ||fullmworkhovdi.org^
 ||fulltraffic.net^
+||fulmarmeteor.cyou^
 ||fulohsdudxyhc.site^
 ||fulrrlddcjqlk.fun^
 ||fuluprhymes.cfd^
@@ -27643,6 +27649,7 @@ vkcdnservice.appspot.com^
 ||hyi5z8ivnlt2ooj9h.cfd^
 ||hyihyfouxfsjb.online^
 ||hyjxuvsklboyu.online^
+||hykhlwseeyjp.com^
 ||hykntjogtejpt.space^
 ||hyknzlikidbdf.website^
 ||hyldaxiyvidxg.online^
@@ -27866,6 +27873,7 @@ vkcdnservice.appspot.com^
 ||ickersanthine.com^
 ||ickerskuvera.help^
 ||ickewusvpzeje.online^
+||iclftvjktxuqt.com^
 ||iclickcdn.com^
 ||iclmewjplvaru.space^
 ||icnejxkehslub.online^
@@ -27937,6 +27945,7 @@ vkcdnservice.appspot.com^
 ||idnzhexoymrlc.space^
 ||idoelwwtfzkzo.website^
 ||idoeschikvwsn.website^
+||idoletunhazed.cfd^
 ||idolinflectiongentlemen.com^
 ||idolismbebang.cfd^
 ||idolized-treat.pro^
@@ -34074,6 +34083,7 @@ vkcdnservice.appspot.com^
 ||lxexkuusatqpe.space^
 ||lxfiflqhawqzr.space^
 ||lxfqqxpgmofen.online^
+||lxfzavyfqjv.com^
 ||lxhaxwqykukex.site^
 ||lxhwfufvlksxl.site^
 ||lxiapwwqfcbms.tech^
@@ -44495,6 +44505,7 @@ vkcdnservice.appspot.com^
 ||raidfrightbritain.com^
 ||raigleephi.net^
 ||raihanovoureew.net^
+||raillytottery.shop^
 ||railoosacoovo.net^
 ||railroadignorant.com^
 ||rainbowupmastervils.cfd^
@@ -44981,6 +44992,7 @@ vkcdnservice.appspot.com^
 ||redbugstzitzis.cyou^
 ||reddedstobs.cfd^
 ||reddishpandal.help^
+||reddlebasten.shop^
 ||redealpaxwax.shop^
 ||redeckgriffespluton.cyou^
 ||redeemcontagiontransmitted.com^
@@ -52367,6 +52379,7 @@ vkcdnservice.appspot.com^
 ||trellian.com^
 ||trellischafing.shop^
 ||tremblesyringeillusive.com^
+||tremblyrageousumbril.qpon^
 ||tremendous-hook.pro^
 ||tremendouscheek.com^
 ||tremendousthesis.com^
@@ -52696,6 +52709,7 @@ vkcdnservice.appspot.com^
 ||tuckytalefulclauber.cyou^
 ||tucwydhulyyuk.net^
 ||tudrrynzkocdq.website^
+||tuedianclients.qpon^
 ||tuesdayfetidlit.com^
 ||tuesdaypeas.com^
 ||tueubpbayxqrs.online^
@@ -53629,6 +53643,7 @@ vkcdnservice.appspot.com^
 ||unchairclawing.help^
 ||uncharycarnac.qpon^
 ||unchecktohome.cfd^
+||uncialsrefined.shop^
 ||unciatoi.com^
 ||uncinchambash.com^
 ||unclampescribe.qpon^
@@ -55991,6 +56006,7 @@ vkcdnservice.appspot.com^
 ||vyufgiaesxzib.site^
 ||vyuhylzzq.com^
 ||vywicefxghj.com^
+||vywiy196ehz38ptr6ti494.rest^
 ||vywvncjascsrw.world^
 ||vyxifgsrgihgr.online^
 ||vyxsgealwarnz.website^
@@ -57405,6 +57421,7 @@ vkcdnservice.appspot.com^
 ||woundmarkaching.com^
 ||wousnczbcqxvk.online^
 ||wovufaobxkzie.online^
+||wowingbuicks.qpon^
 ||wowrapidly.com^
 ||wowzazen.cyou^
 ||woxbnkonxwvrk.site^
@@ -58440,6 +58457,7 @@ vkcdnservice.appspot.com^
 ||xrltgmbpehohn.website^
 ||xrotlrpauwlaa.online^
 ||xrovyrgrclxbj.site^
+||xrpaqyeyjpmafs.com^
 ||xrqcamarbnhxg.website^
 ||xrqiweauoxfwn.site^
 ||xrqmatwxtzorj.online^
@@ -157307,6 +157325,7 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||dvjxk947e.com^
 ||kvxc7buwv3.com^
 ||z9sab7vr0b.com^
 ||ynkunarlg.com^
