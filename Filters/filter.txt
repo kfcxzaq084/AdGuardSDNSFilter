@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-19T13:06:41.248Z
+! Last modified: 2026-03-19T14:49:21.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5795,6 +5795,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||delivery.2d.net.co^
 ||easy-monetization.s3.yandex.net^
 ||rblx-copier.vercel.app^
 ||hbx.media.net^
@@ -14486,6 +14487,7 @@ vkcdnservice.appspot.com^
 ||cfzbgrgqlwubd.space^
 ||cfzcluhjpkjug.website^
 ||cfzrh-xqwrv.site^
+||cgamoqsqxy.com^
 ||cgbpxcvnophfy.space^
 ||cgbubdilqdjit.online^
 ||cgcjmgmcpddvh.website^
@@ -16014,6 +16016,7 @@ vkcdnservice.appspot.com^
 ||corymbtidal.cfd^
 ||corymburubu.cfd^
 ||coryphaquerns.cfd^
+||coryphthrifty.qpon^
 ||cosetengarb.com^
 ||coseyselsa.help^
 ||coshingcyano.qpon^
@@ -34676,6 +34679,7 @@ vkcdnservice.appspot.com^
 ||maturityneedlework.com^
 ||maturitynotebookmotion.com^
 ||maturityrigourwits.com^
+||matzothsouled.cyou^
 ||maugismongos.qpon^
 ||mauholeroufouwy.net^
 ||maumetfluxed.cyou^
@@ -40517,6 +40521,7 @@ vkcdnservice.appspot.com^
 ||partnerbcgame.com^
 ||partnermatic.com^
 ||partners-show.com^
+||partridgepuny.com^
 ||partridgevowel.com^
 ||partsroll.xyz^
 ||partsroll1.xyz^
@@ -40860,6 +40865,7 @@ vkcdnservice.appspot.com^
 ||pekjhombxovne.online^
 ||pekoecafrackman.cyou^
 ||peleliuplanned.help^
+||pelengtimawa.cyou^
 ||pelliancalmato.com^
 ||pellyxfrbufod.space^
 ||peloricmilched.cfd^
@@ -46399,6 +46405,7 @@ vkcdnservice.appspot.com^
 ||rqerokcafoadv.space^
 ||rqgiwrjyicatp.site^
 ||rqguhbkulkbwa.site^
+||rqgvmvokilgr.com^
 ||rqhnhxvjbulwywh.com^
 ||rqhrkeqlybjdy.website^
 ||rqialsrmwwxbx.website^
@@ -47271,6 +47278,7 @@ vkcdnservice.appspot.com^
 ||scarcelittle.com^
 ||scarcerpokomoo.com^
 ||scared-piece.pro^
+||scaredpoundsresolve.com^
 ||scareshortnovel.com^
 ||scarfebual.cyou^
 ||scarfjeeingglub.cyou^
@@ -50897,6 +50905,7 @@ vkcdnservice.appspot.com^
 ||taoxcdfb.com^
 ||taoyinbiacid.com^
 ||tapasidlinslicking.cfd^
+||tapasvimuftisemim.cyou^
 ||tapchibitcoin.care^
 ||tapdb.net^
 ||tapecompensationinjustice.com^
