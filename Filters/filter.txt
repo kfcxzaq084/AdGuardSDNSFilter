@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-19T18:59:50.109Z
+! Last modified: 2026-03-19T20:38:41.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7693,6 +7693,7 @@ vkcdnservice.appspot.com^
 ||aaedgdwcrxtkw.site^
 ||aafcwvjpryevi.online^
 ||aafdcq.com^
+||aagldlagh.com^
 ||aagm.link^
 ||aagyjmymvxxwk.online^
 ||aahedmarka.qpon^
@@ -11162,6 +11163,7 @@ vkcdnservice.appspot.com^
 ||balldomtheodyalod.qpon^
 ||balletsspiels.cfd^
 ||ballotjavgg124.fun^
+||ballotrancors.shop^
 ||ballroomprudentauditorium.com^
 ||balmilyewest.cyou^
 ||balmobligedelder.com^
@@ -17672,6 +17674,7 @@ vkcdnservice.appspot.com^
 ||demandrefreshment.com^
 ||demencydisrate.qpon^
 ||dementedjudged.com^
+||demeoremincypos.cfd^
 ||demiseskill.com^
 ||demitsortaudsed.net^
 ||demitsroinish.cyou^
@@ -25154,6 +25157,7 @@ vkcdnservice.appspot.com^
 ||granddadfindsponderous.com^
 ||granddaughterapexeuropean.com^
 ||granddaughterfeminist.com^
+||grandefleeingsuiform.cyou^
 ||grandeursubtlecol.com^
 ||grandeurtamper.com^
 ||grandiose-glove.pro^
@@ -32980,6 +32984,7 @@ vkcdnservice.appspot.com^
 ||lherbnfhnqrnf.site^
 ||lhewouldasifany.org^
 ||lhhpbaiyufphu.site^
+||lhjbaipcwwhteq.com^
 ||lhjkqdgxnrmjo.site^
 ||lhjnegfxaoemq.website^
 ||lhkpvpnnqcebn.fun^
@@ -54621,6 +54626,7 @@ vkcdnservice.appspot.com^
 ||uwsmamsebynub.site^
 ||uwtybptzsqcvo.online^
 ||uwuypebetgkvr.online^
+||uwvfubpjih.com^
 ||uwvuepnaaefvm.space^
 ||uwxvfjcaoo.com^
 ||ux2y7ue3hhueyt6h.cfd^
