@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-19T05:22:31.951Z
+! Last modified: 2026-03-19T06:59:22.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||shwnoyrwgmyli.online^
 ||huldeeforgoer.com^
 ||baggyrepackingrocky.com^
 ||snappydirt.com^
@@ -9870,6 +9871,7 @@ vkcdnservice.appspot.com^
 ||apnoeaabbotcy.cyou^
 ||apnoealwhelvejabiru.cfd^
 ||apnpr.com^
+||apodiaformersgrams.qpon^
 ||apologiesneedleworkrising.com^
 ||apologiesoccursdepressed.com^
 ||apologyale.com^
@@ -21901,6 +21903,7 @@ vkcdnservice.appspot.com^
 ||feignoccasionedmound.com^
 ||feijsojvphjqh.online^
 ||feilbeclaw.com^
+||feilrued.cyou^
 ||feistsshalier.cyou^
 ||feisty-strength.pro^
 ||fejwweqjtndwz.site^
@@ -29445,6 +29448,7 @@ vkcdnservice.appspot.com^
 ||ixquyrywdfsjg.site^
 ||ixqwhvkjglcaw.online^
 ||ixrwaramrqfeo.site^
+||ixrycmknoio.com^
 ||ixsgksvcnjqvo.online^
 ||ixtzexgnofhym.space^
 ||ixubgeuvxzgle.online^
@@ -38143,6 +38147,7 @@ vkcdnservice.appspot.com^
 ||nvmoaiswiahab.website^
 ||nvmzibbvocydt.website^
 ||nvobrvcxjhcbm.online^
+||nvp3xtvupk4i5m34yvvpmhrv7bwgzbkry1q.cfd^
 ||nvpbwocxzbumr.space^
 ||nvpylxkdptacm.today^
 ||nvqlygqniapyb.site^
@@ -40164,6 +40169,7 @@ vkcdnservice.appspot.com^
 ||ozbfgdzrpioaa.website^
 ||ozbjdgfjoztdc.site^
 ||ozckerranlakm.online^
+||ozdpunfugvki.in^
 ||ozehurtjv.com^
 ||ozetsaivoul.net^
 ||ozfxwlyarvwzy.site^
@@ -43229,6 +43235,7 @@ vkcdnservice.appspot.com^
 ||putrr7.com^
 ||putssugared.qpon^
 ||putteesmahzor.cfd^
+||putternumida.shop^
 ||puttingconfirm.qpon^
 ||puttodjin.cfd^
 ||puttoogwine.help^
@@ -48196,7 +48203,6 @@ vkcdnservice.appspot.com^
 ||shvsrrpkgjcuk.life^
 ||shvztdbkuxkyd.site^
 ||shwfxrbsrifhx.online^
-||shwnoyrwgmyli.online^
 ||shxpnomtimwdb.online^
 ||shy-clothes.com^
 ||shydastidu.com^
@@ -56181,6 +56187,7 @@ vkcdnservice.appspot.com^
 ||waltzedtappingamid.cfd^
 ||wamefupamirisapsago.cyou^
 ||wammusseize.com^
+||wampcihassi.in^
 ||wanaprof.com^
 ||wanderingbloke.com^
 ||wanderprickpath.com^
