@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-19T10:40:55.195Z
+! Last modified: 2026-03-19T13:06:41.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10184,6 +10184,7 @@ vkcdnservice.appspot.com^
 ||artoomanyrelati.com^
 ||artshelf.xyz^
 ||artsyharicot.com^
+||artvzqshpnx.com^
 ||artwareshambu.com^
 ||arubdaraqigxc.site^
 ||aruranmbqiyus.store^
@@ -11949,6 +11950,7 @@ vkcdnservice.appspot.com^
 ||bgqlttwnoeiet.website^
 ||bgqqpoax.com^
 ||bgrguptkxtous.online^
+||bgspbutjffz.com^
 ||bgvnctdwrlsrx.website^
 ||bgvzasralyngg.space^
 ||bgwafghjtwywv.online^
@@ -14965,6 +14967,7 @@ vkcdnservice.appspot.com^
 ||ciqvaiywqpkpk.club^
 ||ciqwkqfapdq.com^
 ||cirbxyidgqvtw.online^
+||circarooms.cyou^
 ||circlejavgg124.fun^
 ||circlesassailslopy.qpon^
 ||circularcarry.com^
@@ -16229,6 +16232,7 @@ vkcdnservice.appspot.com^
 ||crambidpleon.cyou^
 ||crambusstiffer.com^
 ||cramfinalizesluice.com^
+||cramperruddy.com^
 ||crampleadspace.com^
 ||cranegarnishextinct.com^
 ||craniomensile.cfd^
@@ -19352,6 +19356,7 @@ vkcdnservice.appspot.com^
 ||dynamicdrawler.qpon^
 ||dynamisbelated.cyou^
 ||dynamitedata.com^
+||dyneqmata.com^
 ||dynpaa.com^
 ||dynspt.com^
 ||dynsrvtbg.com^
@@ -26150,6 +26155,7 @@ vkcdnservice.appspot.com^
 ||hayingshia.qpon^
 ||haynelandauscottage.cfd^
 ||hazanimgolder.cfd^
+||hazeledagynous.cyou^
 ||hazelmarks.com^
 ||hazelstrictlyheadless.com^
 ||haziestyepely.cfd^
@@ -28527,6 +28533,7 @@ vkcdnservice.appspot.com^
 ||inchesray.com^
 ||inchesrecognize.com^
 ||inchestannule.qpon^
+||inchinggamelanjingall.cyou^
 ||incidentallyhorace.com^
 ||incidenttrumpremittance.com^
 ||incisaloutsin.cfd^
@@ -32351,6 +32358,7 @@ vkcdnservice.appspot.com^
 ||lamplitsorrels.cfd^
 ||lamplynx.com^
 ||lamppostadaptationlassitude.com^
+||lampreyrawhide.cyou^
 ||lampshadescreen.com^
 ||lanatedcypruschandui.cfd^
 ||lancasternh.com^
@@ -35237,6 +35245,7 @@ vkcdnservice.appspot.com^
 ||middaymishapnotice.com^
 ||middensunrra.com^
 ||middledcoerce.cfd^
+||middlejargon.com^
 ||middlewarestorm.net^
 ||midejabots.qpon^
 ||midetaffety.qpon^
@@ -36349,6 +36358,7 @@ vkcdnservice.appspot.com^
 ||mummsbodonid.qpon^
 ||mumpercodo.com^
 ||munchedhexed.cfd^
+||munchysunilbuccin.cfd^
 ||mundanesilly.com^
 ||mungoprowess.com^
 ||munificmararie.help^
@@ -37677,6 +37687,7 @@ vkcdnservice.appspot.com^
 ||noisy-anger.com^
 ||noisyfather.pro^
 ||nojjpugwlpwns.online^
+||nojtkmi5iux1o49.cfd^
 ||nojzmdvcnawjt.space^
 ||nokakjaulkrgi.site^
 ||nokymhnsljner.space^
@@ -38556,6 +38567,7 @@ vkcdnservice.appspot.com^
 ||ocmhood.com^
 ||ocmtag.com^
 ||ocnfaemiucbge.space^
+||ocnxmgcdfncy.com^
 ||oconner.link^
 ||ocoteasouldie.cyou^
 ||ocoupaigipteejo.net^
@@ -44665,6 +44677,7 @@ vkcdnservice.appspot.com^
 ||rasherscames.cyou^
 ||rashicmukriss.net^
 ||rashlyblowfly.com^
+||rashlyrotter.qpon^
 ||rashogrisy.com^
 ||rasourpuerto.help^
 ||raspconfirmationtroops.com^
@@ -47187,6 +47200,7 @@ vkcdnservice.appspot.com^
 ||savinmaggie.cyou^
 ||saviourcrimpycrimpyhem.com^
 ||savitriratio.help^
+||savorbolmbt.in^
 ||savourbiggergait.com^
 ||savoursweeptuck.com^
 ||savouryluxury.com^
@@ -50000,6 +50014,7 @@ vkcdnservice.appspot.com^
 ||strettechoco.com^
 ||strewsgoons.qpon^
 ||strewviolently.com^
+||streywalnutsmacrame.qpon^
 ||strhreqxcfcmr.online^
 ||strict-drink.com^
 ||strict-duty.pro^
@@ -50480,6 +50495,7 @@ vkcdnservice.appspot.com^
 ||swarthycupsconceal.com^
 ||swatad.com^
 ||swatbeneficial.com^
+||swathesdiurons.qpon^
 ||swatledgesling.com^
 ||swbbtzshzxsve.space^
 ||swcycyjwymqrw.website^
@@ -52154,6 +52170,7 @@ vkcdnservice.appspot.com^
 ||tosfeed.com^
 ||toshimtairteex.net^
 ||tosksprmwpkzf.site^
+||tossingvivid.com^
 ||tosswealthy.com^
 ||tostervar.shop^
 ||totalresponsibilityeconomics.com^
@@ -53199,6 +53216,7 @@ vkcdnservice.appspot.com^
 ||ubyuughvqgkfc.online^
 ||ubzmzxtdosgdh.online^
 ||ubztowsnyurmy.space^
+||uc7cyz979xkykenvcw9ql.rest^
 ||ucalirfghlthc.space^
 ||ucationininance.org^
 ||ucayalesabeca.cfd^
@@ -56450,6 +56468,7 @@ vkcdnservice.appspot.com^
 ||wcx4whygpeln92mfyp9zvf6e.cfd^
 ||wcxnhozavolcv.online^
 ||wcyvjdpduqxym.site^
+||wdbqwnmcptvy.com^
 ||wdbynoqnwlzzq.website^
 ||wdcwmeklhgnfc.xyz^
 ||wderfvqphkzih.space^
@@ -58726,6 +58745,7 @@ vkcdnservice.appspot.com^
 ||xwxmasihzkjoj.online^
 ||xwxtztqyihcrk.space^
 ||xwyhflmdwpxfg.site^
+||xwykabmuzx.in^
 ||xwzbpkku-i.site^
 ||xwzsskvlvohwl.top^
 ||xxbbcme5z2epkrqvrvuctb7hx8cp87nm.rest^
