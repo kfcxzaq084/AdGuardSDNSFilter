@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-20T18:52:03.900Z
+! Last modified: 2026-03-20T20:34:09.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13425,6 +13425,7 @@ vkcdnservice.appspot.com^
 ||bumpssn.cyou^
 ||bumpy-beyond.com^
 ||bunchhigher.com^
+||buncoedsutrasrimery.cyou^
 ||bundlemoviepumice.com^
 ||bundtdroners.help^
 ||bunfcjddgmnrd.online^
@@ -54049,6 +54050,7 @@ vkcdnservice.appspot.com^
 ||ungtkeltic.qpon^
 ||unhairraxesplotter.cfd^
 ||unhairsirrees.qpon^
+||unhandyaimabletrichi.cfd^
 ||unhappy-upstairs.com^
 ||unhappybill.com^
 ||unhappymom.pro^
@@ -55937,6 +55939,7 @@ vkcdnservice.appspot.com^
 ||vosfcwwsdurwp.site^
 ||vospnsjswih.com^
 ||vospzvrofurow.online^
+||votduhwjkhilf.com^
 ||voteallude.com^
 ||voteeckakrou.net^
 ||votepercussivepoplar.com^
@@ -58779,6 +58782,7 @@ vkcdnservice.appspot.com^
 ||xrqmatwxtzorj.online^
 ||xrrguslbyma.com^
 ||xrrvrnlp.xyz^
+||xrrwhmjtaeebmwd.com^
 ||xrtgnrremhq2gwu8u.cfd^
 ||xrtnppzzcmcze.online^
 ||xrtrdwuttxptw.site^
@@ -60089,6 +60093,7 @@ vkcdnservice.appspot.com^
 ||zajzrjlkgokbs.space^
 ||zakjvvjpjzesp.store^
 ||zaknohlugnzkz.space^
+||zakrennets.shop^
 ||zaktucdkuvw.com^
 ||zakvavgzu.in^
 ||zalfvzkgmctmu.space^
