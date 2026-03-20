@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-20T05:16:07.758Z
+! Last modified: 2026-03-20T06:56:45.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||insensitiveshoweraudible.com^
 ||shwnoyrwgmyli.online^
 ||huldeeforgoer.com^
 ||baggyrepackingrocky.com^
@@ -15427,6 +15428,7 @@ vkcdnservice.appspot.com^
 ||cmxfbwwuwdyjq.site^
 ||cmyiiypwacdah.website^
 ||cmyiojnzfirqc.website^
+||cn47thp48f7fcf.cfd^
 ||cn846.com^
 ||cn9gpxp5ybl1xp.cfd^
 ||cnadxljxczslw.online^
@@ -16795,6 +16797,7 @@ vkcdnservice.appspot.com^
 ||cuybnvyuqlizr.space^
 ||cuykdvvnhkjgy.space^
 ||cuzqaskcyjyut.site^
+||cuzthelilfut.in^
 ||cuzwihmlsomxm.online^
 ||cvaiojnnjprul.space^
 ||cvastico.com^
@@ -18044,6 +18047,7 @@ vkcdnservice.appspot.com^
 ||dierem.click^
 ||dietarydesume.cyou^
 ||dietaryyurilent.com^
+||dietercopple.cfd^
 ||diettrappeddestruction.com^
 ||differlookingmanor.com^
 ||differsfunk.com^
@@ -21386,6 +21390,7 @@ vkcdnservice.appspot.com^
 ||exterminatordesperate.com^
 ||extinguishbethpasta.com^
 ||extinguishsufferingsalty.com^
+||extolfatted.cyou^
 ||extortionbudnumerous.com^
 ||extracthorizontaldashing.com^
 ||extractionatticpillowcase.com^
@@ -22921,6 +22926,7 @@ vkcdnservice.appspot.com^
 ||forrapenicil.help^
 ||forsakenburn.com^
 ||forscprts.com^
+||forseentourntheow.cyou^
 ||forsfahqjnlhr.online^
 ||forstribless.cfd^
 ||fortaillowon.com^
@@ -23191,6 +23197,7 @@ vkcdnservice.appspot.com^
 ||friscobarchan.help^
 ||friskearworm.qpon^
 ||friskydoweral.com^
+||fritberean.cyou^
 ||friy.site^
 ||frizzymembership.pro^
 ||frjbyduygjwbk.site^
@@ -23720,6 +23727,7 @@ vkcdnservice.appspot.com^
 ||g0gr67p.de^
 ||g0wow.net^
 ||g1nzf947vmkbzqc.cyou^
+||g1o68ebeynwq67n.rest^
 ||g2288.com^
 ||g2afse.com^
 ||g2nnkzy49bph6hw383g.cfd^
@@ -32257,6 +32265,7 @@ vkcdnservice.appspot.com^
 ||kytgwhekqlcof.site^
 ||kyuulknnhnune.online^
 ||kyvaeggfnvefc.space^
+||kyvnrifs.com^
 ||kyvtarjhvmjlt.website^
 ||kywivixcdwbsm.online^
 ||kywjcuqtqspca.space^
@@ -49960,6 +49969,7 @@ vkcdnservice.appspot.com^
 ||stichosrages.cfd^
 ||stickingallot.com^
 ||stickingholdingconcussion.com^
+||stickscoltdependent.com^
 ||sticky-bid.pro^
 ||sticky-literature.pro^
 ||sticky-resolution.com^
@@ -57851,6 +57861,7 @@ vkcdnservice.appspot.com^
 ||wt20trk.com^
 ||wt9bi8nywgw3l2ot66nb6k.cfd^
 ||wtadloahayytc.online^
+||wtaojnja.in^
 ||wtatrrum.net^
 ||wtbeftkffxceq.online^
 ||wtdshzjdlppil.online^
@@ -60313,6 +60324,7 @@ vkcdnservice.appspot.com^
 ||zi8ivy4b0c7l.com^
 ||ziafajatupvv.com^
 ||zibethprewire.cyou^
+||zibetsmammer.qpon^
 ||ziblo.cloud^
 ||ziccxwyfkathr.website^
 ||zicthrpyqzrtt.website^
@@ -145631,6 +145643,7 @@ dlsdk.appsflyer.com^
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
 ||fixedfold.com^
+||fjordsand.com^
 ||flakyfeast.com^
 ||flameuncle.com^
 ||flashtexting.com^
