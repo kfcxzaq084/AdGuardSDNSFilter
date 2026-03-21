@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-21T05:06:51.909Z
+! Last modified: 2026-03-21T06:44:24.202Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7605,6 +7605,7 @@ vkcdnservice.appspot.com^
 ||9fe538916e.com^
 ||9fe84e92a1.com^
 ||9fnq2zhkkolqlzl.cyou^
+||9g8q8rfk45v3zpjbue.cfd^
 ||9gmnfzth6vmplp1.cfd^
 ||9icmqwtv67ir3r1qz.cfd^
 ||9ii2tbqzn1lvll.rest^
@@ -7740,6 +7741,7 @@ vkcdnservice.appspot.com^
 ||aaxads.com^
 ||aaxlrghdrbiw.xyz^
 ||aaxqrhsvsobcb.online^
+||aaznsrrkmgfic.online^
 ||ab03f4577b.com^
 ||ab0fbb66ba.com^
 ||ab1n.net^
@@ -10413,6 +10415,7 @@ vkcdnservice.appspot.com^
 ||atavifaggery.help^
 ||ataxicamplect.help^
 ||ataxyredleg.qpon^
+||ataxywash.cyou^
 ||ataykgrzwrplt.site^
 ||atazirsagai.cyou^
 ||atbdvpyfcedrz.website^
@@ -11751,6 +11754,7 @@ vkcdnservice.appspot.com^
 ||benrxbjyehvin.online^
 ||benshepiural.cfd^
 ||bensonshowd.com^
+||bentingyerth.cyou^
 ||bentpersuasive.com^
 ||bentsdiorism.com^
 ||bentserversiodine.com^
@@ -15155,6 +15159,7 @@ vkcdnservice.appspot.com^
 ||ckmcrdwnfzcec.space^
 ||ckmmrkvshzbqx.world^
 ||cknzvmfqkdpzr.website^
+||ckogxvbskhlqs.online^
 ||ckpchhhnhbsle.site^
 ||ckpyqgorlfdko.site^
 ||ckqohqwhpsgvf.website^
@@ -15544,6 +15549,7 @@ vkcdnservice.appspot.com^
 ||cobaltsanctionyodel.com^
 ||cobbiercurvet.shop^
 ||cobrascared.help^
+||cobsrhymicarmure.qpon^
 ||cobwebcomprehension.com^
 ||cobwebhauntedallot.com^
 ||cobwebsituationstyling.com^
@@ -16196,6 +16202,7 @@ vkcdnservice.appspot.com^
 ||cpaomcdhoatu.net^
 ||cpaway.com^
 ||cpays.com^
+||cpazwyvih.in^
 ||cpbhizaihjzaa.space^
 ||cpbsdmiolplwp.website^
 ||cpcjuynetzehm.website^
@@ -23614,6 +23621,7 @@ vkcdnservice.appspot.com^
 ||fvrttpyfqaigo.website^
 ||fvssmssxn.net^
 ||fvssmssxn.xyz^
+||fvtbmozgyaasj.website^
 ||fvtfjovvilyvu.online^
 ||fvtlqmpcmgcxe.online^
 ||fvtyvvrrzpmep.website^
@@ -29726,6 +29734,7 @@ vkcdnservice.appspot.com^
 ||jackingfistful.help^
 ||jackpotave.com^
 ||jacksonbateaux.com^
+||jacobcaseose.shop^
 ||jacobicpizzlesdegu.cyou^
 ||jadaichuwhegral.net^
 ||jadcenter.com^
@@ -30233,6 +30242,7 @@ vkcdnservice.appspot.com^
 ||jjimcqmqei.com^
 ||jjixhsyfdkv.net^
 ||jjixhsyfdkv.xyz^
+||jjiz5zu71vlprb8.rest^
 ||jjjgqtzlslhzi.online^
 ||jjjtbiggzzucf.online^
 ||jjjusezeikjzn.site^
@@ -30375,6 +30385,7 @@ vkcdnservice.appspot.com^
 ||jncqlqqy.xyz^
 ||jndcdxcoqjroj.store^
 ||jndgnfrypjtsy.site^
+||jndmcjfjglkbe.site^
 ||jnelzpebcmtuu.space^
 ||jnfizwhqiowvz.space^
 ||jnhqfeejekruh.website^
@@ -30425,6 +30436,7 @@ vkcdnservice.appspot.com^
 ||johbxcfsjjumk.online^
 ||johnianthoman.qpon^
 ||johnsguzeratchicot.cyou^
+||johotuehxbdmo.site^
 ||johtrptx.com^
 ||joinhitched.cyou^
 ||joinmedianow.com^
@@ -34630,6 +34642,7 @@ vkcdnservice.appspot.com^
 ||mammoth-a.pro^
 ||mammothshot.com^
 ||mammothsweetheart.com^
+||mammutkibbler.qpon^
 ||mamotyhutchie.cfd^
 ||mamseestis.xyz^
 ||mamtoakraksevi.net^
@@ -36537,6 +36550,7 @@ vkcdnservice.appspot.com^
 ||mummifiedpatienceunknowing.com^
 ||mummsbodonid.qpon^
 ||mumpercodo.com^
+||mumpersquitely.qpon^
 ||munchedhexed.cfd^
 ||munchysunilbuccin.cfd^
 ||mundanesilly.com^
@@ -37900,6 +37914,7 @@ vkcdnservice.appspot.com^
 ||nonerr.com^
 ||nonetarouse.qpon^
 ||nonethelessaugustcategory.com^
+||nonfarmwoofed.cfd^
 ||nonfatmolochs.com^
 ||nonfictionspatterrind.com^
 ||nonformhiation.cfd^
@@ -39422,6 +39437,7 @@ vkcdnservice.appspot.com^
 ||onlyvpn.site^
 ||onlyyourbiglove.com^
 ||onmanectrictor.com^
+||onmovwpu.in^
 ||onmxgnsddjrrx.website^
 ||onmxrrvzhikqu.website^
 ||onpetropica.com^
@@ -46115,6 +46131,7 @@ vkcdnservice.appspot.com^
 ||riskfulyuitarbores.cfd^
 ||riskyfooster.qpon^
 ||risnjmyxfqaep.website^
+||risppredy.qpon^
 ||risquedented.cfd^
 ||risselwark.cyou^
 ||rissoaantigay.cfd^
@@ -48392,6 +48409,7 @@ vkcdnservice.appspot.com^
 ||shooterexaminationcognizance.com^
 ||shooterofficially.com^
 ||shooterurgedearlier.com^
+||shopebinful.cyou^
 ||shopmonthtravel.com^
 ||shoppedannuli.help^
 ||shoppinglifestyle.biz^
@@ -48882,6 +48900,7 @@ vkcdnservice.appspot.com^
 ||sleeybknlwlcv.online^
 ||sleighssecalin.cfd^
 ||sleiwoufxgjui.space^
+||slelqtgemhvvt.com^
 ||slerbssivissp.site^
 ||slervwlteedfj.website^
 ||slewinggis.cyou^
@@ -50311,6 +50330,7 @@ vkcdnservice.appspot.com^
 ||strubjalapa.com^
 ||structure420.net^
 ||strugglingpersist.com^
+||strutsylvage.cfd^
 ||strwh.com^
 ||stscczovfaipx.website^
 ||stsejehaurbpx.site^
@@ -58911,6 +58931,7 @@ vkcdnservice.appspot.com^
 ||xspijiazzoffk.site^
 ||xsqaxmmepxmxw.site^
 ||xsqnbjvylfrbw.website^
+||xsqvhlxqyrudu.online^
 ||xsqzditggsbkd.space^
 ||xsratajtqaebb.online^
 ||xsrbatihgyayg.site^
@@ -59436,6 +59457,7 @@ vkcdnservice.appspot.com^
 ||yfqwiktzzrcrq.site^
 ||yfqypgbntnxmc.online^
 ||yfrfldynakfwh.space^
+||yfrhkaffsbovk.website^
 ||yfrnkmcdeurmk.top^
 ||yfrpgvmfnuuhfmm.xyz^
 ||yfsdrosphjdyh.online^
@@ -59998,6 +60020,7 @@ vkcdnservice.appspot.com^
 ||yuppads.com^
 ||yuppyads.com^
 ||yurekbkmhoadl.net^
+||yurokyander.cyou^
 ||yurunacorban.cyou^
 ||yurzldtomaeic.site^
 ||yusgoonbncwiu.site^
@@ -60584,6 +60607,7 @@ vkcdnservice.appspot.com^
 ||zjwdeujzdjhrk.site^
 ||zjwjcjiozdear.online^
 ||zjwwdgqpiecar.site^
+||zjwwervhmwfyb.space^
 ||zkcdowyqcacre.site^
 ||zkchvbcxzwpmx.online^
 ||zkckuzdesdhoj.online^
@@ -151384,8 +151408,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-03-13 10:01:18 CET
-# entries:        1152
+# last updated:   2026-03-21 07:41:47 CET
+# entries:        1155
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -151807,6 +151831,7 @@ dlsdk.appsflyer.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
+||track.mediaintelliview.com^
 ||track.yetric.net^
 ||tracker.zummycloud.com^
 ||tracker.kollega.open-analytics.se^
