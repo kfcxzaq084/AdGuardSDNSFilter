@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-23T18:56:24.436Z
+! Last modified: 2026-03-23T20:38:21.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9225,6 +9225,7 @@ vkcdnservice.appspot.com^
 ||asgadmp.cc^
 ||asgadsts.cc^
 ||asgclick.com^
+||asgiwdlmrcujs.online^
 ||ashamed-area.com^
 ||ashamedleague.pro^
 ||ashamedresist.com^
@@ -9285,6 +9286,7 @@ vkcdnservice.appspot.com^
 ||assertedclosureseaman.com^
 ||assertwinter.com^
 ||assetize.com^
+||assgsscgfsfaw.website^
 ||assholeshifty.cyou^
 ||assignmentlonesome.com^
 ||assimilatecigarettes.com^
@@ -9335,6 +9337,8 @@ vkcdnservice.appspot.com^
 ||atampharosom.com^
 ||ataxywash.cyou^
 ||ataykgrzwrplt.site^
+||atbdvpyfcedrz.website^
+||atbvxutitxgdf.website^
 ||atdeerlinga.com^
 ||atecomprisedispel.com^
 ||aterhouseoyope.com^
@@ -9416,6 +9420,7 @@ vkcdnservice.appspot.com^
 ||attrqqbnbjxkg.website^
 ||atubryjsbface.website^
 ||atvvuchvbfkml.site^
+||atwfblldwrizy.site^
 ||atwola.com^
 ||atyoureatth.org^
 ||atyvapfwastoa.space^
@@ -9453,6 +9458,7 @@ vkcdnservice.appspot.com^
 ||aunstollarinets.com^
 ||auntiealtogethertumor.com^
 ||auovksdjuotdb.space^
+||aupcpbjpbpvmt.online^
 ||auqot.com^
 ||auras-loves-dreams.com^
 ||auratedfelinenowed.qpon^
@@ -9496,6 +9502,7 @@ vkcdnservice.appspot.com^
 ||avazutracking.net^
 ||avbsqhunnykee.site^
 ||avcguvqizap.com^
+||avcpygaawhfyo.site^
 ||avdludlmpseoe.space^
 ||avdoqgozll.in^
 ||avelpwnzhdoyx.site^
@@ -9510,10 +9517,12 @@ vkcdnservice.appspot.com^
 ||avkauywgzdxlx.online^
 ||avlmy.com^
 ||avmmsekplixsk.space^
+||avohgtghfsery.space^
 ||avouchuramil.com^
 ||avpjihtkjsnfe.space^
 ||avpztadpi.in^
 ||avqovczcoanp.com^
+||avsubuialyavu.online^
 ||avthelkp.net^
 ||avuibxulygfyx.online^
 ||avvcaqgfiqaf.in^
@@ -16203,6 +16212,7 @@ vkcdnservice.appspot.com^
 ||dpnfbrdgvurtl.space^
 ||dpnhxepqxomj.net^
 ||dpnknkozlmyqf.space^
+||dppqpjgn.com^
 ||dppxjnchvfoae.website^
 ||dppzmgxpxwnnk.space^
 ||dpqnvaywvjwgr.space^
@@ -21331,6 +21341,7 @@ vkcdnservice.appspot.com^
 ||gasehoauzxzzt.store^
 ||gaseous-stroke.pro^
 ||gashesareanpriscan.cfd^
+||gaskinramonasoignee.qpon^
 ||gaslikesubet.help^
 ||gasolineimproveabroad.com^
 ||gasparkickxia.cfd^
@@ -42441,6 +42452,7 @@ vkcdnservice.appspot.com^
 ||ragolnnkeo.com^
 ||ragrolromairsou.net^
 ||ragwogidrznow.online^
+||rahfardc.com^
 ||rahjolly.shop^
 ||rahrcumhbyxrm.space^
 ||raibblzfnoctm.space^
@@ -48007,6 +48019,7 @@ vkcdnservice.appspot.com^
 ||stripwedding.com^
 ||striveemerges.cyou^
 ||strivendesi.help^
+||strobicrewroteblarney.cyou^
 ||strodedill.com^
 ||strodeintended.com^
 ||strokedunhurt.help^
@@ -142436,6 +142449,7 @@ dlsdk.appsflyer.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
 ||lh.bigcrunch.com^
+||link.bhvr.com^
 ||link.informer.com^
 ||links.voyeurweb.com^
 ||literally-analytics.appspot.com^
@@ -142596,6 +142610,7 @@ dlsdk.appsflyer.com^
 ||rum.layer0.co^
 ||rum.perfops.net^
 ||rw.marchex.io^
+||rybbit.sg-app.com^
 ||s.logsss.com^
 ||s.vibe.co^
 ||sa.recoding.tech^
@@ -145394,6 +145409,7 @@ dlsdk.appsflyer.com^
 ||modernus.is^
 ! Indonesian
 ||analytic.rocks^
+||meiro.io^
 ! Italian
 ||24log.it^
 ||accessi.it^
