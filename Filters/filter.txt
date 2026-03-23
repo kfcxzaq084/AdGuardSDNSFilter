@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-23T14:55:45.335Z
+! Last modified: 2026-03-23T16:56:59.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8517,6 +8517,7 @@ vkcdnservice.appspot.com^
 ||aklvbooruyymz.website^
 ||akmwjtoqyzvtz.site^
 ||akmxts.com^
+||aknhzvljvupsv.site^
 ||aknjnigrymlv.com^
 ||akokkogoshiak.website^
 ||akosaytrnwxag.website^
@@ -8656,6 +8657,7 @@ vkcdnservice.appspot.com^
 ||alpinesdum.shop^
 ||alquieranomura.qpon^
 ||alqzmnvaxvzcu.website^
+||alsbxyrahfjia.site^
 ||alsdebaticalfelixsto.org^
 ||alskillseery.org^
 ||altarrousebrows.com^
@@ -8677,11 +8679,13 @@ vkcdnservice.appspot.com^
 ||alwingulla.com^
 ||alwxamfivx.com^
 ||alxbgo.com^
+||alxrzctnoizox.online^
 ||alyfdrzipjquz.online^
 ||alysson.de^
 ||alzuogujpnija.website^
 ||am15.net^
 ||amaabfvuyispa.space^
+||amadnpqnxmzoh.site^
 ||amala-wav.com^
 ||amamdaugeoqll.website^
 ||amassergnawslustre.qpon^
@@ -8699,6 +8703,7 @@ vkcdnservice.appspot.com^
 ||ambitiousdemand.com^
 ||ambletakes.cyou^
 ||ambosetness.cyou^
+||amczbhfcbhewz.site^
 ||amelatrina.com^
 ||amellusslangs.cfd^
 ||amendmentbutterfly.com^
@@ -8738,6 +8743,7 @@ vkcdnservice.appspot.com^
 ||amqkuedsdsube.site^
 ||amqsguelufxcb.online^
 ||amrefbss.com^
+||amsbzwqwebzml.online^
 ||amsctdspsyeqf.website^
 ||amsgjybwclvoq.space^
 ||amt3.com^
@@ -8757,6 +8763,7 @@ vkcdnservice.appspot.com^
 ||amwoukrkskillso.com^
 ||amylomjemwhare.cfd^
 ||amylpiete.shop^
+||amzdmgjigiolu.online^
 ||amzfepdudlyvb.site^
 ||anacarahunts.cyou^
 ||anacarauppluck.qpon^
@@ -8902,6 +8909,7 @@ vkcdnservice.appspot.com^
 ||antrumscroiseschorwat.cyou^
 ||anunqsghebpjy.store^
 ||anvilturpentineelitist.com^
+||anvuelhyrfmrc.online^
 ||anwgmaonmzz.com^
 ||anwjlyjthfucs.website^
 ||anxiousequal.com^
@@ -8913,8 +8921,10 @@ vkcdnservice.appspot.com^
 ||anyrelationsandin.com^
 ||anytimebananarecoil.com^
 ||anytimespurt.com^
+||aoajausyccucf.space^
 ||aoalmfwinbsstec23.com^
 ||aocaxppjxvhfj.online^
+||aodyqvxepndmr.online^
 ||aoelyynxoztwi.space^
 ||aofrrliqxrumq.site^
 ||aoglfrntimnre.space^
@@ -10492,6 +10502,7 @@ vkcdnservice.appspot.com^
 ||bletopreseynat.org^
 ||blfrrfanpmwqt.website^
 ||blg-1216lb.com^
+||blg9vx9vlh72v4qpmtzjil.cfd^
 ||blicatedlitytleme.org^
 ||bliesthogmane.com^
 ||blind-trip.pro^
@@ -23192,6 +23203,7 @@ vkcdnservice.appspot.com^
 ||gxbyumjkqzvtr.online^
 ||gxcmcnzgoxjcu.online^
 ||gxdapmevjtbzy.online^
+||gxdqqpmihainvx.com^
 ||gxekdhfjgadse.site^
 ||gxetowrzlnqbf.online^
 ||gxfftsdvmekwu.site^
@@ -25061,6 +25073,7 @@ vkcdnservice.appspot.com^
 ||huskieruromere.cyou^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
+||huspelcopplekitlope.cyou^
 ||huspyvgrjfaoa.site^
 ||hussiestongmen.cyou^
 ||hussklycigswm.space^
@@ -36772,6 +36785,7 @@ vkcdnservice.appspot.com^
 ||olecnhgwlootg.site^
 ||olefinsmimus.cfd^
 ||oleinoutdone.help^
+||oleoscorbiescouvert.qpon^
 ||oleronraid.com^
 ||olfawljswltdh.site^
 ||olgawydkglntk.site^
@@ -41407,6 +41421,7 @@ vkcdnservice.appspot.com^
 ||qdtvdmtrlrelw.space^
 ||qdtvgyuh.com^
 ||qdurzzrmxptvr.online^
+||qduubhyidqubad.com^
 ||qdvdesuqdanwc.store^
 ||qdvkgjfculfmr.site^
 ||qdvmjnjld.xyz^
@@ -43859,6 +43874,7 @@ vkcdnservice.appspot.com^
 ||rlusaglqgblxw.website^
 ||rluxjqxjstoya.com^
 ||rlwttnzdgmirv.site^
+||rlxdmlxvjvumo.com^
 ||rlxntgpuh.com^
 ||rlzxejmnaxkht.website^
 ||rm358.com^
@@ -52681,6 +52697,7 @@ vkcdnservice.appspot.com^
 ||v5putvuez69uth.cfd^
 ||v86op739p1gjr2f.cfd^
 ||v8hrx1kbzk18k5evmc4.rest^
+||v8m2rqhrvmjg27uvyh1jhhn5.rest^
 ||v8m6pbte6l5855guvgk1i.cfd^
 ||v9im3jxxcl3e47qii.cfd^
 ||v9tq117zy2ezftc5.rest^
