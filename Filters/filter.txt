@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-24T05:23:20.941Z
+! Last modified: 2026-03-24T07:05:19.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3005,7 +3005,6 @@
 ||a.chmsrv.com^
 ||a.crme7srv.com^
 ||a.golhofer.com^
-||a.happyleafmotion.com^
 ||a.mikbaken.com^
 ||a.pinkads.org^
 ||a.playa.to^
@@ -3183,7 +3182,6 @@
 ||s.exv6.com^
 ||s.flirtads.net^
 ||s.golhofer.com^
-||s.happyleafmotion.com^
 ||s.hkartg.com^
 ||s.huispol.com^
 ||s.humnert.com^
@@ -8416,6 +8414,7 @@ vkcdnservice.appspot.com^
 ||ahxqqfgmfumpo.website^
 ||ahyjsrlslitla.online^
 ||ahzrdogdenuok.site^
+||aiagqtjxmktssq.com^
 ||aiaskjqrimnol.website^
 ||aibsgc.com^
 ||aidata.io^
@@ -10712,6 +10711,7 @@ vkcdnservice.appspot.com^
 ||bnrslks.com^
 ||bnserving.com^
 ||bnsirwpidbpao.online^
+||bnwhvweqqnisa.online^
 ||bnwqxlwbfyeho.online^
 ||bnynihjbciywe.online^
 ||boannre.com^
@@ -10736,6 +10736,7 @@ vkcdnservice.appspot.com^
 ||bodilywondering.com^
 ||bodleanarcho.com^
 ||bodystrickenmultitude.com^
+||boehwxhleexzc.website^
 ||boeotiaonlappheeal.cfd^
 ||boerumpeiakmf.space^
 ||boffinsoft.com^
@@ -10877,6 +10878,7 @@ vkcdnservice.appspot.com^
 ||bountyformseedlings.com^
 ||bountyketchup.com^
 ||bouquetdaft.com^
+||bourockbeleve.cyou^
 ||bourrepardale.com^
 ||boursespepsis.qpon^
 ||bouserunhoist.com^
@@ -10914,12 +10916,14 @@ vkcdnservice.appspot.com^
 ||bpbnelpowldjl.space^
 ||bpckpw1h3wkwplxhcow214b89uj4y.cfd^
 ||bpdqwixnyxoxy.site^
+||bpdwgrtovfhga.site^
 ||bpeovknslhuqy.online^
 ||bpesscobzunkm.online^
 ||bphgwntdzzyxs.space^
 ||bphtlhrntspkk.site^
 ||bpigydbzlrszz.online^
 ||bpleaaekrdvnj.site^
+||bplpneesbsfmb.website^
 ||bpltqydasflff.online^
 ||bpmbhbpmmbndn.online^
 ||bpmfagzlptbxp.site^
@@ -10932,8 +10936,11 @@ vkcdnservice.appspot.com^
 ||bqajoisaiwlxs.site^
 ||bqenzxdijbdov.space^
 ||bqglwzsuxvfsr.space^
+||bqgrjfergtrwn.online^
 ||bqgwxqoqjqvbz.online^
+||bqgzwberwwzic.space^
 ||bqifheyrsbgqa.site^
+||bqifieevbkspk.website^
 ||bqjukucxjhtvm.website^
 ||bqkerpcwptpya.space^
 ||bqlmweiecxpxr.online^
@@ -11007,6 +11014,7 @@ vkcdnservice.appspot.com^
 ||breathinggeoff.com^
 ||bred4tula.com^
 ||breechesbiddingratification.com^
+||brehrdqjhyaga.site^
 ||breixmdldvvfa.website^
 ||brevawars.cyou^
 ||brevitychestprocess.com^
@@ -11059,6 +11067,7 @@ vkcdnservice.appspot.com^
 ||brittlesturdyunlovable.com^
 ||brmljcaxcchtu.space^
 ||brmrfxnpajqqx.site^
+||brnvimqdltzzk.online^
 ||broadensilkslush.com^
 ||broadsheetspikesnick.com^
 ||broadsidedaisysanta.com^
@@ -11125,6 +11134,7 @@ vkcdnservice.appspot.com^
 ||bruteportrait.com^
 ||brutishlylifevoicing.com^
 ||brutuzzzymudq.world^
+||bruzzexacter.com^
 ||brygella.com^
 ||brzbrjycauqcf.site^
 ||brzjthsubtlwj.site^
@@ -23613,6 +23623,7 @@ vkcdnservice.appspot.com^
 ||happy-davinci-53144f.netlify.com^
 ||happy2dates.com^
 ||happygoluckyrestaurant.com^
+||happyleafmotion.com^
 ||happylength.com^
 ||happymuttereda.org^
 ||happytemporary.pro^
@@ -25038,6 +25049,7 @@ vkcdnservice.appspot.com^
 ||htidutntayqzo.website^
 ||htintpa.tech^
 ||htirmsdzegmjn.site^
+||htj7jpwfhnm4m196bviy5zjfm46.rest^
 ||htjvxemjtdaom.site^
 ||htkcm.com^
 ||htkialflazmtc.site^
@@ -33001,6 +33013,7 @@ vkcdnservice.appspot.com^
 ||mgwawoyupykxh.online^
 ||mgwxgxnpmzcqa.website^
 ||mgx7befpnqvwhtzlgk.cfd^
+||mgxrwofnpbnof.com^
 ||mgyalhepxgwqz.website^
 ||mgyccfrshz.com^
 ||mhbidibrpcbky.site^
@@ -39699,6 +39712,7 @@ vkcdnservice.appspot.com^
 ||pmcooboo.cfd^
 ||pmdbhrxgnfbwx.online^
 ||pmddjxmngdmyj.site^
+||pmdvxkhqaomvt.com^
 ||pmegdobhuwqwz.online^
 ||pmf73er72ez1hlfb25hzn.cfd^
 ||pmffi48z41x4f3bx3kobtfv7g.cfd^
@@ -41771,6 +41785,7 @@ vkcdnservice.appspot.com^
 ||qiyzxtvsswtxg.online^
 ||qizjkwx9klim.com^
 ||qizngrvofofia.site^
+||qizz45l7vupnkettgw6tqk3v.cfd^
 ||qjaioccuzbmud.site^
 ||qjbtdidrobmmo.love^
 ||qjcwjbyrlwiuk.site^
@@ -44888,6 +44903,7 @@ vkcdnservice.appspot.com^
 ||ryztztusmngvy.site^
 ||ryzxjxtttxpfr.com^
 ||rz44nj49ltfc22.cfd^
+||rzaafgabrtux.in^
 ||rzakuwuhzcwnd.website^
 ||rzbbqovsrrugf.space^
 ||rzedmincpjcam.website^
@@ -46683,6 +46699,7 @@ vkcdnservice.appspot.com^
 ||sleddertrush.cyou^
 ||sledfoolinfo.com^
 ||sledgerspode.qpon^
+||sledgesvillas.cfd^
 ||sledxylan.com^
 ||sleekwinterpowers.com^
 ||sleekynothing.cyou^
@@ -47315,6 +47332,7 @@ vkcdnservice.appspot.com^
 ||spatterunaxled.qpon^
 ||spaveusurp.cfd^
 ||spaviesforgift.help^
+||spawnerfanfareacreak.cyou^
 ||spcjnfbzrqave.space^
 ||spcwtcizsymxf.site^
 ||spdate.com^
@@ -51264,6 +51282,7 @@ vkcdnservice.appspot.com^
 ||tzgwi3cw17pgjqx1ue6l.cfd^
 ||tzifafpdvzcxl.website^
 ||tzkiqtq489j9mgbui2rz.cfd^
+||tzknnxfogr.com^
 ||tzmupfzuwoqtl.space^
 ||tznvsmuylzbfl.website^
 ||tznwrkyxqoyhf.online^
@@ -52213,6 +52232,7 @@ vkcdnservice.appspot.com^
 ||unstantleran.com^
 ||unsteady-challenge.com^
 ||unsteelrimas.cyou^
+||unstoicingrave.cyou^
 ||unstoreregrets.cfd^
 ||unsuccessfulimmense.com^
 ||unsuitsipapuhogs.cyou^
@@ -52863,6 +52883,7 @@ vkcdnservice.appspot.com^
 ||vaatmetu.net^
 ||vabrlvkalgzaq.site^
 ||vabtbjzuwbzki.online^
+||vacancyconsiderably.com^
 ||vacaneedasap.com^
 ||vacant-shoot.pro^
 ||vacantazon.com^
@@ -141110,6 +141131,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||ingest.skarb.work^
 ||sensor.photogrid.app^
 ||sensor.aqhg.online^
 ||log-nontt.bytegsdk.com^
@@ -146188,6 +146210,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ak-ads-ns.prisasd.com^
 ||ads.comunidades.net^
 ||go.etoro.com^
 ||ads-redis.ecn.cl^
