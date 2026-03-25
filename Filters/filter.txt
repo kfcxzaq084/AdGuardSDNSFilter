@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-25T13:12:26.100Z
+! Last modified: 2026-03-25T14:59:56.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8893,6 +8893,7 @@ vkcdnservice.appspot.com^
 ||annulusrewarn.qpon^
 ||anoasscards.qpon^
 ||anodachwrhdbv.space^
+||anomalaboidae.cyou^
 ||anomaloustinge.com^
 ||anomerlongest.cyou^
 ||anomiavagancyvexilla.cfd^
@@ -12027,6 +12028,7 @@ vkcdnservice.appspot.com^
 ||cgmfhzvqykwxg.store^
 ||cgnktsuee.xyz^
 ||cgpjpvvcadzrp.store^
+||cgqcuskbtcusxl.com^
 ||cgqkxzxipzxm.com^
 ||cgrsihmgjmzfb.space^
 ||cgsaxsvjvswcu.space^
@@ -18237,6 +18239,7 @@ vkcdnservice.appspot.com^
 ||eolithpopedom.cfd^
 ||eondunpea.com^
 ||eonwuljgmyjep.site^
+||eoojxfomffsdc.website^
 ||eopuzol1.online^
 ||eopuzol4.online^
 ||eoredi.com^
@@ -19924,6 +19927,7 @@ vkcdnservice.appspot.com^
 ||finednothue.com^
 ||finemonth.com^
 ||finessebaitsupply.com^
+||finewedcaserns.com^
 ||fingadrusoorsay.net^
 ||fingercough.xyz^
 ||fingerrealistic.com^
@@ -22167,6 +22171,7 @@ vkcdnservice.appspot.com^
 ||gixwfkgeilejk.site^
 ||gizokraijaw.net^
 ||gjadyyxbjdshtsy.net^
+||gjamwaoovidgc.online^
 ||gjbexnqsaickc.online^
 ||gjexnbewioidd.online^
 ||gjfyeghpsuxmx.space^
@@ -25661,6 +25666,7 @@ vkcdnservice.appspot.com^
 ||iavlyzijmpe.com^
 ||iawznafqfghkm.website^
 ||iaxitnxmakuso.store^
+||iaxqpnkyqysam.space^
 ||iaykknvyjwaea.site^
 ||iaypoeqfvxfqg.site^
 ||iazcpoptkwapp.store^
@@ -29324,6 +29330,7 @@ vkcdnservice.appspot.com^
 ||kinnorpasang.shop^
 ||kinoneeloign.com^
 ||kinsenorant.cfd^
+||kinuhdtatpihj.site^
 ||kiomthavsruuk.online^
 ||kioskorchil.qpon^
 ||kioymxcefsmgm.site^
@@ -31950,6 +31957,7 @@ vkcdnservice.appspot.com^
 ||luivcgmx.net^
 ||luizsycwgzmkg.website^
 ||lukeinoffensive.com^
+||lukelybumpkin.cyou^
 ||lukfagmuxbud.in^
 ||lukgumyfrbqle.site^
 ||lukrqrzkmiwst.online^
@@ -34724,6 +34732,7 @@ vkcdnservice.appspot.com^
 ||mzcgpmpygdoer.site^
 ||mzdaixuoqtupr.site^
 ||mzdhejfvuankc.global^
+||mzdlrglckxifp.space^
 ||mzfgtgylnwgrp.website^
 ||mzgcaatryecyd.website^
 ||mzgpxlngycipq.online^
@@ -35384,6 +35393,7 @@ vkcdnservice.appspot.com^
 ||nhuzushu.in^
 ||nhvttxjdauxir.xyz^
 ||nhvyafmsoet.xyz^
+||nhwlkqoodhlar.online^
 ||nhwoxbzlacaqx.website^
 ||nhzczuzvmmcfh.website^
 ||niagaraswails.com^
@@ -35437,6 +35447,7 @@ vkcdnservice.appspot.com^
 ||nifty-tomorrow.pro^
 ||nigellatorero.qpon^
 ||nigfyaqiykjd.xyz^
+||niggersalat.qpon^
 ||niggotvoluspachokage.qpon^
 ||nighestmellow.cyou^
 ||nightbesties.com^
@@ -36643,6 +36654,7 @@ vkcdnservice.appspot.com^
 ||ocanybody.cyou^
 ||ocaqffnioibvp.online^
 ||ocardoniel.com^
+||ocasabiloribwork.qpon^
 ||occasionalmanner.com^
 ||occasionedcaneturner.com^
 ||occluseexuvia.help^
@@ -52863,6 +52875,7 @@ vkcdnservice.appspot.com^
 ||urkwirqvvuutz.online^
 ||urkyjhgdembbs.site^
 ||urldelivery.com^
+||urlfmxyvo.com^
 ||urlgone.com^
 ||urlhausa.com^
 ||urljofjevbddc.website^
@@ -53708,6 +53721,7 @@ vkcdnservice.appspot.com^
 ||vfegfmbcyerbh.space^
 ||vfegqmbcgyndw.today^
 ||vfeissowmnvyu.website^
+||vfertqhkmxvra.website^
 ||vfetupuyuwhso.space^
 ||vffncubbivrcm.website^
 ||vffottxgcmtyy.site^
@@ -54550,6 +54564,7 @@ vkcdnservice.appspot.com^
 ||vuvidbuqgfcne.website^
 ||vuwgityuhrcvf.online^
 ||vuwofoeszqiby.store^
+||vuwrjobyhwbjn.site^
 ||vuwzer.com^
 ||vuzhzlzswecvc.global^
 ||vv8h9vyjgnst.com^
@@ -56556,6 +56571,7 @@ vkcdnservice.appspot.com^
 ||wymuxgvyjwmraqn.net^
 ||wynrisisthm.qpon^
 ||wynvalur.com^
+||wyolespmytksi.space^
 ||wypmfqgwnetdz.online^
 ||wyqboqpgkwtqt.com^
 ||wyqikvlslnuuf.space^
@@ -64023,6 +64039,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||plausible.vidsonic.net^
 ||delivery.dighty.com^
 ||vault.nqintelligence.com^
 ||rudder-server-prd.arena.im^
