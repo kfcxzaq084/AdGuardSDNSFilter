@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-28T14:32:35.532Z
+! Last modified: 2026-03-28T16:35:42.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6819,6 +6819,7 @@ vkcdnservice.appspot.com^
 ||2mo3neop.de^
 ||2mqx3qv6mu8iqrqmvcuv4p.rest^
 ||2nn7r6bh1.de^
+||2nqmub5hzuxm4prm.cfd^
 ||2nyo9rwkx1rn7bk62wvpig3onk3fiok4eq7n.rest^
 ||2om93s33n.de^
 ||2p1kreiqg.de^
@@ -6996,6 +6997,7 @@ vkcdnservice.appspot.com^
 ||4gjroqglmcembmmfjbiv36thpu.rest^
 ||4hx95xequ2qnry3pj45ool.rest^
 ||4irq8we54h89h8b9y431zgceu3ofyn3mu.cfd^
+||4irxrz5zj3bzb3.rest^
 ||4kbfptl7tl7yryy5gpruozz.cfd^
 ||4kbqmqjz5jxr9c6oreciljnh427ek4.cfd^
 ||4ng9qlkrnb6vu4poen44ox.rest^
@@ -9024,6 +9026,7 @@ vkcdnservice.appspot.com^
 ||aortaehexagyn.shop^
 ||aorvgrrzkjras.store^
 ||aotewsxzxbnzj.space^
+||aoufmmunivdqv.com^
 ||aouwjgfy.com^
 ||aoxvlbejkrvvh.online^
 ||aoybyddyyolidd.com^
@@ -9929,6 +9932,7 @@ vkcdnservice.appspot.com^
 ||balox.xyz^
 ||balphyra.com^
 ||balrviewer.qpon^
+||balunkalends.com^
 ||balvalur.com^
 ||bambaraholokupulsers.cfd^
 ||bambarmedia.com^
@@ -11828,6 +11832,7 @@ vkcdnservice.appspot.com^
 ||caribouconder.qpon^
 ||caricatureboretangle.com^
 ||carinaepodsdulcify.qpon^
+||caring-might.pro^
 ||caringmake.pro^
 ||caringpast.com^
 ||cariouscannedroman.com^
@@ -17735,6 +17740,7 @@ vkcdnservice.appspot.com^
 ||efkwuqgwfkloq.website^
 ||efkzfuplrhvfl.space^
 ||eflewroundand.com^
+||efmjvchffbmar.online^
 ||efnwjusqnwzdt.website^
 ||efooheegounoap.net^
 ||eforebuthehadsta.org^
@@ -18545,6 +18551,7 @@ vkcdnservice.appspot.com^
 ||ephoarouglou.net^
 ||ephoraltrulls.cfd^
 ||epicclicks.net^
+||epicureholer.com^
 ||epidemicfaithlesscoats.com^
 ||epidemicoversleeppoet.com^
 ||epidermispushupvariable.com^
@@ -19509,6 +19516,7 @@ vkcdnservice.appspot.com^
 ||fafflebotry.shop^
 ||faftouthaurick.net^
 ||fafxuylrwwnxg.online^
+||fagaldazinputtan.qpon^
 ||fagalescistae.cfd^
 ||fagarauvitic.com^
 ||fageixias.cyou^
@@ -20517,6 +20525,7 @@ vkcdnservice.appspot.com^
 ||flickerbridge.com^
 ||flickerfailing.com^
 ||flickering-buy.com^
+||flickering-credit.pro^
 ||flierslooking.shop^
 ||flightglancing.com^
 ||flighttraditional.com^
@@ -21705,6 +21714,7 @@ vkcdnservice.appspot.com^
 ||fzizacvhya.in^
 ||fzkizhppiybaj.space^
 ||fzlhoawxkxepc.space^
+||fzlpixsrxtixp.site^
 ||fzltkaptycrlv.website^
 ||fzmflvwn.tech^
 ||fzmuejdztjzsz.online^
@@ -31500,6 +31510,7 @@ vkcdnservice.appspot.com^
 ||lhwmjrll.net^
 ||lhwvwdqhajogu.website^
 ||lhxmrcyaqsvze.site^
+||lhxqfxhqwoiiq.site^
 ||lhxsrndtegeuo.online^
 ||lhyfewqwlxbil.online^
 ||lhyxoipzyzkuz.website^
@@ -35346,6 +35357,7 @@ vkcdnservice.appspot.com^
 ||mzidndvsmszfx.space^
 ||mziso.xyz^
 ||mzitrqkzyn57tcr.cfd^
+||mzjojzwbrqdqv.site^
 ||mzkgowyhchavk.site^
 ||mzmvcdhvehplz.site^
 ||mzmxdown.com^
@@ -35475,6 +35487,7 @@ vkcdnservice.appspot.com^
 ||nanhesitationhireling.com^
 ||nannyirrationalacquainted.com^
 ||naocpuzajwlgt.space^
+||naompjamdbsum.site^
 ||naoofdiujjiec.space^
 ||naos.ink^
 ||nap5k.com^
@@ -41187,6 +41200,7 @@ vkcdnservice.appspot.com^
 ||pqhdiyvlkeg.com^
 ||pqhxqktq.xyz^
 ||pqidnaconivjv.site^
+||pqirkbvrxdwfcx.com^
 ||pqixbnllqzmfp.space^
 ||pqjfrmwy.com^
 ||pqkdmziebfiul.online^
@@ -44904,6 +44918,7 @@ vkcdnservice.appspot.com^
 ||rihmdaadjawxy.online^
 ||rihrvgnuexlk.net^
 ||rihurxgrxghfh.online^
+||rijedoryxzsye.site^
 ||rijzjihnxvley.website^
 ||rikakza.xyz^
 ||rikishadualism.cfd^
@@ -49599,6 +49614,7 @@ vkcdnservice.appspot.com^
 ||superficial-work.com^
 ||superfolder.net^
 ||superggood.com^
+||superilose.com^
 ||superiordealer.pro^
 ||superiorityroundinhale.com^
 ||superioroptionaleveryone.com^
@@ -53504,6 +53520,7 @@ vkcdnservice.appspot.com^
 ||unshoedts.help^
 ||unshowyoc.cyou^
 ||unshutcaitiff.com^
+||unsightly-listen.com^
 ||unsizedjabber.com^
 ||unskilfulunpredictable.com^
 ||unskilledaccompanimentcircumstances.com^
@@ -53591,6 +53608,7 @@ vkcdnservice.appspot.com^
 ||unwisewithdrawalroad.com^
 ||unwitting-milk.com^
 ||unwonkitenge.help^
+||unwonmaquisfather.cfd^
 ||unwrapsjewship.cfd^
 ||unwritmirific.com^
 ||unwritten-cash.com^
@@ -53922,6 +53940,7 @@ vkcdnservice.appspot.com^
 ||usninleed.cfd^
 ||usouokopeukasrs.org^
 ||usoxhzmpfqehe.space^
+||usrhlnliopvrv.online^
 ||usruvfpf.xyz^
 ||ussizjvyilwhw.space^
 ||ussxuvyfyzchw.space^
