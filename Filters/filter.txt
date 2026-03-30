@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-30T09:15:41.323Z
+! Last modified: 2026-03-30T11:02:57.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6009,6 +6009,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||bat31.gimmeporn.xyz^
 ||api.imdb.us-east-1.prod.mario.imdbtv.amazon.dev^
 ||apifox.it.com^
 ||delivery.2d.net.co^
@@ -7680,6 +7681,7 @@ vkcdnservice.appspot.com^
 ||achycompassionate.com^
 ||acibgrucxulrh.space^
 ||acictsjxqbsob.website^
+||acidicgreen.com^
 ||aciesdockman.shop^
 ||acjkovckjufpz.space^
 ||ackcdn.net^
@@ -12431,6 +12433,7 @@ vkcdnservice.appspot.com^
 ||chfinqdgoptju.website^
 ||chfpgcbe.com^
 ||chgoakspitied.cfd^
+||chhencmmgwogk.space^
 ||chiamfxz.com^
 ||chiamniching.cyou^
 ||chiantiriem.com^
@@ -12881,6 +12884,7 @@ vkcdnservice.appspot.com^
 ||clattybelton.cfd^
 ||clattygaming.cfd^
 ||clawersalcine.qpon^
+||clawpermute.cyou^
 ||clayeyscutel.cyou^
 ||clbaf.com^
 ||clbjmp.com^
@@ -15784,6 +15788,7 @@ vkcdnservice.appspot.com^
 ||dgbksmqokosii.space^
 ||dgcckgqobcgda.online^
 ||dgcfabvlsfewv.site^
+||dgdcpypunnrnm.site^
 ||dgeakmdengoew.space^
 ||dgenltxpyynpb.site^
 ||dgfsajonlckrp.store^
@@ -17864,6 +17869,7 @@ vkcdnservice.appspot.com^
 ||efkzfuplrhvfl.space^
 ||eflewroundand.com^
 ||efmjvchffbmar.online^
+||efmkmumjsby.com^
 ||efnwjusqnwzdt.website^
 ||efooheegounoap.net^
 ||eforebuthehadsta.org^
@@ -18580,6 +18586,7 @@ vkcdnservice.appspot.com^
 ||enthusiasticinsanity.com^
 ||entia.site^
 ||enticekakkak.qpon^
+||entifyruiner.cyou^
 ||entiremain.com^
 ||entjgcr.com^
 ||entlyhavebed.org^
@@ -23345,6 +23352,7 @@ vkcdnservice.appspot.com^
 ||gpfhlajkvdhvv.space^
 ||gpfihqkvbcifz.space^
 ||gpfmicbdqdv.com^
+||gphljspaprvsl.online^
 ||gphocbplkxaln.site^
 ||gpiebbxurugod.online^
 ||gpivqupxyvkit.website^
@@ -24016,6 +24024,7 @@ vkcdnservice.appspot.com^
 ||gvxlfynvqhpkhey.com^
 ||gvxyyvdveimgk.space^
 ||gvyrxseoqvugu.online^
+||gvztlapluvckr.online^
 ||gwabduqywxher.website^
 ||gwallet.com^
 ||gwcqypynajuel.online^
@@ -24309,6 +24318,7 @@ vkcdnservice.appspot.com^
 ||hamewanions.qpon^
 ||hamfdyehdbub.com^
 ||hamipdnohiesz.site^
+||hamitesbluer.cyou^
 ||hamletoutnumberrascal.com^
 ||hamletuponcontribute.com^
 ||hammamfehmic.com^
@@ -26821,6 +26831,7 @@ vkcdnservice.appspot.com^
 ||im36o2keohmwq3c.cfd^
 ||im9rymw51hi4x2g7b8vty928.cfd^
 ||imageadvantage.net^
+||imagedcashew.shop^
 ||imagenest.site^
 ||imagiflex.com^
 ||imaginablestickydepartments.com^
@@ -28256,6 +28267,7 @@ vkcdnservice.appspot.com^
 ||jayqbgfkdypmw.website^
 ||jaznthphugfwz.online^
 ||jaztjvsdxqxsu.website^
+||jazuoujihigip.site^
 ||jazzestyrosyl.cfd^
 ||jazzistagallop.com^
 ||jbalnemwgxsbp.space^
@@ -28346,6 +28358,7 @@ vkcdnservice.appspot.com^
 ||jdhxvjrildzjt.site^
 ||jdisbyzitokgt.website^
 ||jdiwtetxazxkd.space^
+||jdjiuhwooalvp.website^
 ||jdkdzhvgqnecz.online^
 ||jdlqivqfhiyjz.site^
 ||jdlqrcmbvrzit.space^
@@ -32097,6 +32110,7 @@ vkcdnservice.appspot.com^
 ||lkkvxotzfypif.space^
 ||lklkxqconwqpt.online^
 ||lkmbrripbmhyasi.com^
+||lkmfehpbaavm.com^
 ||lkmsctjqdowvs.website^
 ||lknaqdjdkmmfv.website^
 ||lknvksrvlawsh.life^
@@ -36792,6 +36806,7 @@ vkcdnservice.appspot.com^
 ||nosenotch.com^
 ||nosherastral.cfd^
 ||nosierteens.com^
+||nosiestanorth.cfd^
 ||nosilynursle.qpon^
 ||nossairt.net^
 ||nostrilquarryprecursor.com^
@@ -38390,6 +38405,7 @@ vkcdnservice.appspot.com^
 ||oofkiouotayrk.space^
 ||ooftatholy.net^
 ||oogdrtkrenaoh.website^
+||oogkvtvfjovt.com^
 ||oogloeafifties.help^
 ||ooglostongoob.net^
 ||oognaxoudroogru.net^
@@ -39971,6 +39987,7 @@ vkcdnservice.appspot.com^
 ||pearlstarlike.help^
 ||pearlyhaikwan.help^
 ||pearlysweepoverface.com^
+||pearpermitted.com^
 ||peartenplumete.qpon^
 ||peasacknowledged.com^
 ||peasantcurbdeceased.com^
@@ -48919,6 +48936,7 @@ vkcdnservice.appspot.com^
 ||speedycomediandecember.com^
 ||speiledgaudier.shop^
 ||speiryquem.com^
+||speisslenvoitrypa.cfd^
 ||spelderforges.shop^
 ||spelkengrave.cyou^
 ||spelldeterrent.com^
@@ -57039,6 +57057,7 @@ vkcdnservice.appspot.com^
 ||whisperedgolf.com^
 ||whisperofisaak.com^
 ||whistledadjoining.com^
+||whistledam.com^
 ||whistleeagerconvene.com^
 ||whistlegown.com^
 ||whistlingcrimson.com^
@@ -143175,6 +143194,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||api.event.appstack.tech^
+||detailroi.com^
 ||detaillog-global-dual.coolgcloud.com^
 ||logapi.bodyevey.com^
 ||ingest.skarb.work^
@@ -157882,6 +157903,9 @@ dlsdk.appsflyer.com^
 ||usoxsak.icu^
 ||5bayjqsrgd.com^
 ||xr40kfkxeo.com^
+||zkmnpnt4xg.com^
+||fg544vwr2v.com^
+||po3x411qe3.com^
 ||tfhpxv.icu^
 ||ooqvye17t.com^
 ||vtc3rlbjj.com^
