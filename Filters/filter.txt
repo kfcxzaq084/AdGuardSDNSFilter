@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-30T05:58:35.839Z
+! Last modified: 2026-03-30T07:56:16.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7572,6 +7572,7 @@ vkcdnservice.appspot.com^
 ||abtaurosa.club^
 ||abtrcker.com^
 ||abtrusebushpig.cyou^
+||abtthlftcjqoz.site^
 ||abttwfawimtrq.site^
 ||abundancesluice.com^
 ||abusedbabysitters.com^
@@ -8245,6 +8246,7 @@ vkcdnservice.appspot.com^
 ||aetvellt.net^
 ||aeucjiicbgosj.site^
 ||aevfoobzfsfjx.space^
+||aexouiunvonkl.site^
 ||aeyhlwltyy.com^
 ||af305e6c77.com^
 ||af30ee9e36.com^
@@ -10534,6 +10536,7 @@ vkcdnservice.appspot.com^
 ||bhpwqtiudzqnz.vip^
 ||bhrltiziiipad.website^
 ||bhwgdvpavsfzw.site^
+||bhwkyiddqyole.space^
 ||bhxmxijezhfwg.space^
 ||bhydqroxalkhm.site^
 ||bhyyiodopichc.site^
@@ -17097,6 +17100,7 @@ vkcdnservice.appspot.com^
 ||duiunmaigiqiy.space^
 ||dujyhrtceg.com^
 ||dukerationpecial.com^
+||dukhhinipad.in^
 ||dukmcubsuhawh.site^
 ||dulatkinic.cfd^
 ||duleonon.com^
@@ -18679,6 +18683,7 @@ vkcdnservice.appspot.com^
 ||epidemicoversleeppoet.com^
 ||epidermispushupvariable.com^
 ||epigeansubnote.qpon^
+||epigeewhomblehalver.cyou^
 ||epilenmew.cyou^
 ||epilogortyx.com^
 ||epilovnncqduc.site^
@@ -24242,6 +24247,7 @@ vkcdnservice.appspot.com^
 ||hairletpudenda.help^
 ||hairoak.com^
 ||hairseternal.qpon^
+||hairyboy.pro^
 ||haislahey.shop^
 ||haitingshospi.info^
 ||haiwheeshoawee.net^
@@ -24755,6 +24761,7 @@ vkcdnservice.appspot.com^
 ||heikumcocker.com^
 ||heiledbewest.cfd^
 ||heilreplevy.qpon^
+||heinbfmpsdxnv.online^
 ||heiressplane.com^
 ||heirgedd.help^
 ||heirserverrecruiting.com^
@@ -26481,6 +26488,7 @@ vkcdnservice.appspot.com^
 ||iehbhejfnetvc.site^
 ||iehqbqkfbtgxi.xyz^
 ||iehundhjvidxf.site^
+||ieiecooqvvmp.com^
 ||ieiyqbcjpksbk.website^
 ||iekfxxkrpjock.space^
 ||ieladhfhoiclv.online^
@@ -28997,6 +29005,7 @@ vkcdnservice.appspot.com^
 ||jprfpwlwiuxta.site^
 ||jprikyulkdrwt.site^
 ||jprutbffhyhgi.space^
+||jpsajylbhqof.com^
 ||jpstslxiwrp.xyz^
 ||jptobfdvxtady.online^
 ||jpubgyibmgarq.com^
@@ -37595,6 +37604,7 @@ vkcdnservice.appspot.com^
 ||ocellidrunt.cyou^
 ||ocelluswahoo.shop^
 ||ocelyuugvinth.site^
+||ocezkkczukfcn.website^
 ||ocfjvotbgoeebc4mow7ywygpyyxy.cfd^
 ||ocfzcwlruvdwg.website^
 ||ocgzlnsyzsoqn.website^
@@ -42289,6 +42299,7 @@ vkcdnservice.appspot.com^
 ||ptwmjmp.com^
 ||ptxhfxkvetqjn.online^
 ||ptxqbehmaxrik.online^
+||ptyalinflittedghosted.qpon^
 ||ptypfiawb.in^
 ||ptzpvltmyqdyn.online^
 ||puabhxebvxluh.space^
@@ -42963,6 +42974,7 @@ vkcdnservice.appspot.com^
 ||qfqaybobravyc.website^
 ||qfqbznmeuztgs.website^
 ||qfqdbkxmovpli.xyz^
+||qfqgzbbjjutfs.site^
 ||qfuylknxlzlpv.online^
 ||qfvwrmnluepss.site^
 ||qfwwhelkdjaeu.buzz^
@@ -45025,6 +45037,7 @@ vkcdnservice.appspot.com^
 ||rfdoyjpyyuryn.online^
 ||rfdqlehuiufyk.click^
 ||rffbxktvxmcje.space^
+||rfgsajvbqvrjb.space^
 ||rfhaalawjdmk.xyz^
 ||rfhdiykjbiyba.space^
 ||rfihub.com^
@@ -50012,6 +50025,7 @@ vkcdnservice.appspot.com^
 ||supportedbailednotions.com^
 ||supportinggenericexchanged.com^
 ||supportiveaside.pro^
+||supportivespot.pro^
 ||supportivestage.pro^
 ||supportpiousworkroom.com^
 ||supportsentparticle.com^
@@ -52860,6 +52874,7 @@ vkcdnservice.appspot.com^
 ||txgupjxzbxvsx.online^
 ||txjjuoxttdlhl.store^
 ||txljgipkkispw.space^
+||txmzgt912ujx47rkqu2g352h1.cfd^
 ||txnrllycvuhpu.site^
 ||txnykupqtyllc.website^
 ||txogxhncykusn.website^
@@ -57286,6 +57301,7 @@ vkcdnservice.appspot.com^
 ||wiyqdatgczefl.space^
 ||wizardsslushrefused.com^
 ||wizardunstablecommissioner.com^
+||wizvtegi.in^
 ||wjavwkqqeevgn.com^
 ||wjbphrbiisvag.space^
 ||wjcgrume.cyou^
@@ -59094,6 +59110,7 @@ vkcdnservice.appspot.com^
 ||y1jxiqds7v.com^
 ||y1z29vqt4pgxg9ri.cfd^
 ||y1zoxngxp.com^
+||y3cqmr3o4mwxvk8v.rest^
 ||y42rru7u1cwijz9bxmunjfp2e79ex4xq6.cfd^
 ||y4n7m8zic2frkvx9.cfd^
 ||y65phpkj899inn1xo88ux.rest^
